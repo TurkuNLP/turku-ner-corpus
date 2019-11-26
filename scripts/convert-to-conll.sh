@@ -30,7 +30,7 @@ for s in train dev test; do
 done
 
 SPLITIN="$DIR/../data/standoff-split"
-SPLITOUT="DIR/../data/conll-split"
+SPLITOUT="$DIR/../data/conll-split"
 
 if [ ! -e "$SPLITIN" ]; then
     echo "$SPLITIN does not exist, not converting split"
