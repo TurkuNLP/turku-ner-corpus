@@ -1,0 +1,38 @@
+T1	PRO 0 10	Opel Agila
+T2	PRO 139 150	Vauxhallina
+T3	LOC 151 181	Yhdistyneessä kuningaskunnassa
+T4	PRO 185 209	Suzuki Wagon R+ -nimellä
+T5	PRO 256 261	Agila
+T6	PRO 291 309	Suzuki Wagon R:stä
+T7	LOC 331 340	Japanissa
+T8	PRO 343 349	Agilan
+T9	LOC 480 488	Euroopan
+T10	PRO 502 513	Wagon R:ssä
+T11	PRO 516 522	Agilaa
+T12	ORG 536 552	General Motorsin
+T13	LOC 563 573	Gliwicessä
+T14	LOC 576 584	Puolassa
+T15	PRO 587 604	Suzuki Wagon R:ää
+T16	ORG 619 625	Suzuki
+T17	LOC 636 649	Esztergomissa
+T18	LOC 652 661	Unkarissa
+T19	LOC 735 743	Puolassa
+T20	PRO 746 752	Agilan
+T21	PRO 806 813	Ford Ka
+T22	PRO 816 831	Volkswagen Lupo
+T23	PRO 834 847	Fiat Seicento
+T24	PRO 851 865	Renault Twingo
+T25	PRO 988 1000	Hyundai Atos
+T26	PRO 1004 1015	Kia Picanto
+T27	PRO 1036 1044	Agilasta
+T29	ORG 1147 1153	Suzuki
+T30	PRO 1188 1194	Splash
+T31	PRO 1342 1354	Peugeot 1007
+T32	PRO 1357 1369	Toyota Yaris
+T33	PRO 1372 1385	Renault Modus
+T34	PRO 1389 1401	Nissan Micra
+T35	DATE 46 57	vuonna 2000
+T36	DATE 662 674	vuoteen 2004
+T37	DATE 683 694	vuoden 2005
+T38	DATE 1071 1090	15. toukokuuta 2007
+T40	EVENT 1105 1144	vuoden 2007 Frankfurtin autonäyttelyssä

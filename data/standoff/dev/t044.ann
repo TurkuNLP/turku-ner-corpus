@@ -1,0 +1,15 @@
+T1	ORG 264 288	F & C Asset Managementin
+T2	PER 305 317	Alain Grisay
+T3	PER 388 394	Grisay
+T4	ORG 450 459	Bloomberg
+T5	PER 469 475	Grisay
+T6	LOC 652 660	Espanjan
+T7	LOC 664 671	Italian
+T8	LOC 723 730	Kreikan
+T9	LOC 760 772	Britanniassa
+T10	PER 820 826	Grisay
+T11	LOC 840 852	Yhdysvaltain
+T13	DATE 112 116	2008
+T14	DATE 0 11	Vuoden 2008
+T15	DATE 489 500	vuoden 2008
+T12	DATE 229 240	vuonna 2008

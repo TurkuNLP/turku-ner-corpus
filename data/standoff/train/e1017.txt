@@ -1,0 +1,6 @@
+Mietinnössä esitellään uusi järjestelmä , jossa autokolarin sattuessa autosta välittyy törmäyshetkellä digitaali- ja satelliittitekniikan avulla puhelu suoraan hätäpalveluun .
+Uusi järjestelmä on tarkoitus asentaa kaikkiin uusiin ajoneuvoihin vuodesta 2009 , ja tämän avulla koko Euroopassa säästettäisiin jopa 2 500 ihmishenkeä vuosittain .
+Ajoneuvoon asennettu anturi aktivoituu törmäyksen vaikutuksesta ja lähettää Euroopan laajuisen hätänumeron 112 kautta tiedon ajoneuvon sijainnista , nopeudesta ja omistajasta lähimmälle poliisille , palolaitokselle ja sairaanhoitopalveluun .
+Olen tyytyväinen mietintöön , koska sen ansiosta voidaan pelastaa satoja auto-onnettomuuksien uhreja , jotka jäävät loukkuun autoonsa eivätkä pysty käyttämään matkapuhelimiaan vammojensa vuoksi .
+Vaikka tämä älyautojen järjestelmä maksaa 4 miljardia euroa , sen ansiosta säästetään lopulta 26 miljardia euroa onnettomuuksista ja ruuhkista aiheutuvia kuluja kaikkialla Euroopassa .
+Komission arvion mukaan älyautojen järjestelmällä voitaisiin vähentää kuolemaan johtaneita liikenneonnettomuuksia jopa 15 prosenttia .

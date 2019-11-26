@@ -1,0 +1,77 @@
+T1	ORG 186 206	Euroopan parlamentin
+T2	ORG 387 407	Euroopan parlamentti
+T3	LOC 759 768	Sveitsiin
+T4	LOC 771 780	Islantiin
+T5	LOC 784 791	Norjaan
+T6	ORG 806 835	Euroopan talousalueen ( ETA )
+T8	LOC 925 934	Albaniaan
+T9	LOC 937 961	Bosnia ja Hertsegovinaan
+T10	LOC 967 989	Serbia ja Montenegroon
+T11	LOC 1006 1012	Kosovo
+T12	ORG 1071 1075	EU:n
+T13	LOC 1079 1086	Venäjän
+T14	ORG 1163 1167	EU:n
+T15	LOC 1171 1179	Ukrainan
+T16	ORG 1256 1260	EU:n
+T17	LOC 1264 1272	Moldovan
+T18	LOC 1346 1360	Valko-Venäjään
+T19	ORG 1404 1408	EU:n
+T20	LOC 1412 1423	Kazakstanin
+T21	ORG 1426 1430	EU:n
+T22	LOC 1434 1443	Kirgisian
+T23	ORG 1449 1453	EU:n
+T24	LOC 1457 1469	Uzbekistanin
+T25	LOC 1533 1547	Tadžikistaniin
+T26	LOC 1550 1565	Turkmenistaniin
+T27	LOC 1569 1579	Mongoliaan
+T28	ORG 1638 1642	EU:n
+T29	LOC 1646 1654	Armenian
+T30	ORG 1657 1661	EU:n
+T31	LOC 1665 1678	Azerbaidžanin
+T32	ORG 1682 1686	EU:n
+T33	LOC 1690 1698	Georgian
+T34	LOC 1772 1781	Israeliin
+T35	LOC 1835 1846	Palestiinan
+T36	ORG 1945 1985	Pohjois-Afrikan arabivaltioiden liittoon
+T37	LOC 2002 2007	Libya
+T38	LOC 2135 2148	Persianlahden
+T39	LOC 2174 2179	Jemen
+T40	LOC 2235 2242	Iraniin
+T41	LOC 2298 2312	Yhdysvaltoihin
+T42	LOC 2368 2376	Kanadaan
+T43	LOC 2432 2446	Keski-Amerikan
+T44	LOC 2509 2515	Andien
+T45	LOC 2659 2667	Japaniin
+T46	LOC 2723 2747	Kiinan kansantasavaltaan
+T47	LOC 2803 2815	Etelä-Aasian
+T48	ORG 2826 2880	Etelä-Aasian alueellisen yhteistyön liittoon ( SAARC )
+T50	LOC 2936 2951	Kaakkois-Aasian
+T51	ORG 2962 3019	Kaakkois-Aasian alueellisen yhteistyön liittoon ( ASEAN )
+T53	LOC 3075 3093	Korean niemimaahan
+T54	LOC 3149 3160	Australiaan
+T55	LOC 3164 3181	Uuteen-Seelantiin
+T56	LOC 3237 3252	Etelä-Afrikkaan
+T57	ORG 3308 3313	Naton
+T58	ORG 3407 3411	EU:n
+T59	LOC 3415 3423	Romanian
+T60	ORG 3498 3502	EU:n
+T61	LOC 3506 3515	Bulgarian
+T62	ORG 3590 3594	EU:n
+T63	LOC 3598 3606	Kroatian
+T64	ORG 3681 3685	EU:n
+T65	LOC 3689 3730	entisen Jugoslavian tasavallan Makedonian
+T66	ORG 3805 3809	EU:n
+T67	LOC 3813 3819	Turkin
+T68	ORG 3894 3898	EU:n
+T69	LOC 3902 3910	Meksikon
+T70	ORG 3985 3989	EU:n
+T71	LOC 3993 3999	Chilen
+T72	ORG 4054 4057	ACP
+T73	ORG 4082 4086	EU:n
+T74	ORG 4154 4161	EUROMED
+T75	DATE 480 500	10. maaliskuuta 2004
+T76	ORG 4073 4078	AKT:n
+T7	LOC 1927 1941	Maghreb-maihin
+T49	LOC 2065 2079	Mashrek-maihin
+T52	LOC 2588 2603	Mercosur-maihin
+T77	EVENT 4196 4229	Euro—Välimeri-edustajakokouksessa

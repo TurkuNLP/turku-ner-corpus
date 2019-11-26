@@ -1,0 +1,27 @@
+T1	ORG 37 83	Turun kauppakorkeakoulun laskentatoimen laitos
+T2	ORG 106 133	PricewaterhouseCoopers Oy:n
+T3	PER 296 308	Panu Routila
+T4	ORG 309 332	Ahlström Capital Oy:stä
+T5	PER 393 405	Kimmo Vilske
+T6	ORG 406 435	PricewaterhouseCoopers Oy:stä
+T7	PER 464 474	Kari Lukka
+T8	PER 722 734	Panu Routila
+T9	PER 1009 1016	Routila
+T10	ORG 1179 1181	EU
+T11	LOC 1238 1246	Euroopan
+T13	PER 1510 1517	Routila
+T14	PER 1943 1955	Kimmo Vilske
+T15	PER 1958 1966	Vilskeen
+T16	PRO 2262 2294	PricewaterhouseCoopers -stipendi
+T17	PER 2365 2379	Petri Palmroth
+T18	ORG 2380 2409	PricewaterhouseCoopers Oy:stä
+T19	PER 2424 2434	Kari Lukka
+T20	ORG 2435 2461	Turun kauppakorkeakoulusta
+T21	PER 2478 2494	Samuel Saloheimo
+T22	PRO 2528 2633	" Kustannustiedon jakaminen alihankintaverkoston ohjauksessa . Case : Sandvik Mining and Construction . "
+T23	PER 2669 2684	Markus Granlund
+T24	PER 2692 2708	Ulla-Maija Lakka
+T25	EVENT 169 185	Talousfooruminsa
+T26	DATE 186 192	22.4 .
+T27	DATE 1202 1214	vuoteen 2020
+T28	ORG 1320 1333	Suomen valtio

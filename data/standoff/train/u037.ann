@@ -1,0 +1,34 @@
+T1	LOC 52 60	Kiinassa
+T2	LOC 61 69	Kiinassa
+T3	LOC 165 171	Kiinan
+T4	LOC 289 295	Kiinan
+T5	PER 365 375	Outi Luova
+T6	PER 378 383	Luova
+T7	PRO 435 513	Kiinan miljoonakaupungit − Hallinto , liike-elämä ja elinympäristö muutoksessa
+T8	ORG 516 525	Gaudeamus
+T9	ORG 573 645	Turun yliopiston Itä-Aasian tutkimuskeskuksesta ja biologian laitokselta
+T11	LOC 682 688	Kiinan
+T12	PER 893 898	Luova
+T13	LOC 1167 1175	Kiinassa
+T14	LOC 1371 1379	Kiinassa
+T15	PER 1429 1434	Luova
+T16	LOC 1451 1459	Kiinassa
+T17	LOC 1551 1557	Kiinan
+T18	LOC 1686 1697	Shanghaissa
+T19	EVENT 1777 1808	Shanghai EXPO-maailmannäyttelyn
+T20	LOC 1857 1863	Kiinan
+T21	PER 1904 1914	Outi Luova
+T22	LOC 2162 2170	Kiinassa
+T23	PER 2173 2183	Outi Luova
+T24	LOC 2281 2286	Turun
+T25	LOC 2306 2316	Tianjiniin
+T26	ORG 2381 2426	Turun yliopiston Itä-Aasian tutkimuskeskuksen
+T28	ORG 2430 2455	Turun ammattikorkeakoulun
+T29	LOC 2525 2530	Turun
+T30	PER 2580 2585	Luova
+T31	LOC 2594 2604	Itä-Aasian
+T32	LOC 2672 2678	Kiinan
+T33	PRO 2758 2847	Kiinan miljoonakaupungit − Hallinto , liike-elämä ja elinympäristö muutoksessa -teoksessa
+T35	DATE 411 416	29.3.
+T34	DATE 1752 1763	toukokuussa
+T10	PRO 1818 1854	' parempi kaupunki , parempi elämä '

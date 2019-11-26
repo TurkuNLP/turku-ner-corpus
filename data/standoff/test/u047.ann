@@ -1,0 +1,27 @@
+T1	ORG 0 15	Turun yliopisto
+T2	PER 61 75	Elias Laitisen
+T3	ORG 130 134	TYYn
+T4	PER 161 175	Elias Laitisen
+T5	PER 436 444	Laitinen
+T6	ORG 453 485	Turun yliopiston ylioppilaskunta
+T7	EVENT 505 537	" Yliopisto palaa " -tilaisuuden
+T8	PER 637 645	Laitinen
+T9	ORG 794 810	Turun yliopiston
+T10	PER 850 867	Maija Palonheimon
+T11	LOC 875 880	Turun
+T12	PER 1043 1053	Palonheimo
+T13	PRO 1082 1148	TIUKU ( Tieteen ja kulttuurin Turku , hyvinvoiva kaupunki ) -hanke
+T15	PER 1345 1356	Hannu Salmi
+T16	ORG 1366 1385	Turku 2011 -säätiön
+T17	PER 1395 1407	Essi Hätönen
+T18	ORG 1806 1825	Turku 2011 -säätiön
+T19	PER 1869 1876	Hätönen
+T20	PER 2132 2143	Palonheimon
+T21	DATE 228 238	vuosi 2011
+T22	DATE 584 588	2011
+T23	DATE 1416 1427	vuoden 2011
+T24	DATE 1709 1713	2011
+T25	DATE 1842 1853	vuoden 2016
+T26	DATE 2151 2164	vuodesta 2011
+T27	DATE 2254 2267	vuodesta 2011
+T28	DATE 1953 1957	2008

@@ -1,0 +1,20 @@
+T1	PER 0 7	Clinton
+T2	PER 11 17	McCain
+T3	LOC 59 72	Yhdysvaltojen
+T4	LOC 200 211	Kalifornian
+T5	LOC 214 224	New Yorkin
+T6	LOC 227 237	Illinoisin
+T7	LOC 240 250	New Yersey
+T8	LOC 253 262	Missourin
+T9	LOC 266 274	Georgian
+T10	PER 345 360	Hillary Clinton
+T11	LOC 376 389	Kaliforniassa
+T12	LOC 392 404	New Yorkissa
+T13	LOC 408 421	New Jerseyssä
+T14	PER 473 485	Barack Obama
+T15	PER 597 608	John McCain
+T16	PER 731 742	Mitt Romney
+T17	PER 746 759	Mike Huckabee
+T18	ORG 533 547	Republikaanien
+T19	ORG 288 301	Demokraattien
+T20	ORG 659 673	republikaanien

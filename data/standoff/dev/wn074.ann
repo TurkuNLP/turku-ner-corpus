@@ -1,0 +1,24 @@
+T1	LOC 0 5	Lapin
+T2	ORG 24 37	Metsähallitus
+T3	ORG 40 50	Greenpeace
+T4	ORG 53 65	Lapin liitto
+T5	ORG 68 89	Lapin ympäristökeskus
+T6	ORG 92 113	Paliskuntain yhdistys
+T7	LOC 159 170	Keski-Lapin
+T8	ORG 204 217	Metsähallitus
+T9	LOC 342 347	Lapin
+T10	ORG 377 387	Greenpeace
+T11	ORG 407 434	Suomen luonnonsuojeluliitto
+T12	LOC 474 485	Metsä-Lapin
+T13	ORG 632 648	Metsähallituksen
+T14	LOC 677 690	Metsä-Lappiin
+T15	LOC 933 941	Suomessa
+T16	ORG 985 1003	Metsähallitukselle
+T17	LOC 1044 1052	Suomessa
+T18	LOC 1061 1071	Kainuuseen
+T19	ORG 117 133	Saamelaiskäräjät
+T20	ORG 390 403	Luonto-Liitto
+T21	ORG 612 625	Luonto-Liitto
+T22	ORG 816 829	Luonto-Liiton
+T23	ORG 962 975	Luonto-Liitto
+T24	DATE 501 514	vuodesta 2006

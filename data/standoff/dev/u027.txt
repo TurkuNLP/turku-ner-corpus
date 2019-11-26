@@ -1,0 +1,23 @@
+Turun yliopiston it-alalla annettavaa terveyssektorille
+Yhteistyö on erityisen hedelmällistä kuvantamisessa , geneettisen datan käsittelyssä ja molekyylimallintamisessa .
+Turun yliopisto järjesti tiistaina yhdessä Turun ammattikorkeakoulun ja Turku Science Parkin kanssa Monitori 2010 -seminaarin , joka sijoittuu terveys- ja hyvinvointisektorin ja tietotekniikan rajapintaan .
+Teemana oli tänä vuonna " yksilö , yhteistyö ja avunanto " .
+Turun yliopiston vararehtori Harri Lönnberg avasi seminaarin tiistaina .
+Lönnberg sanoi aiheen olevan tärkeä Turun yliopistolle .
+Hän kertoi yliopiston piirissä uutta strategiaa ja toimenpideohjelmaa laadittaessa mietityn , onko Turun yliopistolla sijaa it-alalla , jolla on Suomessa useita varteenotettavia toimijoita .
+− Parhaiten Turun yliopisto voisi menestyä kilpailussa ja palvella yhteiskuntaa , jos se pystyisi onnistuneesti yhdistämään informaatioteknologian alan muihin osaamisen vahvoihin aloihin .
+Erityisesti Lönnbergin mukaan pitäisi keskittyä sellaisiin aloihin , joita ei ole kilpailevissa yliopistoissa .
+− Turkulainen informaatioteknologia pyrkii rakentamaan vahvan yhteistyön molekulaarisiin biotieteisiin .
+Lönnberg kertoi , että yhteistyö liittyy erityisesti kuvantamiseen , massiivisen geneettisen datan käsittelyyn ja molekyylimallintamiseen .
+Syytä olisi myös huomioida Turun yliopiston laaja osaaminen humanistisissa aineissa , käyttäytymistieteissä sekä oppimisprosesseissa .
+Informaatioteknologialla on sijaa ihmisten hyvinvointiin , elämänlaatuun ja terveydenhoitoon liittyvissä kysymyksissä esimerkiksi tietojärjestelmien suhteen .
+− Tulosta syntyy , jos huippuosaaminen tietojärjestelmissä ja erittäin korkeatasoinen osaaminen substanssipuolella kohtaavat .
+Lönnberg kehui Monitori 2010 -tapahtumaa erittäin tärkeäksi .
+− Todellista kehitystä tapahtuu vain , jos ihmiset tapaavat toisiaan ja puhuvat toistensa kanssa .
+Emeritusprofessori Markku I. Nurminen informaatioteknologian laitokselta oli kertomassa seminaarilaisille , millaisia saavutuksia Turun yliopiston informaatioteknologialla jo on suhteessa hyvinvointiin ja terveyteen liittyviin palveluihin .
+Nurminen esitteli vetämäänsä TEKESin hanketta OmaHyvinvointi , jonka näkökulma on siinä , että kansalainen voi itse hallita tarvitsemaansa tietoa erilaisissa elämäntilanteissa .
+Nurminen kertoi , että yksi hankkeen lähtökohdista on ollut se , että puhutaan kansalaisesta potilaan tai asiakkaan sijaan .
+− Kansalainen on henkilö , joka on täysivaltainen yhteiskunnan jäsen ja häneen pitää suhtautua vakavasti ja tasaveroisesti .
+OmaHyvinvointi -hankkeen tarkoitus on ollut lisätä ihmisten hyvinvointia siellä , missä ihmiset ovat .
+Hiljattain päättyneen hankkeen tulos on tuotteistettava konsepti Pärjäin , jonka avulla jokainen voi hallita omaan elämäänsä liittyvää tietoa , erilaisia asiointeja ja dokumentteja .
+− Pärjäin on ikään kuin navigaattori , jonka tarkoitus on tehdä kansalaisen elämä helpommaksi , Nurminen kertoi .

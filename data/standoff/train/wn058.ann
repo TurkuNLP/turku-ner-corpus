@@ -1,0 +1,32 @@
+T1	PER 0 9	Gorbatšov
+T2	PER 16 23	Putinia
+T3	LOC 33 45	Yhdysvaltain
+T4	LOC 62 76	Neuvostoliiton
+T5	PER 93 109	Mihail Gorbatšov
+T6	LOC 153 165	Budapestissa
+T7	LOC 166 175	Unkarissa
+T8	ORG 176 199	World Political Forumin
+T9	PER 216 225	Gorbatšov
+T10	LOC 234 243	Eurooppaa
+T11	LOC 273 281	Venäjään
+T12	LOC 288 298	Euroopasta
+T13	PER 334 343	Gorbatšov
+T14	PER 402 411	Gorbatšov
+T15	LOC 423 432	Venäjästä
+T16	ORG 447 463	Euroopan unionin
+T17	PER 472 483	Gorbatšovin
+T18	LOC 491 503	Yhdysvaltain
+T19	LOC 528 538	Euroopassa
+T20	LOC 560 567	Venäjää
+T21	LOC 598 605	Venäjän
+T22	PER 618 634	Vladimir Putinia
+T23	PER 679 690	Gorbatšovin
+T24	PER 698 703	Putin
+T25	LOC 714 723	Venäjälle
+T26	PER 733 748	Boris Jeltsinin
+T27	PER 899 915	Mihail Gorbatšov
+T28	LOC 932 946	Neuvostoliiton
+T29	PRO 993 1016	Nobelin rauhanpalkinnon
+T30	EVENT 1028 1040	kylmän sodan
+T31	DATE 921 925	1931
+T32	DATE 965 982	vuosina 1985–1991

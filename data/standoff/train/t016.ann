@@ -1,0 +1,24 @@
+T1	PER 0 8	Katainen
+T2	PER 66 80	Jyrki Katainen
+T3	LOC 168 175	Kreikan
+T4	PER 205 219	Jyrki Katainen
+T5	LOC 326 333	Kreikan
+T7	ORG 537 539	EU
+T8	LOC 605 612	Kreikan
+T9	PER 629 637	Katainen
+T10	PER 700 708	Katainen
+T11	LOC 756 762	Suomen
+T12	LOC 886 891	Suomi
+T13	PER 952 969	Kimmo Tiilikainen
+T14	ORG 999 1011	Suomenmaalle
+T15	PER 1019 1027	Katainen
+T16	LOC 1077 1084	Kreikan
+T17	ORG 9 24	Verkkouutisille
+T18	ORG 222 226	kok.
+T19	ORG 237 252	Verkkouutisille
+T20	DATE 545 556	heinäkuussa
+T21	ORG 942 951	Keskustan
+T22	ORG 519 534	Verkkouutisille
+T23	ORG 721 730	keskustan
+T24	EVENT 348 370	EU:n huippukokouksessa
+T6	EVENT 1110 1130	EU-huippukokouksessa

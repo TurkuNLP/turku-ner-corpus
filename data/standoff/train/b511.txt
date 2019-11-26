@@ -1,0 +1,13 @@
+HS:n vaalikone on avointa tietoa ( SQL dumpit )
+HS julkaisi pari päivää sitten vaalikoneensa datan avoimesti kaikkien käytettäväksi .
+Ratkaisu on hyvä , ja se onkin poikinut jo muutamia visualisointeja , kuten Loitto | Suomen poliitikot erottuvat kahdella akselilla ja Ehdokkaiden vastaukset HS vaalikoneessa 2011 .
+Data on annettu HS:n blogissa csv- sekä excel-tiedostoina .
+Kiinnostuin datasta ja sen käyttömahdollisuuksista , mutta koska en ole mikään tilastojen tai niiden analysoinnin asiantuntija , on minun hiukan vaikea lähteä dataa käyttämään .
+Siksi teinkin datasta neljä tietokantadumppia , jotka annan kaikkien käytettäväksi – näillä voi siis rakentaa melkeinpä mitä tahansa , jos osaa .
+Tiedot on alunperin julkistettu Creative Commons -lisenssillä Nimeä-epäkaupallinen-tarttuva 3.0 , ja lisenssi pysyy samana myös näiden tietokantadumppien osalta .
+En ole myöskään mikään tietokantojen taulujen rakenteiden asiantuntija , mutta paloittelin datan neljään eri tauluun :
+Tarkemmat rakenteet ( jokaisessa taulussa indeksi id-sarakkeessa ) voit vilkaista tekstin lopusta .
+Kysymyksiä ei ole missään taulussa eli jos niitä haluaa käyttää , on ne lisättävä jotenkin erikseen mahdolliseen sovellukseen / visualisointiin .
+Ne , jotka asiasta ovat kiinnostuneet , ymmärtänevät mitä yllä olevat tiedostot ovat ja mitä niillä tehdään eli en ala sen tarkemmin näitä selittelemään .
+Kysyä toki voi kommenteissa , vaikka voi olla , etten osaa vastata kysymyksiinne .
+Toivottavasti näistä on kuitenkin jotain hyötyä :)

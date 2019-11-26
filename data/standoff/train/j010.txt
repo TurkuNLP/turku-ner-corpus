@@ -1,0 +1,75 @@
+NEUVOSTON ASETUS ( EY ) N:o 1172/98 , annettu 25 päivänä toukokuuta 1998 , maanteiden tavarakuljetusten tilastoista
+EUROOPAN UNIONIN NEUVOSTO , joka ottaa huomioon Euroopan yhteisön perustamissopimuksen ja erityisesti sen 213 artiklan , ottaa huomioon komission laatiman asetusluonnoksen ( 1 ) ottaa huomioon Euroopan parlamentin lausunnon ( 2 ) , ottaa huomioon talous- ja sosiaalikomitean lausunnon ( 3 ) , sekä katsoo ,
+että ( 1 ) voidakseen suorittaa sille kuuluvat yhteistä liikennepolitiikkaa koskevat tehtävät komissiolla on oltava käytössään vertailukelpoisia , luotettavia , samanaikaisesti ja säännöllisesti kerättyjä , kattavia tilastotietoja yhteisössä rekisteröidyillä ajoneuvoilla suoritettavien tieliikenteen tavarakuljetusten laajuudesta ja kehityksestä sekä näissä kuljetuksissa käytettävien ajoneuvojen käyttöasteesta ,
+( 2 ) alueellisten tilastojen osana olevista maanteiden tavarakuljetusten tilastoista 12 päivänä kesäkuuta 1978 annetussa neuvoston direktiivissä 78/546/ETY ( 4 ) ei säädetä sellaisia kuljetustyyppejä koskevista tilastoista , jotka eivät olleet sallittuja silloin , kun kyseinen direktiivi annettiin ; kyseisessä direktiivissä säädetyistä tilastoista saadaan erilaista tietoa sen mukaan , onko kyse kansallisista vai kansainvälisistä kuljetuksista , eikä siinä anneta minkäänlaista tietoa näissä kuljetuksissa käytettävien ajoneuvojen käyttöasteesta ,
+( 3 ) on tarpeen laatia kattavia alueellisia sekä tavarakuljetuksia että ajoneuvoilla tehtyjä matkoja koskevia tilastoja ,
+( 4 ) direktiivissä 78/546/ETY säädettyä järjestelmää olisi tämän vuoksi muutettava , jotta varmistetaan erityisesti se , että yhteisön sisäisten kuljetusten alueellinen alkuperä ja määräpaikka kuvataan samoin perustein kuin kansallisissa kuljetuksissa , ja jotta luodaan yhteys tavarakuljetusten ja ajoneuvoilla kuljettujen matkojen välille mittaamalla näissä kuljetuksissa käytettävien ajoneuvojen käyttöaste ,
+( 5 ) toissijaisuusperiaatteen mukaisesti yhteisten tilastostandardien laatiminen yhdenmukaisten tietojen tuottamiseksi on toimintaa , joka voidaan toteuttaa tehokkaasti ainoastaan yhteisötasolla , vaikka tiedot kerätään kussakin jäsenvaltiossa virallisten tilastojen laatimisesta vastaavien virastojen ja laitosten johdolla ,
+( 6 ) yhteisön tilastoista 17 päivänä helmikuuta 1997 annettu neuvoston asetus ( EY ) N:o 322/97 ( 5 ) muodostaa viitekehyksen tämän asetuksen säännöksille , erityisesti niille säännöksille , jotka koskevat hallinnollisten tietolähteiden käyttöä , käytettävissä olevien voimavarojen kustannustehokkuutta sekä tilastosalaisuutta ,
+( 7 ) nimettömiksi tehtyjen yksikkötason tietojen toimittaminen on tarpeen tulosten yleisen tarkkuuden arvioimiseksi ,
+( 8 ) tilastotietojen asianmukainen levittäminen on varmistettava ,
+( 9 ) alkuvaiheessa yhteisö voi tukea jäsenvaltioita taloudellisesti tarvittavien tehtävien suorittamisessa ,
+( 10 ) on tarpeen säätää yksinkertaistetusta menettelystä tämän asetuksen täytäntöönpanemiseksi ja sen mukauttamiseksi taloudelliseen ja tekniseen kehitykseen , ja
+( 11 ) päätöksellä 89/382/ETY/Euratom ( 6 ) perustettua tilasto-ohjelmakomiteaa on kuultu kyseisen päätöksen 3 artiklan mukaisesti ;
+komitea on ilmoittanut kannattavansa tätä asetusta ,
+ON ANTANUT TÄMÄN ASETUKSEN :
+1 artikla
+Tarkoitus ja soveltamisala
+1. Kunkin jäsenvaltion on laadittava yhteisön tilastoja , jotka koskevat tavarakuljetukseen tarkoitetuilla , kyseisessä jäsenvaltiossa rekisteröidyillä tieliikenteen moottoriajoneuvoilla tehtäviä maanteiden tavarakuljetuksia ja näillä ajoneuvoilla tehtyjä matkoja .
+2. Tätä asetusta sovelletaan maanteiden tavarakuljetuksiin lukuun ottamatta seuraavilla ajoneuvoilla tehtäviä tavarakuljetuksia :
+a ) tavarakuljetukseen tarkoitetut tieliikenteen moottoriajoneuvot , joiden sallittu massa tai mitat ylittävät tavanomaiset asianomaisissa jäsenvaltioissa sallitut rajoitukset ;
+b ) maatalousajoneuvot , sotilasajoneuvot sekä julkiselle keskus- tai paikallishallinnolle kuuluvat ajoneuvot , lukuun ottamatta julkisille yrityksille ja erityisesti rautatieyrityksille kuuluvia tavarakuljetukseen tarkoitettuja tieliikenteen moottoriajoneuvoja .
+Kullakin jäsenvaltiolla on oikeus jättää tämän asetuksen soveltamisalan ulkopuolelle sellaiset tavarakuljetukseen tarkoitetut tieliikenteen moottoriajoneuvot , joiden hyötykuorma tai suurin sallittu massa kuormattuna on tiettyä rajoitusta pienempi .
+Tämä rajoitus ei voi hyötykuorman osalta olla yli 3,5 tonnia eikä yksittäisen ajoneuvon suurimman sallitun massan osalta yli 6 tonnia .
+2 artikla
+Määritelmät
+Tässä asetuksessa tarkoitetaan :
+- " maanteiden tavarakuljetuksilla " kaikkea tavaroiden siirtämistä , johon käytetään tavarakuljetukseen tarkoitettuja tieliikenteen moottoriajoneuvoja ;
+- " tieliikenteen moottoriajoneuvolla " tieliikenteen ajoneuvoa , jonka ainoana käyttövoimana on moottori ja jota käytetään tavallisesti matkustajien tai tavaroiden kuljettamiseen maanteillä tai matkustajien tai tavaroiden kuljettamiseen käytettävien ajoneuvojen vetämiseen maantiellä ;
+- " tavarakuljetukseen tarkoitetulla tieliikenteen ajoneuvolla " yksinomaan tai pääasiallisesti tavarakuljetukseen tarkoitettua tieliikenteen ajoneuvoa ( kuorma-auto , perävaunu , puoliperävaunu ) ;
+- " tavarakuljetukseen tarkoitetulla tieliikenteen moottoriajoneuvolla " tavarakuljetukseen tarkoitettua yksittäistä tieliikenteen ajoneuvoa ( kuorma-auto ) tai tieliikenteen ajoneuvojen yhdistelmää , eli perävaunuyhdistelmää ( perävaunullinen kuorma-auto ) tai yhdistelmäajoneuvoa ( puoliperävaunullinen vetoauto ) ;
+- " kuorma-autolla " yksinomaan tai pääasiallisesti tavarakuljetukseen tarkoitettua nivelöimätöntä ajoneuvoa ;
+- " vetoautolla " moottorikäyttöistä tieliikenteen ajoneuvoa , joka on yksinomaan tai pääasiallisesti tarkoitettu muiden kuin moottorikäyttöisten tieliikenteen ajoneuvojen ( pääasiassa puoliperävaunujen ) vetämiseen ;
+- " perävaunulla " tavarakuljetukseen tarkoitettua tieliikenteen ajoneuvoa , joka on tarkoitettu tieliikenteen moottoriajoneuvon vedettäväksi ;
+- " puoliperävaunulla " tavarakuljetukseen tarkoitettua tieliikenteen ajoneuvoa , jossa ei ole etuakselia ja joka on suunniteltu siten , että osa sen massasta ja merkittävä osa sen kuorman massasta kohdistuu vetoautoon ;
+- " yhdistelmäajoneuvolla " puoliperävaunun vetoautoa ja siihen kytkettyä puoliperävaunua ;
+- " perävaunuyhdistelmällä " tavarakuljetukseen tarkoitettua moottoriajoneuvoa , johon on kytketty varsinainen tai keskiakseliperävaunu .
+Yhdistelmäajoneuvo , johon on kytketty perävaunu , kuuluu tähän luokkaan ;
+- " rekisteröidyllä " jäsenvaltion virallisen laitoksen ylläpitämään tieliikenteen ajoneuvojen rekisteriin kuulumista riippumatta siitä , liittyykö tällaiseen rekisteröintiin rekisterikilpien antaminen .
+Jos kuljetus tehdään sellaisella tieliikenteen ajoneuvojen yhdistelmällä eli perävaunuyhdistelmällä ( perävaunullinen kuorma-auto ) tai yhdistelmäajoneuvolla ( puoliperävaunullinen vetoauto ) , jossa tieliikenteen moottoriajoneuvo ( kuorma-auto tai vetoauto ) ja perävaunu tai puoliperävaunu on rekisteröity eri maihin , yhdistelmän rekisteröintimaa määräytyy tieliikenteen moottoriajoneuvon rekisteröintimaan mukaisesti ;
+- " hyötykuormalla " ajoneuvon rekisteröintimaan toimivaltaisen viranomaisen ilmoittamaa tavaroiden sallittua enimmäismassaa .
+Jos tavarakuljetukseen tarkoitettu moottoriajoneuvo koostuu kuorma-autosta ja varsinaisesta tai keskiakseliperävaunusta , yhdistelmän hyötykuorma on kuorma-auton ja perävaunun hyötykuormien summa ;
+- " suurimmalla sallitulla massalla " ajoneuvon rekisteröintimaan toimivaltaisen viranomaisen ilmoittamaa paikallaan olevan ja ajokuntoisen ajoneuvon ( tai ajoneuvojen yhdistelmän ) sekä kuorman sallittua yhteismassaa ;
+- " Eurostatilla " komission yksikköä , joka vastaa komissiolle kuuluvista tehtävistä yhteisön tilastojen tuottamisessa .
+3 artikla
+Tietojenkeruu
+1. Jäsenvaltiot keräävät seuraaviin aloihin liittyviä tilastotietoja :
+a ) ajoneuvoa koskevat tiedot ;
+b ) matkaa koskevat tiedot ;
+c ) tavaraa koskevat tiedot .
+2. Kuhunkin alaan liittyvät tilastolliset muuttujat , niiden määrittely ja niiden erittelyyn käytettyjen nimikkeistöjen tasot esitetään liitteissä .
+3. Tilastotietojen keruussa käytettävää menetelmää määrittäessään jäsenvaltiot pidättyvät vaatimasta muodollisuuksia jäsenvaltioiden välisten rajanylitysten yhteydessä .
+4. Tietojenkeruun tunnusmerkkien mukauttaminen ja liitteiden sisältö vahvistetaan 10 artiklassa säädettyä menettelyä noudattaen .
+4 artikla
+Tulosten tarkkuus
+Tietojen keruu- ja käsittelymenetelmät on suunniteltava siten , että jäsenvaltioiden toimittamat tilastolliset tulokset täyttävät tarkkuutta koskevat vähimmäisvaatimukset , joissa otetaan huomioon jäsenvaltioiden tieliikenteen rakenteelliset ominaisuudet .
+Tarkkuusvaatimukset vahvistetaan 10 artiklassa säädettyä menettelyä noudattaen .
+5 artikla
+Tietojen toimittaminen Eurostatille
+1. Jäsenvaltioiden on toimitettava Eurostatille neljännesvuosittain 3 artiklassa mainittuja ja liitteessä A lueteltuja muuttujia vastaavat ja asianmukaisesti tarkistetut yksikkötason tiedot mainitsematta nimeä , osoitetta ja rekisterinumeroa .
+Tiedot sisältävät tarvittaessa niitä aikaisempia neljännesvuosia koskevat tiedot , joista on aiemmin toimitettu vain väliaikaisia tietoja .
+2. Edellä 1 kohdassa tarkoitettujen tietojen sekä tarvittaessa kyseisiin tietoihin perustuvien taulukoiden toimittamista koskeva menettely vahvistetaan 10 artiklassa säädettyä menettelyä noudattaen .
+3. Tiedot toimitetaan viiden kuukauden kuluessa kunkin neljännesvuosittaisen havaintojakson päättymisestä .
+Ensimmäinen toimitus kattaa vuoden 1999 ensimmäisen neljänneksen .
+4. Jäsenvaltio voi 1 päivänä tammikuuta 1999 alkavan ja 5 kohdan mukaisesti vahvistetun päättymispäivän välisenä siirtymäkautena käyttää liitteessä A olevassa A2 osan 3 , 4 , 8 ja 9 kohdassa ja A3 osan 5 ja 6 kohdassa esiintyvien muuttujien osalta yksinkertaistettua koodausta .
+Yksinkertaistettu koodaus käsittää :
+- kansallisen tavaraliikenteen osalta : liitteen G mukaisen koodauksen ;
+- kansainvälisen tavaraliikenteen osalta : maakohtaisen koodauksen .
+5. Edellä 4 kohdassa tarkoitetun siirtymävaiheen päättymispäivä vahvistetaan 10 artiklassa tarkoitettua menettelyä noudattaen heti kun tekniset edellytykset mahdollistavat tehokkaan alueellisen koodauksen sekä kansallisen että kansainvälisen tavaraliikenteen osalta liitteessä G olevien 1 ja 2 kohdan mukaisesti .
+6 artikla
+Tulosten levittäminen
+Maanteiden tavarakuljetuksia koskevien tilastollisten tulosten levitystä koskevat säännökset , mukaan lukien levitettävien tulosten rakenne ja sisältö , määritellään 10 artiklassa säädettyä menettelyä noudattaen .
+7 artikla
+Kertomukset
+1. Viimeistään ensimmäisen vuosineljänneksen tietojen toimittamisen yhteydessä jäsenvaltiot toimittavat Eurostatille kertomuksen käytetyistä tilastomenetelmistä .
+Tarvittaessa jäsenvaltiot antavat Eurostatille myös tiedon käytettyjen keruumenetelmien huomattavista muutoksista .

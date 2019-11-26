@@ -1,0 +1,62 @@
+T1	LOC 164 174	Euroopassa
+T2	LOC 177 191	Yhdysvalloissa
+T3	LOC 197 208	Aasiassakin
+T4	ORG 403 426	Yhdysvaltain kongressin
+T5	LOC 530 542	Yhdysvaltain
+T7	ORG 1013 1019	Nordea
+T8	LOC 1072 1082	Euroopasta
+T9	LOC 1086 1094	Aasiasta
+T10	LOC 1195 1203	Euroopan
+T11	LOC 1207 1219	Yhdysvaltain
+T12	LOC 1298 1303	Kiina
+T13	ORG 1511 1522	Bloombergin
+T14	ORG 1766 1785	Capital Economicsin
+T15	PER 1797 1814	Andrew Kenningham
+T19	ORG 2358 2371	Commerzbankin
+T20	PER 2383 2394	Peter Dixon
+T21	ORG 2415 2426	Reutersille
+T22	LOC 2465 2479	Yhdysvalloissa
+T24	PER 2997 3009	Tim Ghriskey
+T25	LOC 3016 3026	Britannian
+T26	LOC 3147 3161	Yhdysvalloissa
+T27	LOC 3190 3202	Yhdysvaltain
+T28	PER 3334 3346	Paul Krugman
+T29	ORG 3452 3461	Reutersin
+T30	ORG 3798 3813	Gluskin Sheffin
+T31	PER 3828 3843	David Rosenberg
+T32	ORG 3850 3861	Reutersille
+T33	PER 4077 4091	Tom Winnifrith
+T34	LOC 4171 4185	Etelä-Euroopan
+T35	LOC 4395 4404	Kreikalta
+T36	LOC 4471 4476	Kiina
+T37	LOC 4514 4526	Yhdysvaltain
+T38	LOC 4564 4569	Kiina
+T39	LOC 4678 4684	Kiinan
+T40	ORG 4696 4717	People's Daily -lehti
+T41	LOC 4747 4759	Yhdysvaltain
+T42	LOC 4798 4810	Yhdysvaltain
+T43	LOC 4938 4950	Yhdysvaltain
+T44	LOC 4983 4990	Kreikan
+T45	LOC 5381 5392	Yhdysvallat
+T46	DATE 254 265	vuoden 2008
+T6	DATE 592 603	heinäkuussa
+T47	DATE 714 723	Heinäkuun
+T48	DATE 1240 1251	vuoden 2008
+T50	ORG 1821 1839	Telegraph-lehdelle
+T51	LOC 1842 1854	Britanniassa
+T52	ORG 1971 1978	Nordean
+T53	LOC 2166 2178	Britanniassa
+T16	DATE 2624 2634	kesäkuussa
+T17	ORG 3041 3048	BBC:lle
+T18	ORG 4047 4066	T1ps-sijoitusyhtiön
+T54	DATE 4259 4263	2009
+T55	ORG 4376 4380	OECD
+T56	LOC 4487 4492	USA:n
+T57	DATE 1179 1192	lokakuun 2009
+T58	LOC 2429 2434	USA:n
+T59	DATE 1447 1460	syyskuun 2009
+T60	DATE 1135 1146	heinäkuussa
+T61	DATE 1407 1418	heinäkuussa
+T49	ORG 2535 2551	kauppaministeriö
+T23	PRO 565 570	ISM:n
+T62	PRO 824 836	ISM-indeksin

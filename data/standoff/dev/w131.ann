@@ -1,0 +1,44 @@
+T1	LOC 301 307	Lappia
+T2	LOC 491 499	Fusangin
+T3	LOC 506 516	Siperiassa
+T4	PER 659 668	Ottarilla
+T5	LOC 688 694	Suomen
+T6	LOC 823 835	Enontekiöllä
+T7	LOC 844 853	Utsjoella
+T8	LOC 861 867	Norjan
+T9	LOC 909 915	Inarin
+T10	LOC 954 967	Koillis-Lapin
+T11	LOC 1015 1028	Kuusamossakin
+T13	LOC 3918 3926	Kittilän
+T14	LOC 3927 3938	Sammalselkä
+T15	LOC 3941 3947	Inarin
+T16	LOC 3948 3958	Sallivaara
+T17	LOC 3961 3971	Savukosken
+T18	LOC 3972 3979	Tanhuan
+T19	LOC 3980 3990	Saarivaara
+T20	LOC 3996 4003	Utsjoen
+T21	LOC 4030 4041	Ertigvaaran
+T22	LOC 4132 4143	Ertigvaaran
+T23	PER 4167 4178	Ivar Pieski
+T24	PER 4216 4233	Samuli Paulaharju
+T25	LOC 4236 4246	Sallivaara
+T26	LOC 4366 4374	Repojoen
+T27	LOC 4400 4413	Sallivaarassa
+T28	LOC 4571 4598	Lemmenjoen kansallispuiston
+T29	LOC 4622 4633	Sammalselän
+T30	LOC 4678 4691	Sallivaarasta
+T31	LOC 4702 4707	Pokan
+T32	LOC 4940 4950	Saarivaara
+T33	LOC 4961 4967	Luiron
+T34	LOC 4977 4984	Tanhuan
+T35	ORG 5116 5136	Oraniemen paliskunta
+T36	DATE 445 480	vuodelta 499 ennen ajanlaskun alkua
+T37	DATE 600 610	Vuonna 892
+T38	DATE 1260 1271	vuonna 1898
+T39	DATE 1386 1397	vuonna 1932
+T41	DATE 4181 4192	1819 - 1877
+T42	DATE 4417 4430	vuodelta 1896
+T47	DATE 993 1004	Vuoden 1830
+T48	ORG 3826 3839	Museoviraston
+T40	ORG 1232 1247	Suomen senaatti
+T12	LOC 4319 4335	seututie 955:ltä

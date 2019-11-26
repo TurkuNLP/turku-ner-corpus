@@ -1,0 +1,37 @@
+Mammografiaseulonta on mammografiakuvauksen avulla tapahtuva rintasyövän seulontatutkimus .
+Mammografia on rinnan röntgenkuvaus , jonka avulla tutkitaan rinnan kasvaimia ja muutoksia .
+Seulonnan tavoitteena on rintasyöpien varhainen löytäminen ja hoitaminen , ja siten väestön rintasyöpäkuolleisuuden alentaminen .
+Mammografiaseulonnan on todettu vähentävän rintasyövästä johtuvia kuolemia 40–74-vuotiailla naisilla .
+Rintasyövän ilmaantuvuus on ollut Suomessa viime vuosikymmeninä jatkuvasti kasvussa , mutta samaan aikaan kuolleisuus tautiin on vähentynyt .
+Mammografiaseulonnan tehosta ja laadusta on julkaistu useita kattavia tutkimuksia , joihin on osallistunut satoja tuhansia naisia , ja joiden seuranta-aika on ollut 10–20 vuotta ; analyysit on tehty 14 vuoden seuranta-ajalla .
+Rintasyöpäseulonta mammografian avulla ehkäisee rintasyövästä johtuvia kuolemia 50–69-vuotiailla naisilla noin 20–35 prosenttia , jolloin suhteellinen riski eli riski kuolla rintasyöpään verrattuna seulomattomiin naisiin on 0,84 .
+Nuoremmassa ikäluokassa eli 40–49-vuotiailla naisilla kuolleisuuden vähenemä on jonkin verran pienempi , ja suhteellinen riski on 0,85 .
+Luvut tarkoittavat , että yhden rintasyöpäkuoleman välttämiseksi täytyy seuloa 1224 naista ikäluokassa 50–69 vuotta tai 1792 naista ikäluokassa 40–49 vuotta .
+Seulontamammografian herkkyys eli sensitiivisyys rintasyövän löytämisessä on noin 71–96 prosenttia ja tarkkuus eli spesifisyys 94–97 prosenttia .
+Luvut vaihtelevat jonkin verran eri aikona ja eri maissa tehtyjen tutkimusten välillä .
+Alle 35-vuotiailla naisilla kuvauksen herkkyys on jonkin verran pienempi , ja heille rinnan ultraäänitutkimus saattaa olla mammografiaa parempi vaihtoehto .
+Niistä naisista , joiden seulontamammografiakuvissa näkyy poikkeavia löydöksiä , lopulta ainoastaan viidellä prosentilla todetaan rintasyöpä .
+Syöpien havaitsemistodennäköisyyden suhteen ei ole huomattu merkittäviä eroja perinteisen filmiä käyttävän kuvauksen ja uudemman digitaalimammografian välillä .
+Vuosittain tehdyn seulonnan sensitiivisyys on parempi kuin joka toinen vuosi tai harvemmin suoritetun kuvauksen , mutta vastaavasti säteilyriskit ovat suuremmat .
+Seulonnan riski/hyöty-suhde eli hyöty verrattuna mammografian aiheuttamiin haittoihin vaikuttaa olevan paras , kun seulontaväli on kahdesta viiteen vuoteen .
+Mammografiakuvausten tärkeimpänä riskinä pidetään säteilyn aiheuttamia syöpätapauksia .
+Mammografiaseulonnan hyödyt eli rintasyöpien aikaisempi havaitseminen ja rintasyöpäkuolleisuuden väheneminen ovat huomattavasti riskejä suuremmat , kun seulontaan osallistuvat naiset ovat yli 50-vuotiaita .
+Ikäluokassa 30–49 vuotta hyöty on hieman pienempi , mutta ylittää silti riskit .
+Rintasyöpäseulonnassa havaitaan laskennallisesti noin 105 syöpää jokaista mammografiasäteilyn aiheuttamaa syöpää kohti , kun kuvattavat ovat 50–59-vuotiaita ja kuvaus tehdään kolmen vuoden välein .
+Ikäluokassa 60–69 vuotta vastaava luku on 241 .
+Nuoremmilla naisilla luvut ovat pienempiä : 40–49-vuotiailla havaitaan 48 syöpää jokaista aiheutettua kohti ja 30–39-vuotiailla 13 syöpää , kun seulonta tapahtuu kolmen vuoden välein eikä naisten lähisukulaisilla ole esiintynyt rintasyöpää .
+Jos ensimmäisen asteen sukulaisnaisilla ( äiti , sisko , tytär ) esiintyy rintasyöpää , on perusteltua aloittaa seulonnat aiemmin ja mahdollisesti tehdä niitä tiheämmin väliajoin .
+Mammografiaseulonnat aloitettiin Suomessa vuonna 1987 , ja Kansanterveysasetuksen ( 1992 ) mukaan kuntien täytyi järjestää maksuton seulonta kahden vuoden välein 50–59-vuotiaille naisille .
+Vuoden 2007 alussa astui voimaan uusi Valtioneuvoston asetus seulonnoista ( 1339/2006 ) , jolla laajennettiin maksuton rintasyöpäseulonta ikäluokkiin 50–69 vuotta .
+Suomessa kutsuttiin vuoteen 2006 asti seulontatutkimuksiin vuosittain noin 200 000 naista ; seulontojen laajeneminen yli 60-vuotiaisiin nostanee lukua vuodesta 2007 lähtien huomattavasti .
+Suomalaisen seulonnan laadusta on julkaistu useita kattavia tutkimuksia , ja Suomi pärjää hyvin verrattuna eurooppalaiseen keskitasoon .
+Kutsutuista naisista yhdeksän kymmenestä osallistuu .
+Seulontaan osallistuneista naisista jatkotutkimuksiin kutsutaan noin 2–5 prosenttia , mutta rintasyöpä todetaan lopulta vain alle 0,5 prosentilla seulotuista .
+Seulonnoissa löydetään Suomessa vuosittain noin 600–800 syöpätapausta , joista lähes 70 prosenttia on pieniä ja paikallisia .
+Koska mammografiaseulontojen laatuvaatimukset ovat korkeat , Suomen Lääkäriliitto perusti vuonna 2001 seulontamammografian erityispätevyystutkinnon .
+Erityispätevyyden voi saada radiologian erikoislääkäri , jolla on kahden vuoden työkokemus mammografiayksikössä ja riittävä teoreettinen koulutus .
+Kaikki Yhdysvaltojen suuret lääketieteelliset järjestöt suosittelevat naisille mammografiaseulontaa 40 ikävuodesta ylöspäin .
+Isossa-Britanniassa seulonnan piiriin kuuluvat kaikki 50–64-vuotiaat naiset , ja seulonta tapahtuu kolmen vuoden välein .
+Euroopan unioni on määritellyt rintasyöpäseulonnalle laatukriteerit vuonna 2001 .
+Seulonnan laatua mittaavia tunnuksia ovat muun muassa seulontakutsujen kattavuus , osallistumisaste , syöpien määrä jatkotutkimuksiin lähetettyjen naisten keskuudessa , paikallisten ja levinneiden syöpien osuus löydetyistä kasvaimista ja seulonnan herkkyys .
+Rintasyöpäseulonnan herkkyys eli sensitiivisyys voidaan määritellä esimerkiksi seulonnassa löydettyjen syöpien osuutena niistä syövistä , jotka ilmaantuisivat väestössä ilman seulontatoimintaa eli nk. taustailmaantuvuudesta .

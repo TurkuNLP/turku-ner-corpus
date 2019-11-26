@@ -1,0 +1,10 @@
+HS-vaalikoneen datan visualisointeja
+Teinpä minäkin nyt sitten pari melko simppeliä visualisointia HS-vaalikoneen datasta .
+Käytin eilen julkaisemiani SQL-dumppeja tietojen analysointiin .
+Käytännössä data oli siis MySQL-tietokannassa , josta sen noudin ja parsin PHP:lla .
+Visualisoinnit on muodostettu parsitusta datasta Highcharts JS:n avulla , jonka lisenssi on sama kuin datallakin eli Nimeä-epäkaupallinen-tarttuva 3.0 .
+Kaupallisesti kuvaajia ei siis voi käyttää .
+Visualisoinnit on tehty neljästä kysymyksestä , jotka valitsin yksinkertaisten vastausvaihtoehtojen ” Kyllä ” ja ” Ei ” perusteella .
+Kuvaajissa on siis puolueittain kyllä- ja ei-vastauksien määrät .
+Visualisoinnit ovat erillisellä sivulla .
+Huom ! Vaativat javascriptin toimiakseen .

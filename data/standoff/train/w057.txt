@@ -1,0 +1,48 @@
+Vim ( Vi IMproved ) on Bram Moolenaarin luoma Vi-editoriin perustuva avoimen lähdekoodin terminaalipohjainen tekstieditori , joka toimii monissa käyttöjärjestelmissä ja on erityisesti ohjelmoijien suosiossa .
+Siitä on myös saatavilla graafisella käyttöliittymällä varustettuja versioita , joissa on muun muassa valikot ja tuki hiirelle .
+Vimin käyttö eroaa huomattavasti useimmista muista editoreista koska Vim käyttää useita eri toimintatiloja .
+Vimin keskeinen idea on , ettei kumpaakaan kättä tarvitse siirtää näppäimistöltä ( esimerkiksi hiirelle ) minkään toiminnon , kuten tallentamisen , ajaksi .
+Vim on hyväntekeväisyysohjelma jonka käyttäjiä kehotetaan tekemään lahjoitus esimerkiksi Ugandan orvoille .
+Vim on vapaa ohjelmisto .
+Vimissä on kolme tilaa : komentotila , kirjoitustila sekä tekstinvalintatila ( visual mode ) .
+Komentotila on perustila , jossa ollaan kun Vim käynnistetään .
+Vim tulkitsee kaiken komentotilassa kirjoitetun tekstin komennoiksi .
+Kaikista tiloista pääsee takaiskin komentotilaan painamalla näppäintä Esc
+Kirjoitustilaan pääsee painamalla esimerkiksi näppäintä i komentotilassa .
+Tässä tilassa Vim lisää kaiken kirjoitetun tekstin muokattavaan tiedostoon .
+Tekstinvalintatilaan pääsee painamalla näppäintä v komentotilassa .
+Kaikki kirjoitettu teksti tulkitaan komennoiksi ja kursoria liikuttamalla valitaan tekstä .
+Vimin voi sulkea tallentamatta muutoksia komennolla : q !
+* Muutosten kumoaminen ja kumottujen muutosten palautus .
+* Mahdollisuus muokata tekstiä vasemmalta oikealle tai oikealta vasemmalle .
+* Tekstin visuaalinen muotoilu ( visual mode ) , eli " tekstipohjainen graafinen muotoilu " .
+Tekstiä voidaan muun muassa mustata hiirellä ja vaikkapa tuhota , siirtää tai kopioida .
+* Makrojen tallentaminen , jonka avulla voidaan tallentaa muokkauksia ja ajaa niitä uudelleen toistuvien tehtävien suorittamiseen .
+* Vim voidaan jakaa useisiin ruutuihin ; käyttäjä voi tutkia useita tiedostoja tai saman tiedon eri kohtia samanaikaisesti .
+* Vimissä on sisäinen komentosarjakieli helpottamaan lisätoimintojen tekoa .
+* Hakutoiminto , jolla voidaan hakea merkkijonoja tekstitiedostosta .
+* Syntaksin korostus , joka on ohjelmoinnissa lähestulkoon välttämättömyys tekstin selkeyden kannalta .
+Mukana tulee yli 200 syntaksitiedostoa eri kielille ja syntaksitiedostoja voi myös luoda itse , tai ladata niitä kolmannen osapuolen sivustoilta .
+* Vimissä on integrointituki Perlille , Tcl:lle ja Pythonille ja se voidaan myös asettaa toimimaan OLE-palveluna Windowsissa .
+* * - Etsi kursorin alla olevaa markkijonoa tiedostossa eteenpäin
+* % - Siirry kursorin alla olevan sulkumerkin vastakappaleen kohdalle
+* ' . - Siirry tiedostossa viimeksi editoidulle riville
+* yy - kopioi kursorin alla oleva rivi
+* 3yy - kopioi kursorin alla oleva rivi ja kaksi seuraavaa riviä
+Bram Moolenaar aloitti Vimin kehittämisen vuonna 1988 .
+Tämän jälkeen vimiin on lisätty lukuisia ominaisuuksia , joista monet liittyvät tietokoneohjelmien lähdekoodin muokkaukseen .
+Taustansa vuoksi Vim on suosittu erityisesti Unix-käyttäjien ja ohjelmoijien parissa .
+Vuonna 1988 Moolenaarilla oli Amiga-tietokone , johon hän etsi tekstieditoria .
+Hän oli tottunut käyttämään Vitä , mutta sitä ei ollut saatavilla Amigalle .
+Moolenaar otti käyttöönsä parhaan löytämänsä Vi-kloonin ja alkoi parannella sitä .
+Aluksi tavoitteena oli pystyä tekemään kaikki sama , mitä Villä pystyi tekemään .
+Lopulta Moolenaar saavutti tavoitteensa ja alkoi lisätä vähitellen uusia ominaisuuksia , kuten monitasokumous ( multi-level undo ) .
+Hän julkaisi ensimmäisen version Vimistä 2. marraskuuta 1991 .
+Nimi tuli alun perin sanoista Vi IMitation .
+Muutamat henkilöt edistivät projektia sovittamalla Vimin muun muassa UNIXille ja DOSille .
+Ajan myötä Vimiin kertyi yhä enemmän ominaisuuksia .
+Moolenaar muutti Vimin lähdesanoja , jolloin syntyi Vi IMproved .
+Pian alkuperäisestä koodista ei ollut paljoa jäljellä .
+Tässä vaiheessa Moolenaar piti Vimiä vielä omana lelunaan ja jakoi sitä satunnaisesti ihmisille , jotka tarvitsivat sen kaltaista ohjelmaa .
+Myöhemmin hän laittoi Vimin yleiseen jakoon ja siitä kehittyi vähitellen yksi suosituimmista tekstieditoreista .
+Vim voitti muun muassa Linux Journal -lehden suosituimman editorin palkinnon lukijaäänestyksessä vuosina 2001-2005 .

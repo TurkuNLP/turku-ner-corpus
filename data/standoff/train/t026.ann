@@ -1,0 +1,16 @@
+T1	PER 141 165	Anders Behring Breivikin
+T2	LOC 210 218	Suomessa
+T3	PER 295 304	Breivikin
+T4	LOC 503 511	Suomessa
+T5	PER 1486 1494	Stalinin
+T6	PER 1498 1506	Hitlerin
+T7	PER 2003 2019	Martti Ahtisaari
+T8	PER 2114 2124	Ahtisaaren
+T9	PER 2193 2203	Ahtisaaren
+T10	LOC 3260 3265	Suomi
+T11	ORG 3564 3580	Perussuomalaiset
+T12	LOC 3594 3602	Suomelle
+T13	PER 3847 3863	Jussi Halla-ahon
+T14	EVENT 555 569	kansalaissodan
+T15	ORG 2054 2071	perussuomalaisten
+T16	ORG 2132 2150	perussuomalaisilla

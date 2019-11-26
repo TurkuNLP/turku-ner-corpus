@@ -1,0 +1,18 @@
+Kännitzer tuo kännin selvään päivään !
+Onko sinun koskaan tarvinnut nettikeskustelussa esittää olevasi kännissä ?
+Tipaton tammikuu tiedossa ?
+Vai oletko peräti absolutisti ?
+Ei haittaa , nyt elämä mullistuu kännitzerin avulla !
+Kännitzer on tietokoneohjelma , joka muuttaa annetun tekstin sellaiseksi , kuin se olisi kirjoitettu kännissä .
+Se analysoi tekstin kirjain kerrallaan , ja tietää useimmat alkoholin vaikutuksesta johtuvat kirjoitusvirhetyypit .
+Ohjelma laskee syntyvän virheen todennäköisyyden käyttäen avuksi normoitua kännin voimakkuus -parametria .
+Tunnetuin virhetyyppi on kokonaan väärä kirjain .
+Välillä sormi lipsahtaa oikean näppäimen ohi , ja osuukin johonkin vieressä olevaan kirjaimeen tai merkkiin .
+Sivuosuman simuloimista varten kännitzeriin on tehty taulukko , jossa on listattu näppäimistön näppäimien lähellä sijaitsevat näppäimet .
+Joskus taas näppäintä painetaan liian kauan , jolloin yksi kirjain venyy moneksi .
+Ja luonnollisesti kun kännin suuruus ylittää tietyn kriittisen rajan , alkaa kännitzer lisätä voimasanoja tekstin joukkoon .
+Turingin testi on koe , jolla pyritään selvittämään tekoälyn ihmismäisyyttä ja sen kykyä ajatella .
+Toisin sanoa , laitetaan tietokone keskustelemaan ihmisen kanssa .
+Jos tietokone pystyy keskustelemaan riittävän järkevästi , ei keskustelukumppani pysty sanomaan jutteleeko se tietokoneen vai oikean ihmisen kanssa .
+Turingin testistä voidaan tehdä muunnelma myös testaamaan kännitzeriä .
+Tällöin tarkoituksena on selvittää , onko keskustelukumppani oikeasti kännissä vai käyttääkö hän vain kännitzeriä .

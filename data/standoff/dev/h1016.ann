@@ -1,0 +1,11 @@
+T10	ORG 156 159	TVO
+T11	PER 264 275	Markkaselle
+T12	ORG 278 298	Helsingin yliopiston
+T13	PER 312 326	Arto Mustajoen
+T14	PER 514 526	Aleksis Kivi
+T15	PER 573 582	Rekolalle
+T16	PER 614 618	Riki
+T17	PER 673 680	Simeoni
+T18	LOC 921 931	Helsinkiin
+T1	EVENT 446 457	Kivi-juhlat
+T2	PRO 906 920	Intercity-juna

@@ -1,0 +1,10 @@
+Luminance HDR saatavilla nyt myös suomeksi
+Luminance HDR:n versio 2.0.2 on vihdoin julkaistu lukuisten bugikorjauksien jälkeen .
+Kuten tammikuun loppupuolella jo kirjoitin , suomensin koko ohjelman käyttöliittymän ja tuolloin oletin julkaisun tapahtuvan pian ( kehittäjiltä saatu tieto ) , mutta näin ei käynyt .
+Sourceforge joutui ensin hakkeroinnin kohteeksi ja kehittäjät korjailivat bugeja sekä parantelivat ohjelmistoa aivan viime päiviin saakka .
+Parempi kuitenkin myöhään kuin ei milloinkaan .
+Ainakin Windowsin puolella käännös näyttää pelaavan moitteetta ( asennuksen aikana ei voi valita suomea ) .
+Suomen saa käyttöön menemällä polkua Tools - > Preferences - > Languages - > Finnish , jonka jälkeen Luminance HDR tulee käynnistää uudelleen .
+Kuten jo tammikuussa tuli kirjoitettua , käännöskukkasia löytyy varmasti .
+Jos joku sana pistää silmään , löydätte selkeän kirjoitusvirheen tai muuta huomautettavaa , ilmoittakaa ihmeessä vaikka tämän tekstin perään tai suoraan sähköpostilla ( palautelomakekin käy ) .
+Korjaan virheet ja korjattu versio ilmestyy seuraavan Luminance HDR:n version mukana .

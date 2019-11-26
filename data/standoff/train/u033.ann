@@ -1,0 +1,23 @@
+T15	LOC 25 32	Turkuun
+T16	ORG 33 49	Suomen Akatemian
+T18	EVENT 88 108	Viksu-tiedekilpailun
+T20	PER 174 187	Salli Anttila
+T23	ORG 188 210	Turun normaalikoulusta
+T24	PER 257 265	Anttilan
+T25	PER 359 367	Anttilan
+T26	PER 557 570	Salli Anttila
+T28	ORG 590 606	Turun yliopiston
+T31	PER 925 938	Jarno Salonen
+T33	ORG 1043 1061	Savonlinnan lyseon
+T35	PER 1071 1091	Eveliina Tahvanainen
+T37	PER 1095 1113	Siniriikka Ventelä
+T39	PER 1219 1234	Henna Virkkunen
+T41	PER 1259 1273	Markku Mattila
+T45	EVENT 1430 1449	Viksu-tiedekilpailu
+T46	ORG 1598 1606	Akatemia
+T1	EVENT 978 998	Viksu-tiedekilpailun
+T2	ORG 1238 1247	Akatemian
+T3	DATE 1339 1344	7.4 .
+T4	DATE 76 87	vuoden 2009
+T5	ORG 0 9	Akatemian
+T7	PRO 10 24	Viksu-palkinto

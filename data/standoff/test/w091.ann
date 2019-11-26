@@ -1,0 +1,20 @@
+T1	ORG 0 26	Suomalainen Kirjakauppa Oy
+T2	ORG 46 57	Suomalainen
+T3	ORG 108 118	Rautakirja
+T4	LOC 137 143	Suomen
+T5	ORG 205 228	Suomalainen Kirjakauppa
+T6	ORG 259 269	Rautakirja
+T7	ORG 348 371	Suomalainen Kirjakauppa
+T8	LOC 379 385	Suomen
+T9	ORG 440 451	Stockmannin
+T10	ORG 461 484	Akateeminen Kirjakauppa
+T11	LOC 510 522	Jyväskylästä
+T12	LOC 525 532	Oulusta
+T13	LOC 535 545	Joensuusta
+T14	LOC 548 563	Lappeenrannasta
+T15	LOC 566 575	Kuopiosta
+T16	LOC 581 589	Vaasasta
+T17	DATE 242 253	vuonna 1912
+T18	DATE 287 300	vuodesta 1924
+T19	DATE 334 345	vuonna 1999
+T20	DATE 418 429	vuonna 1997

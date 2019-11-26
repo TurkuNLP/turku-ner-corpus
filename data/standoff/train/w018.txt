@@ -1,0 +1,62 @@
+Kuningasgambiitti 1.e4 e5 2.f4 on yksi shakin avauksista .
+Se oli 1800-luvun suosituimpia avauksia .
+Kuningasgambiitilla on voitettu lukemattomia pelejä hienoin mattihyökkäyksin , ja hävitty lähes yhtä useita uhrattavien upseerien loppuessa ja mustan tyynesti realisoidessa etunsa .
+Kuningasgambiitti on yksi vanhimmista dokumentoiduista avauksista .
+Italialainen shakinpelaaja Giulio Polerio tutki sitä 1600-luvulla .
+Nykyisin kuningasgambiitti ei ole enää suurmestarien suosiossa , sillä mustan on todettu voivan pitää kiinni sotilaastaan ja puolustautuvan tarpeeksi hyvin .
+Valkean toinen siirto 2.f4 on hyvin looginen yritys saada jalansijaa keskustassa ja hyökätä välittömästi mustan heikohkon sotilaan kimppuun .
+Lisäksi siirto avaa f-linjan , jota pitkin valkean raskaat upseerit pääsevät usein musertavalla voimalla mustan kuninkaan kimppuun , avustettuna valkean lähetin tulivoimalla diagonaalilla a2-f7 ja ratsun taitavalla käytöllä .
+Klassisimmillaan kuningasgambiitti etenee mustan lyödessä sotilaan ja tukien sitä g5 siirrolla , ehkä myös h6 , ja yrittäen saada upseerinsa peliin ja kuninkaan nopeasti turvaan .
+Valkea puolestaan on valmis uhraamaan pienimmästäkin tekosyystä .
+Hyvä esimerkki kuningasgambiittimaisesta pelaamisesta on yksi kuuluisimmista pelatuista shakkipeleistä , nk. kuolematon peli , joka pelattiin Adolf Anderssenin ja Kieseritzkyn välillä Lontoossa 1851 .
+Tavallinen tapa torjua gambiitti on pelata 2 ... Lc5 .
+Lähetti estää valkeaa linnoittamasta ja usein valkea pyrkiikin pelaamaan Rc3-Ra4-Rxc5 päästäkseen eroon mustan lähetistä .
+Musta voittaa tässä kaksi tempoa .
+Avauksen mielletään yleisesti antavan valkealle liian paljon tilaa keskustassa .
+Esimerkiksi jatko 1.e4 e5 2.f4 Lc5 3.Rf3 d6 4.c3 Rf6 5.d4 tai fxe5 antaa valkealle hyvän tilanteen ja vahvan keskustan .
+Siirto 2...Lc5 sisältää myös avausansan aloittelijoille : Jos valkea jatkaa fxe5? , musta pelaa 3...Dh4+ , jolloin valkea menettää joko torninsa ( 4.g3 Dxe4+ ) tai joutuu matitetuksi ( 4.Ke2 Dxe4# ) .
+Myös muut torjutut jatkot ovat mahdollisia , mutta harvinaisia .
+Näihin kuuluvat esimerkiksi terävä vastagambiitti 2...Rc6 3.Rf3 f5?! , jota pelasi muun muassa edesmennyt Tony Miles .
+2...d6 3.Rf3 exf4 transponoituu Fischerin puolustukseksi , vaikkakin valkea voi pelata myös esimerkiksi Lc4 tai d4. 2...Rf6 3.fxe5 Rxe4 4.Rf3 Rg5! 5.d4 Rxf3+ 6. Dxf3 Dh4+ 7.Df2 Dxf2+ 8 .
+Kxf2 johti pieneen mustan etuun loppupelissä Bobby Fischerin ja Robert Waden välisessä pelissä .
+Myös kuningattaren siirrot 2...Df6 ( Norwalden muunnelma ) ja 2...Dh4+ ( Keenen puolustus ) ovat mahdollisia , mutta johtavat valkean etuun .
+Falkbeerin vastagambiitti 2...d5 johtaa yleensä tasaisen oloisiin asemiin , joissa valkealla on mahdollisesti ongelmia f-sotilaan heikennyksen vuoksi , mutta hiukan paremmat mahdollisuudet päästä mustan kuninkaan kimppuun .
+Peli on näissä muunnelmissa usein rauhallisempaa kuin klassisemmissa muunnelmissa .
+Jos valkea kuitenkin pelaa 3.exd5 , musta voi pelata e4!? lamauttaen valkean aseman .
+Aron Nimzowitsch pelasi myös 2...d5 3. exd5 c6!? .
+Valkea voi vastata siirtoon 2...d5 myös 3.Rf3 , mutta siirtoa exd5 on tuottanut parhaita tuloksia .
+3. fxe5 olisi virhe , sillä musta voi pelata 3...Dh4+ jota seuraa 4.Ke2 Dxe4+ 5.Kf2 Lc5+ ja mustalla on selvä etu .
+Falkbeerin vastagambiittia pidetään yleisesti hieman valkeaa suosivana muunnelmana .
+Musta hyväksyy gambiitin pelaamalla 2...exf4 .
+Valkealla on tässä tapauksessa kaksi pääjatkoa :
+3.Rf3 kehittää ratsun peliin ja estää kuningatarshakin h4:stä .
+3.Lc4 houkuttelee mustaa shakkaamaan Dh4+ , jonka jälkeen valkea saisi kehitettyä ratsun tempovoitolla 4.Kf1 5.Rf3 uhaten kuningatarta .
+Valkea voi pelata muitakin siirtoja , mutta ne ovat liian passiivisia tai heikkoja .
+Esimerkkinä Stamman gambiitti 3.h4?! 3.Lc4 on 3.Rf3:a harvinaisempi , mutta sitä pidetään parempana siirtona , johtuen mustan yleisimmästä vastauksesta 3...Rf6 .
+Klassinen muunnelma jatkuu 3...g5 , jolloin valkealla on kaksi pääjatkoa :
+4.h4 , joka tunnetaan Pariisin hyökkäyksenä ja 4.Lc4 .
+Jatkossa 4.h4 g4 valkea voi valita 5.Rg5:n ( Allgaierin gambiitti ) ja 5.Re5:n ( Kieseritzkyn gambiitti ) väliltä .
+Jälkimmäistä pidetään yleisesti parempana jatkona uhaten f7- ja g4-sotilaita samanaikaisesti .
+Alggaierin gambiittissa valkean pitää yleensä uhrata ratsu f7:een , koska musta voi pelata suoraan h6 .
+Bobby Fischer kehitti myös oman jatkonsa , äärimmäisen terävän jatkon , jonka nimi on Muzion gambiitti : 4. Lc4 g4 5. 0-0!? gxf3 6. Dxf3 .
+Tällöin valkea on uhrannut ratsunsa , mutta hänellä on kolme nappulaa hyökkäämässä mustan f7-sotilaan kimppuun .
+Musta saavuttaa kuitenkin selvän edun loppupeliin tarkalla puolustamisella .
+Muzion gambiitin voi välttää pelaamalla 4.Lc4 Lg7 .
+Beckerin puolustuksessa musta pelaa 3...h6 ideana puolustaa sotilasketjuaan h6-g5-f4 välttäen Kieseritzkyn gambiitin .
+Cunninghamin puolustus 3...Le7 on mustan aggressiivisin vaihtoehto ; musta voi estää valkeaa linnoittamasta jatkossa 4.Lc4 Lh4+ 5.Kf1 .
+Nykyään peli kuitenkin jatkuu useimmiten 4...Rf6 5. e5 Rg4 .
+Tätä kutsutaan moderniksi Cunninghamiksi .
+3...De7 ( yrittäen 4.Rc3 d5!+ ) voi yllättää valkean .
+Valkea voi kuitenkin oikein pelaten saavuttaa etua .
+Schallopin puolustus 3...Rf6 on harvoin pelattu nykyään .
+Mustan aikomuksena on 4. e5 Rh5 pitäen kiinni sotilaasta .
+Jossain jatkoissa valkea voi saada ylivoimaisen pelin tornin uhrauksella : 4.e5 Rh5 5.d4 g5 6.h4 g4 7.Rg5 Rg3 8.Lc4! Rxh1 9.Lxf7+ Ke7 10.Rc3 uhaten välitöntä mattia d5:stä ja jatkossa valkean painostus on kovaa .
+Abbazian puolustus ( 1.e4 e5 2.f4 exf4 3.Rf3 d5 ) kantaa samaa idea Falkbeerin vastagambiitin kanssa , ja sen voi itse asiassa saavuttaa transponoitumalla 2.f4 d5 3.exd5 exf4 .
+Mustan sotilas on huonossa paikassa f4:ssä , mutta materiaali on tasan .
+Fischerin puolustus ( 1.e4 e5 2.f4 exf4 3.Rf3 d6 ) suunnittelee jatkoa h6-g5 , mutta vain harvoin Lg4 .
+Siirto näyttää heikolta , mutta on oikeasti monimutkaisiin asemiin johtava .
+Hävittyään pelin Boris Spasskya vastaan 1960 mustilla Fischer halusi kehittää uuden puolustuksen mustalle .
+1962 Fischer julkaisi työnsä kuningasgambiitista , ja esitteli siirron , jonka sanoi kumoavan valkean siirron täysin .
+Artikkeli sisälsi kuuluisan lauseen " Tietenkin valkea voi aina pelata toisin , jolloin hän häviää eri tavalla . "
+Artikkeli oli ehkä kaikkien aikojen vaikuttavin avausta käsittelevä teksti , ja sen julkaisun jälkeen kuningasgambiittia on pelattu mestaritasolla vain harvoin .
+Kuningasgambiitista saa alkunsa myös hyvin kyseenalainen ja harvoin pelattu Ricen gambiitti .

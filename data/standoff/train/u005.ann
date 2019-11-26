@@ -1,0 +1,33 @@
+T36	LOC 0 7	Kreikan
+T37	ORG 38 44	EU:lle
+T39	PER 98 109	Ville Itälä
+T41	LOC 277 286	Kreikalle
+T44	PER 449 460	Ville Itälä
+T46	ORG 463 467	Kok.
+T47	ORG 470 473	EPP
+T48	LOC 482 489	Kreikan
+T49	LOC 517 525	Euroopan
+T50	PER 719 731	Ville Itälän
+T52	LOC 762 770	Suomessa
+T53	LOC 814 822	Suomessa
+T54	ORG 823 825	EU
+T55	LOC 973 980	Kreikan
+T56	PER 1133 1138	Itälä
+T57	PER 1158 1169	Kari Liuhto
+T59	ORG 1170 1196	Turun kauppakorkeakoulusta
+T61	ORG 1214 1253	Kansainvälisen valuuttarahaston ( IMF )
+T64	LOC 1266 1273	Kreikan
+T65	PER 1340 1346	Liuhto
+T66	PER 1355 1361	Liuhto
+T67	LOC 1368 1375	Kreikan
+T68	ORG 1429 1447	Euroopan unionissa
+T70	LOC 1523 1530	Kreikan
+T71	ORG 1546 1550	EU:n
+T38	LOC 1644 1651	Baltian
+T72	PER 1706 1717	Marko Lehti
+T74	ORG 1742 1746	EU:n
+T75	PER 1981 1990	Kimmo Elo
+T78	ORG 2364 2380	Euroopan unionin
+T80	PER 2431 2434	Elo
+T81	ORG 2474 2490	Euroopan unionin
+T2	PRO 2082 2103	Lissabonin sopimuksen

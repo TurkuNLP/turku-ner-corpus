@@ -1,0 +1,41 @@
+T1	PRO 0 16	Dodge Charger LX
+T2	PRO 26 46	Dodge Charger -malli
+T3	LOC 67 74	Kanadan
+T4	LOC 75 85	Ontariossa
+T5	LOC 88 100	Bremptonissa
+T6	PRO 103 117	Charger -nimen
+T7	PRO 252 267	Chrysler 300C:n
+T8	PRO 271 285	Dodge Magnumin
+T9	PRO 308 315	Charger
+T10	PRO 336 344	Magnumin
+T11	PRO 364 382	Charger -malleista
+T12	PRO 485 496	Chargerista
+T13	PRO 565 585	Ford Crown Victorian
+T14	LOC 593 606	Yhdysvaltojen
+T15	LOC 668 678	New Yorkin
+T16	PRO 756 760	Hemi
+T17	PRO 782 788	Brembo
+T18	PRO 924 939	DaimlerChrysler
+T19	PRO 1002 1013	Daytona R/T
+T20	LOC 1020 1028	Chicagon
+T21	PRO 1078 1092	Hemi -moottori
+T22	PRO 1197 1209	Hemi -tarrat
+T23	PRO 1228 1239	Daytona R/T
+T24	PRO 1315 1329	" Go ManGo ! "
+T25	PRO 1363 1374	Chargerista
+T26	PRO 1378 1392	" Top Banana "
+T27	PRO 1458 1464	TorRed
+T28	LOC 1495 1505	New Yorkin
+T29	PRO 1539 1548	Super Bee
+T30	PRO 1614 1628	Hemi -moottori
+T31	PRO 1670 1690	" Detonator Yellow "
+T32	DATE 202 213	vuonna 2006
+T33	PRO 236 251	LX -pohjalevyyn
+T34	DATE 633 644	Vuonna 2005
+T35	PRO 656 661	SRT-8
+T36	DATE 979 990	Vuonna 2006
+T37	DATE 1351 1362	vuoden 1970
+T38	DATE 1408 1421	vuodelta 1970
+T39	DATE 1467 1478	Vuonna 2006
+T40	DATE 1569 1573	2007
+T41	PRO 1634 1643	SRT-8:ssa

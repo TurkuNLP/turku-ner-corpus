@@ -1,0 +1,36 @@
+T1	ORG 5 10	Valio
+T2	ORG 19 24	Olvin
+T3	ORG 28 34	Poutun
+T4	ORG 61 66	Valio
+T5	ORG 100 105	Olvin
+T6	ORG 126 132	Poutun
+T7	ORG 167 184	Helsingin Sanomat
+T8	ORG 257 261	Olvi
+T9	PRO 279 309	Raikas Kevyt Olo -tavaramerkin
+T10	ORG 383 389	Valion
+T11	ORG 445 450	Valio
+T12	ORG 541 546	Olvin
+T13	ORG 577 585	Valiolla
+T14	ORG 633 638	Olvin
+T15	PRO 675 701	Kevyt olo -kivennäisjuomia
+T16	PRO 732 741	Kevyt olo
+T18	ORG 844 850	Poutun
+T19	ORG 858 866	Valiolla
+T20	ORG 899 905	Pouttu
+T21	ORG 1025 1031	Valion
+T22	ORG 1101 1107	Pouttu
+T23	ORG 1166 1171	Valio
+T24	ORG 1245 1251	Valion
+T25	PER 1274 1290	Kyösti Parttimaa
+T26	ORG 1298 1317	Helsingin Sanomille
+T27	ORG 1325 1330	Valio
+T28	ORG 1423 1428	Valio
+T29	ORG 1449 1454	Olvia
+T30	ORG 1481 1488	Pouttua
+T31	ORG 0 2	HS
+T32	ORG 815 841	Helsingin käräjäoikeudessa
+T17	PRO 877 896	Onni-tavaramerkistä
+T34	PRO 1048 1066	Onni-tavaramerkkiä
+T33	PRO 604 630	Olo-ruoansulatusjogurtteja
+T35	PRO 479 491	Olo-merkillä
+T36	ORG 500 533	Patentti- ja rekisterihallituksen

@@ -1,0 +1,40 @@
+T1	LOC 0 14	Kajaanin linna
+T2	LOC 52 62	Ämmäkosken
+T3	LOC 72 86	Kajaaninjoella
+T4	LOC 96 104	Kajaanin
+T5	LOC 271 282	Linnansilta
+T6	LOC 313 325	Kajaaninjoen
+T7	LOC 371 385	Linnansillalla
+T8	LOC 416 431	Kajaanin linnan
+T9	PER 623 637	Pietari Brahen
+T10	LOC 811 819	Euroopan
+T11	PER 1001 1019	Johannes Messenius
+T12	PER 1102 1116	Lars Wivallius
+T13	EVENT 1138 1161	Suuressa Pohjan sodassa
+T14	PER 1205 1218	Vasili Markov
+T15	PER 1310 1332	Johan Henrik Fieandtia
+T16	PER 1369 1376	Fieandt
+T17	ORG 2288 2302	Kainuun museon
+T18	PER 2311 2325	Heikki Rytkölä
+T19	PER 2439 2460	Johannes Messeniuksen
+T20	PER 2502 2510	Ior Bock
+T21	PRO 2524 2547	Bockin perheen saagassa
+T22	ORG 2800 2816	Oulun yliopiston
+T23	PER 2884 2897	Henrik Lilius
+T24	ORG 3018 3034	Oulun yliopiston
+T25	PRO 3225 3246	Bockin perheen saagan
+T26	PER 3364 3376	Kari Uotilan
+T27	DATE 255 259	1937
+T28	DATE 457 468	vuonna 1604
+T29	DATE 501 505	1619
+T30	DATE 719 723	1666
+T31	DATE 1032 1049	vuosina 1616–1635
+T32	DATE 3001 3017	Joulukuussa 2006
+T33	DATE 1972 1985	vuodesta 2003
+T34	ORG 1956 1968	Museovirasto
+T35	DATE 1744 1763	24. helmikuuta 1716
+T36	ORG 2859 2872	Museoviraston
+T37	ORG 3132 3144	Museovirasto
+T38	DATE 471 475	1605
+T39	DATE 480 484	1607
+T40	EVENT 1164 1171	isoviha

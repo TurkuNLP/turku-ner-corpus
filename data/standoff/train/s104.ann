@@ -1,0 +1,68 @@
+T1	ORG 17 29	Accenture oy
+T2	LOC 60 83	Helsingin rautatieasema
+T3	LOC 274 288	Elielinaukiota
+T4	ORG 303 308	Filen
+T5	LOC 415 426	Ruoholahtea
+T6	LOC 533 548	Länsi-Venäjälle
+T7	LOC 578 584	Suomen
+T8	LOC 666 674	Aurajoen
+T9	PER 688 705	Riku Ruotsalainen
+T10	PER 709 719	Ville Säkö
+T11	ORG 743 753	Accenturen
+T12	LOC 754 763	Helsingin
+T13	ORG 972 996	Accenture -niminen firma
+T14	ORG 1027 1032	Filen
+T15	ORG 1148 1160	Accenturella
+T16	LOC 1277 1285	Suomessa
+T17	LOC 1498 1509	Helsingistä
+T18	LOC 1512 1520	Espoosta
+T19	LOC 1524 1535	Tampereelta
+T20	ORG 1548 1560	Accenturella
+T21	PER 1611 1623	Ruotsalainen
+T22	PER 1627 1631	Säkö
+T23	ORG 1650 1660	Accenturen
+T24	ORG 1957 1967	Accenturen
+T25	ORG 2149 2154	Nokia
+T26	ORG 2157 2163	Fortum
+T27	ORG 2166 2168	VR
+T28	ORG 2172 2187	Puolustusvoimat
+T29	ORG 2374 2400	Turun kauppakorkeakoulusta
+T30	PER 2454 2458	Säkö
+T31	ORG 2502 2512	Accenturen
+T32	ORG 2776 2787	Otaniemestä
+T33	PER 2800 2812	Ruotsalainen
+T34	PER 2990 3002	Ruotsalainen
+T35	PER 3290 3302	Ruotsalainen
+T36	PER 3308 3312	Säkö
+T37	ORG 3338 3350	Accenturessa
+T38	ORG 3617 3629	Accenturella
+T39	PER 3695 3707	Ruotsalainen
+T40	ORG 3752 3764	Accenturella
+T41	ORG 3908 3920	Accenturella
+T42	PER 3931 3943	Ruotsalaisen
+T43	PER 3947 3952	Säkön
+T44	ORG 4153 4165	Accenturella
+T45	PER 4413 4417	Säkö
+T46	PER 4488 4493	Säkön
+T48	ORG 4934 4944	Accenturen
+T49	PER 4957 4970	Tiger Woodsin
+T50	ORG 6175 6187	Accenturella
+T51	LOC 6229 6239	Turussakin
+T52	LOC 6364 6371	Turussa
+T53	PER 6400 6412	Ruotsalainen
+T54	LOC 6440 6447	Turkuun
+T55	ORG 6652 6664	Accenturella
+T56	PER 6884 6896	Ruotsalaisen
+T57	PER 7569 7573	Säkö
+T58	ORG 7717 7729	Accenturelta
+T59	ORG 7921 7926	Filen
+T60	ORG 7982 7991	Accenture
+T61	ORG 8025 8064	Great Place to Work Institute Finlandin
+T62	LOC 8093 8099	Suomen
+T63	PER 8336 8348	Ruotsalainen
+T64	PER 8519 8523	Säkö
+T65	DATE 1376 1387	vuoden 2008
+T47	DATE 7650 7659	Helmikuun
+T66	DATE 7788 7797	huhtikuun
+T67	DATE 7864 7875	toukokuussa
+T68	DATE 7906 7916	kesäkuussa

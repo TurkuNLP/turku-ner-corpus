@@ -1,0 +1,13 @@
+T1	ORG 0 16	Takalan rahaston
+T2	ORG 35 67	Turun Suomalainen Yliopistoseura
+T4	ORG 180 212	Turun Suomalainen Yliopistoseura
+T5	ORG 228 244	Turun yliopiston
+T6	ORG 426 458	Turun Suomalainen Yliopistoseura
+T7	LOC 553 560	Turkuun
+T8	ORG 583 599	Turun yliopiston
+T9	PER 825 839	Keijo Virtanen
+T10	PER 889 904	Juhani Heimonen
+T11	ORG 907 928	Valto Takalan rahasto
+T12	DATE 84 99	23. maaliskuuta
+T13	DATE 472 483	vuonna 1917
+T14	DATE 986 997	vuonna 1977

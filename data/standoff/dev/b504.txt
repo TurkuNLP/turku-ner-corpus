@@ -1,0 +1,29 @@
+DIY time-lapse dolly suunnitelmia ( Arduino )
+Kuten tuli tuossa ensimmäisessä Arduinoa käsitelleessä postauksessa luvattua , suunnitelmissani on rakentaa DIY ( Do It Yourself , Tee Se Itse ) intervalliajastin sekä moottoroitu alusta kameralle .
+Olen hankkinut kasan osia , joilla pääsen alkuun ja pystyn itse asiassa rakentamaan jo toimivan ajastimen sekä ohjaamaan moottoria .
+Tiedän myös , että on olemassa ihan valmiitakin Arduinoon pohjautuvia time-lapse dollyja ajastimilla , mutta tarkoituksena on tehdä kaikki alusta lähtien itse , joten ne eivät tule kyseeseen .
+Kuvia osista alempana .
+Koko homma on kuitenkin vielä täysin suunnittelupöydällä , sillä en ole saanut päätettyä , haluanko ohjata kameraa kokonaan ( niin intervallia kuin valotusaikaakin ) Arduinolla vai pelkästään osittain .
+Tämä siis tarkoittaa sitä , että lähetänkö Arduinolla tiedon sekä valotuksen kestosta sekä valotuksien välisestä ajasta kameralle vai pelkästään intervallin ( eli valotuksien välisen ajan ) , jolloin valotus säädetään kamerasta .
+Täydellisessä hallinnassa on se hyvä puoli , että saan tehtyä niin pitkiä valotuksia kuin haluan eli kamera on aina bulb-modessa .
+Tämä aiheuttaa kuitenkin ongelmia , koska minulla ei ole sopivaa näyttöä ( ostin tuollaisia ledinäyttöjä , mutta ne vievät liikaa pinnejä ellen osta erillistä driver-chippiä niille ) , josta näkisi annetut arvot .
+Todennäköisesti siis päädyn aluksi ratkaisuun , jossa Arduinolla säädetään pelkkä intervalli .
+En muutenkaan usko tarvitsevani yli 30 sekunnin valotuksia , joten valinta lienee osittainen ohjaus .
+Todennäköisesti laitan jonkin ledin välähtämään aina kun nappia painaa , niin aikaa ei tarvitse ihan sokkona syöttää .
+Myöhemmin sitten se näyttö tai ehkä jopa jo nyt , sillä saatan pystyä liittämään sen projektiin multiplexingiä hyväksi käyttäen , jolloin tarvitsen vain yhdeksän pinniä 14 sijasta .
+Yhdeksänkin pinniä on paljon .
+Pientä päänvaivaa tuottaa myös tuo moottori , jonka joudun korvaamaan ehkä toisella kun ei tunnu löytyvän sopivia hammasrattaita välityksen muuttamiseksi mistään .
+Lukijoita varmaan kiinnostaa , paljon tämä touhu kustantaa .
+Tämä prototyyppi on maksanut tähän mennessä noin 150 euroa postikuluineen ( otetaan huomioon , että osa tilaamistani osista on tarpeettomia tässä projektissa ) .
+Lopullisen version saanee ehkä hiukan alle 150 euroon , koska prototyypistä puuttuu vielä itse dollyn materiaalit .
+Ja mitä kustantaa valmis dolly ?
+Halvimmat mitä olen nähnyt ovat olleet yli 400 euroa .
+Kolvaukset on sitä tasoa mitä voidaan odottaa minulta , joka koski kolviin viimeksi 6 vuotta sitten :D
+Pääasia että vehje toimii .
+Shieldit kiinnittyvät Arduinoon näin ikään .
+Yli 600 vastusta ( joista tarvin alle kymmentä ) .
+Setti maksoi kympin .
+Optoerotin .
+Käytetään piirin erottamiseen kamerasta , emmehän halua Arduinon jännitettä itse kameraan viedä .
+Canonin lankalaukaisin , jonka purin .
+2.5mm plugeilla olevaa piuhaa kun ei itseltäni muualta löytynyt :)

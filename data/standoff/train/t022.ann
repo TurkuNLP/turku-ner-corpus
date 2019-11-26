@@ -1,0 +1,17 @@
+T1	ORG 0 5	Nokia
+T2	LOC 28 40	Jyväskylässä
+T3	ORG 41 47	Nokian
+T4	LOC 71 83	Jyväskylässä
+T5	ORG 86 92	Nokian
+T6	ORG 211 232	Jyväskylän yliopiston
+T7	ORG 250 255	Nokia
+T8	LOC 276 288	Jyväskylästä
+T9	ORG 328 349	Jyväskylän yliopiston
+T10	ORG 491 497	Nokian
+T11	LOC 587 599	Jyväskylässä
+T12	PER 662 680	Pekka Neittaanmäki
+T13	LOC 1042 1056	Keski-Suomessa
+T14	PER 1260 1272	Neittaanmäki
+T15	PER 1281 1293	Neittaanmäki
+T16	DATE 264 275	vuonna 2009
+T17	DATE 702 718	Tammi-kesäkuussa

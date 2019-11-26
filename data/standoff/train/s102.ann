@@ -1,0 +1,13 @@
+T1	ORG 55 70	Turun yliopisto
+T2	ORG 326 342	Turun yliopiston
+T3	ORG 1008 1018	Asteriskin
+T4	PER 1065 1071	Liskin
+T5	PRO 1088 1093	Macin
+T6	ORG 1567 1577	Asteriskin
+T7	ORG 1672 1682	Asteriskin
+T8	PER 1701 1709	Haapanen
+T9	DATE 30 39	15.1.2008
+T10	DATE 40 54	15. tammikuuta
+T11	EVENT 80 90	ABI-päivän
+T12	EVENT 20 29	ABI-päivä
+T13	LOC 343 368	Luonnontieteiden talo I:n

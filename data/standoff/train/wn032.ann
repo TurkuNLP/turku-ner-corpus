@@ -1,0 +1,16 @@
+T1	ORG 0 5	Zagat
+T2	ORG 74 79	Zagat
+T3	ORG 184 191	Zagatin
+T4	LOC 334 346	Yhdysvaltain
+T5	ORG 384 395	WellPointin
+T6	PER 591 606	Nina S. Zagatin
+T7	ORG 690 697	Zagatin
+T8	LOC 885 899	Rocky Hillissä
+T9	LOC 902 917	Connecticutissa
+T10	PER 942 960	Angelo S. Carrabba
+T11	ORG 984 989	Zagat
+T12	ORG 1135 1173	Connecticutin lääketieteellisen seuran
+T13	PER 1188 1205	William Handelman
+T14	PER 1429 1447	Ronald C. Thurston
+T15	LOC 1744 1752	Suomessa
+T16	ORG 1908 1918	Kvalion Oy

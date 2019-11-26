@@ -1,0 +1,14 @@
+T1	ORG 0 2	AL
+T2	ORG 191 200	Aamulehti
+T3	ORG 203 213	Aamulehden
+T4	PER 620 633	Antti Hakanen
+T5	LOC 777 783	Suomen
+T6	LOC 786 793	Ruotsin
+T7	LOC 797 803	Norjan
+T8	LOC 927 938	Hollannissa
+T9	LOC 942 956	Yhdysvalloissa
+T10	LOC 959 967	Suomessa
+T11	LOC 1032 1040	Suomessa
+T13	PER 1191 1205	Fia Westerholm
+T14	ORG 573 608	Terveyden ja hyvinvoinnin laitoksen
+T12	ORG 1127 1177	lääkealan turvallisuus- ja kehittämiskeskus Fimean

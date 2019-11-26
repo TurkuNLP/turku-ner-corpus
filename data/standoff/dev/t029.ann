@@ -1,0 +1,24 @@
+T1	ORG 0 8	Autobild
+T2	LOC 37 44	Suomeen
+T3	LOC 45 51	Suomen
+T4	PRO 98 109	Nissan Leaf
+T5	LOC 144 151	Suomeen
+T6	ORG 190 198	Nissanin
+T7	PRO 232 238	Leafin
+T8	LOC 250 257	Suomeen
+T9	ORG 387 395	Autobild
+T10	LOC 405 413	Suomessa
+T11	PRO 532 536	Leaf
+T12	PRO 735 741	Leafin
+T13	LOC 800 808	Suomessa
+T14	LOC 820 829	Tanskassa
+T15	LOC 833 841	Norjassa
+T16	PRO 907 920	Nissan Leafin
+T17	LOC 958 966	Norjasta
+T18	PRO 967 973	Leafin
+T19	LOC 1014 1023	Tanskasta
+T20	ORG 1046 1056	Autobildin
+T21	PRO 1064 1075	Nissan Leaf
+T22	LOC 1087 1094	Suomeen
+T23	ORG 166 180	Autobild-lehti
+T25	DATE 124 128	2011

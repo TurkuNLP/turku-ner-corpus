@@ -1,0 +1,3 @@
+Työssäkäyntialueen muodostavat keskuskunta ja ympäryskunnat , joiden työvoimasta vähintään 10 prosenttia käy töissä eli pendelöi keskuskunnassa .
+Myös yhden kunnan kautta keskuskuntaan vähintään 10 prosentin osuudella pendelöivät kunnat luetaan työssäkäynti-alueeseen kuuluviksi .
+Pääsääntöisesti keskuskunnalla tarkoitetaan kuntaa , jonka työvoimasta enintään 25 prosenttia käy töissä muissa kunnissa , eikä siitä käy töissä missään muussa yksittäisessä kunnassa yli 10 prosenttia työvoimasta .

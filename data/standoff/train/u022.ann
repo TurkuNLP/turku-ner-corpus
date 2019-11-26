@@ -1,0 +1,19 @@
+T1	ORG 0 15	Turun yliopisto
+T2	ORG 57 75	Turun yliopistosta
+T3	ORG 264 289	Turun kauppakorkeakouluun
+T4	ORG 301 316	Turun yliopisto
+T5	ORG 320 343	Turun kauppakorkeakoulu
+T6	ORG 494 509	Turun yliopisto
+T7	ORG 589 612	Turun kauppakorkeakoulu
+T8	ORG 622 638	Turun yliopistoa
+T9	PER 689 703	Keijo Virtanen
+T10	ORG 757 780	Turun kauppakorkeakoulu
+T11	PRO 1015 1053	Luonnontieteet tutuksi -verkkosivuston
+T12	PER 1155 1168	Petri Sjöblom
+T13	LOC 1186 1192	Suomen
+T14	ORG 1221 1237	Turun yliopiston
+T15	ORG 1324 1342	Turun yliopistossa
+T16	DATE 356 364	1.1.2010
+T17	DATE 1346 1357	vuonna 2010
+T18	DATE 1420 1429	toukokuun
+T19	DATE 1483 1492	heinäkuun

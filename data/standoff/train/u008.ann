@@ -1,0 +1,8 @@
+T1	ORG 285 321	Varsinais-Suomen sairaanhoitopiiriin
+T2	ORG 417 458	Turun yliopiston hoitotieteen laitoksella
+T3	PER 555 570	Sanna Salanterä
+T4	PER 732 741	Salanterä
+T5	DATE 74 79	29.4.
+T6	EVENT 42 73	Kliinisen hoitotieteen päivässä
+T7	EVENT 140 168	Kliinisen hoitotieteen päivä
+T8	DATE 199 205	29.4 .

@@ -1,0 +1,35 @@
+Avoimien ohjelmien päivä 8.3.2008
+Turun seudun vapaiden ohjelmien käyttäjien ryhmä , Turuxi , järjesti ICT-talolla 8.3. Avoimien ohjelmien päivän .
+AOP on vuosittain Turuxin Turussa järjestämä seminaaritapahtuma , jonka tarkoituksena on korostaa avoimien ohjelmien käyttöä ja tuoda esiin ihmisten kokemuksia tällä saralla .
+Tänä vuonna AOP keskittyi vapaiden ohjelmien ammattikäyttöön työelämässä .
+Tapahtuma veti lauantaipäivälle noin 60 vierasta Beta-saliin sekä vajaa kymmenkunta näytteilleasettajaa ICT-talon käytäville .
+Näytteilleasettajien joukossa olivat yrityksistä mm. Suomen opensource-keskus COSS , IT-mill , Globate ja yhdistyksistä sekä yhteisöistä Effi ry. , Ubuntu Suomi ja OpenOffi cen Suomen lokalisaatiotiimi .
+Salin puolella yleisö sai nauttia neljästä pääpuhujasta sekä seitsemästä viiden minuutin salamapuheesta .
+Supertietokoneista koululaisiin
+Päivän seminaarit aloitti Finnish Linux User Groupin Arto Teräs .
+Seminaarin aiheena oli Linuxin levinneisyys eri alustoille , aina kännykästä supertietokoneisiin .
+Seminaari antoi kuulijoille hyvän käsityksen siitä , mihin kaikkeen Linux nykyään kykenee ja missä sitä käytetään kaupallisesti .
+Seminaari käsitteli myös Linuxin ympärille muodostuneen yhteisön vaikutusta sen levinneisyyteen sekä alustariippumattomuuteen , ja myös muutamat tärkeimmät lisensointimallit esiteltiin .
+Arto Teräksen jälkeen lavalle astui Ubuntu Suomen yhteisöistäkin tuttu Asmo Koskinen .
+Asmo Koskinen ylläpitää ja kehittää vakinaisen toimensa ohella Noormarkussa koulun päätejärjestelmää .
+Seminaariluento valotti hyvin ongelmia ja käytännön haasteita , joita päätejärjestelmän käyttöönotossa sekä päivittäisessä käytössä voi esiintyä , mutta toisaalta myös kertoi siitä saaduista kustannussäästöistä niin laitehankinnoissa kuin ylläpidossa .
+Samalla tutuksi tuli myös Linux Terminal Server Projectin seuraava version LTSP 5 , joka parantaa edelleen Linuxin päätekäyttöä .
+Myös seminaarivierailla oli kysymyksiä Asmolle sekä käyttökokemuksia muista päätejärjestelmiä käyttävistä kouluista .
+Paikannusjärjestelmät ja sulautetut laitteet
+Toimituksen nautittua lounaan läheisessä kuppilassa seminaaria jatkettiin Globate Oy:n toimesta .
+Globate on turkulainen karttoihin ja paikantamiseen erikoistunut yritys .
+Globaten Teemu Välimäki puhui vapaiden ohjelmien taloudellisista ja eettisistä eduista yritykselle .
+Valitettavasti luennosta jäi käteen hieman kaupallisen esittelyn maku , eikä taloudellisia tai eettisiä näkökohtia käsitelty kovinkaan kattavasti .
+Myös hämmästystä aiheutti se , ettei avoimen lähdekoodin puolestapuhuja mainospuheistaan huolimatta tarjonnut omaa ohjelmistoaan avoimena vielä artikkelin kirjoitushetkelläkään .
+Mainospuheiden jälkeen päivän päätti Inoi Oy:n Tommi Virtanen .
+Tommin aihe oli , ainakin allekirjoittaneen mielestä , päivän konkreettisin esimerkki siitä , miten avoin lähdekoodi ja Linux valtaavat uusia alueita sulautetuissa laitteissa .
+Esitelmä käsitteli taloudellisia aspekteja , laitetukea ja käytännön ongelmia , joita sulautettujen laitteiden parissa tulee vastaan .
+Samalla käytiin myös läpi Linuxin mahdollisuuksia tällä saralla .
+Tommin luento sai myös erittäin positiivisen vastaanoton yleisöltä .
+Salamapuheista pieniä tiedonpalasia
+Virallisten puhujien jälkeen halukkailla oli vielä mahdollisuus esitellä aihettaan tai kiinnostuksen kohdettaan salamapuheilla .
+Salamapuhe on maksimissaan viiden minuutin esitelmä vapaavalintaisesta , edes jotenkin päivän aihetta sivuavasta , aiheesta
+Salamapuheista mieleen jäivät ainakin Effi ry:n esittely ja mielenkiintoinen avoimen lähdekoodin Ajatus-CRM .
+Kaikin puolin Avoimien ohjelmistojen päivä oli onnistunut , mitä nyt allekirjoittaneen töpeksinnän takia jäivät käytävien valot saamatta .
+Kiitosta tuli myös Turuxin taholta tiloista , jotka Asteriski ry oli ICT:ltä hankkinut .
+Suosittelen siis kaikkia , joissa tämä artikkeli sai edes pienen kiinnostuksen heräämään , tutustumaan tapahtumaan ensi vuonnakin .

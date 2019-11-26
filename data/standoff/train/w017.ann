@@ -1,0 +1,17 @@
+T1	ORG 0 24	Espoon Kaupunginteatteri
+T2	LOC 28 36	Espoossa
+T3	ORG 99 114	Espoon Teatteri
+T4	ORG 173 198	Espoon Kaupunginteatterin
+T5	PER 232 246	Jussi Helminen
+T6	ORG 305 332	Espoon Kaupunginteatterilla
+T7	LOC 433 441	Tapiolan
+T8	LOC 509 525	Revontulentiellä
+T9	DATE 79 90	vuonna 1988
+T10	DATE 152 163	vuoden 2000
+T11	DATE 220 231	vuonna 2000
+T12	DATE 249 260	Vuonna 2005
+T13	LOC 470 490	Kulttuurikeskuksessa
+T14	LOC 376 385	Louhisali
+T15	LOC 389 403	Revontulihalli
+T16	LOC 460 469	Louhisali
+T17	LOC 494 508	Revontulihalli

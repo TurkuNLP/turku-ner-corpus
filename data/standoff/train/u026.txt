@@ -1,0 +1,17 @@
+Palkinto terveydenhuollon kieliteknologiaa kehittävälle konsortiolle
+Turun kauppakamari ja Uuden Teknologian Säätiö valitsivat IKITIK-konsortion vuoden ICT-teoksi .
+Erilaisten tietojen hallinta on keskeinen osa terveydenhuollon toimintaa .
+Rakenteettoman , usein tekstimuotoisen tiedon hallinta on keskeistä terveydenhuollon toiminnalle ja laadulle .
+Tämän tiedon hallinnassa on kuitenkin useita erityisongelmia .
+- IKITIK-konsortio on tarttunut tähän ongelmaan ansiokkaasti .
+Se on pystynyt erinomaisella tavalla yhdistämään usean eri alan osaamista kokonaisuudeksi , joka on tuottanut näkyviä tuloksia sekä perustutkimuksen , soveltavan tutkimuksen , käytännön toiminnan tukemisen , tuotteistamisen että asian julkistamisen ja kansantajuistamisen rintamilla , sanotaan Turun kauppakamarin ja Uuden Teknologian Säätiön palkintoperusteissa .
+IKITIK-konsortiossa kehitetään terveystiedon ja -kommunikaation ratkaisuja uuden teknologian avulla .
+Konsortiossa rakennettu kliinisen suomen kielen työkalupaketti on havaittu toimivaksi koekäytössä TYKSin lastenklinikalla .
+- Työkalupaketti sisältää nykyisellään muun muassa oikeakielisyyden tarkistimia sekä suoran linkityksen tekstissä käytetyistä sanoista termiselityksiin ja käännöksiin , professori Tapio Salakoski Turun yliopiston informaatioteknologian laitokselta kertoo .
+Konsortiossa toimivat tällä hetkellä Turun yliopiston hoitotieteen ja informaatioteknologian laitokset , Turku Centre for Computer Science ( TUCS ) , Varsinais-Suomen sairaanhoitopiiri , Turku Science Park , Kites sekä kommunikaatioteknologiaan erikoistuneita yrityksiä , kuten Lingsoft ja Acentra .
+- Konsortion työ on hyvä osoitus Turun yliopiston yhteiskunnallisesta vaikuttamisesta ja monitieteisyydestä : eri tieteiden ja alojen toimijat löytävät uusia innovaatioita yhdistämällä voimansa , Salakoski sanoo .
+Hoitotiede tuo konsortioon professori Sanna Salanterän johdolla esimerkiksi tietoa kliinisestä kirjaamisesta ja päätöksenteosta .
+Monitieteisessä yhteistyössä lingvististä näkökulmaa edustaa mm. ranskan kielen tutkija Veronika Laippala .
+TUCSin bioinformatiikan laboratorio kehittää professori Salakosken johdolla työkaluja aineistojen analysointiin .
+Yritykset ovat osallistuneet yhteistyöhön tukemalla tutkimusta sekä omien tuotekehitysprojektiensa muodossa .
+Konsortion kielityökaluja on tarkoitus ottaa käyttöön vuonna 2012 avautuvassa TYKSin uudessa T-sairaalassa .

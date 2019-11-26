@@ -1,0 +1,72 @@
+T1	ORG 10 38	EUROOPAN YHTEISÖJEN KOMISSIO
+T2	LOC 41 48	Bryssel
+T3	ORG 126 145	Euroopan yhteisöjen
+T4	LOC 177 196	Tunisian tasavallan
+T5	ORG 415 431	Euroopan unionin
+T6	LOC 435 445	Barcelonan
+T7	ORG 507 511	EU:n
+T8	LOC 525 534	Välimeren
+T9	ORG 978 982	EU:n
+T10	LOC 986 994	Tunisian
+T16	ORG 1467 1483	Euroopan unionin
+T17	LOC 1491 1500	Välimeren
+T18	LOC 1560 1570	Barcelonan
+T19	LOC 1626 1635	Välimeren
+T20	ORG 1751 1755	EU:n
+T21	LOC 1759 1767	Tunisian
+T22	ORG 2078 2082	EU:n
+T23	ORG 2196 2214	Euroopan unionista
+T24	LOC 2674 2682	Tunisian
+T25	ORG 2748 2767	Euroopan yhteisöjen
+T26	LOC 2799 2818	Tunisian tasavallan
+T27	ORG 2973 2998	EUROOPAN UNIONIN NEUVOSTO
+T28	PRO 3021 3059	Euroopan yhteisön perustamissopimuksen
+T29	ORG 3188 3207	Euroopan yhteisöjen
+T30	LOC 3239 3258	Tunisian tasavallan
+T31	ORG 3573 3592	Euroopan yhteisöjen
+T32	LOC 3624 3643	Tunisian tasavallan
+T33	ORG 3937 3954	Euroopan yhteisön
+T34	ORG 3983 4014	Tunisian tasavallan hallituksen
+T35	ORG 4098 4116	Euroopan komission
+T36	ORG 4161 4178	Euroopan yhteisön
+T37	ORG 4303 4321	Euroopan unionista
+T38	ORG 4361 4365	EU:n
+T39	ORG 4432 4436	EU:n
+T40	LOC 4578 4589	Brysselissä
+T41	ORG 4686 4723	EU:N JA TUNISIAN ASSOSIAATIONEUVOSTON
+T43	ORG 4801 4837	EU:n ja Tunisian assosiaationeuvosto
+T45	ORG 4860 4879	Euroopan yhteisöjen
+T46	LOC 4911 4930	Tunisian tasavallan
+T47	ORG 5166 5182	Euroopan unionin
+T48	LOC 5190 5199	Välimeren
+T49	ORG 5724 5728	EU:n
+T50	LOC 5742 5751	Välimeren
+T51	ORG 5995 5999	EU:n
+T52	LOC 6069 6078	Välimeren
+T53	LOC 6145 6155	Barcelonan
+T54	ORG 6561 6609	Euroopan unionin ja Tunisian assosiaatiokomitean
+T56	ORG 6897 6901	EU:n
+T57	LOC 6905 6913	Tunisian
+T58	ORG 7235 7296	EU:n ja Tunisian alakomitea nro 7 Ihmisoikeudet ja demokratia
+T61	ORG 7349 7366	Euroopan yhteisön
+T62	ORG 7395 7426	Tunisian tasavallan hallituksen
+T63	ORG 7975 7979	EU:n
+T64	LOC 7983 7991	Tunisian
+T65	LOC 8825 8833	Tunisian
+T66	ORG 9079 9083	EU:n
+T67	LOC 9087 9095	Tunisian
+T68	ORG 9465 9483	Euroopan komission
+T69	ORG 9497 9528	Tunisian tasavallan hallituksen
+T70	DATE 49 58	8.12.2006
+T71	DATE 1027 1053	1 päivänä maaliskuuta 1998
+T72	DATE 3314 3340	17 päivänä heinäkuuta 1995
+T73	DATE 3362 3388	1 päivänä maaliskuuta 1998
+T74	DATE 4673 4681	1.6.2006
+T76	PRO 229 253	Euro–Välimeri-sopimuksen
+T77	PRO 600 624	Euro–Välimeri-sopimuksia
+T78	PRO 783 808	Euro–Välimeri-sopimuksiin
+T79	PRO 2851 2875	Euro–Välimeri-sopimuksen
+T80	PRO 3292 3313	Euro–Välimeri-sopimus
+T81	PRO 3678 3704	Euro–Välimeri-sopimuksella
+T82	PRO 4963 4987	Euro–Välimeri-sopimuksen
+T83	PRO 5813 5837	Euro–Välimeri-sopimuksia

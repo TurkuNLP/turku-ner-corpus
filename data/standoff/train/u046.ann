@@ -1,0 +1,28 @@
+T1	EVENT 79 105	ICT ShowRoom -tapahtumassa
+T2	EVENT 185 217	ICT Kampus -rekrytointitapahtuma
+T3	EVENT 246 272	ICT ShowRoom -tapahtumassa
+T4	ORG 273 289	Turun yliopiston
+T5	ORG 292 304	Åbo Akademin
+T6	ORG 308 333	Turun ammattikorkeakoulun
+T8	PER 457 471	Jouko Lehtosen
+T9	PER 668 676	Lehtonen
+T10	PER 832 840	Lehtonen
+T11	PRO 881 897	" Green Pooler "
+T12	PER 1276 1290	Ilia Vassiliev
+T13	ORG 1488 1513	Turun ammattikorkeakoulun
+T14	PER 1531 1543	Markus Åfelt
+T15	LOC 1675 1683	Suomessa
+T16	LOC 1687 1696	Venäjällä
+T17	PER 1699 1704	Åfelt
+T18	EVENT 1755 1787	ICT Kampus -rekrytointitapahtuma
+T19	ORG 1900 1907	Fujitsu
+T20	ORG 1911 1918	Affecto
+T21	ORG 1936 1958	Funet Network Services
+T22	PER 2220 2231	Jari Rajala
+T23	ORG 2269 2283	Åbo Akademissa
+T24	PER 2295 2307	Niklas Björk
+T25	PER 2407 2412	Björk
+T26	PER 2445 2450	Björk
+T27	DATE 63 68	11.3.
+T28	ORG 388 415	Turun ammattikorkeakoulussa
+T7	LOC 1714 1725	ICT-talossa

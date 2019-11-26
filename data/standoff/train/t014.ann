@@ -1,0 +1,72 @@
+T1	LOC 46 58	Yhdysvaltain
+T2	LOC 253 264	Yhdysvallat
+T3	LOC 487 499	Yhdysvaltoja
+T4	ORG 592 599	Moody's
+T5	LOC 609 621	Yhdysvaltoja
+T6	ORG 683 700	Standard & Poor's
+T7	ORG 704 717	Fitch Ratings
+T8	LOC 730 742	Yhdysvaltoja
+T9	LOC 806 818	Yhdysvaltain
+T10	ORG 965 972	Moody's
+T11	LOC 1002 1014	Yhdysvaltain
+T12	ORG 1542 1551	Moody'sin
+T13	ORG 1555 1574	Standard & Poor'sin
+T14	LOC 1601 1613	Yhdysvaltain
+T15	ORG 1651 1658	S & P:n
+T16	ORG 1702 1707	S & P
+T17	LOC 1813 1831	Pohjois-Amerikasta
+T18	LOC 1848 1860	Yhdysvaltain
+T19	LOC 1869 1875	Kanada
+T20	LOC 1940 1955	Uutta-Seelantia
+T21	LOC 1959 1969	Singaporea
+T22	LOC 1972 1982	Euroopassa
+T23	LOC 2020 2025	Saksa
+T24	LOC 2028 2034	Ranska
+T25	LOC 2038 2047	Britannia
+T26	LOC 2076 2081	Suomi
+T27	LOC 2084 2090	Ruotsi
+T28	LOC 2093 2099	Tanska
+T29	LOC 2103 2108	Norja
+T30	ORG 2153 2178	Automatic Data Processing
+T31	ORG 2181 2192	Exxon Mobil
+T32	ORG 2195 2212	Johnson & Johnson
+T33	ORG 2215 2224	Microsoft
+T34	ORG 2225 2230	Fitch
+T36	LOC 2307 2313	Suomen
+T37	LOC 2336 2341	Suomi
+T38	ORG 2381 2402	Standard & Poor'silta
+T39	ORG 2406 2417	Moody'silta
+T40	LOC 2420 2427	Ranskan
+T41	ORG 2443 2466	Wall Street Journalissa
+T42	LOC 2496 2509	Yhdysvaltojen
+T43	LOC 2518 2525	Ranskan
+T44	ORG 2572 2606	Kansainvälinen valuuttarahasto IMF
+T46	LOC 2622 2629	Ranskaa
+T48	ORG 2867 2888	Wall Street Journalin
+T49	LOC 2901 2910	Britannia
+T50	LOC 2965 2972	Ranskan
+T51	LOC 3015 3023	Euroopan
+T52	LOC 3051 3057	Ranska
+T53	LOC 3061 3066	Saksa
+T54	ORG 3219 3236	Standard & Poor's
+T55	ORG 3291 3302	Microsoftin
+T56	ORG 3305 3310	ADP:n
+T57	ORG 3313 3326	Exxon Mobilin
+T58	ORG 3330 3349	Johnson & Johnsonin
+T59	PER 3387 3403	Warren Buffettin
+T60	ORG 3404 3421	Berkshire Hathway
+T61	LOC 3637 3645	Suomessa
+T62	ORG 3653 3656	ADP
+T63	ORG 3661 3686	Automatic Data Processing
+T64	ORG 3763 3772	Moody'sin
+T66	DATE 622 636	13. heinäkuuta
+T67	DATE 2271 2285	20. heinäkuuta
+T68	ORG 2240 2254	Suomen valtion
+T35	ORG 2761 2776	Ranskan valtion
+T47	ORG 3856 3876	Yhdysvaltain valtion
+T65	PRO 2255 2270	AAA-luokituksen
+T69	PRO 2428 2431	AAA
+T70	PRO 1731 1736	AAA:n
+T71	PRO 1296 1308	AAA-luokitus
+T72	PRO 1529 1541	AAA-luokitus
+T45	LOC 2050 2063	Pohjoismaista

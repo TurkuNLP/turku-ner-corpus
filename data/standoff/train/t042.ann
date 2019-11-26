@@ -1,0 +1,34 @@
+T1	LOC 0 13	Yhdysvaltojen
+T2	LOC 39 53	Helsingissäkin
+T4	LOC 142 152	Helsinkiin
+T5	LOC 153 167	Yhdysvalloista
+T6	LOC 256 268	Yhdysvaltain
+T7	PRO 336 340	OMXH
+T8	PRO 366 374	OMXH Cap
+T9	ORG 453 459	Nokiaa
+T10	ORG 482 488	Nokian
+T11	ORG 527 532	Metso
+T12	ORG 535 540	Sampo
+T13	ORG 543 550	Outotec
+T14	ORG 554 560	Fortum
+T15	ORG 577 582	Metso
+T16	LOC 617 627	Arizonasta
+T17	LOC 708 722	Yhdysvalloissa
+T18	LOC 725 735	Meksikossa
+T19	LOC 739 748	Kanadassa
+T20	ORG 802 811	Outotecin
+T21	ORG 851 860	Danskelta
+T22	ORG 886 897	Neste Oilin
+T23	ORG 961 974	Credit Suisse
+T24	ORG 981 992	Neste Oilin
+T25	LOC 1076 1083	Virossa
+T26	ORG 1108 1120	Reola Gaasin
+T27	ORG 1230 1237	Sanoman
+T28	ORG 1295 1307	Ålandsbanken
+T29	ORG 1311 1316	Ilkka
+T30	ORG 1349 1361	Ålandsbanken
+T31	ORG 1577 1582	Ilkka
+T32	ORG 1723 1730	Soprano
+T33	ORG 67 86	Helsingin pörssissä
+T3	ORG 1134 1150	Alexela-yhtiölle
+T34	ORG 1153 1167	Pohjola-pankki

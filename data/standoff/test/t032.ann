@@ -1,0 +1,20 @@
+T1	ORG 100 127	työ- ja elinkeinoministeriö
+T2	ORG 495 531	työ- ja elinkeinoministeriön ( TEM )
+T4	ORG 645 652	TEM:llä
+T5	LOC 708 716	Suomessa
+T6	PER 1032 1047	Heikki Räisänen
+T7	ORG 1048 1054	TEM:tä
+T8	ORG 1055 1070	Taloussanomille
+T9	PER 1384 1392	Räisänen
+T10	PER 1402 1410	Räisänen
+T11	LOC 1572 1578	Suomen
+T12	PER 2201 2209	Räisänen
+T13	ORG 2616 2621	TEM:n
+T14	ORG 2788 2793	TEM:n
+T15	PER 3015 3030	Heikki Räisäsen
+T16	ORG 3198 3203	TEM:n
+T17	DATE 324 335	Vuonna 2009
+T18	ORG 532 548	Tilastokeskuksen
+T19	DATE 2027 2039	vuoteen 2008
+T20	DATE 1927 1938	vuonna 2009
+T21	DATE 2859 2870	vuonna 2009

@@ -1,0 +1,22 @@
+T1	ORG 0 8	Nokialta
+T2	ORG 51 56	Nokia
+T3	ORG 76 85	Microsoft
+T4	ORG 164 169	Nokia
+T5	ORG 271 277	Nokian
+T6	ORG 281 292	Microsoftin
+T7	ORG 317 323	Nokian
+T8	ORG 349 360	Microsoftin
+T9	PRO 390 421	Windows Phone-käyttöjärjestelmä
+T10	ORG 444 450	Nokian
+T11	PRO 477 484	Sea Ray
+T12	ORG 501 506	Nokia
+T13	ORG 510 519	Microsoft
+T14	LOC 585 591	Saksan
+T15	LOC 592 600	Kölnissä
+T16	ORG 708 714	Nokian
+T17	ORG 718 729	Microsoftin
+T18	DATE 116 128	17. elokuuta
+T20	DATE 601 613	17. elokuuta
+T21	EVENT 666 685	GamesCom-tapahtuman
+T22	DATE 222 229	elokuun
+T19	PRO 429 441	Mango-versio

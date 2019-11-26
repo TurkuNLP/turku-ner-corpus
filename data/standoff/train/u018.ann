@@ -1,0 +1,32 @@
+T1	ORG 319 335	Turun yliopiston
+T2	PER 348 362	Harri Lönnberg
+T3	ORG 381 406	Uuden Teknologian Säätiön
+T4	EVENT 419 469	" Uusi yliopisto ja aluetehtävä " -teemailtapäivän
+T5	PER 486 500	Emma Vironmäki
+T6	PER 504 517	Leena Jokinen
+T7	ORG 660 705	Turun yliopiston tulevaisuuden tutkimuskeskus
+T8	PER 727 736	Vironmäen
+T9	PER 740 747	Jokisen
+T10	PRO 770 799	Uusi yliopisto ja aluetehtävä
+T11	PER 820 827	Jokinen
+T12	PER 831 840	Vironmäki
+T13	PER 1137 1150	Leena Jokinen
+T14	PER 1345 1354	Vironmäki
+T15	PER 1730 1739	Vironmäen
+T16	PER 1743 1750	Jokisen
+T17	PER 2018 2032	Harri Lönnberg
+T18	PER 2431 2439	Lönnberg
+T19	ORG 2574 2598	Turun kauppakorkeakoulun
+T20	PER 2623 2635	Antti Paasio
+T21	PER 2647 2653	Paasio
+T22	ORG 2686 2729	BID Innovaatiot ja yrityskehitys -yksikössä
+T23	ORG 2758 2795	Turku Innovation Platformissa ( TIP )
+T25	ORG 2798 2805	TIPissä
+T27	ORG 3002 3023	Karolinska Institutet
+T28	ORG 3027 3054	Kungliga Tekniska högskolan
+T29	PRO 3254 3275	Innovation and Growth
+T30	ORG 3393 3399	TUCSin
+T31	ORG 3403 3432	Kungliga Tekniska högskolanin
+T32	PER 3457 3463	Paasio
+T33	DATE 470 476	21.4 .
+T34	DATE 715 726	vuonna 2009

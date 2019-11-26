@@ -1,0 +1,27 @@
+T1	ORG 232 245	Taloussanomat
+T2	LOC 870 879	Helsingin
+T3	PER 924 934	Pekka Mäki
+T4	ORG 987 1002	Taloussanomille
+T5	PER 1530 1540	Pekka Mäki
+T6	ORG 1554 1561	Nordean
+T7	PER 1590 1602	Anu Numminen
+T8	PER 1804 1812	Numminen
+T9	LOC 2584 2592	Suomessa
+T10	ORG 3353 3360	Nordean
+T11	PER 3361 3373	Anu Nummisen
+T12	LOC 4085 4094	Helsingin
+T13	PER 4121 4131	Pekka Mäki
+T14	PER 4246 4250	Mäen
+T15	PER 4628 4632	Mäki
+T16	ORG 5336 5343	Nordean
+T17	PER 5344 5352	Nummisen
+T18	ORG 5583 5593	Peluurissa
+T19	ORG 5596 5604	Peluurin
+T20	PER 5742 5753	Mari Pajula
+T21	PER 6061 6067	Pajula
+T22	ORG 6385 6392	Nordean
+T23	PER 6393 6405	Anu Numminen
+T24	PER 6764 6772	Numminen
+T25	DATE 3039 3050	Vuonna 2010
+T26	ORG 4719 4735	Kuluttajavirasto
+T27	ORG 3250 3285	Oikeuspoliittisen tutkimuslaitoksen

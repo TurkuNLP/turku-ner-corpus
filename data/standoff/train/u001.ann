@@ -1,0 +1,20 @@
+T1	ORG 42 45	SKS
+T2	LOC 56 62	Suomen
+T3	LOC 164 170	Suomen
+T4	PER 192 213	Kirsi Vainio-Korhonen
+T5	ORG 214 232	Turun yliopistosta
+T6	ORG 235 263	Suomen Historiallisen Seuran
+T7	PRO 293 375	" Huoneentaulun maailma . Kasvatus ja koulutus Suomessa keskiajalta 1860-luvulle "
+T8	LOC 1822 1829	Ruotsin
+T9	PER 2089 2110	Kirsi Vainio-Korhonen
+T10	LOC 2398 2406	Suomessa
+T11	LOC 2699 2729	Naantalin birgittalaisluostari
+T12	LOC 2830 2838	Suomessa
+T13	ORG 2906 2911	SKS:n
+T14	LOC 2925 2936	Helsingissä
+T15	PER 3005 3020	Vainio-Korhonen
+T16	ORG 3083 3099	Turun yliopiston
+T17	PER 3162 3174	Anu Lahtinen
+T18	PER 3178 3193	Liisa Lagerstam
+T19	DATE 461 472	vuoden 1920
+T24	DATE 2897 2905	6.5.2010

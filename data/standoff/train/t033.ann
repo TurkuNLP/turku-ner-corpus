@@ -1,0 +1,22 @@
+T1	PER 0 5	Putin
+T2	LOC 8 19	Yhdysvallat
+T3	LOC 39 46	Venäjän
+T4	PER 60 74	Vladimir Putin
+T5	LOC 83 95	Yhdysvaltoja
+T6	LOC 195 202	Venäjän
+T7	PER 216 230	Vladimir Putin
+T8	LOC 238 250	Yhdysvaltoja
+T9	ORG 290 313	The Wall Street Journal
+T10	LOC 318 329	Yhdysvallat
+T11	PER 407 412	Putin
+T12	LOC 480 491	Yhdysvallat
+T13	PER 515 522	Putinin
+T14	LOC 544 556	Yhdysvaltain
+T15	PER 623 628	Putin
+T16	LOC 692 703	Yhdysvallat
+T17	LOC 731 743	Yhdysvaltain
+T18	LOC 828 842	Yhdysvalloilla
+T19	LOC 943 952	Venäjällä
+T20	LOC 1038 1045	Venäjän
+T21	ORG 1062 1077	Deutsche Bankin
+T22	DATE 816 827	vuonna 2007

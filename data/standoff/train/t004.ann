@@ -1,0 +1,19 @@
+T3	ORG 269 272	UPM
+T4	ORG 332 349	Helsingin pörssin
+T6	ORG 418 424	Nokian
+T7	ORG 472 477	UPM:n
+T8	ORG 543 548	UPM:n
+T9	ORG 632 637	UPM:n
+T10	ORG 723 728	UPM:n
+T11	LOC 820 829	Eurooppaa
+T12	PRO 832 857	Stoxx Europe 600 -indeksi
+T13	PRO 984 1000	Stoxx Europe 600
+T14	ORG 1100 1109	Bloomberg
+T15	LOC 1160 1172	Yhdysvaltain
+T16	LOC 1219 1226	Italian
+T17	LOC 1230 1238	Espanjan
+T18	DATE 497 513	huhti–kesäkuussa
+T19	DATE 1013 1024	helmikuussa
+T20	ORG 103 122	Helsingin pörssissä
+T2	ORG 54 73	Helsingin pörssissä
+T1	PRO 363 367	OMXH

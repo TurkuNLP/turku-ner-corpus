@@ -1,0 +1,6 @@
+Kermakakku
+Ihan yksinkertaista perustäytekakkua , kerma sellaista ...
+Kakussa on 7 munan sokerikakkupohja .
+Kakun kostutusliemenä käytin jälleen Spriteä .
+Täytteenä on kinuskikermavaahtoa ja kotimaisia vadelmia ja toisessa välissä säilykepersikkaa ja sitruunarahka-kermaseosta .
+Mantelilastut ovat 200 asteisessa uunissa paahdettuja ja jäähtyneinä niitä hieman sormin murskasin pienemmiksi .

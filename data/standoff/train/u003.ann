@@ -1,0 +1,43 @@
+T1	PER 0 8	Agricola
+T2	ORG 138 154	Turun yliopiston
+T3	ORG 220 248	Savonlinnan normaalikoulusta
+T4	LOC 282 287	Turun
+T5	LOC 430 444	Turun linnasta
+T6	ORG 468 478	Aboa Vetus
+T7	PER 497 509	Heli Lepistö
+T8	ORG 591 607	Turun yliopiston
+T9	PER 622 630	Agricola
+T10	PER 778 786	Agricola
+T11	ORG 835 851	Turun yliopiston
+T12	PER 984 1004	Eeva-Maria Soikkanen
+T13	PER 1007 1015	Agricola
+T14	PER 1093 1113	Eeva-Maria Soikkanen
+T16	PER 1307 1323	Mikael Agricolan
+T17	PER 1427 1436	Soikkanen
+T18	PER 1642 1651	Soikkanen
+T19	PER 1666 1674	Agricola
+T20	PER 1774 1783	Soikkanen
+T21	PER 1986 1995	Soikkanen
+T22	PER 2010 2017	Lönnrot
+T23	PER 2020 2028	Runeberg
+T24	PER 2032 2040	Snellman
+T26	LOC 2156 2166	Helsinkiin
+T27	PER 2169 2173	Outi
+T28	PER 2187 2195	Agricola
+T30	PER 2328 2348	Eeva-Maria Soikkanen
+T31	PER 2400 2407	Lönnrot
+T32	PER 2441 2449	Snellman
+T33	LOC 2450 2460	Helsinkiin
+T34	PER 2464 2472	Runeberg
+T35	LOC 2473 2483	Paraisille
+T36	EVENT 2576 2587	Turun paloa
+T37	PER 2590 2599	Soikkanen
+T38	LOC 257 269	Tuomiokirkon
+T39	LOC 759 775	Yliopistonmäellä
+T40	LOC 730 742	Tuomiokirkon
+T41	LOC 1146 1158	Tuomiokirkon
+T42	LOC 1177 1183	Suomen
+T44	LOC 1967 1983	Yliopistonmäellä
+T45	ORG 2056 2081	Turun vanhaan yliopistoon
+T51	LOC 2279 2287	Suomessa
+T52	PER 2502 2518	Fredika-vaimonsa

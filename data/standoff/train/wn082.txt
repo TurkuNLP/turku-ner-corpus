@@ -1,0 +1,3 @@
+SUN osti MySQL AB:n
+16. tammikuuta 2008 Tietokonejätti Sun Microsystems julkisti tänään ostavansa MySQL AB:n , jonka päätuote on maailman suosituin vapaan lähdekoodin tietokantaohjelmisto MySQL .
+Kokonaiskauppahinta on noin miljardi dollaria .

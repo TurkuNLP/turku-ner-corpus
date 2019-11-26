@@ -1,0 +1,45 @@
+T1	LOC 0 13	Senkakusaaret
+T2	LOC 28 41	Senkaku-shotō
+T3	LOC 102 109	Japanin
+T4	LOC 124 147	Kiinan kansantasavallan
+T5	LOC 153 170	Kiinan tasavallan
+T6	LOC 206 224	Itä-Kiinan merellä
+T7	LOC 246 256	Taiwanista
+T8	LOC 271 281	Okinawasta
+T9	LOC 370 385	Pinnaclesaarina
+T10	LOC 422 445	Kiinan kansantasavallan
+T11	LOC 449 456	Japanin
+T12	LOC 516 553	Kiinan tasavallan ja kansantasavallan
+T13	LOC 695 708	Uotsuri-jiman
+T14	LOC 726 736	Diàoyútáin
+T15	LOC 810 820	Uotsurilla
+T16	LOC 856 863	Japanin
+T17	ORG 864 884	Ishigakin kaupunkiin
+T18	LOC 885 908	Okinawan prefektuurissa
+T19	LOC 911 918	Japanin
+T20	LOC 1046 1052	Kiinan
+T21	LOC 1099 1108	Japanille
+T22	EVENT 1111 1131	Toisen maailmansodan
+T23	LOC 1179 1191	Yhdysvaltain
+T24	LOC 1228 1237	Japanille
+T25	LOC 1258 1264	Kiinan
+T26	LOC 1373 1381	Taiwanin
+T27	LOC 1394 1399	Kiina
+T28	LOC 1409 1417	Taiwanin
+T29	LOC 1418 1427	Japanille
+T30	LOC 1442 1455	Senkakusaaret
+T31	LOC 1463 1469	Kiinan
+T32	LOC 1481 1489	Taiwanin
+T33	LOC 1531 1539	Kiinalle
+T34	EVENT 1540 1560	toisen maailmansodan
+T35	LOC 48 63	Diàoyútáisaaret
+T36	LOC 80 96	Diàoyútái qúndǎo
+T37	LOC 301 314	Ryūkyūsaarten
+T38	DATE 956 969	vuodesta 1895
+T39	LOC 1158 1171	Ryūkyūsaarten
+T41	DATE 1325 1336	vuonna 1403
+T42	DATE 1428 1439	vuonna 1895
+T40	LOC 21 25	尖閣諸島
+T43	LOC 72 77	釣魚台群島
+T44	LOC 716 719	魚釣島
+T45	LOC 745 748	釣魚台

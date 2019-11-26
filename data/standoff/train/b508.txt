@@ -1,0 +1,34 @@
+HS-vaalikone ja ehdokkaiden kotisivujen hakukonenäkyvyys
+Jos minua Twitterissä eilen seurasi , onkin tästä asiasta jo melko lailla perillä .
+Kirjoitan kuitenkin ihan selvyyden vuoksi tämän tekstin ja kerron hiukan tarkemmin , mitä tein .
+Tekninen puoli on tekstin lopussa , eli jos koodi kiinnostaa , mene suoraan sinne :)
+HS-vaalikoneen datassa on noin 1600 ehdokkaan kotisivut .
+Niiden hakukonenäkyvyyden mittaamiseen on olemassa eräs helpohko tapa ( tai helppo ja helppo ) : backlinkkien lukumäärä .
+Backlink tarkoittaa käytännössä niiden ulkopuolisten linkkien lukumäärää , jotka osoittavat tietylle sivustolle .
+Mitä enemmän kyseisiä linkkejä on , sitä parempi hakukonenäkyvyys sillä sivustolla on , johon ne viittaavat .
+Backlinkkien kokonaislukumäärän saa selville hakukoneiden tarjoamasta datasta .
+Vaikka Google onkin hyvä hakukone , se ei vedä vertoja tässä asiassa Yahoolle .
+Google ei nimittäin anna kaikkien backlinkkien lukumäärää , Yahoo taas antaa .
+Tämä on siis syy , jonka takia olen käyttänyt Yahoota .
+@digikim kyseli Twitterissä , olisiko mahdollista analysoida backlinkkaajien sivustoja eli muodostaa eräänlainen politiikan pagerank .
+Vastaus on kyllä ja ei .
+Googlen kautta se ei onnistu , Yahoon kautta onnistuu osittain .
+Yahoo rajoittaa palautettavien tulosten lukumäärän 100 kappaleeseen , joten joidenkin ehdokkaiden kohdalla olleiden kymmenien tuhansien backlinkkien läpikäynti ei tule onnistumaan .
+Backlink-data ( xml , csv , xlsx , sql )
+Pieni huomautus datasta :
+Joidenkin ehdokkaiden kotisivuna on puolueen kotisivu , joillakin oli facebookin etusivu , joillakin wordpressin etusivu .
+Nuo Facebook / Wordpress –arvot muutin nollille , sillä backlinkkien määrä liikkui miljardeissa ja ne vääristävät dataa todella paljon .
+Puolueen etusivuille vievien osoitteiden arvoja ei ole nollattu .
+Ääkkösiä sisältäneet sivut ovat myös nollilla , sillä Yahoon api ei jostain syystä pelittänyt niiden kanssa .
+Varmaan unohdinkin jotain , mutta kysykää ihmeessä jos kysyttävää .
+Niin , visualisointeja voisin ehkä noista tehdä , saa nähdä .
+Joku muukin voisi niistä yrittää jotakin vääntää :)
+Tekninen puoli ja koodia
+Kenties jotakuta kiinnostaa tämän takana oleva simppeli koodikin , joten laitetaan näytille kun kerta ohjelmointi-kategoriaan tämän postaan .
+PHP-skripti
+Tiedosto on kommentoitu suhteellisen hyvin ( ja epäselvästi ) , toiminta selvinnee sitä katsomalla .
+Yahoon APIn rate limitistä : kyseinen API on poistumassa käytöstä ja se korvataan Yahoo Query Languagella , joten noita limittejä on ilmeisesti tiukennettu .
+Yahoo lupaa yhdestä ip:stä 5000 kyselyä / per päivä , mutta minut bannattiin sieltä aina 300 kyselyn jälkeen .
+Ai miten kiersin bannit ?
+3G:n kautta saa aina uuden ip-osoitteen kun sinne yhdistää :P
+( tosin kerran skripti pysähtyi senkin takia kun kännykästä loppui akku ja välillä tuli timeouttia )

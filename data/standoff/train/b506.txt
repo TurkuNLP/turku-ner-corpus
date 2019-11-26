@@ -1,0 +1,19 @@
+Arduino : elektroniikkarakentelua ja ohjelmointia
+Tämä rakentelupuoli on jäänyt blogissa hiukan vähemmälle kirjoitusten määrässä kuin muut osiot , mutta tilanteeseen tulee todennäköisesti hiukan muutoksia .
+Ostin nimittäin Arduinon , tarkemmin sanottuna Arduino Unon , joka on avoimen lähdekoodin mikrokontrollerikehitysalusta ( open-source electronics prototyping platform ) .
+Arduino on hyvin suosittu ympäri maailmaa , koska se on halpa , helppo ja nopeasti opittava alusta , jolla voi kehittää vaikka mitä yksinkertaisesta ledin vilkuttelusta 3D-tulostimiin saakka .
+Arduino on italialainen keksintö , mutta alustoja on saatavilla hyvin monia erilaisia .
+Pelkästään Arduino valmistaa noin kymmentä eri alustaa .
+Alustoja on saatavilla myös muiden valmistamina , koska Arduino on toteutettu avoimen lähdekoodin periaatteella .
+Ostin siis omiin tarpeisiini ainakin tällä hetkellä hyvin sopivan Arduino Unon , läjän komponetteja sekä USB-kaapelin .
+Nämä kustansivat postikuluineen 55,50 euroa .
+Kauppana toimi Paeae Technologies ( löysin Arduinon sivuilta ) , jota täytyy tässä kyllä kehaista ensinnäkin hyvin nopeasta toimituksesta ( tilasin lauantaina , eli paketti postitettiin eilen ja nyt jo kirjoitan tätä tekstiä ) ja toimivasta verkkokaupasta .
+Ostin seuraavat tuotteet : * Arduino Uno * Paeae Starter kit * USB-kaapeli
+Starter kit sisälsi jopa muutamia ylimääräisiä komponentteja , joten kaupan kuvauksessa luvatut kappalemäärät pitivät hyvin paikkansa .
+Arduinoon on saatavilla erilaisia ” laajennuksia ” , shieldejä , joilla sitä saa laajennettua esim. GPS-trackeriksi tai GSM-puhelimeksi .
+Ja mikä parasta , näihin on olemassa kaikkiin valmiina koodi , avoimena tietysti .
+Jotta saatte käsityksen Arduinon suosiosta ja mahdollisuuksista , suosittelen katsomaan nämä pätkät Youtubesta : Arduino High Speed Photography Trigger Collin's Lab : USB Hacking with Arduino
+Tarkoituksenani on aluksi hiukan harjoitella elektroniikkarakentelua ja Arduinon ohjelmointia ( ohjelmointi tapahtuu C/C++:n kaltaisella kielellä ) , jonka jälkeen lähden todennäköisesti kehittämään ainakin intervalliajastinta ja siihen moottoritoimista liikkuvaa jalustaa .
+Näiden lisäksi kiinnostavaa olisi tehdä myös high-speed salamatriggeri ja muutamia muita valokuvaukseen liittyviä sovelluksia .
+Noihin tavitsee kuitenkin kaikenlaista optoerottimista moottoreihin , joten opeteltavaa riittää .
+Halvempaa tämä kuitenkin on kuin kaiken ostaminen valmiina kaupasta ja samalla sentään opinkin jotain hyödyllistä .

@@ -1,0 +1,20 @@
+Savugeneraattori on asevoimien käyttämä suojautumisväline .
+Erityisesti toisen maailmansodan aikana keinoa käytettiin runsaasti .
+Savugeneraattori on yksinkertaisimmillaan eräissä moottoritorpedoveneissä ; venäläiset kehittivät erittäin suositun keinon : he laskivat erillisestä putkistosta raakaa naftaa torpedoveneen kuumiin pakoputkiin , jolloin nafta kiehui ja muodosti paksua savua .
+Savu purkautui pakoputkista ulos ja veneen ajaessa nopeasti sen taakse muodostui paksu ja hitaasti leviävä savupilvi , jolla esimerkiksi hyökkäävään torpedoveneosaston saattoi suojata .
+Näitä laitteita oli Suomessa neljä , kaikki sotasaalisveneissä : kolme Viima-luokan veneissä ja yksi Vasamassa .
+Toinen tyyppi oli erillinen savugeneraattori ; se oli noin sadan litran vetoinen tynnyri , jonka pohjalla oli bensiinillä toimiva keitin .
+Sen yläpuoliselle levylle laskettiin erityistä savutusöljyä - käytännössä puhdistettua naftaa - jolloin muodostui paksua savua .
+Savu syötettiin tynnyrin yläosassa olevista suuttimista .
+Näitä laitteita oli miinalaivojen Ruotsinsalmi ja Riilahti lisäksi vain Turussa lisenssillä rakennetuissa Taisto -luokan moottoritorpedoveneissä , italialaisilta ostetuista Jymy- ja Hurja -veneistä ne puuttuivat .
+Miinalaivoissa generaattori oli savupiipussa , Taistoissa keskellä perää .
+Laitteet vaativat tarkan huollon ; samoin merelle lähtiessä otettiin syöttöputkien suojahatut valmiiksi pois paikaltaan , etteivät unohtuisi kiireen tullen .
+Laitteen hoitovastuu kuului kunkin veneen torpedomatruusille , miinalaivoissa miinaupseerille .
+Myös muualla maailmassa savugeneraattoria käytettiin paljon ; amerikkalaiset asensivat niitä hävittäjiin ja saattuehävittäjiin , koska savuverho oli tehokas keino eritoten tutkattomia tai enintään heikkotasoisen tutkan omaavia japanilaisia sotalaivoja vastaan .
+Näissä aluksissa savukoneisto oli sijoitettu alusten savupiippuihin .
+Mm. kuuluisa Samarin saaren taistelu Tyynellämerellä ratkesi amerikkalaisten eduksi paljolti juuri savuverhojen ansiosta .
+Maavoimilla savugeneraattoreita asennettiin joihinkin panssarivaunuihin ; samoin tykistöllä on olemassa erityisiä savukranaatteja , joiden toiminta perustuu kuoren sisällä palavaan kemikaaliseokseen ; savu purkautuu pyrstössä olevien reikien kautta .
+Myös käsikranaateista on olemassa savuversio ; niitä käytettiin mm. Portinhoikan taistelussa ojaan ajaneen liikuntakyvyttömän venäläisen ISU-152 -rynnäkkötykin valtaamiseen heittämällä savukranaatteja ilmastoinnin sisäänottoon ; tällöin miehistön oli pakko tulla ulos vaunusta .
+Teosta sai panssarintuhoojamerkin savukranaatit osumaan saanut 3. panssarikomppanian lähettiupseeri , vänrikki Kaarlo Schrey .
+Samoin oli olemassa myös kiinteästi maalle asennettuja savugeneraattoreita , joita käytettiin lähinnä satamien suojana ; mm. taistelulaiva Tirpitzin erityissuojasatama Norjan Kåfjordissa oli suojattu tällaisilla laitteilla ilmahyökkäysten varalta .
+Nykyaikana menetelmän käyttö on harvinaistumassa , koska nykyaikaiset elektroniset tähtäimet näkevät ainakin osittain savun läpi .

@@ -1,0 +1,3 @@
+Motorinen yksikkö on alfamotoneuronin ja sen hermottamien poikkijuovaisten lihassolujen muodostama kokonaisuus .
+Kun alfamotoneuronista tulee supistumiskäsky , se saa kaikki motoriseen yksikköön kuuluvat lihassolut supistumaan .
+Tähän perustuu myös se miksi sellaiseen motoriseen yksikköön kuuluvien lihassolujen supistuminen on tarkempaa , jossa on vähemmän lihassoluja .

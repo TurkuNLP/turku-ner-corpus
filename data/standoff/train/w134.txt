@@ -1,0 +1,7 @@
+Sulkeuma on metallisulaan sen käsittelyssä syntyvä tai jäävä partikkeli , joka sisältää metallisen komponentin lisäksi jotain kevyttä alkuainetta , kuten happi , rikki , typpi , boori , fosfori jne .
+Yleisiä ovat esimerkiksi oksidi- , sulfidi- tai nitridisulkaumat teräksessä .
+Sulkeumat ovat metallituotteessa usein haitallisia ja siksi niitä sanotaankin epäpuhtauksiksi .
+Ne voivat aiheuttaa sitkeyden alenemista , pinnanlaadun heikkenemistä tai terän kulumista lastuavassa työstössä .
+Sulkeumia voidaan käyttää myös hyödyksi esimerkiksi lastuamisessa , jossa runsaalla määrällä sulfidisulkeumia saadaan lastunmuodostusta parannettua ja voitelua lisättyä .
+Sulkeumien koostumusta analysoimalla saadaan tietoa metallin valmistuksesta , sillä sulkeumien koostumus heijastaa sulan käsittelyä .
+Esimerkiksi Ti-mikroseostus näkyy sulkeumien kohonneina Ti-pitoisuuksina .

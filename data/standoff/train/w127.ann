@@ -1,0 +1,26 @@
+T1	LOC 0 20	Galaktinen Tasavalta
+T2	LOC 23 40	Galactic Republic
+T3	PER 90 104	George Lucasin
+T4	PRO 114 138	Star Wars -universumissa
+T5	PER 583 588	Dooku
+T6	PER 605 618	Darth Sidious
+T7	PER 686 695	Palpatine
+T8	PER 1006 1015	Palpatine
+T9	PER 1054 1067	Darth Sidious
+T10	PER 1144 1157	Darth Sidious
+T11	PER 1173 1191	Anakin Skywalkerin
+T12	PER 1249 1260	Darth Vader
+T13	LOC 1641 1650	Endorissa
+T14	EVENT 1664 1681	Yavinin taistelun
+T15	EVENT 1772 1794	Yuussa Vongh-invaasion
+T16	EVENT 1813 1828	Yavin taistelun
+T17	LOC 1839 1854	Coruscunanttiin
+T19	PRO 1986 2018	Star Wars Episodi I : Pimeä uhka
+T20	PRO 2021 2061	Star Wars Episodi II : Kloonien hyökkäys
+T21	PRO 2065 2101	Star Wars Episodi III : Sithin kosto
+T22	PRO 2114 2146	Star Wars -kirjoista ja peleistä
+T23	ORG 859 871	Kauppaliitto
+T24	ORG 1504 1515	Impperiumia
+T25	ORG 1466 1478	Kapinaliiton
+T26	ORG 1526 1538	Kapinaliiton
+T27	ORG 1707 1717	Imperiumin

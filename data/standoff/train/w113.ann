@@ -1,0 +1,21 @@
+T1	LOC 0 10	Novo mesto
+T2	LOC 23 32	Slovenian
+T3	LOC 83 93	Dolenjskan
+T4	LOC 149 160	Novo Meston
+T5	LOC 246 255	Itävallan
+T6	PER 264 273	Rudolf IV
+T7	LOC 301 312	Rudolfswert
+T8	EVENT 385 410	Ensimmäisen maailmansodan
+T9	LOC 421 437	Itävalta-Unkarin
+T10	LOC 481 494	Novo mestoksi
+T11	EVENT 570 590	Toisen maailmansodan
+T12	LOC 692 703	Novo meston
+T13	LOC 719 729	Ljubljanan
+T14	LOC 733 741	Zagrebin
+T15	LOC 911 916	Krkan
+T16	LOC 48 57	Krka-joen
+T17	DATE 274 292	7. huhtikuuta 1365
+T18	DATE 670 681	Vuonna 1958
+T19	DATE 219 223	2008
+T20	PRO 897 910	Cviček-viiniä
+T21	LOC 777 786	E70-tietä

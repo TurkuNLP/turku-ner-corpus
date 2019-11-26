@@ -1,0 +1,68 @@
+T1	PER 0 6	Kaarle
+T2	LOC 7 16	Flanderin
+T3	LOC 26 33	Belgian
+T4	LOC 111 118	Belgian
+T5	PER 145 158	Leopold III:n
+T6	PER 181 187	Kaarle
+T7	PER 190 228	Charles Théodore Henri Antoine Meinrad
+T8	PER 231 267	Karel Theodoor Hendrik Anton Meinrad
+T9	LOC 277 286	Brabantin
+T10	PER 317 327	Albert I:n
+T11	PER 348 359	Elisabethin
+T12	LOC 383 393	Baijerissa
+T13	LOC 444 451	Belgian
+T14	PER 492 500	Albert I
+T15	LOC 534 542	Euroopan
+T16	LOC 569 578	Flanderin
+T17	PER 664 670	Kaarle
+T18	LOC 680 699	Isossa-Britanniassa
+T19	EVENT 700 725	ensimmäisen maailmansodan
+T20	ORG 795 820	Ison-Britannian laivaston
+T21	EVENT 928 948	Toisen maailmansodan
+T22	PER 988 994	Kaarle
+T23	PER 1183 1189	Kaarle
+T24	LOC 1214 1225	Brysselissä
+T25	LOC 1308 1315	Belgian
+T26	LOC 1364 1371	Belgian
+T27	LOC 1425 1433	Saksassa
+T28	LOC 1437 1448	Itävallassa
+T29	LOC 1583 1592	Flanderin
+T30	PER 1593 1600	Kaarlen
+T31	PER 1610 1623	Leopold III:n
+T32	PER 1720 1726	Kaarle
+T33	PER 1840 1855	Leopold III:lle
+T34	PER 1874 1888	Baudouin I:lle
+T35	PER 1891 1898	Kaarlen
+T36	LOC 1988 1995	Belgian
+T37	PER 2824 2830	Kaarle
+T38	LOC 2981 2986	Begia
+T39	LOC 3092 3098	Belgia
+T40	LOC 3156 3162	Belgia
+T41	ORG 3181 3208	Yhdistyneisiin kansakuntiin
+T42	LOC 3218 3224	Belgia
+T43	ORG 3233 3284	Pohjois-Atlantin Puolustussopimukseen ( NATO/OTAN )
+T45	LOC 3294 3300	Belgia
+T46	ORG 3309 3327	Euroopan neuvoston
+T47	LOC 3365 3378	Yhdysvaltojen
+T48	ORG 3426 3442	Euroopan unionin
+T49	ORG 3454 3486	Euroopan Hiili- ja Teräsyhteisön
+T50	PER 3563 3569	Kaarle
+T51	LOC 3621 3631	Ostendessä
+T52	LOC 3667 3678	Raversijden
+T53	PER 3918 3939	" Charle de Flandre "
+T54	PER 3962 3986	" Karel van Vlaanderen "
+T55	DATE 64 102	10. lokakuuta 1903 – 1. kesäkuuta 1983
+T57	DATE 463 482	31. tammikuuta 1910
+T58	DATE 914 925	vuonna 1925
+T59	DATE 1018 1036	19. syyskuuta 1939
+T60	DATE 1352 1363	vuonna 1944
+T61	DATE 1699 1717	20. syyskuuta 1944
+T62	DATE 1760 1779	20. heinäkuuta 1950
+T63	DATE 2353 2372	19. helmikuuta 1948
+T64	DATE 3087 3091	1944
+T65	DATE 3151 3155	1945
+T66	DATE 3213 3217	1948
+T67	DATE 3289 3293	1949
+T68	DATE 3533 3544	vuonna 1950
+T69	ORG 3117 3146	Benelux-maiden talousliittoon
+T44	PRO 3389 3402	Marshall-apua

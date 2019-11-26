@@ -1,0 +1,42 @@
+T1	ORG 32 48	Turun yliopiston
+T2	LOC 143 153	Caloniassa
+T3	ORG 156 174	Turun yliopistossa
+T4	ORG 250 286	Turku Institute for Advanced Studies
+T5	ORG 289 293	TIAS
+T6	ORG 330 370	Turku Collegium for Science and Medicine
+T7	ORG 373 377	TCSM
+T8	ORG 663 669	TIAS:n
+T9	PER 701 714	Jukka Mähönen
+T10	ORG 966 980	EU:n komission
+T11	PER 998 1008	Pekka Karp
+T12	PER 1068 1085	Maija Hakkarainen
+T13	ORG 1086 1090	EU:n
+T14	ORG 1140 1144	EU:n
+T15	PER 1254 1267	Timo Huttunen
+T16	ORG 1268 1290	Turku Science Parkista
+T17	PER 1360 1372	Sirpa Nuotio
+T18	ORG 1373 1391	Suomen Akatemiasta
+T19	PER 1555 1572	Jukka Westermarck
+T20	ORG 1573 1603	Turun bioteknologiakeskuksesta
+T21	ORG 1636 1642	TCSM:n
+T22	PER 1664 1675	Jyrki Heino
+T23	ORG 1732 1748	Turun yliopiston
+T24	ORG 1752 1776	Turun kauppakorkeakoulun
+T25	LOC 1818 1825	Turkuun
+T26	PER 2255 2270	Minttu Jaakkola
+T27	ORG 2273 2277	TCSM
+T28	PER 2283 2293	Ulla Hytti
+T29	ORG 2296 2300	TIAS
+T30	PER 2420 2435	Minttu Jaakkola
+T31	ORG 2450 2456	TCSM:n
+T32	PER 2721 2729	Jaakkola
+T33	PER 2815 2820	Hytti
+T34	ORG 2841 2849	TIASissa
+T35	PER 3139 3144	Hytti
+T36	DATE 115 120	10.3.
+T37	ORG 1400 1409	Akatemian
+T38	DATE 2015 2030	syyskuussa 2008
+T39	DATE 2080 2091	vuoden 2009
+T40	DATE 2153 2157	2009
+T42	ORG 223 247	ihmistieteiden kollegium
+T43	ORG 301 327	luonnontieteiden kollegium

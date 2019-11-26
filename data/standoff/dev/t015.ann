@@ -1,0 +1,26 @@
+T1	ORG 0 6	EU:sta
+T2	ORG 99 115	Euroopan unionin
+T3	ORG 179 190	Der Spiegel
+T4	LOC 204 211	Kreikan
+T5	LOC 236 247	Brysselissä
+T6	ORG 406 415	Spiegelin
+T7	LOC 554 559	Saksa
+T8	LOC 582 588	Ranska
+T9	LOC 592 598	Italia
+T10	LOC 622 627	Suomi
+T11	LOC 719 724	Puola
+T12	LOC 738 745	Kreikka
+T13	LOC 749 755	Unkari
+T14	ORG 911 930	Oxfordin yliopiston
+T15	PER 942 957	Clemens Fuestin
+T16	LOC 967 976	Brysselin
+T17	LOC 1039 1050	Brysselissä
+T18	LOC 1069 1076	Kreikan
+T19	LOC 1079 1089	Portugalin
+T20	LOC 1093 1101	Irlannin
+T21	LOC 1186 1192	Italia
+T22	LOC 1195 1201	Kypros
+T23	LOC 1205 1211	Belgia
+T24	PER 1412 1417	Fuest
+T25	ORG 1424 1435	Spiegelille
+T26	ORG 1579 1588	Spiegelin

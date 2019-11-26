@@ -1,0 +1,49 @@
+T1	LOC 0 8	Molvania
+T2	PRO 75 95	Jet Lag -kirjasarjan
+T3	LOC 144 156	Itä-Euroopan
+T4	PRO 219 250	Lonely Planet-matkaopassarjasta
+T5	LOC 253 261	Molvania
+T6	EVENT 269 289	Toisen maailmansodan
+T7	LOC 298 312	Neuvostoliiton
+T8	LOC 332 343	Lutenblagin
+T9	LOC 477 485	Molvania
+T10	ORG 492 508	Euroopan Unionin
+T11	LOC 642 650	Molvania
+T12	LOC 690 698	Molvania
+T13	LOC 713 719	Saksan
+T14	LOC 722 730	Ukrainan
+T15	LOC 733 741	Romanian
+T16	LOC 745 754	Slovakian
+T17	LOC 781 790	Lutenblag
+T18	LOC 809 833	Suuressa keskuslaaksossa
+T19	LOC 853 862	Molvanian
+T20	LOC 904 910	Saksan
+T21	LOC 928 935	Uzejoki
+T22	LOC 965 976	Fitzulajoki
+T23	LOC 1003 1021	Postenwaljvuoristo
+T24	LOC 1047 1057	Molvaniaan
+T25	ORG 1092 1102	Aeromolvia
+T26	LOC 1196 1205	Lutenblag
+T27	LOC 1236 1244	Svetranj
+T28	LOC 1247 1253	Vajana
+T29	LOC 1256 1263	Bardjov
+T30	LOC 1276 1283	Gyrorik
+T31	LOC 1286 1293	Lublova
+T32	LOC 1309 1315	Sasava
+T33	LOC 1331 1338	Sjerezo
+T34	LOC 1357 1364	Jdzerbo
+T35	LOC 1367 1378	Lutenblagia
+T36	LOC 1516 1524	Euroopan
+T37	LOC 1683 1692	Molvaniaa
+T38	LOC 1693 1700	Uzejoen
+T39	LOC 1745 1767	Kuninkaallinen palatsi
+T40	LOC 1770 1784	Vanha kaupunki
+T41	LOC 1802 1823	Pyhän Simeonin kirkko
+T42	LOC 1826 1835	Molvanian
+T43	LOC 1861 1872	Lutenblagin
+T44	DATE 465 469	1983
+T45	DATE 327 331	1982
+T46	DATE 472 476	1997
+T47	ORG 664 670	NATO:n
+T48	PRO 1154 1173	B-717-lentokoneista
+T49	DATE 1547 1559	vuoteen 2010

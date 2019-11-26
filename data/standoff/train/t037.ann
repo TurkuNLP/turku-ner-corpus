@@ -1,0 +1,17 @@
+T1	LOC 6 11	Suomi
+T2	LOC 15 21	Venäjä
+T3	LOC 41 50	Helsingin
+T4	LOC 54 62	Pietarin
+T5	ORG 166 178	Etelä-Saimaa
+T6	LOC 192 198	Suomen
+T7	LOC 202 209	Venäjän
+T8	LOC 268 273	Suomi
+T9	LOC 335 346	Helsingistä
+T10	LOC 422 430	Pietarin
+T11	LOC 492 500	Karjalan
+T12	LOC 632 643	Helsingistä
+T13	LOC 644 653	Pietariin
+T14	ORG 733 745	Etelä-Saimaa
+T15	ORG 0 3	E-S
+T16	DATE 233 245	marraskuussa
+T17	PRO 576 591	Allegro-junilla

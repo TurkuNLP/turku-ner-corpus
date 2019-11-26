@@ -1,0 +1,14 @@
+T1	ORG 0 27	Taideteollisen korkeakoulun
+T2	PER 39 51	Pasi Ketonen
+T3	ORG 56 71	Volvo-Auto Oy:n
+T4	ORG 118 127	Renaultin
+T5	LOC 146 155	Pariisiin
+T6	PER 322 327	Lauri
+T7	PER 608 613	Mikon
+T9	ORG 979 1004	Outokummun Magnets Oy:llä
+T10	PER 1388 1396	Haideria
+T11	ORG 1448 1480	Kauppa- ja teollisuusministeriön
+T12	PER 1497 1514	Lempi Karjalainen
+T13	ORG 1133 1139	VR:llä
+T14	DATE 1520 1524	1942
+T15	PRO 831 838	Sinulle

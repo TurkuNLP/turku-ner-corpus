@@ -1,0 +1,18 @@
+Viidennes eurooppalaisista harrastaa tiedostojen jakamista
+Vertaisverkkoliikenteen ( P2P ) suhteellisesta määrästä Internetin dataliikenteestä ja tiedostojen jakamisen yleisyydestä eri maissa on saatu tuoretta tutkimustietoa .
+Saksalainen Ipoque , joka kehittää Internet-liikenteen hallintaohjelmistoja yliopistoille ja palveluntarjoajille , analysoi tämän vuoden syys-lokakuussa kolmen petatavun edestä Internetin dataliikennettä noin 3 miljoonalta käyttäjältä .
+Tulokset kertovat vertaisverkkotekniikan valtavasta suosiosta joka puolella maailmaa .
+Vähäisintä p2p-käyttö oli Lähi-idässä , mutta sielläkin se muodosti 49 % koko Internet-liikenteestä .
+Australiassa p2p söi 57 % verkon kaistanleveydestä , Etelä-Euroopassa 64 % ja Saksassa 69 % .
+Suurimman osan kaistasta vertaisverkot kuluttivat Itä-Euroopassa , jossa ne olivat vastuussa päivällä 83 %:sta ja yöllä peräti 95 %:sta kaikesta liikenteestä .
+Yksittäisten p2p-protokollien osalta Bittorrent on selvästi vahvin kautta maailman .
+Sen suhteellinen osuus p2p-kakusta vaihtelee Etelä-Euroopan 40 %:sta Australian 73 %:iin .
+eDonkey ( ed2k ) on edelleen yllättävän vahva , erityisesti Etelä-Euroopassa , Saksassa ja Lähi-idässä .
+DirectConnectin käyttö on vähentynyt melko marginaaliseksi lukuun ottamatta Itä-Eurooppaa .
+Tutkimuksessa selvisi myös se , että Internet-puheluja dominoi käytännössä Skype , joka vastasi 95 %:sta puheluista .
+Tutkimuksessa todettiin myös , että joka viides Internetin-käyttäjä harjoitti tutkimusjakson aikana tiedostojen jakamista .
+BitTorrentia käytettiin etupäässä videomateriaalin jakamiseen .
+Tietokoneohjelmien jakaminen oli tutkimuksen mukaan erityisen suosittua Etelä-Euroopassa , jossa se muodosti jopa 26 % p2p-tietoliikenteestä .
+Saksassa ja Lähi-idässä ohjelmistoja liikkui linjoilla 6 %:n edestä .
+Aikuisviihteen osalta taas saksalaiset olivat todellisia suurkuluttajia , sillä siellä vertaisverkkojen kaistasta käytettiin 13 % pornografisen materiaalin jakamiseen .
+Muualla maailmassa vastaava osuus oli 2–5 % .

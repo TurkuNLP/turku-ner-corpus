@@ -1,0 +1,38 @@
+Intervalliajastimen prototyyppi : video , kuvia , koodia
+Olen tuota prototyyppiä kehittänyt nyt huiman yhden päivän , oikeastaan muutamia tunteja ellei koodaamista lasketa mukaan .
+Päädyin ratkaisuun , jossa annetaan pelkkä intervalli ja kamerassa säädetään loput arvot .
+Onnistuin myös liittämään näytön pakettiin mukaan , joten nyt nappien painamisesta saa ainakin jonkinlaista feedbackia .
+Prototyypissä on siis viisi nappia : start , stop , reset , ensimmäisen digitin ( numeron ) valinta sekä toisen digitin valinta .
+Startista ajastin käynnistyy ( yllätys ) , stopista sen voi pysäyttää , resetillä kaikki nollaantuu ja nuo kaksi muuta nappia siis muuttavat näytön numeroiden arvoja ykkösestä yhdeksään , ja nollaantuvat automaagisesti ylitettyään arvon yhdeksän .
+Start- ja stop-toiminnot laitan myöhemmin saman nappulan alle .
+Tuon ajan valinnan kanssa täytyy vielä tehdä pientä pohdintaa , sillä sen voisi toki laittaa myös yhden nappulan alle .
+Kuitenkin yksi nappi vapautuu joka tapauksessa , ja siihen tulen lisäämään intervallin aika-alueen valinnan .
+Nyt vakiona pystyn säätämään ajan 0,1-9,9 sekuntia 100 millisekunnin välein .
+Koodia muuttamalla saan käyttöön alueen 1-99 sekuntia sekunnin välein .
+Tämän alueen vaihdon muutan siis ihan fyysisen kytkimen taakse , ettei sitä tarvitse koodissa manuaalisesti muuttaa .
+Videossa näkyvä ledi on vain demonstraatiotarkoituksessa piirissä mukana ( välähtää aina kun Arduino lähettää pulssin , joka sulkee optoerottimen ja luo virtapiirin kameran puolelle , jolloin kameraa ottaa kuvan ) , sillä sen tilalla kuuluisi olla kameraan menevät piuhat ( ledille meneviä piuhoja ei myöskään todellisuudessa tarvita ) .
+Muista ominaisuuksista sen verran , että aikaa voi vaihtaa lennossa eli ajastimen ollessa käynnissä .
+Painonapit on kytketty yhteen analogipinniin , joka tulkitsee kunkin napin erillisenä johtuen vastuksista .
+Eri nappi palauttaa eri arvon .
+Lue lisää täältä .
+Tuossa ledinäytössä on 16 liitäntää , mutta käytän niistä vain yhdeksää .
+Kuinka se on mahdollista ?
+Käytetty tekniikka on nimeltään multiplexing .
+Yksinkertaisesti selitettynä en voi syöttää näytölle numeroita samaan aikaan , mutta jos sammutan näytön toisen puolen ja laitan näytön toisen puolen päälle ja päinvastoin tarpeeksi nopealla taajuudella , näyttävät ne molemmat olevan päällä ihmissilmällä katsottuna .
+Nopeilla kameroilla välkkymisen huomaa , mutta eihän niitä näyttöjä tarvitse kameroilla kuvailla .
+Näytössä on molemmissa numeroissa 7 eri osaa , joissa jokaiselle on oma ledi .
+Numeroiden samat osat olen liittänyt kaapeleilla toisiinsa , joten lopputuloksena on 7 liitäntää .
+Loput kaksi liitäntää ovat joko common cathode ( yhteiskatodi ) tai common anode ( yhteisanodi ) tyyppisiä , joista kumpikin on kytketty omalle numerolleen jokaiseen 7:ään osaan .
+Jos niissä ei kulje virta , numeroa ei näy .
+Näitä vuorotellen sulkemalla ja sammuttamalla saavutetaan haluttu multiplexing-efekti .
+Ne ovat vuorollaan päällä ehkä noin yhden millisekunnin .
+Keltaiset johdot kytkevät numeroiden samat osat toisiinsa .
+Kaksi keltaista johtoa ovat anodit , oranssit osille meneviä .
+Johdot on kolvattu kiinni näyttöön .
+Pientä päänvaivaa aiheutti tuon oman näyttöni common anode -tyyppi , koska jostain syytä kaikki netin tutoriaalit oli tehty common cathode näytöille .
+Sain näytön kuitenkin toimimaan , kuten videosta näkyy .
+Koodini olen laittanut ensimmäistä kertaa ihan yleiseen jakoon hyvin kommentoituna ( lontooksi , myöhemmin saatan suomentaa ) GitHubiin .
+Sieltä sitä voi myös helposti seurailla , sillä tekemäni muutokset näkyvät siellä aina , vaikka muuttaisin vain yhden rivin jotakin tai vaihtaisin pisteen paikkaa .
+Johdotusdiagrammit löytyvät myös sieltä , kuten myös myöhemmin lisättävä komponenttilista .
+Tällä hetkellä prototyypin johdotusdiagrammi löytyy GitHubista , mutta se ei pidä vastuksien arvojen eikä näyttöjen osalta paikkaansa .
+Antaa kuitenkin suuntaa siitä , mitä pitäisi tehdä saadakseen koodin toimimaan ihan fyysisessä maailmassa .

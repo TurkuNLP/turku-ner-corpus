@@ -1,0 +1,19 @@
+T1	ORG 42 59	Lasten yliopiston
+T2	ORG 273 290	Lasten yliopiston
+T3	LOC 440 446	Suomen
+T4	PER 468 489	Kirsi Vainio-Korhonen
+T5	PER 647 664	Marie Antoinetten
+T6	EVENT 692 716	Ranskan vallankumoukseen
+T7	ORG 756 773	Lasten yliopiston
+T8	ORG 1668 1685	Lasten yliopiston
+T9	PER 1775 1788	Meri Heinonen
+T10	PER 1845 1853	Heinonen
+T11	PER 2100 2113	Meri Heinonen
+T12	ORG 2358 2375	Lasten yliopiston
+T13	PER 2670 2686	Hannu Ruonavaara
+T14	PER 2739 2750	Katja Valli
+T15	ORG 2794 2811	Lasten yliopiston
+T16	ORG 2924 2942	Turun yliopistossa
+T17	ORG 2956 2972	Lasten yliopisto
+T18	DATE 261 272	Vuoden 2010
+T20	DATE 2912 2923	Vuonna 2008

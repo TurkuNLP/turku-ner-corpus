@@ -1,0 +1,50 @@
+T1	LOC 15 21	Venäjä
+T2	LOC 24 31	Venäjää
+T3	LOC 35 43	Suomessa
+T4	LOC 112 120	Moskovan
+T5	PER 136 144	Anttonen
+T6	LOC 170 176	Suomen
+T7	LOC 177 185	Moskovan
+T8	PER 212 226	Matti Anttonen
+T9	ORG 256 282	Turun kauppakorkeakoulussa
+T10	LOC 304 317	nyky-Venäjään
+T11	LOC 413 419	Suomen
+T12	ORG 443 461	Turun yliopistosta
+T13	ORG 467 493	Turun kauppakorkeakoulusta
+T14	PER 521 529	Anttonen
+T15	LOC 547 554	Venäjän
+T16	LOC 572 582	Eurooppaan
+T17	PER 914 922	Anttosen
+T18	LOC 930 939	Venäjällä
+T19	LOC 1148 1157	Venäjällä
+T20	LOC 1281 1287	Venäjä
+T21	PER 1345 1353	Anttonen
+T22	LOC 1389 1395	Venäjä
+T23	PER 1441 1449	Anttonen
+T24	LOC 1472 1478	Venäjä
+T25	LOC 1589 1596	Venäjän
+T26	PER 1676 1684	Anttosen
+T27	LOC 1857 1866	Venäjällä
+T28	LOC 1869 1878	Venäjällä
+T29	PER 2066 2074	Anttonen
+T30	LOC 2099 2106	Venäjän
+T31	LOC 2199 2207	Ukrainan
+T32	LOC 2211 2222	Kazakstanin
+T33	LOC 2251 2257	Suomen
+T34	LOC 2261 2268	Venäjän
+T35	PER 2301 2309	Anttonen
+T36	LOC 2369 2376	Venäjän
+T37	LOC 2423 2429	Suomen
+T38	LOC 2433 2440	Venäjän
+T39	LOC 2599 2607	Moskovan
+T40	LOC 2631 2638	Turussa
+T41	ORG 2660 2684	Turun kauppakorkeakoulun
+T42	EVENT 2715 2781	The Development of EU-Russia Economic Relations -intensiivikurssia
+T43	PER 2784 2792	Anttonen
+T44	LOC 2822 2829	Venäjän
+T45	LOC 3000 3008	Suomessa
+T46	LOC 3012 3022	Euroopassa
+T47	ORG 1052 1059	WTO:iin
+T48	ORG 878 883	WTO:n
+T49	ORG 1161 1166	WTO:n
+T50	DATE 2649 2653	6.4.

@@ -1,0 +1,24 @@
+Real3D on suomalaisen Realsoftin tekemä kolmiulotteinen animaation teko-ohjelma .
+Siihen on ohjelmoitu fysiikan lait , joten sillä kyetään tekemään tarkkoja , realistisia animaatioita .
+Maya on vastaavanlainen ohjelma .
+Ensimmäiset koodirivit kirjoitettiin 1983 Commodore 64 tietokoneelle suomalaisten veljesten Juha and Vesa Meskanen toimesta .
+Real3D:n kehitys käynnistyi toden teolla 1985 , kun Juha Meskanen aloitti opinnot Lahden Teknillisessä Opistossa .
+Vesa tuli mukaan kehitystyöhön asteittain ja siirtyi matemaatikon uraltaan lopulta kokopäiväisesti perustamaansa Realsoft Oy yritykseen 1989 .
+Ensimmäinen kaupallinen Real3D versio julkaistiin Amigalle vielä samana vuonna .
+Ensimäinen versio tarjosi ominaisuuksia kuten constructive solid geometry , toisen asteen pinnat ( quadric surfaces ) and valonsäteiden seurantaan ( ray-tracing ) perustuvan photo realistisen tulostuksen .
+Versio 1.2 , joka julkaistiin 1990 , markkinoitiin jo useissa euroopan maissa .
+Version 1.3 näki päivänvalon 1991 vuoden alkussa .
+Pienistä versionumeroeroista huolimatta v1 , v1.2 ja v1.3 edustivat kaikki merkittäviä kehitysaskeleita uusine manuaaleineen ja pakkauksineen .
+V.1.4 julkaistiin joulukuussa 1991 ja jäi viimeiseksi alkuperäistä ohjelmistoarkkitehtuuria edustavaksi versioksi .
+Real3D kehittyi huimasti 1993 julkaistun version 2.0:n myötä .
+Uusi versio perustui kokonaan uudelleenkirjoitettuun lähdekoodiin ja se tarjosi lukuisia edistyksellisiä ominaisuuksia , kuten boolean operaatiot , CSG , B-spline pinnat , Newtonin teoriaan perustuvat simulaatiot , ns. morphing animaatiot sekä korkealaatuisen valokuvanomaisen tulostuslaadun .
+Ohjelma hyödynsi laajasti Amigan moniajo-ominaisuuksia .
+Ensimmäinen Windows versio ohjelmasta julkaistiin 1994 .
+Versio 3.5 , joka julkaistiin 1996 , jäi viimeiseksi v2 arkkitehtuurin julkaisuksi .
+Realsoft oli aloittanut uuden kehitysprojektin 1994 , jonka perustui uuteen ohjelmistoarkkitehtuuriin ja Realsoftin omakehittämään alustariippumattomaan toteutukseen .
+Versio 4 julkaistiin vuonna 2000 nimellä Realsoft 3D , ja mukana oli ominaisuuksia kuten työkalut Non-Uniform Rational B-Spline ja Subdivision-Surface mallinnukseen .
+Seuraava merkittävä versio v.4.5 julkaistiin 2002 , ja se sisälsi mm. epäsuoran valon simuloinnin ( caustics , global illumination ) .
+Version 5 julkaistiin lokakuussa 2004 ja se sisälsi parannuksia kaikilla osa-alueilla .
+Yksi merkittävä parannus oli myös käyttöliittymän visuaalisella puolella kiitos 32 bittisten ikonien .
+Versio 6 julkaistiin 2007 vuoden lopulla , mukana ominaisuuksia kuten parametrisoidut työkalut kasvien ja puiden mallintamiseen ja rakennusten suunnitteluun .
+Myös natiivit versiot Mac OS X käyttöjärjestelmille julkaistiin .

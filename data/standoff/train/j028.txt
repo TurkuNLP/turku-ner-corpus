@@ -1,0 +1,39 @@
+P6_TA(2004)0004 Parlamenttien välisistä suhteista vastaavien valtuuskuntien sekä parlamentaarisissa sekavaliokunnissa ja yhteistyövaliokunnissa olevien valtuuskuntien jäsenten lukumäärä
+Euroopan parlamentin päätös parlamenttien välisistä suhteista vastaavien valtuuskuntien sekä parlamentaarisissa sekavaliokunnissa ja yhteistyövaliokunnissa olevien valtuuskuntien jäsenten lukumäärästä
+Euroopan parlamentti , joka - ottaa huomioon työjärjestyksen 188 artiklan , - ottaa huomioon 10. maaliskuuta 2004 tekemänsä päätöksen parlamenttien välisistä suhteista vastaavien valtuuskuntien sekä parlamentaarisissa sekavaliokunnissa ja yhteistyövaliokunnissa olevien valtuuskuntien lukumäärästä , 1. päättää valtuuskuntien jäsenmäärästä seuraavasti :
+| D01 | suhteista Sveitsiin , Islantiin ja Norjaan vastaava sekä Euroopan talousalueen ( ETA ) parlamentaarisessa sekavaliokunnassa toimiva valtuuskunta : 17 jäsentä
+| D02 | suhteista Albaniaan , Bosnia ja Hertsegovinaan sekä Serbia ja Montenegroon ( mukaan lukien Kosovo ) vastaava valtuuskunta : 15 jäsentä
+| D03 | valtuuskunta EU:n ja Venäjän parlamentaarisessa yhteistyövaliokunnassa : 31 jäsentä
+| D04 | valtuuskunta EU:n ja Ukrainan parlamentaarisessa yhteistyövaliokunnassa : 16 jäsentä
+| D05 | valtuuskunta EU:n ja Moldovan parlamentaarisessa yhteistyövaliokunnassa : 14 jäsentä
+| D06 | suhteista Valko-Venäjään vastaava valtuuskunta : 15 jäsentä
+| D07 | EU:n ja Kazakstanin , EU:n ja Kirgisian sekä EU:n ja Uzbekistanin parlamentaarisissa yhteistyövaliokunnissa toimiva ja suhteista Tadžikistaniin , Turkmenistaniin ja Mongoliaan vastaava valtuuskunta : | 19 jäsentä
+| D08 | valtuuskunta EU:n ja Armenian , EU:n ja Azerbaidžanin ja EU:n ja Georgian parlamentaarisissa yhteistyövaliokunnissa : 18 jäsentä
+| D09 | suhteista Israeliin vastaava valtuuskunta : 20 jäsentä
+| D10 | suhteista Palestiinan lakia säätävään neuvostoon vastaava valtuuskunta : 20 jäsentä
+| D11 | suhteista Maghreb-maihin ja Pohjois-Afrikan arabivaltioiden liittoon ( mukaan lukien Libya ) vastaava valtuuskunta : | 20 jäsentä
+| D12 | suhteista Mashrek-maihin vastaava valtuuskunta : | 20 jäsentä
+| D13 | suhteista Persianlahden valtioihin mukaan lukien Jemen vastaava valtuuskunta : | 18 jäsentä
+| D14 | suhteista Iraniin vastaava valtuuskunta : | 19 jäsentä
+| D15 | suhteista Yhdysvaltoihin vastaava valtuuskunta : | 34 jäsentä
+| D16 | suhteista Kanadaan vastaava valtuuskunta : | 16 jäsentä
+| D17 | suhteista Keski-Amerikan maihin vastaava valtuuskunta : | 22 jäsentä
+| D18 | suhteista Andien maiden yhteisöön vastaava valtuuskunta : | 17 jäsentä
+| D19 | suhteista Mercosur-maihin vastaava valtuuskunta : | 25 jäsentä
+| D20 | suhteista Japaniin vastaava valtuuskunta : | 24 jäsentä
+| D21 | suhteista Kiinan kansantasavaltaan vastaava valtuuskunta : | 32 jäsentä
+| D22 | suhteista Etelä-Aasian maihin ja Etelä-Aasian alueellisen yhteistyön liittoon ( SAARC ) vastaava valtuuskunta : | 22 jäsentä
+| D23 | suhteista Kaakkois-Aasian maihin ja Kaakkois-Aasian alueellisen yhteistyön liittoon ( ASEAN ) vastaava valtuuskunta : | 19 jäsentä
+| D24 | suhteista Korean niemimaahan vastaava valtuuskunta : | 15 jäsentä
+| D25 | suhteista Australiaan ja Uuteen-Seelantiin vastaava valtuuskunta : | 20 jäsentä
+| D26 | suhteista Etelä-Afrikkaan vastaava valtuuskunta : | 14 jäsentä
+| D27 | suhteista Naton parlamentaariseen yleiskokoukseen vastaava valtuuskunta : | 10 jäsentä
+| DM01 | valtuuskunta EU:n ja Romanian parlamentaarisessa sekavaliokunnassa : | 25 jäsentä
+| DM02 | valtuuskunta EU:n ja Bulgarian parlamentaarisessa sekavaliokunnassa : | 25 jäsentä
+| DM03 | valtuuskunta EU:n ja Kroatian parlamentaarisessa sekavaliokunnassa : | 15 jäsentä
+| DM04 | valtuuskunta EU:n ja entisen Jugoslavian tasavallan Makedonian parlamentaarisessa sekavaliokunnassa : | 13 jäsentä
+| DM05 | valtuuskunta EU:n ja Turkin parlamentaarisessa sekavaliokunnassa : | 25 jäsentä
+| DM06 | valtuuskunta EU:n ja Meksikon parlamentaarisessa sekavaliokunnassa : | 14 jäsentä
+| DM07 | valtuuskunta EU:n ja Chilen parlamentaarisessa sekavaliokunnassa : | 15 jäsentä
+| ACP | valtuuskunta AKT:n ja EU:n yhteisessä parlamentaarisessa edustajakokouksessa : | 77 jäsentä
+| EUROMED | valtuuskunta parlamentaarisessa Euro—Välimeri-edustajakokouksessa : | 45 jäsentä |

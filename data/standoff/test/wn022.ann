@@ -1,0 +1,20 @@
+T1	PRO 0 22	Nobelin rauhanpalkinto
+T2	PER 23 31	Obamalle
+T3	PRO 32 55	Nobelin rauhanpalkinnon
+T4	LOC 72 84	Yhdysvaltain
+T5	PER 97 109	Barack Obama
+T7	PER 149 168	Thorbjörn Jaglandin
+T8	PER 176 181	Obama
+T9	PER 402 407	Obama
+T10	LOC 425 437	Yhdysvaltain
+T11	PRO 466 489	Nobelin rauhanpalkinnon
+T12	LOC 523 535	Yhdysvaltain
+T13	PER 548 562	Woodrow Wilson
+T14	PER 578 596	Theodore Roosevelt
+T15	PER 652 664	Jimmy Carter
+T16	DATE 60 71	vuonna 2009
+T17	DATE 563 574	vuonna 1919
+T18	DATE 597 608	vuonna 1906
+T19	DATE 625 642	vuosina 1977-1981
+T20	DATE 679 690	vuonna 2002
+T21	ORG 112 133	Norjan Nobel-komitean

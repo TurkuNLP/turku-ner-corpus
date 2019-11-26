@@ -1,0 +1,12 @@
+Suomi säästyi jätti-iskulta
+Maailman laajin tietomurto ei ulottunut Suomeen .
+Tietoturvayhtiö McAfeen keskiviikkona julkistaman raportin mukaan jättimurtojen sarjan kohteeksi joutui yli 70 yhtiötä ja organisaatio yli kymmenestä eri maasta .
+Suomesta jälkiä ei löytynyt .
+Murrot on tehty viiden viime vuoden aikana .
+McAfee uskoo , että hyökkäysten takana on yksi valtiollinen taho .
+Osa asiantuntijoista epäilee syylliseksi Kiinaa .
+Suomen lähin tietomurron uhri löytyi Tanskasta , jossa rikollisten kohteena oli vuoden 2008 syksyllä satelliittiviestintälaitteita valmistava yhtiö .
+Saksassa rikolliset murtautuivat vuonna 2009 kymmenen kuukauden ajan tilintarkastusketjun tietojärjestelmiin .
+Lisäksi tietomurtautujat tunkeutuivat Euroopassa kahteen kohteeseen sekä Britanniassa että Sveitsissä .
+Kaikkiaan valtiollisen toimijan uhreja oli 14 maasta , joista valtaosa Yhdysvalloista .
+McAfee pääsi tietomurtajien jäljille , koska sillä oli pääsy erääseen murtautujien käyttämän palvelimen lokitiedostoihin .

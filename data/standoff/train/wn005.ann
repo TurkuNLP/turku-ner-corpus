@@ -1,0 +1,18 @@
+T1	LOC 0 10	Tuusulassa
+T2	ORG 29 45	Jokelan koulussa
+T3	LOC 46 56	Tuusulassa
+T4	ORG 106 125	Jokelan koulukeskus
+T5	ORG 217 235	Helsingin Sanomien
+T6	LOC 607 625	Töölön sairaalassa
+T7	ORG 760 771	Yleisradion
+T8	ORG 772 777	TV1:n
+T9	LOC 829 847	Töölön sairaalassa
+T10	PER 946 962	Eero Hirvensalon
+T11	PRO 1444 1472	Sig Sauer Mosquito -pistooli
+T12	PRO 1520 1530	Internetin
+T13	PRO 1553 1568	IRC-Galleriassa
+T14	PRO 1812 1824	Internetissä
+T15	DATE 84 103	7. marraskuuta 2007
+T16	DATE 1313 1326	19. lokakuuta
+T17	PRO 1531 1549	YouTube-sivustolla
+T18	PER 1646 1668	Sturmgeist-tunnuksella

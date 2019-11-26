@@ -1,0 +1,25 @@
+T1	ORG 43 55	HK Ruokatalo
+T2	ORG 71 79	Eviralle
+T3	ORG 189 194	Evira
+T4	ORG 252 265	Turun Sanomat
+T5	ORG 268 280	HK Ruokatalo
+T6	ORG 355 361	Eviran
+T7	ORG 550 556	Eviran
+T8	ORG 759 764	Evira
+T9	ORG 988 993	Evira
+T10	ORG 1228 1234	Eviran
+T11	PER 1249 1265	Marjo Misikangas
+T12	ORG 1266 1281	Turun Sanomille
+T13	ORG 5 9	HK:n
+T14	ORG 493 495	HK
+T15	ORG 643 645	HK
+T16	ORG 842 844	HK
+T17	ORG 1028 1030	HK
+T18	ORG 223 227	HK:n
+T19	DATE 917 924	elokuun
+T20	ORG 0 2	TS
+T21	PRO 525 547	" sydämelle parempaa "
+T22	PRO 669 695	" se parempi rypsiporsas "
+T23	PRO 698 723	" vähemmän kovaa rasvaa "
+T24	PRO 727 756	" rasvasta 1/3 kovaa rasvaa "
+T25	PRO 10 33	" parempi rypsiporsas "

@@ -1,0 +1,49 @@
+T23	ORG 1322 1330	Brasilia
+T24	ORG 1349 1356	Tanskan
+T47	LOC 65 74	Ranskassa
+T48	ORG 345 351	Ranska
+T49	ORG 382 391	Brasilian
+T50	LOC 411 420	Ranskasta
+T51	ORG 525 533	Brasilia
+T52	ORG 541 551	Skotlannin
+T53	ORG 597 602	Norja
+T54	ORG 610 619	Brasilian
+T55	ORG 718 725	Espanja
+T56	ORG 774 780	Iranin
+T57	ORG 788 802	Yhdysvalloista
+T58	ORG 839 845	Ranska
+T59	ORG 853 862	Paraguayn
+T60	PER 879 894	Laurent Blancin
+T61	ORG 998 1009	Argentiinan
+T62	ORG 1013 1022	Englannin
+T63	ORG 1063 1072	Englannin
+T64	PER 1073 1087	Michael Owenin
+T65	PER 1113 1128	David Beckhamin
+T66	DATE 75 105	10. kesäkuuta – 12. heinäkuuta
+T68	ORG 1142 1152	Argentiina
+T69	ORG 1248 1254	Ranska
+T70	ORG 1262 1269	Italian
+T71	ORG 1393 1403	Alankomaat
+T72	ORG 1411 1422	Argentiinan
+T73	PER 1427 1444	Dennis Bergkampin
+T74	ORG 1516 1523	Kroatia
+T75	ORG 1536 1542	Saksan
+T76	ORG 1560 1566	Ranska
+T77	ORG 1574 1582	Kroatian
+T78	PER 1587 1602	Lilian Thuramin
+T79	ORG 1663 1671	Brasilia
+T80	ORG 1679 1689	Alankomaat
+T81	ORG 1772 1784	Alankomaiden
+T82	PER 1785 1803	Patrick Kluivertin
+T83	ORG 1850 1857	Kroatia
+T84	ORG 1865 1875	Alankomaat
+T85	ORG 1882 1890	Kroatian
+T86	PER 1891 1902	Davor Šuker
+T87	ORG 2028 2037	Brasilian
+T88	PER 2052 2060	Ronaldon
+T89	ORG 2093 2099	Ranska
+T90	PER 2148 2163	Zinédine Zidane
+T91	PER 2294 2308	Emmanuel Petit
+T92	PER 2311 2318	Ronaldo
+T2	DATE 108 119	Vuonna 1998
+T3	EVENT 0 50	Vuoden 1998 jalkapallon maailmanmestaruuskilpailut

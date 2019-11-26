@@ -1,0 +1,10 @@
+Oulun kaupunki siirtynee avoimen koodin ohjelmistoihin
+Oulun kaupunki uudistaa tietohallintonsa , ja aiemmasta toimialakohtaisesta järjestelmästä siirrytään keskitetysti koko konsernia palvelevaksi tietohallintoyksiköksi .
+Muutos tapahtuu vuoden 2008 alusta alkaen .
+Konsernin tietohallinto vahvistuu merkittävästi , sillä sinne siirtyy seitsemän tietohallinnon ammattilaista muualta konsernin toimipisteistä .
+Näin päästään entistä tehokkaampaan tilaaja–tuottaja-mallin mukaiseen toimintaan .
+Oulun kaupungin suorittaman muutoksen syyt ovat moninaiset .
+Palvelurakenteella pyritään tuottavuuden kasvattamiseen kaikilla hallinnon eri tasoilla .
+Eräänä tavoitteena on selkiyttää järjestelmien hankintaa ja toimintaa eri hallinnon aloilla .
+Oulun kaupungin tietohallintojohtajana vuoden 2008 alussa aloittava Ilari Heikkinen toteaakin : " Nykyisin olemme oravanpyörässä , jossa joudumme pahimmillaan tilaamaan tuotteet ja palvelut yhdeltä ja samalta toimittajalta , joka sanelee laadun , hinnat ja ehdot " .
+Heikkisen mukaan Oulun kaupungin tuleekin asetettujen tavoitteiden mukaan siirtyä mahdollisimman nopeasti avoimen ohjelmistoarkkitehtuurin ohjelmiin .

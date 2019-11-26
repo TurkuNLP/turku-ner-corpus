@@ -1,0 +1,28 @@
+T1	LOC 0 9	Eurooppaa
+T2	ORG 43 59	Turun yliopiston
+T4	PER 226 237	Pekka Leimu
+T5	PER 264 276	Ilmar Talven
+T6	PRO 309 338	Kansatiede ja Euroopan kansat
+T7	PER 375 381	Talven
+T8	LOC 417 425	Euroopan
+T9	PER 486 492	Talven
+T10	LOC 682 691	Eurooppaa
+T11	PER 721 726	Talve
+T12	LOC 743 748	Viron
+T13	LOC 759 766	Baltian
+T14	PER 818 823	Leimu
+T15	LOC 834 842	Euroopan
+T16	PER 1108 1122	Jussi Lehtonen
+T17	PRO 1318 1336	Viettelyksen vaunu
+T18	LOC 1669 1675	Suomen
+T19	PER 1875 1883	Lehtosen
+T20	LOC 1902 1910	Suomessa
+T21	PER 2083 2097	Ilmar Talvelle
+T23	PER 2317 2333	Johanna Pohtinen
+T24	PRO 2355 2389	Piiskan läiskettä ja PVC:n kahinaa
+T25	PER 2508 2516	Pohtinen
+T26	PER 2713 2721	Pohtinen
+T27	PER 2919 2924	Talve
+T29	DATE 1139 1150	vuonna 2000
+T30	DATE 1755 1766	vuonna 1970
+T22	PRO 191 212	Ilmar Talve -palkinto

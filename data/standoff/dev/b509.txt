@@ -1,0 +1,16 @@
+Twitter-bannit ja niiden poistaminen
+Huomasin tuossa jokin aika sitten , että Twitter-tiliäni ei löytynyt Twitterin hausta eli en näkynyt esimerkiksi #hashtag -hauissa .
+Tilini oli siis osittain bannattu tai ” suodatettu ” , kuten Twitter asian ilmaisee .
+Toki kyse voi olla muustakin viasta , mutta epäilen banneja syyksi .
+Syytä sille , miksi minut oli suodatettu , en tiedä .
+Se saattaa johtua liian useista peräkkäisistä retweeteistä tai jostakin muusta , jonka Twitterin algoritmit luokittelevat spammiksi .
+Lisää syitä löytyy Twitterin Help Centeristä .
+Kuinka sitten tiedät , onko sinut bannattu ?
+Mene Twitterin hakuun ja tee haku käyttäjänimelläsi ( from:käyttäjänimi ) .
+Jos tuloksia ei löydy , sinut on filtteröity Twitterin toimesta .
+Tilanteen voi onneksi korjata .
+Noudata seuraavia ohjeita :
+1. Mene osoitteeseen http://support.twitter.com/forms ja avaa uusi ticket ( = vikailmoitus / avunpyyntö )
+2. Kirjoita viaksi “ I can't find myself in search ”
+3. Odota , kunnes Twitterin tuki vastaa ja korjaa ongelman
+Vanhat tweetit eivät haussa korjauksen jälkeen näy , joten testaa haun toimivuus uusilla tweeteillä .

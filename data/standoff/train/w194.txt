@@ -1,0 +1,2 @@
+Combat flight simulator on Microsoftin julkaisema lentosimulaattoripelisarja .
+Se eroaa Microsoftin tunnetuimmasta Microsoft Flight Simulator -pelisarjasta siten , että siinä lennetään sotilaskoneilla .

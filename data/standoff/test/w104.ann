@@ -1,0 +1,44 @@
+T1	ORG 0 13	Urheilukanava
+T2	ORG 154 180	Suomen Urheilutelevisio Oy
+T3	ORG 311 324	Urheilukanava
+T4	ORG 348 362	Urheilukanavan
+T5	ORG 382 419	Sanoma Television Oy / Nelonen Median
+T7	PER 441 450	Hans Edin
+T8	PRO 548 561	TekstiNelonen
+T9	ORG 564 578	Urheilukanavan
+T10	ORG 587 604	Sanoma-konserniin
+T11	ORG 613 633	Sanoma Entertainment
+T12	ORG 728 748	Sportup Finland Oy:n
+T13	ORG 770 798	Suomen Urheilutelevisio Oy:n
+T14	ORG 828 848	Sanoma Entertainment
+T15	ORG 854 878	Suomen Urheilutelevision
+T16	ORG 896 909	Urheilukanava
+T17	ORG 951 961	Liigacupin
+T18	ORG 1013 1019	Mestis
+T19	ORG 1023 1046	Sveitsin jääkiekkoliiga
+T20	LOC 1150 1156	Saksan
+T21	LOC 1159 1166	Italian
+T22	LOC 1169 1177	Espanjan
+T23	LOC 1180 1192	Alankomaiden
+T24	LOC 1195 1202	Ruotsin
+T25	LOC 1206 1212	Suomen
+T27	PER 1272 1288	Tuomas Virkkunen
+T28	ORG 1291 1304	Urheilukanava
+T29	PRO 1372 1380	Aamupala
+T30	PRO 1404 1422	Illan huippuhetket
+T31	PRO 1464 1475	Pelivihjeet
+T32	ORG 1478 1491	Urheilukanava
+T33	LOC 1519 1527	Espanjan
+T34	ORG 1568 1577	Barcelona
+T35	ORG 1580 1591	Real Madrid
+T36	ORG 1660 1673	Urheilukanava
+T37	ORG 1681 1693	Vaasan Sport
+T38	ORG 1696 1707	Porin Ässät
+T39	ORG 1861 1875	Urheilukanavan
+T40	DATE 245 256	vuonna 2000
+T41	DATE 284 301	27. elokuuta 2001
+T42	DATE 489 507	1. toukokuuta 2009
+T43	DATE 700 716	3. elokuuta 2007
+T44	DATE 812 827	Kesäkuussa 2009
+T26	DATE 1499 1518	23. joulukuuta 2007
+T45	DATE 1640 1659	11. huhtikuuta 2009

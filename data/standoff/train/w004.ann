@@ -1,0 +1,61 @@
+T1	LOC 0 14	Mikkelinsaaret
+T2	LOC 24 37	Mickelsörarna
+T3	ORG 43 67	Vöyri-Maksamaan kunnassa
+T4	LOC 127 140	Merenkurkussa
+T5	LOC 204 212	Vildskär
+T6	LOC 216 230	Stora Källskär
+T7	LOC 233 247	Mikkelinsaaret
+T8	LOC 285 301	Stora Höuvanissa
+T9	LOC 353 368	Mikkelinsaarten
+T10	LOC 394 408	Mikkelinsaaret
+T11	LOC 501 517	Mikkelinsaarilla
+T12	LOC 860 875	Järnstångenilta
+T13	LOC 879 897	Stora Sandöreniltä
+T14	LOC 1162 1178	Mikkelinsaarista
+T15	LOC 1245 1261	Mikkelinsaarilla
+T16	LOC 1413 1427	Fänisbådanilla
+T17	LOC 1430 1446	Mikkelinsaarilla
+T18	LOC 1725 1740	Mikkelinsaarten
+T19	LOC 1895 1910	Mikkelinsaarten
+T20	LOC 1976 1992	Mikkelinsaarilla
+T21	LOC 2271 2285	Kummelskärillä
+T22	LOC 2289 2299	Boskärillä
+T23	LOC 2361 2380	Järnstång -saarella
+T25	LOC 2409 2421	Krokskärillä
+T27	LOC 2481 2491	Boskärillä
+T29	LOC 2517 2537	Stora Kolaningenilla
+T31	LOC 2598 2613	Mikkelinsaarten
+T32	LOC 2775 2791	Skrävelbådanilla
+T33	LOC 2795 2811	Stora Höuvanilla
+T34	EVENT 2892 2901	Isonvihan
+T35	LOC 2942 2957	Mikkelinsaarten
+T36	LOC 2958 2979	Västra Finnholmenille
+T37	ORG 3125 3146	Grönvikin lasitehtaan
+T38	PER 3188 3199	Marcus Bäck
+T39	PER 3218 3223	Brita
+T40	PER 3277 3286	Marcuksen
+T41	PER 3290 3296	Britan
+T42	LOC 3344 3360	Mikkelinsaarilta
+T43	LOC 3457 3473	Mikkelinsaarilla
+T44	LOC 3480 3495	Mikkelinsaarten
+T45	LOC 3693 3699	Suomen
+T46	LOC 3719 3734	Mikkelinsaarten
+T47	LOC 3822 3831	Ruotsista
+T48	LOC 3832 3839	Suomeen
+T49	LOC 3872 3888	Mikkelinsaarille
+T50	ORG 4156 4172	Maksamaan kunnan
+T51	LOC 4323 4330	Venäjän
+T52	LOC 4366 4382	Mikkelinsaarilla
+T53	LOC 4396 4408	Kummelskärin
+T54	LOC 4534 4550	Mikkelinsaarilla
+T55	LOC 4624 4640	Mikkelinsaarilla
+T56	LOC 4650 4659	Maksamaan
+T57	LOC 4692 4708	Mikkelinsaarilla
+T58	ORG 4719 4746	Pidä Saaristo Siistinä ry:n
+T59	LOC 4773 4785	Kummelskärin
+T60	LOC 4811 4824	Kisbockenilla
+T62	LOC 4940 4953	Fassgrundilla
+T64	DATE 3103 3114	vuonna 1830
+T65	DATE 4445 4456	vuonna 1993
+T24	DATE 2474 2478	1701
+T26	EVENT 4606 4616	talvisodan

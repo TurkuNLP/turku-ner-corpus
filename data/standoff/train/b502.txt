@@ -1,0 +1,19 @@
+Projekti etenee hitaasti mutta varmasti .
+Kolvasin tuon intervalliajastimen komponentit koekytkentälevylle jo muutamia päiviä sitten .
+Ajastin toimii täydellisesti , ja mikäli se jotain muutoksia kaipaa , ne voi tehdä koodiin .
+Nappejakin saa lisäiltyä tuohon vielä monia , jos puutteita ilmenee .
+Pohjasta roikkuvat johdot ovat tilapäisiä , tulen tekemään kaiken paremmin lopullisessa versiossa .
+Dolly ei synny ihan yhtä nopeasti kun tuo ajastin .
+Lähinnä kyse on kustannusten minimoimisesta ja suunnitteluun kuluvasta ajasta .
+Näillä näkymin joudun tilaamaan USA:sta yhden kierroksen minuutissa pyörivän moottorin tai jonkin vastaavan tyylisen setin ( Servocity ) .
+Kimppatilaus ei ole täysin poissuljettu vaihtoehto .
+Postikulut toki pienenevät , mutta tilalle saattaa sitten tulla tullimaksuja , jos kustannukset nousevat enemmän .
+Eli jos jotakuta Tampereella tai lähistöllä asuvaa kiinnostaa tuolta Servocitystä jotakin tilata , ota yhteyttä niin jutellaan tarkemmin .
+Eteenpäin en ala tavaraa postittamaan .
+Marko kyseli Twitterissä tuon näytön kytkentöjä , joten piirsin eräälle common cathode-tyyppiselle näytölle sellaiset ( riippuu täysin näytön tyypistä ja valmistajasta ) .
+Kuva löytyy GitHubista , kuten muutakin infoa komponenteista ynnä muuta sekalaista .
+Tieto on englanniksi , suomennan tekstit kyllä myöhemmin .
+Kannattaa muutenkin seurailla GitHubia , sillä en kirjoittele blogiin läheskään niin usein kuin teen muutoksia koodin ja muihin juttuihin .
+Tuo videokin on ollut nähtävillä Youtubessa jo useamman päivän , ja jos minua olisi seurannut GitHubissa tai Twitterissä ( tai youtubessa ) , niin sen olisi saattanut bongata aikaisemmin .
+PS. Blogin kommentointiin on lisätty muista minut –täppä , vaatii keksit ( cookiet ) , jotta toimii .
+Näin sivuhuomautuksena kommentoijille :)

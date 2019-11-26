@@ -1,0 +1,14 @@
+T12	ORG 545 560	The Hockey News
+T13	PER 0 15	Mikael Granlund
+T14	ORG 44 56	Oulun Kärpät
+T15	PER 89 104	Mikael Granlund
+T17	ORG 163 185	Oulun käräjäoikeudelle
+T18	PER 200 210	Granlundin
+T19	ORG 214 222	Kärppien
+T20	PER 260 268	Granlund
+T23	PER 463 471	Granlund
+T24	LOC 480 491	Helsingissä
+T25	PER 494 502	Granlund
+T1	ORG 437 453	Helsingin HIFK:n
+T2	DATE 223 234	vuonna 2007
+T3	DATE 515 526	vuonna 1992

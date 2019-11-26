@@ -1,0 +1,56 @@
+T1	ORG 60 75	Euroopan unioni
+T2	LOC 282 289	Kreikan
+T3	ORG 416 422	ERVV:n
+T4	ORG 529 532	EVM
+T5	ORG 547 551	ERVV
+T6	ORG 555 558	EVM
+T7	ORG 691 722	Kansainvälisen valuuttarahaston
+T8	ORG 723 728	IMF:n
+T9	ORG 939 942	EKP
+T10	ORG 1044 1049	EKP:n
+T11	ORG 1184 1208	Euroopan valuuttarahasto
+T12	LOC 1211 1222	Brysselissä
+T13	ORG 1296 1303	IMF:stä
+T14	ORG 1371 1377	ERVV:n
+T15	ORG 1427 1452	Euroopan valuuttarahastoa
+T16	ORG 1679 1704	Euroopan valuuttarahaston
+T17	LOC 1725 1732	Ranskan
+T18	PER 1745 1760	Nicolas Sarkozy
+T19	ORG 1771 1780	Spiegelin
+T20	LOC 1809 1815	Saksan
+T21	PER 1831 1844	Angela Merkel
+T22	ORG 1881 1908	Euroopan valuuttarahastosta
+T23	ORG 1938 1971	Kansainväliseen valuuttarahastoon
+T25	PER 2366 2381	Nouriel Roubini
+T26	LOC 2576 2585	Brysselin
+T27	LOC 2666 2674	Euroopan
+T28	ORG 2720 2724	EU:n
+T29	ORG 2820 2827	IMF:llä
+T30	ORG 2871 2891	Helsingin yliopiston
+T31	PER 2931 2948	Juhana Aunesluoma
+T32	PER 2957 2968	Aunesluoman
+T33	PER 3439 3449	Aunesluoma
+T34	PER 3486 3503	Juhana Aunesluoma
+T35	PER 3978 3988	Aunesluoma
+T36	ORG 4037 4041	EU:n
+T37	PER 4619 4629	Aunesluoma
+T38	LOC 4641 4651	Euroopasta
+T39	LOC 4658 4664	Saksan
+T40	PER 4758 4771	Peter Obornen
+T41	PER 5406 5413	Obornen
+T42	LOC 5432 5446	Etelä-Euroopan
+T43	LOC 5604 5612	Saksalle
+T44	LOC 5720 5725	Saksa
+T45	PER 5753 5772	Otto von Bismarckin
+T46	LOC 5781 5789	Euroopan
+T47	PER 5833 5839	Oborne
+T48	ORG 5853 5873	Helsingin yliopiston
+T49	PER 5874 5891	Juhana Aunesluoma
+T50	PER 5902 5909	Obornen
+T51	LOC 6136 6152	Etelä-Euroopasta
+T52	DATE 469 485	heinäkuussa 2013
+T54	ORG 1329 1342	Spiegel-lehti
+T55	ORG 2892 2922	Eurooppa-tutkimuksen verkoston
+T56	ORG 4698 4720	Telegraph-sanomalehden
+T57	ORG 566 581	Valtioneuvoston
+T58	ORG 2319 2340	New Yorkin yliopiston

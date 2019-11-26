@@ -1,0 +1,84 @@
+Euroopan keskuspankin asetus ( EY ) N:o 2423/2001 , annettu 22 päivänä marraskuuta 2001 , rahalaitossektorin konsolidoidusta taseesta ( EKP/2001/13 )
+EUROOPAN KESKUSPANKIN NEUVOSTO , joka ottaa huomioon Euroopan keskuspankin valtuuksista kerätä tilastotietoja 23 päivänä marraskuuta 1998 annetun neuvoston asetuksen ( EY ) N:o 2533/98 ( 1 ) ja erityisesti sen 5 artiklan 1 kohdan ja 6 artiklan 4 kohdan , ottaa huomioon Euroopan keskuspankin soveltamista vähimmäisvarannoista 23 päivänä marraskuuta 1998 annetun neuvoston asetuksen ( EY ) N:o 2531/98 ( 2 ) ja erityisesti sen 6 artiklan 4 kohdan , sekä katsoo seuraavaa :
+( 1 ) Rahalaitossektorin konsolidoidusta taseesta 1 päivänä joulukuuta 1998 annettua Euroopan keskuspankin asetusta ( EY ) N:o 2819/98 ( EKP/1998/16 ) ( 3 ) on aiemmin muutettu asetuksella ( EY ) N:o 1921/2000 ( EKP/2000/8 ) ( 4 ) .
+Kun kyseiseen asetukseen tehdään nyt uusia merkittäviä muutoksia , on toivottavaa , että asianomaiset säännökset muotoillaan uudelleen yhdeksi säädökseksi tällä asetuksella .
+( 2 ) Euroopan keskuspankkijärjestelmä ( EKPJ ) edellyttää rahalaitossektorin konsolidoidun taseen tuottamista voidakseen suorittaa tehtävänsä .
+Tämän taseen päätarkoituksena on antaa Euroopan keskuspankille ( EKP ) kattavat tilastotiedot rahatalouden kehityksestä yhtenä talousalueena tarkasteltavissa rahaliittoon osallistuvissa jäsenvaltioissa .
+Nämä tilastot kattavat yhteenlasketut rahoitussaamiset ja -velat , jotka ilmaistaan kantatietoina , korkeatasoisina virtatietoina lainojen osalta , ja myös rahalaitosten hallussa olevia arvopapereita koskevat virtatiedot esitetään tarkemmin .
+( 3 ) EKP antaa asetuksia Euroopan yhteisön perustamissopimuksen ( jäljempänä " perustamissopimus " ) määräysten mukaisesti sekä Euroopan keskuspankkijärjestelmän ja Euroopan keskuspankin perussäännön ( jäljempänä " perussääntö " ) nojalla siinä määrin kuin se on tarpeen EKPJ:n tehtävien täytäntöönpanemiseksi .
+Nämä tehtävät on määritelty perussäännössä ja eräissä tapauksissa perustamissopimuksen 107 artiklan 6 kohdassa tarkoitetuissa neuvoston säännöksissä .
+( 4 ) Perussäännön 5.1 artiklassa edellytetään , että EKP kerää kansallisten keskuspankkien avustuksella tarvittavat tilastotiedot joko toimivaltaisilta kansallisilta viranomaisilta tai suoraan taloudellisilta toimijoilta EKPJ:n tehtävistä huolehtiakseen .
+Perussäännön 5.2 artiklassa määrätään , että kansalliset keskuspankit hoitavat , siinä määrin kuin mahdollista , 5.1 artiklassa kuvattuja tehtäviä .
+( 5 ) Kansallisten keskuspankkien voi olla välttämätöntä kerätä varsinaiselta tiedonantajien joukolta EKP:n tilastovaatimusten täyttämiseksi tarvittavia tilastotietoja osana laajempaa tilastointiin liittyvää tiedonkeruuta , jonka ne luovat omalla vastuullaan hoitaakseen tiedonkeruun yhteisön tai kansallisen lainsäädännön tai vakiintuneen käytännön mukaisesti ja joka palvelee muita tilastointitarkoituksia , jos EKP:n tilastovaatimusten täyttäminen ei vaarannu .
+Tällä tavoin voidaan myös vähentää tietojen keräämisestä aiheutuvaa rasitetta .
+Avoimuuden varmistamiseksi tiedonantajille on näissä tapauksissa ilmoitettava , että tietoja kerätään muita tilastointitarkoituksia varten .
+Erityistapauksissa EKP voi käyttää tällaisia muihin tarkoituksiin kerättyjä tilastotietoja omien vaatimustensa täyttämiseksi .
+( 6 ) Asetuksen ( EY ) N:o 2533/98 3 artiklassa edellytetään , että EKP:n on täsmennettävä varsinainen tiedonantajien joukko tiedonantajien perusjoukon puitteissa , ja annetaan EKP:lle valtuudet vapauttaa jotkut tiedonantajien ryhmät kokonaan tai osittain tilastointiin liittyvistä tietojenantovaatimuksista .
+Saman asetuksen 6 artiklan 4 kohdassa säädetään , että EKP voi antaa asetuksia edellytyksistä , joiden mukaisesti voidaan käyttää oikeutta tarkistaa tilastotietoja tai toimittaa pakollinen tilastotietojen keruu .
+( 7 ) EKP valtuutetaan asetuksen ( EY ) N:o 2531/98 5 artiklassa antamaan asetuksia tai tekemään päätöksiä laitosten vapauttamisesta vähimmäisvarantovelvoitteista , esittämään ehtoja siitä , miten velat muille laitoksille jätetään pois tai vähennetään varantopohjasta , ja määrittämään erisuuruiset velvoiteprosentit eri velkaryhmille .
+Asetuksen ( EY ) N:o 2531/98 6 artiklassa EKP:lle annetaan oikeus kerätä laitoksilta varantovelvoitteiden soveltamiseksi tarvittavat tiedot ja oikeus tarkistaa niiden tietojen paikkansapitävyys ja laatu , jotka laitokset antavat osoittaakseen täyttäneensä vähimmäisvarantojärjestelmän tiedonantovelvoitteen .
+On toivottavaa , että tietojen antamisesta aiheutuvan rasitteen vähentämiseksi kuukausitasetta koskevia tilastotietoja käytettäisiin lisäksi EKPJ:n vähimmäisvarantojärjestelmän alaisten luottolaitosten varantopohjan säännölliseen laskemiseen .
+( 8 ) Asetuksen ( EY ) N:o 2533/98 4 artiklassa säädetään , että jäsenvaltioiden on järjestettävä tilastotietojen keruu omalta osaltaan ja tehtävä EKP:n kanssa kiinteää yhteistyötä varmistaakseen perussäännön 5 artiklasta johtuvien velvollisuuksien täyttämisen .
+( 9 ) Vaikka on tunnustettua , että EKP:n perussäännön 34.1 artiklan nojalla antamissa asetuksissa ei anneta mitään oikeuksia eikä aseteta mitään velvollisuuksia rahaliittoon osallistumattomille jäsenvaltioille , perussäännön 5 artikla koskee sekä rahaliittoon osallistuvia että siihen osallistumattomia jäsenvaltioita .
+Asetuksessa ( EY ) N:o 2533/98 muistutetaan , että perussäännön 5 artikla sekä perustamissopimuksen 5 artikla tarkoittavat myös sitä , että rahaliittoon osallistumattomien jäsenvaltioiden on suunniteltava ja toimeenpantava kansallisella tasolla kaikki asianmukaisiksi katsomansa toimenpiteet EKP:n tilastovaatimusten edellyttämän tiedonkeruun järjestämiseksi ja saatava tilastointiin liittyvät valmistelunsa ajoissa valmiiksi tullakseen rahaliittoon osallistuviksi jäsenvaltioiksi .
+( 10 ) Varantovelvoitteet on vahvistettava viimeistään kunkin pitoajanjakson ensimmäisenä päivänä Euroopan keskuspankin ja luottolaitosten likviditeetin hallinnan helpottamiseksi .
+Luottolaitokset saattavat poikkeuksellisesti joutua korjaamaan varantopohjaa tai vahvistettua varantovelvoitetta .
+Varantovelvoitteen vahvistamista tai hyväksymistä koskevat menettelyt eivät rajoita tiedonantajien velvollisuutta toimittaa aina oikeat tilastotiedot sekä korjata mahdollisesti jo toimittamansa virheelliset tilastotiedot .
+( 11 ) Luottolaitoksia koskeviin sulautumisiin ja jakautumisiin liittyvät erityiset menettelyt on tarpeen määritellä , jotta näiden laitosten velvollisuudet varantovelvoitteen osalta voidaan selventää .
+Tässä asetuksessa esitetyt sulautumista ja jakautumista koskevat määritelmät perustuvat osakeyhtiöitä koskevan yhteisön johdetun oikeuden mukaisiin määritelmiin .
+Nämä määritelmät on mukautettu tämän asetuksen tavoitteiden mukaisiksi .
+Nämä menettelyt eivät rajoita mahdollisuutta pitää vähimmäisvarantoja välittäjän kautta .
+( 12 ) EKP:n rahataloudelliset tilastot on saatu asetuksen ( EY ) N:o 2819/98 ( EKP/1998/16 ) mukaisesti kerätyistä rahalaitosten tasetilastoista , jotka määriteltiin talous- ja rahaliiton toisessa vaiheessa ja joita pidettiin vähimmäistietomääränä rahapolitiikan tarpeisiin .
+Lisäksi asetus koski ainoastaan taseen kantatietojen keräämistä eikä sellaisten arvostusmuutoksia koskevien tietojen ilmoittamista , joita edellytetään virtatietojen laskemiseksi laajan raha-aggregaatin , eli M3:sen , vastaerille , joista kasvunopeudet puolestaan lasketaan .
+Kun otetaan huomioon näiden tietojen rajallisuus , rahalaitosten tasetilastojen laajentaminen oli välttämätöntä .
+( 13 ) On välttämätöntä laajentaa kuukausittaisia vaatimuksia , jotta saataisiin kuukausittainen talletusvelkojen erittely alasektoreittain ja edelleen maturiteetti- / valuuttakohtaisesti sekä lainojen erittely alasektorin / maturiteetin ja käyttötarkoituksen mukaan , koska näitä erittelyjä pidetään olennaisina rahapolitiikan hoitamisen kannalta .
+Tähän sisältyy tietoja , joita aikaisemmin kerättiin ainoastaan vuosineljänneksittäin .
+( 14 ) On tarpeen muodostaa oikea-aikaiset raha-aggregaattien ja niiden vastaerien kanta- ja virtatiedot .
+Konsolidoidun taseen kantatiedoista muodostetaan virtatietoja käyttäen muita tilastotietoja , jotka liittyvät valuuttakurssimuutoksiin , muihin muutoksiin arvopapereiden arvossa ja lainojen luottotappioissa / arvonalennuksissa sekä muihin vastaaviin järjestelyihin , kuten luokituksen muutoksiin .
+( 15 ) On välttämätöntä varmistaa lainojen luottotappioita / arvonalennuksia koskevien , tarkoituksenmukaisesti yhdenmukaistettujen ja korkealaatuisten tietojen saatavuus kohdistamalla tätä koskeva vaatimus tiedonantajille .
+Myös arvopapereiden arvostusmuutoksista on kerättävä tietoja .
+( 16 ) Taseeseen sisältynyt erillinen luokka " rahamarkkinapaperit " poistetaan ja sulautetaan luokkaan " liikkeeseen lasketut velkapaperit " vastattavaa-puolella ,
+Tähän luokkaan kuuluneet instrumentit kirjataan liikkeeseen laskettuihin velkapapereihin ja ryhmitellään niiden alkuperäisen maturiteetin mukaan .
+Samanlainen uudelleenryhmittely on myös tehty rahalaitosten taseen vastaavaa-puolella .
+( 17 ) Talletusten määritelmässä pitäisi ottaa huomioon saldot , jotka vastaavat sähköiseen rahaan liittyviä ennakkomaksuja ,
+ON ANTANUT TÄMÄN ASETUKSEN :
+1 artikla
+Määritelmät
+Tässä asetuksessa ilmaisuilla " tiedonantajat " , " rahaliittoon osallistuva jäsenvaltio " ja " jossakin maassa oleva " on sama merkitys kuin niille on määritelty asetuksen ( EY ) N:o 2533/98 1 artiklassa .
+2 artikla
+Varsinainen tiedonantajien joukko
+1. Varsinainen tiedonantajien joukko koostuu rahaliittoon osallistuvien jäsenvaltioiden alueella olevista rahalaitoksista .
+Tilastointia varten rahalaitoksia ovat kotimaassa olevat luottolaitokset , siten kuin ne on määritelty yhteisön lainsäädännössä , ja kaikki muut kotimaassa olevat rahoituslaitokset , jotka ottavat vastaan talletuksia ja/tai niiden läheisiä vastineita muilta kuin rahalaitoksilta ja myöntävät luottoja ja/tai tekevät arvopaperisijoituksia omaan lukuunsa ( ainakin taloudellisessa mielessä ) .
+2. Kansalliset keskuspankit voivat myöntää pienille rahalaitoksille poikkeuksia raportointivaatimuksista , jos konsolidoidussa kuukausitaseessa mukana olevien rahalaitosten osuus on vähintään 95 prosenttia kunkin rahaliittoon osallistuvan jäsenvaltion kaikkien rahalaitosten kantatietoina ilmaistusta yhteenlasketusta taseesta .
+Kansalliset keskuspankit tarkistavat tämän ehdon täyttymisen hyvissä ajoin , jotta ne voivat tarvittaessa myöntää tai kumota poikkeuksia kunkin vuoden alusta alkaen .
+3 artikla
+Tilastoinnissa käytettävä rahalaitosten luettelo
+1. EKP laatii ja ylläpitää liitteessä I olevan 1 osan I kohdassa määrättyjen luokitusperiaatteiden mukaisesti tilastoinnissa käytettävän rahalaitosten luettelon ottaen huomioon tällaisen luettelon EKPJ:n vähimmäisvarantojärjestelmän yhteydessä tapahtuvan käytön toistuvuutta ja oikea-aikaisuutta koskevat vaatimukset .
+Tilastoinnissa käytettävän rahalaitosten luettelon laadinta ja ylläpito kuuluu EKP:n johtokunnan toimivaltaan .
+2. EKP ja kansalliset keskuspankit antavat tilastoinnissa käytettävän rahalaitosten luettelon ja sen päivitykset asianomaisille laitoksille tarkoituksenmukaisella tavalla , myös sähköisesti Internetin kautta tai asianomaisten tiedonantajien pyynnöstä paperimuodossa .
+3. Tilastoinnissa käytettävä rahalaitosten luettelo on laadittu ainoastaan tiedoksi .
+Jos 2 kohdan mukainen luettelon viimeisin käytettävissä oleva versio on kuitenkin virheellinen , EKP ei määrää seuraamuksia yhteisölle , joka ei ole asianmukaisesti täyttänyt raportointivaatimuksiaan siltä osin kuin se on hyvässä uskossa luottanut virheellisen luettelon tietoihin .
+4 artikla
+Tilastointiin liittyvät tiedonantovaatimukset
+1. Rahalaitossektorin konsolidoidun taseen säännölliseksi laatimiseksi kanta- ja virtatietoina varsinainen tiedonantajien joukko antaa kuukausittain kuukauden lopun tasettaan ja lainojen luottotappioita / arvonalennuksia ja arvopapereiden arvostusmuutoksia koskevat raportointikauden tilastotiedot sen jäsenvaltion keskuspankille , jossa rahalaitos sijaitsee .
+Eräitä tase-eriä koskevia lisätietoja raportoidaan neljännesvuosittain kantatietoina .
+2. Vaaditut tilastotiedot on täsmennetty tämän asetuksen liitteessä I .
+3. Vaaditut tilastotiedot annetaan tämän asetuksen liitteessä IV määrättyjen tietojen toimittamista , tarkkuutta , käsitteellistä vastaavuutta ja tarkistuksia koskevien vähimmäisvaatimusten mukaisesti .
+4. Kansalliset keskuspankit määrittelevät ja toteuttavat kansalliset erityispiirteet huomioon ottaen ne tiedonantomenettelyt , joita varsinaisen tiedonantajien joukon on noudatettava .
+Kansalliset keskuspankit varmistavat , että näillä tiedonantomenettelyillä tuotetaan vaaditut tilastotiedot ja että niiden perusteella voidaan myös tarkistaa asianmukaisesti 3 kohdan mukaisten tietojen toimittamista , tarkkuutta , käsitteellistä vastaavuutta ja tarkistuksia koskevien vähimmäisvaatimusten noudattaminen .
+5. Asetuksen 2 artiklan 2 kohdassa tarkoitettujen poikkeusten tarkoituksena on vähentää rahalaitosten tilastointiin liittyviä tiedonantovaatimuksia seuraavasti :
+- niitä luottolaitoksia , joihin sovelletaan tällaisia poikkeuksia , koskevat suppeammat tiedonantovaatimukset , sellaisina kuin niistä on määrätty tämän asetuksen liitteessä II ,
+- niitä pieniä rahalaitoksia , jotka eivät ole luottolaitoksia , koskevat suppeammat tiedonantovaatimukset , sellaisina kuin niistä on määrätty tämän asetuksen liitteessä III .
+Pienet rahalaitokset voivat halutessaan olla hyödyntämättä poikkeuksia ja täyttää sen sijaan tiedonantovaatimuksensa täysimääräisesti .
+6. Kansalliset keskuspankit voivat myöntää rahamarkkinarahastoille poikkeuksen arvostusmuutosten ilmoittamisen osalta poistamalla rahamarkkinarahastoilta velvollisuuden ilmoittaa arvostusmuutokset , tämän kuitenkaan vaikuttamatta 2 artiklan 2 kohdassa säädettyyn poikkeukseen .
+7. Kansalliset keskuspankit voivat myöntää poikkeuksen arvopapereiden arvostusmuutosten ilmoittamistiheyden ja toimittamisajan osalta ja vaatia näitä tietoja vuosineljänneksittäin noudattaen neljännesvuosittain toimitettavien kantatietojen toimitusaikaa , edellyttäen että seuraavia vaatimuksia noudatetaan :
+- tiedonantajat toimittavat kansallisille keskuspankeille tarkoituksenmukaiset tiedot arvostuskäytännöstä , mukaan lukien määrällinen arviointi siitä , miten suuri prosenttiosuus niiden hallussa olevista kyseisistä instrumenteista on arvostettu eri arvostusmenetelmiä käyttäen ,
+- mikäli on tapahtunut huomattava arvostusmuutos , kansallisilla keskuspankeilla on oikeus vaatia tiedonantajia toimittamaan lisätietoja siltä kuukaudelta , jona muutos tapahtui .
+8. Jos kyseessä on sulautuminen tai jakautuminen tai muu uudelleenjärjestelytoimi , joka saattaa vaikuttaa tilastointiin liittyvän tiedonantovelvollisuuden täyttämiseen , tiedonantaja ilmoittaa , sen jälkeen kun aikomus tällaisen toimen täytäntöönpanosta on tullut julkiseksi , ja ennen kuin sulautuminen tai jakautuminen on tullut voimaan , asianomaiselle kansalliselle keskuspankille suunnitelluista menettelyistä , joiden mukaisesti tässä asetuksessa asetetut tilastointiin liittyvät tiedonantovelvollisuudet täytetään .
+5 artikla
+Annettujen tilastotietojen käyttö asetuksen ( EY ) N:o 2818/98 ( EKP/1998/15 ) mukaisesti
+1. Jokainen luottolaitos käyttää tämän asetuksen mukaisesti antamiaan tilastotietoja varantopohjansa laskemiseen vähimmäisvarantojen soveltamisesta 1 päivänä joulukuuta 1998 annetun Euroopan keskuspankin asetuksen ( EY ) N:o 2818/98 ( EKP/1998/15 ) ( 5 ) mukaisesti , sellaisena kuin se on muutettuna asetuksella ( EY ) N:o 1921/2000 ( EKP/2000/8 ) .
+Jokainen luottolaitos käyttää näitä tietoja erityisesti tarkistaakseen , täyttääkö se varantovelvoitteensa pitoajanjakson aikana .
+2. Vähimmäisvarantovelvoitteen alaiset luottolaitokset voivat asetuksen ( EY ) N:o 2818/98 ( EKP/1998/15 ) 5 artiklassa mainittujen menettelyjen mukaisesti ilmoittaa korjauksia varantopohjaan sekä varantovelvoitteeseen tämän kuitenkaan vaikuttamatta tiedonantajille tämän asetuksen 4 artiklassa ja liitteessä IV asetettuihin velvollisuuksiin .
+3. EKPJ:n vähimmäisvarantojärjestelmän soveltamista koskevat erityissäännökset ja siirtymäsäännökset ovat tämän asetuksen liitteessä II .
+Tämän liitteen erityissäännöksiä sovelletaan asetuksen ( EY ) N:o 2818/98 ( EKP/1998/15 ) säännösten sijasta .

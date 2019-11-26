@@ -1,0 +1,18 @@
+T1	ORG 128 132	EU:n
+T2	LOC 266 278	Yhdysvaltain
+T3	PER 319 330	Mitt Romney
+T4	PER 402 415	Barack Obamaa
+T5	PER 480 495	Osama bin Laden
+T6	LOC 511 517	Irakin
+T7	PER 544 550	Romney
+T8	PER 572 585	Barack Obaman
+T9	PER 673 680	Romneyn
+T10	PER 736 747	Mitt Romney
+T11	PER 797 807	Edelfeltin
+T12	PER 844 861	Albert Edelfeltin
+T13	PRO 870 884	Chez l'Artiste
+T14	LOC 950 960	New Yorkin
+T15	PER 1006 1016	Edelfeltin
+T16	PER 1032 1042	Virginietä
+T17	LOC 1064 1074	Pariisissa
+T18	DATE 11 25	viikko 43/2007

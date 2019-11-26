@@ -1,0 +1,46 @@
+T1	ORG 0 16	HC Kirvesperseet
+T2	LOC 86 99	Mansesterissa
+T3	ORG 155 165	Asteriskin
+T4	ORG 169 176	Digitin
+T5	ORG 280 296	HC Kirvesperseet
+T6	LOC 425 434	Tampereen
+T7	LOC 435 446	Hervannassa
+T8	LOC 587 594	Turussa
+T9	ORG 715 756	Jyrki Pulliainen ja Takapaksin Palomiehet
+T10	ORG 817 833	HC Kirvesperseet
+T11	ORG 836 839	ADS
+T12	ORG 842 853	Team Koksuk
+T13	ORG 856 886	Pahojen Mutanttien Veljeskunta
+T14	ORG 889 896	Riski 6
+T15	ORG 909 929	Team Kohtuukäyttäjät
+T16	ORG 1684 1687	ADS
+T17	ORG 1700 1716	HC Kirvesperseet
+T18	ORG 1791 1832	Jyrki Pulliainen ja Takapaksin Palomiehet
+T19	ORG 2041 2054	Nahkamansikat
+T20	ORG 2326 2330	KELA
+T21	ORG 2525 2530	IVA:n
+T22	ORG 2558 2576	HC Kirvesperseiden
+T23	ORG 2602 2607	ADS:n
+T24	ORG 2653 2668	Kirvesperseiden
+T25	ORG 2786 2811	DDR:n Naisvoimistelijoita
+T26	ORG 2845 2851	HC K:n
+T27	PER 2894 2905	Aki Halonen
+T28	PER 2908 2922	Lasse Saarinen
+T29	PER 2926 2940	Maija Isoluoma
+T30	PER 2947 2959	Tuukka Urpin
+T31	PER 2989 3002	Antti Halonen
+T32	PER 3030 3040	Nätti-Urpi
+T33	ORG 3047 3062	Kirvesperseiden
+T34	ORG 3098 3108	Asteriskin
+T35	ORG 3112 3119	Digitin
+T36	LOC 3332 3341	Tampereen
+T37	LOC 3406 3413	Turkuun
+T38	ORG 3414 3422	Hybridin
+T39	ORG 3516 3527	Luuppi ry:n
+T40	LOC 3551 3568	Sumelius Clubilla
+T41	LOC 3767 3776	Tampereen
+T42	PRO 3912 3957	” turvallinen miesten välinen seksi ” -oppaan
+T43	ORG 899 905	Deekut
+T45	EVENT 64 85	Vuoden 2008 MM-kyykkä
+T48	ORG 1690 1696	Deekut
+T49	ORG 2828 2833	DDR:n

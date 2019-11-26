@@ -1,0 +1,12 @@
+T1	ORG 0 27	Toyotan Formula 1 -tallilla
+T3	ORG 66 72	Toyota
+T5	PER 199 216	Tadashi Yamashina
+T6	ORG 219 225	Toyota
+T7	ORG 375 382	Toyotan
+T8	PER 749 758	Yamashina
+T9	ORG 766 773	Toyotan
+T10	DATE 245 258	vuodesta 2002
+T11	DATE 370 374	2007
+T13	ORG 448 460	Toyota-talli
+T14	DATE 742 746	2008
+T2	ORG 84 103	Formula 1 -sarjassa

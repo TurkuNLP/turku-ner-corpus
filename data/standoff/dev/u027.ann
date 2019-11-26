@@ -1,0 +1,27 @@
+T8	PER 512 520	Lönnberg
+T9	ORG 548 566	Turun yliopistolle
+T10	ORG 668 686	Turun yliopistolla
+T11	LOC 714 722	Suomessa
+T12	ORG 772 787	Turun yliopisto
+T13	PER 961 971	Lönnbergin
+T14	PER 1166 1174	Lönnberg
+T15	ORG 1333 1349	Turun yliopiston
+T16	PER 1727 1735	Lönnberg
+T17	EVENT 1742 1767	Monitori 2010 -tapahtumaa
+T18	PER 1907 1925	Markku I. Nurminen
+T19	ORG 2018 2034	Turun yliopiston
+T20	PER 2129 2137	Nurminen
+T21	ORG 2158 2165	TEKESin
+T22	PRO 2175 2189	OmaHyvinvointi
+T23	PER 2307 2315	Nurminen
+T24	PRO 2557 2581	OmaHyvinvointi -hankkeen
+T25	PRO 2725 2732	Pärjäin
+T26	PRO 2845 2852	Pärjäin
+T27	PER 2939 2947	Nurminen
+T28	ORG 0 16	Turun yliopiston
+T29	ORG 171 186	Turun yliopisto
+T30	ORG 214 239	Turun ammattikorkeakoulun
+T31	ORG 243 263	Turku Science Parkin
+T32	EVENT 271 296	Monitori 2010 -seminaarin
+T33	ORG 439 455	Turun yliopiston
+T34	PER 468 482	Harri Lönnberg

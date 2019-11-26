@@ -1,0 +1,19 @@
+T1	ORG 31 38	Googlea
+T2	ORG 39 61	Tšeljabinskin kaupunki
+T3	LOC 62 71	Venäjällä
+T5	ORG 358 365	Googlea
+T6	LOC 549 560	Tšeljabinsk
+T7	LOC 594 601	Venäjän
+T8	LOC 706 715	Ozjorskin
+T9	LOC 745 758	Tšeljabinskin
+T10	LOC 859 866	Venäjän
+T11	LOC 901 909	Uralilla
+T12	ORG 914 934	St. Petersburg Times
+T13	ORG 964 971	Googlen
+T14	ORG 975 983	Yandexin
+T15	LOC 1108 1121	Tšeljabinskin
+T16	ORG 1152 1158	Yandex
+T17	ORG 1164 1170	Google
+T18	DATE 624 635	Vuonna 1957
+T19	ORG 380 398	Yandex-hakukonetta
+T4	ORG 271 293	Tšeljabinskin hallinto

@@ -1,0 +1,12 @@
+T7	ORG 22 49	Lasten ja nuorten sairaalaa
+T8	LOC 65 76	Helsingissä
+T9	ORG 77 96	Meilahden sairaalan
+T10	LOC 123 140	Stenbäckinkatu 11
+T11	LOC 275 289	Tehtaankadulla
+T12	LOC 653 659	Suomen
+T1	ORG 0 14	Lastenklinikka
+T3	ORG 855 870	Naistenklinikan
+T4	ORG 784 798	Lastenklinikan
+T2	ORG 900 925	Kätilöopiston sairaalassa
+T5	DATE 160 164	1893
+T6	DATE 292 303	Vuonna 1946
