@@ -21,6 +21,8 @@ for d in train dev test; do
 	    wn) n=wiki-news;;
 	esac
 	mkdir -p "$OUTDIR/$n/$d"
-	cp "$INDIR/$d/$s"[^a-z]*.{txt,ann} "$OUTDIR/$n/$d"
+	for f in $(find "$INDIR/$d" -name "$s"'[^a-z]*'); do
+	    cp $f "$OUTDIR/$n/$d"
+	done
     done
 done
