@@ -9,7 +9,7 @@ Lisäksi siirto avaa f-linjan , jota pitkin valkean raskaat upseerit pääsevät
 Klassisimmillaan kuningasgambiitti etenee mustan lyödessä sotilaan ja tukien sitä g5 siirrolla , ehkä myös h6 , ja yrittäen saada upseerinsa peliin ja kuninkaan nopeasti turvaan .
 Valkea puolestaan on valmis uhraamaan pienimmästäkin tekosyystä .
 Hyvä esimerkki kuningasgambiittimaisesta pelaamisesta on yksi kuuluisimmista pelatuista shakkipeleistä , nk. kuolematon peli , joka pelattiin Adolf Anderssenin ja Kieseritzkyn välillä Lontoossa 1851 .
-Tavallinen tapa torjua gambiitti on pelata 2 ... Lc5 .
+Tavallinen tapa torjua gambiitti on pelata 2...Lc5 .
 Lähetti estää valkeaa linnoittamasta ja usein valkea pyrkiikin pelaamaan Rc3-Ra4-Rxc5 päästäkseen eroon mustan lähetistä .
 Musta voittaa tässä kaksi tempoa .
 Avauksen mielletään yleisesti antavan valkealle liian paljon tilaa keskustassa .

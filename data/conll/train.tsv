@@ -10485,7 +10485,8 @@ kaikkien	O
 elitistikakaroiden	O
 eliittijuhlat	O
 elitistisessä	O
-Finlandia-talossa.	B-LOC
+Finlandia-talossa	B-LOC
+.	O
 (	O
 Varoitus	O
 :	O
@@ -13601,7 +13602,8 @@ lautaselle	O
 Yhteen	O
 tahnaan	O
 laitoin	O
-n.1	O
+n.	O
+1	O
 dl	O
 kurkkurelishiä	O
 ,	O
@@ -13748,8 +13750,7 @@ sivuilla	O
 ihan	O
 kuvan	O
 perusteella	O
-...	O
-.	O
+....	O
 ja	O
 tuosta	O
 linkin	O
@@ -138515,9 +138516,7 @@ torjua	O
 gambiitti	O
 on	O
 pelata	O
-2	O
-...	O
-Lc5	O
+2...Lc5	O
 .	O
 
 Lähetti	O
@@ -144051,9 +144050,7 @@ sulkea	O
 tallentamatta	O
 muutoksia	O
 komennolla	O
-:	O
-q	O
-!	O
+:q!	O
 
 *	O
 Muutosten	O
@@ -144243,8 +144240,7 @@ vastakappaleen	O
 kohdalle	O
 
 *	O
-'	O
-.	O
+'.	O
 -	O
 Siirry	O
 tiedostossa	O
@@ -153438,8 +153434,8 @@ kuningas	O
 eaa.	I-DATE
 –	I-DATE
 63	I-DATE
-eaa	I-DATE
-..	I-DATE
+eaa.	I-DATE
+.	O
 
 Hänen	O
 isänsä	O
@@ -153462,8 +153458,8 @@ vaarallisin	O
 vihollinen	O
 ensimmäisellä	O
 vuosisadalla	O
-eaa	O
-..	O
+eaa.	O
+.	O
 
 Mithridates	B-PER
 laajensi	O
@@ -154451,8 +154447,8 @@ vuonna	B-DATE
 eaa.	I-DATE
 tai	I-DATE
 98	I-DATE
-eaa	I-DATE
-..	I-DATE
+eaa.	I-DATE
+.	O
 
 Hänen	O
 kerrotaan	O

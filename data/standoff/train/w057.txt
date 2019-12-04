@@ -12,7 +12,7 @@ Kirjoitustilaan pääsee painamalla esimerkiksi näppäintä i komentotilassa .
 Tässä tilassa Vim lisää kaiken kirjoitetun tekstin muokattavaan tiedostoon .
 Tekstinvalintatilaan pääsee painamalla näppäintä v komentotilassa .
 Kaikki kirjoitettu teksti tulkitaan komennoiksi ja kursoria liikuttamalla valitaan tekstä .
-Vimin voi sulkea tallentamatta muutoksia komennolla : q !
+Vimin voi sulkea tallentamatta muutoksia komennolla :q!
 * Muutosten kumoaminen ja kumottujen muutosten palautus .
 * Mahdollisuus muokata tekstiä vasemmalta oikealle tai oikealta vasemmalle .
 * Tekstin visuaalinen muotoilu ( visual mode ) , eli " tekstipohjainen graafinen muotoilu " .
@@ -26,7 +26,7 @@ Mukana tulee yli 200 syntaksitiedostoa eri kielille ja syntaksitiedostoja voi my
 * Vimissä on integrointituki Perlille , Tcl:lle ja Pythonille ja se voidaan myös asettaa toimimaan OLE-palveluna Windowsissa .
 * * - Etsi kursorin alla olevaa markkijonoa tiedostossa eteenpäin
 * % - Siirry kursorin alla olevan sulkumerkin vastakappaleen kohdalle
-* ' . - Siirry tiedostossa viimeksi editoidulle riville
+* '. - Siirry tiedostossa viimeksi editoidulle riville
 * yy - kopioi kursorin alla oleva rivi
 * 3yy - kopioi kursorin alla oleva rivi ja kaksi seuraavaa riviä
 Bram Moolenaar aloitti Vimin kehittämisen vuonna 1988 .
