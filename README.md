@@ -38,4 +38,4 @@ Most NER taggers can be straightforwardly trained and evaluated with this data. 
 
 ## Guidelines
 
-The [Turku NER corpus annotation guidelines](https://github.com/TurkuNLP/turku-ner-corpus/blob/master/Turku-NER-guidelines-v1.pdf) are available in PDF format.
+The [Turku NER corpus annotation guidelines](https://github.com/TurkuNLP/turku-ner-corpus/blob/master/docs/Turku-NER-guidelines-v1.pdf) are available in PDF format.
