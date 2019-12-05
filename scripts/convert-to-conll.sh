@@ -7,6 +7,7 @@ set -euo pipefail
 
 INDIR="$DIR/../data/standoff"
 OUTDIR="$DIR/../data/conll"
+UDDIR="$DIR/../data/UD_Finnish-TDT"
 TOOLDIR="$DIR/../tools"
 
 mkdir -p "$OUTDIR"
@@ -22,11 +23,14 @@ else
 fi
 
 for s in train dev test; do
-    python3 "$TOOLDIR/standoff2conll/standoff2conll.py" \
-	    --tokenization space \
-	    --no-sentence-split \
-	    "$INDIR/$s" \
-	    > "$OUTDIR/$s.tsv"
+    # Grab order of documents from UD data
+    for i in $(egrep '^# sent_id = ' "$UDDIR/fi_tdt-ud-${s}.conllu" \
+		   | perl -pe 's/.* = (\S+)\.\d+$/$1/' | uniq); do
+	python3 "$TOOLDIR/standoff2conll/standoff2conll.py" \
+		--tokenization space \
+		--no-sentence-split \
+		"$INDIR/$s/$i.ann"
+    done > "$OUTDIR/$s.tsv"
 done
 
 SPLITIN="$DIR/../data/standoff-split"
@@ -41,10 +45,16 @@ for t in "$SPLITIN"/*; do
     b=$(basename "$t")
     mkdir -p "$SPLITOUT/$b"
     for s in train dev test; do	
-	python3 "$TOOLDIR/standoff2conll/standoff2conll.py" \
-		--tokenization space \
-		--no-sentence-split \
-		"$SPLITIN/$b/$s" \
-		> "$SPLITOUT/$b/$s.tsv"
+	# Grab order of documents from UD data
+	for i in $(egrep '^# sent_id = ' "$UDDIR/fi_tdt-ud-${s}.conllu" \
+		       | perl -pe 's/.* = (\S+)\.\d+$/$1/' | uniq); do
+	    if [ ! -e "$SPLITIN/$b/$s/$i.ann" ]; then
+		continue    # not in this part of the corpus
+	    fi
+	    python3 "$TOOLDIR/standoff2conll/standoff2conll.py" \
+		    --tokenization space \
+		    --no-sentence-split \
+		    "$SPLITIN/$b/$s/$i.ann"
+	done > "$SPLITOUT/$b/$s.tsv"
     done
 done
