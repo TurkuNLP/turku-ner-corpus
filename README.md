@@ -2,6 +2,13 @@
 
 An open, broad-coverage corpus for Finnish named entity recognition.
 
+## Releases
+
+Version 1.0:
+
+* zip package: [turku-ner-corpus-v1.0.zip](https://github.com/TurkuNLP/turku-ner-corpus/archive/v1.0.zip)
+* tgz package: [turku-ner-corpus-v1.0.tar.gz](https://github.com/TurkuNLP/turku-ner-corpus/archive/v1.0.tar.gz)
+
 ## Quickstart
 
 A version of the corpus data is found in CoNLL-like format in the following files:
