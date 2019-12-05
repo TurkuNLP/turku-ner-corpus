@@ -9,6 +9,8 @@ Version 1.0:
 * zip package: [turku-ner-corpus-v1.0.zip](https://github.com/TurkuNLP/turku-ner-corpus/archive/v1.0.zip)
 * tgz package: [turku-ner-corpus-v1.0.tar.gz](https://github.com/TurkuNLP/turku-ner-corpus/archive/v1.0.tar.gz)
 
+Recommended. This is the first complete, stable release of the corpus and the version used in our experiments with the data.
+
 ## Quickstart
 
 A version of the corpus data is found in CoNLL-like format in the following files:
