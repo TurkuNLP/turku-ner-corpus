@@ -2,6 +2,8 @@
 
 An open, broad-coverage corpus for Finnish named entity recognition.
 
+![Example of Turku NER corpus annotation](https://raw.githubusercontent.com/TurkuNLP/turku-ner-corpus/master/docs/example.png)
+
 ## Releases
 
 Version 1.0:
