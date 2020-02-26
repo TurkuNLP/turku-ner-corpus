@@ -10,6 +10,12 @@ OUTDIR="$DIR/../data/conll"
 UDDIR="$DIR/../data/UD_Finnish-TDT"
 TOOLDIR="$DIR/../tools"
 
+if [ "$#" -gt 0 ] && [ "$1" == "--no-docstart" ]; then
+    add_docstart=false
+else
+    add_docstart=true
+fi
+
 mkdir -p "$OUTDIR"
 
 mkdir -p "$TOOLDIR"
@@ -26,6 +32,10 @@ for s in train dev test; do
     # Grab order of documents from UD data
     for i in $(egrep '^# sent_id = ' "$UDDIR/fi_tdt-ud-${s}.conllu" \
 		   | perl -pe 's/.* = (\S+)\.\d+$/$1/' | uniq); do
+	if [ $add_docstart = true ]; then
+	    echo "-DOCSTART-"$'\t'"O"
+	    echo
+	fi
 	python3 "$TOOLDIR/standoff2conll/standoff2conll.py" \
 		--tokenization space \
 		--no-sentence-split \
@@ -50,6 +60,10 @@ for t in "$SPLITIN"/*; do
 		       | perl -pe 's/.* = (\S+)\.\d+$/$1/' | uniq); do
 	    if [ ! -e "$SPLITIN/$b/$s/$i.ann" ]; then
 		continue    # not in this part of the corpus
+	    fi
+	    if [ $add_docstart = true ]; then
+		echo "-DOCSTART-"$'\t'"O"
+		echo
 	    fi
 	    python3 "$TOOLDIR/standoff2conll/standoff2conll.py" \
 		    --tokenization space \

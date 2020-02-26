@@ -1,3 +1,5 @@
+-DOCSTART-	O
+
 Kävelyreitti	O
 III	O
 
@@ -58,6 +60,8 @@ tuolla	O
 vai	O
 ?	O
 
+-DOCSTART-	O
+
 Kävelyreitti	O
 II	O
 
@@ -91,6 +95,8 @@ kuin	O
 Uppsalan	B-LOC
 tuomiokirkkoa	I-LOC
 .	O
+
+-DOCSTART-	O
 
 Kävelyreissu	O
 
@@ -147,6 +153,8 @@ kyräili	O
 jokaista	O
 hiihtäjää	O
 .	O
+
+-DOCSTART-	O
 
 Delilah	B-PRO
 
@@ -404,6 +412,8 @@ kuin	O
 kiukkuiseksi	O
 .	O
 
+-DOCSTART-	O
+
 Lopputyö	O
 
 Tänään	O
@@ -424,6 +434,8 @@ kuin	O
 eilinen	O
 mahalasku	O
 .	O
+
+-DOCSTART-	O
 
 Millainen	O
 minä	O
@@ -757,6 +769,8 @@ oli	O
 ilahtunut	O
 .	O
 
+-DOCSTART-	O
+
 Uusia	O
 toimia	O
 
@@ -834,6 +848,8 @@ hajalla	O
 seuraavina	O
 päivinä	O
 ...	O
+
+-DOCSTART-	O
 
 Yksin	O
 
@@ -1000,6 +1016,8 @@ terävästi	O
 kengän	O
 alla	O
 .	O
+
+-DOCSTART-	O
 
 Sateenkaariperheistä	O
 
@@ -1198,6 +1216,8 @@ ennen	O
 tiennyt	O
 .	O
 
+-DOCSTART-	O
+
 Tilaus	O
 
 Sain	O
@@ -1263,6 +1283,8 @@ tästä	O
 sanoisi	O
 enää	O
 ?	O
+
+-DOCSTART-	O
 
 Kotiloma	O
 
@@ -1707,6 +1729,8 @@ itselleen	O
 mielikuvituspoikaystävän	O
 .	O
 
+-DOCSTART-	O
+
 Opepöydän	O
 takaa	O
 III	O
@@ -1778,6 +1802,8 @@ noin	O
 pientä	O
 ..	O
 ?	O
+
+-DOCSTART-	O
 
 Opepöydän	O
 takaa	O
@@ -1863,6 +1889,8 @@ asustavani	O
 koulun	O
 kryptassa	O
 .	O
+
+-DOCSTART-	O
 
 Potilas	O
 Moukola	B-PER
@@ -2537,6 +2565,8 @@ ja	O
 kivaa	O
 loppuiltaa	O
 !	O
+
+-DOCSTART-	O
 
 Moksu	B-PER
 &	O
@@ -3562,6 +3592,8 @@ miitti	O
 vireille	O
 .	O
 
+-DOCSTART-	O
+
 Pakkolepopäivä	O
 
 Blogini	O
@@ -4127,6 +4159,8 @@ yksityiskohdat	O
 .	O
 :)	O
 
+-DOCSTART-	O
+
 SIIVOUKSELLISTA	O
 SIELUNHOITOA	O
 :	O
@@ -4494,6 +4528,8 @@ viikonloppua	O
 !	O
 :	O
 )	O
+
+-DOCSTART-	O
 
 AAVISTUS	O
 KEVÄTTÄ	O
@@ -4877,6 +4913,8 @@ Sinulle	O
 !	O
 :)	O
 
+-DOCSTART-	O
+
 IHANAA	O
 VUOTTA	B-DATE
 2010	I-DATE
@@ -5161,6 +5199,8 @@ vuotta	O
 Sinulle	O
 !	O
 :)	O
+
+-DOCSTART-	O
 
 ARKIPUUHIEN	O
 PARIIN	O
@@ -5472,6 +5512,8 @@ itse	O
 kullekin	O
 !	O
 :)	O
+
+-DOCSTART-	O
 
 UUSI	O
 AIKA	O
@@ -6030,6 +6072,8 @@ kaikille	O
 !	O
 :)	O
 
+-DOCSTART-	O
+
 PIPARKAKKUTALKOOT	O
 
 Vernalassa	B-LOC
@@ -6216,6 +6260,8 @@ toivoa	O
 !	O
 :)	O
 
+-DOCSTART-	O
+
 ILO	O
 UUDESTA	O
 TUOKSUSTA	O
@@ -6385,6 +6431,8 @@ takana	O
 odottaakaan	O
 …	O
 :)	O
+
+-DOCSTART-	O
 
 Mikä	O
 seksuaalinen	O
@@ -7629,6 +7677,8 @@ ole	O
 tärkeää	O
 .	O
 
+-DOCSTART-	O
+
 Suomalaiset	O
 uudistavat	O
 elokuva-alaa	O
@@ -7848,6 +7898,8 @@ on	O
 Uusin	O
 teaseri	O
 .	O
+
+-DOCSTART-	O
 
 Projekti	O
 etenee	O
@@ -8126,6 +8178,8 @@ Näin	O
 sivuhuomautuksena	O
 kommentoijille	O
 :)	O
+
+-DOCSTART-	O
 
 Intervalliajastimen	O
 prototyyppi	O
@@ -8746,6 +8800,8 @@ fyysisessä	O
 maailmassa	O
 .	O
 
+-DOCSTART-	O
+
 Luminance	B-PRO
 HDR	I-PRO
 saatavilla	O
@@ -8912,6 +8968,8 @@ HDR:n	I-PRO
 version	O
 mukana	O
 .	O
+
+-DOCSTART-	O
 
 Arduino	B-PRO
 :	O
@@ -9265,6 +9323,8 @@ jotain	O
 hyödyllistä	O
 .	O
 
+-DOCSTART-	O
+
 Spotify	B-ORG
 rajoittaa	O
 ilmaisen	O
@@ -9474,6 +9534,8 @@ En	O
 sitten	O
 yhtään	O
 .	O
+
+-DOCSTART-	O
 
 HS-vaalikone	B-PRO
 ja	O
@@ -9929,6 +9991,8 @@ tuli	O
 timeouttia	O
 )	O
 
+-DOCSTART-	O
+
 HS-vaalikoneen	B-PRO
 datan	O
 visualisointeja	O
@@ -10037,6 +10101,8 @@ Vaativat	O
 javascriptin	B-PRO
 toimiakseen	O
 .	O
+
+-DOCSTART-	O
 
 HS:n	B-ORG
 vaalikone	O
@@ -10268,6 +10334,8 @@ kuitenkin	O
 jotain	O
 hyötyä	O
 :)	O
+
+-DOCSTART-	O
 
 Mikä	O
 viikonloppu	O
@@ -11133,6 +11201,8 @@ ravaamisesta	O
 ?	O
 :D	O
 
+-DOCSTART-	O
+
 Bruxelles	B-LOC
 
 Vähän	O
@@ -11806,6 +11876,8 @@ joskus	O
 uudestaan	O
 .	O
 
+-DOCSTART-	O
+
 Nudea	O
 
 Tällaiset	O
@@ -12133,6 +12205,8 @@ netti	O
 meistä	O
 tyhmiä	O
 ?	O
+
+-DOCSTART-	O
 
 Koninginnedag	O
 2011	B-DATE
@@ -12490,6 +12564,8 @@ lauantaina	O
 käydä	O
 .	O
 
+-DOCSTART-	O
+
 Oranje	O
 
 Hehhee	O
@@ -12742,6 +12818,8 @@ kaikille	O
 säädyille	O
 .	O
 
+-DOCSTART-	O
+
 Pekoninakkeja	O
 ,	O
 salaattia	O
@@ -12854,6 +12932,8 @@ siihen	O
 hyviä	O
 olivat	O
 
+-DOCSTART-	O
+
 Kuningatarrahkaa	O
 kera	O
 mansikoiden	O
@@ -12905,6 +12985,8 @@ olekkaan	O
 .	O
 
 Nam	O
+
+-DOCSTART-	O
 
 Grillattu	O
 pihvi	O
@@ -12976,6 +13058,8 @@ kaikkine	O
 suoloineen	O
 )	O
 
+-DOCSTART-	O
+
 Kermakakku	O
 
 Ihan	O
@@ -13028,6 +13112,8 @@ sormin	O
 murskasin	O
 pienemmiksi	O
 .	O
+
+-DOCSTART-	O
 
 Broileria	O
 paistetun	O
@@ -13142,6 +13228,8 @@ maustettu	O
 miedommaksi	O
 .	O
 
+-DOCSTART-	O
+
 Tomaatti-mozzarellasalaatti	O
 ja	O
 sekalainen	O
@@ -13244,6 +13332,8 @@ jokainen	O
 omaa	O
 annokseensa	O
 .	O
+
+-DOCSTART-	O
 
 Valkosipuliset	O
 omenaiset	O
@@ -13467,6 +13557,8 @@ itse	O
 kasvatella	O
 ...	O
 
+-DOCSTART-	O
+
 Makoisaa	O
 vappua	O
 
@@ -13479,6 +13571,8 @@ KAIKILLE	O
 BLOGISSANI	O
 PIIPAHTAVILLE	O
 .	O
+
+-DOCSTART-	O
 
 Voileipäkakku	O
 savukinkusta	O
@@ -13740,6 +13834,8 @@ ja	O
 herneenversoja	O
 .	O
 
+-DOCSTART-	O
+
 Juustopallot	O
 
 Näihin	O
@@ -13904,6 +14000,8 @@ omien	O
 makumieltymysten	O
 mukaan	O
 
+-DOCSTART-	O
+
 Uunisei	O
 (	O
 Pankkiirin	O
@@ -13984,6 +14082,8 @@ niin	O
 vaalealle	O
 kalaruoalle	O
 .	O
+
+-DOCSTART-	O
 
 Suklaahippukeksit	O
 
@@ -14086,6 +14186,8 @@ paista	O
 sitten	O
 vähän	O
 pidempään	O
+
+-DOCSTART-	O
 
 Persikkaista	O
 broileripitsaa	O
@@ -14327,6 +14429,8 @@ tarkoituksella	O
 oikein	O
 reilusti	O
 
+-DOCSTART-	O
+
 Kanelin	O
 makuiset	O
 raejuusto-ohukaiset	O
@@ -14407,6 +14511,8 @@ pikkulättyjä	O
 
 Nam	O
 !	O
+
+-DOCSTART-	O
 
 Murekesukkula	O
 kääriytyy	O
@@ -14514,6 +14620,8 @@ menossa	O
 uuniin	O
 ...	O
 
+-DOCSTART-	O
+
 Kahvilan	O
 hyvää	O
 kalapiirakkaa	O
@@ -14593,6 +14701,8 @@ Kuusamon	B-LOC
 Prisman	B-ORG
 kahviossa	O
 .	O
+
+-DOCSTART-	O
 
 Raikas	O
 mustikkavaahto	O
@@ -14714,6 +14824,8 @@ marjojen	O
 kanssa	O
 .	O
 
+-DOCSTART-	O
+
 Tomaattinen	O
 jauheliha-pekonikeitto	O
 
@@ -14807,6 +14919,8 @@ keittoa	O
 meistä	O
 ainakin	O
 
+-DOCSTART-	O
+
 Meille	O
 harvinainen	O
 vieras	O
@@ -14893,6 +15007,8 @@ tuliskin	O
 uusintavierailulle	O
 ...	O
 .	O
+
+-DOCSTART-	O
 
 Muut	O
 naiset	O
@@ -15999,6 +16115,8 @@ muistuttavasta	O
 murekkeesta	O
 .	O
 
+-DOCSTART-	O
+
 Olen	O
 outo	O
 ,	O
@@ -16892,6 +17010,8 @@ roséviinin	O
 kanssa	O
 .	O
 
+-DOCSTART-	O
+
 Ruoan	O
 olemus	O
 
@@ -17444,6 +17564,8 @@ tuoreen	O
 maalaisleivän	O
 kanssa	O
 .	O
+
+-DOCSTART-	O
 
 Pukukoodit	O
 
@@ -18090,6 +18212,8 @@ voin	O
 kanssa	O
 .	O
 
+-DOCSTART-	O
+
 Nopeasti	O
 lisääntyvä	O
 sähköisten	O
@@ -18159,6 +18283,8 @@ mietintö	O
 (	O
 A4-0033/98	O
 )	O
+
+-DOCSTART-	O
 
 Arvoisa	O
 puhemies	O
@@ -18424,6 +18550,8 @@ hallituksia	O
 vastaan	O
 .	O
 
+-DOCSTART-	O
+
 Arvoisa	O
 puhemies	O
 ,	O
@@ -18488,6 +18616,8 @@ ongelmalliseen	O
 pohjaveden	O
 hallintaan	O
 .	O
+
+-DOCSTART-	O
 
 Arvoisa	O
 puhemies	O
@@ -19037,6 +19167,8 @@ olemme	O
 tosissamme	O
 !	O
 
+-DOCSTART-	O
+
 –	O
 Arvoisa	O
 puhemies	O
@@ -19287,6 +19419,8 @@ koheesiopolitiikan	O
 ensisijaisiin	O
 tavoitteisiin	O
 .	O
+
+-DOCSTART-	O
 
 Arvoisa	O
 puhemies	O
@@ -19644,6 +19778,8 @@ vakavissamme	O
 voittaa	O
 työttömyyden	O
 .	O
+
+-DOCSTART-	O
 
 –	O
 Arvoisa	O
@@ -20160,6 +20296,8 @@ tästä	O
 päätöslauselmaesityksestä	O
 .	O
 
+-DOCSTART-	O
+
 Arvoisa	O
 puhemies	O
 ,	O
@@ -20283,6 +20421,8 @@ myös	O
 Euroopan	B-ORG
 unionille	I-ORG
 .	O
+
+-DOCSTART-	O
 
 Arvoisa	O
 puhemies	O
@@ -20534,6 +20674,8 @@ hyvään	O
 lopputulokseen	O
 pääsemiseksi	O
 .	O
+
+-DOCSTART-	O
 
 Arvoisa	O
 neuvoston	O
@@ -20794,6 +20936,8 @@ esitetyt	O
 edellytykset	O
 .	O
 
+-DOCSTART-	O
+
 Malcolm	B-PER
 Harbourin	I-PER
 erinomaisessa	O
@@ -20962,6 +21106,8 @@ annetaan	O
 tämä	O
 mahdollisuus	O
 .	O
+
+-DOCSTART-	O
 
 Arvoisat	O
 komission	O
@@ -21250,6 +21396,8 @@ mielensä	O
 mukaan	O
 .	O
 
+-DOCSTART-	O
+
 (	O
 EN	O
 )	O
@@ -21428,6 +21576,8 @@ myös	O
 maailmanlaajuista	O
 merkitystä	O
 .	O
+
+-DOCSTART-	O
 
 Arvoisa	O
 puhemies	O
@@ -21620,6 +21770,8 @@ yhteisesti	O
 institutionaalisena	O
 välittäjäelimenä	O
 .	O
+
+-DOCSTART-	O
 
 Arvoisa	O
 puhemies	O
@@ -22788,6 +22940,8 @@ jäsenet	O
 tarkkaavaisuudestanne	O
 .	O
 
+-DOCSTART-	O
+
 Mietinnössä	O
 esitellään	O
 uusi	O
@@ -22924,6 +23078,8 @@ jopa	O
 15	O
 prosenttia	O
 .	O
+
+-DOCSTART-	O
 
 Arvoisa	O
 rouva	O
@@ -23098,6 +23254,8 @@ saavutettiin	O
 yksimielisyys	O
 .	O
 
+-DOCSTART-	O
+
 Eilisen	O
 istunnon	O
 pöytäkirja	O
@@ -23117,6 +23275,8 @@ eiliseen	O
 pöytäkirjaan	O
 liittyen	O
 .	O
+
+-DOCSTART-	O
 
 Euroopan	B-LOC
 vapaaehtoispalvelu	O
@@ -23301,6 +23461,8 @@ kansalaisten	O
 elämää	O
 .	O
 
+-DOCSTART-	O
+
 (	O
 PT	O
 )	O
@@ -23359,6 +23521,8 @@ tarkistus	O
 hyväksyttiin	O
 .	O
 )	O
+
+-DOCSTART-	O
 
 Arvoisa	O
 rouva	O
@@ -23511,6 +23675,8 @@ tällä	O
 viikolla	O
 .	O
 
+-DOCSTART-	O
+
 Arvoisa	O
 puhemies	O
 ,	O
@@ -23622,6 +23788,8 @@ ensisijaisesti	O
 kansallista	O
 oikeutta	O
 .	O
+
+-DOCSTART-	O
 
 Arvoisa	O
 puhemies	O
@@ -23791,6 +23959,8 @@ niiden	O
 turmiollisia	O
 seurauksia	O
 .	O
+
+-DOCSTART-	O
 
 Arvoisa	O
 puhemies	O
@@ -24030,6 +24200,8 @@ kuin	O
 kansanterveydenkin	O
 osalta	O
 .	O
+
+-DOCSTART-	O
 
 Arvoisa	O
 puhemies	O
@@ -24746,6 +24918,8 @@ aseman	O
 vahvistamiseksi	O
 .	O
 
+-DOCSTART-	O
+
 Ilmoitan	O
 teille	O
 ,	O
@@ -24825,6 +24999,8 @@ keskustelua	O
 Grazianin	B-PER
 mietinnöstä	O
 .	O
+
+-DOCSTART-	O
 
 –	O
 Arvoisa	O
@@ -25381,6 +25557,8 @@ hetkellä	O
 tekee	O
 .	O
 
+-DOCSTART-	O
+
 Keskuspankki	O
 ,	O
 oli	O
@@ -25445,6 +25623,8 @@ eurooppalaista	O
 järjestelmää	O
 vastaan	O
 .	O
+
+-DOCSTART-	O
 
 kirjallinen	O
 .	O
@@ -25619,6 +25799,8 @@ soveltamalla	O
 tarvittaessa	O
 suojalausekkeita	O
 .	O
+
+-DOCSTART-	O
 
 Arvoisa	O
 puhemies	O
@@ -26048,6 +26230,8 @@ siitä	O
 kalliisti	O
 .	O
 
+-DOCSTART-	O
+
 Arvoisa	O
 puhemies	O
 ,	O
@@ -26404,6 +26588,8 @@ jota	O
 parhaillaan	O
 valmistellaan	O
 .	O
+
+-DOCSTART-	O
 
 -	O
 Julistan	O
@@ -27393,6 +27579,8 @@ töihin	O
 Suosionosoituksia	O
 )	O
 
+-DOCSTART-	O
+
 Arvoisa	O
 puhemies	O
 ,	O
@@ -27956,6 +28144,8 @@ tähän	O
 mennessä	O
 .	O
 
+-DOCSTART-	O
+
 Arvoisa	O
 rouva	O
 puhemies	O
@@ -28199,6 +28389,8 @@ runsaasti	O
 tietoa	O
 aiheesta	O
 .	O
+
+-DOCSTART-	O
 
 Arvoisa	O
 puhemies	O
@@ -28542,6 +28734,8 @@ yhteistä	O
 kalastuspolitiikkaa	O
 .	O
 
+-DOCSTART-	O
+
 (	O
 EL	B-ORG
 )	O
@@ -28643,6 +28837,8 @@ järjestelmä	O
 toimii	O
 normaalisti	O
 .	O
+
+-DOCSTART-	O
 
 Arvoisa	O
 puhemies	O
@@ -28786,6 +28982,8 @@ liioitellaan	O
 mietinnön	O
 tarkoitusta	O
 .	O
+
+-DOCSTART-	O
 
 (	O
 PT	O
@@ -28967,6 +29165,8 @@ silmällä	O
 pitäen	O
 .	O
 
+-DOCSTART-	O
+
 (	O
 DE	O
 )	O
@@ -29003,6 +29203,8 @@ merkitsette	O
 tämän	O
 tiedoksi	O
 .	O
+
+-DOCSTART-	O
 
 Arvoisa	O
 puhemies	O
@@ -29322,6 +29524,8 @@ ovat	O
 naisten	O
 oikeuksia	O
 .	O
+
+-DOCSTART-	O
 
 Arvoisa	O
 puhemies	O
@@ -29723,6 +29927,8 @@ politiikan	O
 lopettamista	O
 .	O
 
+-DOCSTART-	O
+
 Tämä	O
 on	O
 mielenkiintoinen	O
@@ -29864,6 +30070,8 @@ tärkeä	O
 asia	O
 .	O
 
+-DOCSTART-	O
+
 Arvoisa	O
 puhemies	O
 ,	O
@@ -29901,6 +30109,8 @@ asiaa	O
 koskeva	O
 sääntö	O
 .	O
+
+-DOCSTART-	O
 
 Vastaan	O
 jäsen	O
@@ -30007,6 +30217,8 @@ ensimmäinen	O
 viesti	O
 kansalaisille	O
 .	O
+
+-DOCSTART-	O
 
 Yksi	O
 SOKRATES-ohjelman	B-PRO
@@ -30129,6 +30341,8 @@ mietintö	O
 (	O
 A4-0130/97	O
 )	O
+
+-DOCSTART-	O
 
 Arvoisa	O
 puhemies	O
@@ -30343,6 +30557,8 @@ voimaantulon	O
 kannalta	O
 .	O
 
+-DOCSTART-	O
+
 Arvoisa	O
 puhemies	O
 ,	O
@@ -30385,6 +30601,8 @@ tarkistus	O
 206	O
 raukeaa	O
 .	O
+
+-DOCSTART-	O
 
 Arvoisa	O
 puhemies	O
@@ -31298,6 +31516,8 @@ yhdenvertaiseen	O
 verotukseen	O
 .	O
 
+-DOCSTART-	O
+
 Paljon	O
 kiitoksia	O
 ,	O
@@ -31522,6 +31742,8 @@ kohdalla	O
 tyhjää	O
 .	O
 
+-DOCSTART-	O
+
 esittelijä	O
 .	O
 
@@ -31595,6 +31817,8 @@ myös	O
 tätä	O
 alaa	O
 .	O
+
+-DOCSTART-	O
 
 Arvoisa	O
 puhemies	O
@@ -31975,6 +32199,8 @@ edellyttämät	O
 keinot	O
 .	O
 
+-DOCSTART-	O
+
 Arvoisa	O
 puhemies	O
 ,	O
@@ -32196,6 +32422,8 @@ kuin	O
 niiden	O
 ulkopuolellakin	O
 .	O
+
+-DOCSTART-	O
 
 –	O
 Arvoisa	O
@@ -32787,6 +33015,8 @@ vuoden	O
 puolivälissä	O
 .	O
 
+-DOCSTART-	O
+
 Arvoisa	O
 puhemies	O
 ,	O
@@ -32971,6 +33201,8 @@ hänelle	O
 tukemme	O
 .	O
 
+-DOCSTART-	O
+
 Julistan	O
 Euroopan	B-ORG
 parlamentin	I-ORG
@@ -33004,6 +33236,8 @@ vaalikauden	O
 viimeisenä	O
 vuonna	O
 .	O
+
+-DOCSTART-	O
 
 Arvoisa	O
 puhemies	O
@@ -33081,6 +33315,8 @@ tule	O
 olemaan	O
 läsnä	O
 .	O
+
+-DOCSTART-	O
 
 ALDE-ryhmän	B-ORG
 puolesta	O
@@ -33446,6 +33682,8 @@ josta	O
 huomenna	O
 äänestämme	O
 .	O
+
+-DOCSTART-	O
 
 Arvoisa	O
 puhemies	O
@@ -34067,6 +34305,8 @@ henkilöiden	O
 tarpeita	O
 .	O
 
+-DOCSTART-	O
+
 Arvoisa	O
 puhemies	O
 ,	O
@@ -34370,6 +34610,8 @@ siirtolaisten	O
 integroitumiseen	O
 .	O
 
+-DOCSTART-	O
+
 –	O
 Arvoisa	O
 puhemies	O
@@ -34595,6 +34837,8 @@ sen	O
 huonontamista	O
 .	O
 
+-DOCSTART-	O
+
 Neuvosto	O
 ei	O
 voi	O
@@ -34718,6 +34962,8 @@ komissio	O
 ja	O
 Ruotsi	B-LOC
 .	O
+
+-DOCSTART-	O
 
 .	O
 (	O
@@ -34946,6 +35192,8 @@ tällaiseen	O
 tilanteeseen	O
 .	O
 
+-DOCSTART-	O
+
 Arvoisa	O
 puhemies	O
 ,	O
@@ -35106,6 +35354,8 @@ sopimukseen	O
 
 Suosionosoituksia	O
 
+-DOCSTART-	O
+
 Myös	O
 minä	O
 haluaisin	O
@@ -35241,6 +35491,8 @@ toteutuvaa	O
 EU:n	B-ORG
 jäsenyyttä	O
 ?	O
+
+-DOCSTART-	O
 
 Kylmä	O
 antaa	O
@@ -36006,6 +36258,8 @@ minut	O
 samalla	O
 .	O
 
+-DOCSTART-	O
+
 Elämän	O
 peli	O
 
@@ -36720,6 +36974,8 @@ minunkin	O
 huoneessa	O
 .	O
 
+-DOCSTART-	O
+
 Lampi	O
 
 Nuhruisessa	O
@@ -37062,6 +37318,8 @@ tammitynnyrien	O
 uurteet	O
 .	O
 
+-DOCSTART-	O
+
 Kaleidoskooppi	O
 
 Täällä	O
@@ -37281,6 +37539,8 @@ hengityksen	O
 voimakkaampi	O
 .	O
 
+-DOCSTART-	O
+
 Heikko	O
 valo	O
 
@@ -37411,6 +37671,8 @@ mitä	O
 sinussa	O
 on	O
 .	O
+
+-DOCSTART-	O
 
 Tähtitorninmäki	B-LOC
 
@@ -37815,6 +38077,8 @@ olin	O
 tullut	O
 .	O
 
+-DOCSTART-	O
+
 Automatka	O
 
 Lähdetään	O
@@ -37940,6 +38204,8 @@ idästä	O
 etelään	O
 .	O
 
+-DOCSTART-	O
+
 Kevät	O
 
 Tätä	O
@@ -37992,6 +38258,8 @@ kuin	O
 ruoho	O
 tuulessa	O
 .	O
+
+-DOCSTART-	O
 
 Näkymä	O
 
@@ -38277,6 +38545,8 @@ jotten	O
 purskahtaisi	O
 .	O
 
+-DOCSTART-	O
+
 Talvi	O
 pitkä	O
 kuin	O
@@ -38415,6 +38685,8 @@ sinä	O
 et	O
 saavu	O
 ?	O
+
+-DOCSTART-	O
 
 Honduras	B-LOC
 
@@ -38731,6 +39003,8 @@ on	O
 mahdollista	O
 .	O
 
+-DOCSTART-	O
+
 Bangkok	B-LOC
 
 Peku	B-PER
@@ -39033,6 +39307,8 @@ ei	O
 kenenkään	O
 .	O
 
+-DOCSTART-	O
+
 Marginaali	O
 
 Hän	O
@@ -39227,6 +39503,8 @@ teekuppiin	O
 tavan	O
 vuoksi	O
 .	O
+
+-DOCSTART-	O
 
 Palasin	O
 ,	O
@@ -40024,6 +40302,8 @@ ei	O
 ikinä	O
 .	O
 
+-DOCSTART-	O
+
 Sinä	O
 olet	O
 argentiinalainen	O
@@ -40817,6 +41097,8 @@ mitä	O
 oikeastaan	O
 tapahtui	O
 .	O
+
+-DOCSTART-	O
 
 Koti	O
 on	O
@@ -41667,6 +41949,8 @@ Voimmehan	O
 mekin	O
 .	O
 
+-DOCSTART-	O
+
 Verenpisaroita	O
 
 Tulipa	O
@@ -41970,6 +42254,8 @@ on	O
 täynnä	O
 Verenpisaroita	O
 .	O
+
+-DOCSTART-	O
 
 Ensimmäinen	O
 ..	O
@@ -42299,6 +42585,8 @@ kuuntelemaan	O
 sinua	O
 .	O
 
+-DOCSTART-	O
+
 Entä	O
 sitten	O
 
@@ -42608,6 +42896,8 @@ raiteiden	O
 yli	O
 
 Sitten	O
+
+-DOCSTART-	O
 
 Ikävä	O
 uutinen	O
@@ -43176,6 +43466,8 @@ kerran	O
 naurahtaa	O
 .	O
 
+-DOCSTART-	O
+
 Tajunnanvirtaa	O
 alkoholista	O
 
@@ -43523,6 +43815,8 @@ yöksi	O
 meille	O
 .	O
 )	O
+
+-DOCSTART-	O
 
 Talovahtina	O
 ties	O
@@ -44042,6 +44336,8 @@ isännäksi	O
 )	O
 palaavat	O
 .	O
+
+-DOCSTART-	O
 
 Talovahtina	O
 
@@ -44602,6 +44898,8 @@ tutustumaan	O
 maailmaan	O
 !	O
 
+-DOCSTART-	O
+
 Haluaisin	O
 kulkea	O
 oman	O
@@ -44935,6 +45233,8 @@ Kavereitakin	O
 tulisi	O
 nähdä	O
 .	O
+
+-DOCSTART-	O
 
 Tarina	O
 vanhuksesta	O
@@ -46287,6 +46587,8 @@ pyöriä	O
 kehää	O
 .	O
 
+-DOCSTART-	O
+
 Toiveloma	O
 
 Kaksi	O
@@ -47189,6 +47491,8 @@ vatsasta	O
 otti	O
 .	O
 
+-DOCSTART-	O
+
 Uusi-Seelanti	B-LOC
 
 Uudessa-Seelannissa	B-LOC
@@ -48026,6 +48330,8 @@ sokeria	O
 näillä	O
 kesteillä	O
 .	O
+
+-DOCSTART-	O
 
 Älyvapaavyöhyke	O
 
@@ -48868,6 +49174,8 @@ lattialle	O
 istumaan	O
 .	O
 
+-DOCSTART-	O
+
 MATKA	O
 LUVATTUUN	B-LOC
 MAAHAN	I-LOC
@@ -49683,6 +49991,8 @@ Marsin	B-LOC
 olosuhteisiin	O
 ?	O
 
+-DOCSTART-	O
+
 Myskintuoksua	O
 
 Jäin	O
@@ -50439,6 +50749,8 @@ pöllinyt	O
 jotain	O
 .	O
 
+-DOCSTART-	O
+
 Kristus	B-PER
 2011	B-DATE
 
@@ -50974,6 +51286,8 @@ aasien	O
 vapahtajaksi	O
 .	O
 
+-DOCSTART-	O
+
 Nurtsi	O
 
 Nykyhetki	O
@@ -51466,6 +51780,8 @@ on	O
 hyvä	O
 päivä	O
 !	O
+
+-DOCSTART-	O
 
 Matkalle	O
 sinne	O
@@ -52144,6 +52460,8 @@ isoja	O
 pisaroita	O
 .	O
 
+-DOCSTART-	O
+
 Hyttysentappaja	O
 
 Hän	O
@@ -52812,6 +53130,8 @@ aika	O
 lähteä	O
 ajelulle	O
 .	O
+
+-DOCSTART-	O
 
 Eri	O
 uni	O
@@ -53797,6 +54117,8 @@ tavun	O
 sieltä	O
 täältä	O
 .	O
+
+-DOCSTART-	O
 
 Saappaat	O
 
@@ -55321,6 +55643,8 @@ kuin	O
 minä	O
 .	O
 
+-DOCSTART-	O
+
 Olkikoira	O
 
 Ostin	O
@@ -55627,6 +55951,8 @@ ostin	O
 eilen	O
 olkikoiran	O
 .	O
+
+-DOCSTART-	O
 
 Veturinkuljettaja	O
 
@@ -56182,6 +56508,8 @@ junilla	O
 Kaikki	O
 leikkivät	O
 .	O
+
+-DOCSTART-	O
 
 Kukas	O
 se	O
@@ -57340,6 +57668,8 @@ lisää	O
 kaavakkeita	O
 .	O
 
+-DOCSTART-	O
+
 Kirje	O
 
 –	O
@@ -57593,6 +57923,8 @@ kiertokirjeet	O
 Onko	O
 tulta	O
 ?	O
+
+-DOCSTART-	O
 
 Tukholman	B-LOC
 kapein	O
@@ -58515,6 +58847,8 @@ kapein	O
 katu	O
 .	O
 
+-DOCSTART-	O
+
 Kuninkaiden	O
 ja	O
 tsaarien	O
@@ -59233,6 +59567,8 @@ tupakkapussin	O
 sisältöä	O
 .	O
 
+-DOCSTART-	O
+
 Leppäkerttu	O
 
 Olin	O
@@ -59503,6 +59839,8 @@ ollut	O
 tarkoitus	O
 .	O
 
+-DOCSTART-	O
+
 Matkustajan	O
 paikallasi	O
 
@@ -59633,6 +59971,8 @@ näe	O
 yhtään	O
 mitään	O
 .	O
+
+-DOCSTART-	O
 
 Juokse	O
 hänen	O
@@ -60327,6 +60667,8 @@ enkeli	O
 '	O
 .	O
 
+-DOCSTART-	O
+
 Et	O
 koskaan	O
 ihastuisi	O
@@ -60920,6 +61262,8 @@ youngin	I-PRO
 soimaan	O
 .	O
 
+-DOCSTART-	O
+
 Isän	O
 poika	O
 
@@ -61330,6 +61674,8 @@ kädet	O
 lisää	O
 .	O
 
+-DOCSTART-	O
+
 Orkideapolun	B-LOC
 astronautti	O
 
@@ -61729,6 +62075,8 @@ vain	O
 kyynel	O
 surua	O
 .	O
+
+-DOCSTART-	O
 
 Paljonks	O
 kello	O
@@ -62354,6 +62702,8 @@ kello	O
 .	O
 ”	O
 
+-DOCSTART-	O
+
 Uusi	O
 aamu	O
 
@@ -62599,6 +62949,8 @@ He	O
 kaikki	O
 hymyilevät	O
 .	O
+
+-DOCSTART-	O
 
 Tapahtui	O
 kerran	O
@@ -63666,6 +64018,8 @@ muutakaan	O
 sanottavaa	O
 .	O
 
+-DOCSTART-	O
+
 Arvaappas	O
 mikä	O
 se	O
@@ -63898,6 +64252,8 @@ noin	O
 prosenttia	O
 .	O
 
+-DOCSTART-	O
+
 altis	O
 allergioille	O
 
@@ -64126,6 +64482,8 @@ niin	O
 väliä	O
 ole	O
 .	O
+
+-DOCSTART-	O
 
 jotta	O
 he	O
@@ -64360,6 +64718,8 @@ viitsi	O
 puhua	O
 tukirahoista	O
 .	O
+
+-DOCSTART-	O
 
 Honda	B-PRO
 Legend	I-PRO
@@ -64651,6 +65011,8 @@ Savon	B-EVENT
 Messut	I-EVENT
 .	O
 
+-DOCSTART-	O
+
 Strongbow	B-PRO
 Cider	I-PRO
 oli	O
@@ -64885,6 +65247,8 @@ löytyä	O
 pikaiseen	O
 tahtiin	O
 .	O
+
+-DOCSTART-	O
 
 Äidinkielensä	O
 ruotsin	O
@@ -65180,6 +65544,8 @@ nuorta	O
 asiakasta	O
 ?	O
 
+-DOCSTART-	O
+
 Sitten	O
 he	O
 seuraavat	O
@@ -65412,6 +65778,8 @@ suunnistuksen	O
 MM-kisoissa	O
 .	O
 
+-DOCSTART-	O
+
 Keskustorin	O
 mukulakivet	O
 ovat	O
@@ -65620,6 +65988,8 @@ kuitenkaan	O
 sure	O
 pitkään	O
 .	O
+
+-DOCSTART-	O
 
 Olen	O
 kuullut	O
@@ -65840,6 +66210,8 @@ hymähti	O
 
 et	O
 luvanne	O
+
+-DOCSTART-	O
 
 Ihmistä	O
 vaaditaan	O
@@ -66085,6 +66457,8 @@ seisoi	O
 jähmettyneenä	O
 .	O
 
+-DOCSTART-	O
+
 Pysy	O
 totuudessa	O
 tai	O
@@ -66309,6 +66683,8 @@ huokailivat	O
 pariisilaiset	O
 ihastuksissaan	O
 .	O
+
+-DOCSTART-	O
 
 Mikäli	O
 näin	O
@@ -66570,6 +66946,8 @@ ole	O
 mahdollisuuksia	O
 .	O
 
+-DOCSTART-	O
+
 Suomessa	B-LOC
 on	O
 maineikkaita	O
@@ -66764,6 +67142,8 @@ Haluaisin	O
 tulla	O
 kuuluisaksi	O
 .	O
+
+-DOCSTART-	O
 
 Sovellan	O
 myös	O
@@ -66968,6 +67348,8 @@ kolmeen	O
 miljoonaan	O
 markkaan	O
 .	O
+
+-DOCSTART-	O
 
 En	O
 ole	O
@@ -67178,6 +67560,8 @@ uutta	O
 suomalaista	O
 näytelmää	O
 .	O
+
+-DOCSTART-	O
 
 Jos	O
 joku	O
@@ -67394,6 +67778,8 @@ minä	O
 tiedä	O
 .	O
 
+-DOCSTART-	O
+
 Hänen	O
 on	O
 kuuma	O
@@ -67601,6 +67987,8 @@ jopa	O
 kymmeniä	O
 tuhansia	O
 pulloja	O
+
+-DOCSTART-	O
 
 Meidän	O
 tässä	O
@@ -67810,6 +68198,8 @@ Ruotsalaisia	O
 ottaa	O
 päähän	O
 "	O
+
+-DOCSTART-	O
 
 Kerran	O
 esiintyi	O
@@ -68054,6 +68444,8 @@ Siihen	O
 aikaan	O
 .	O
 
+-DOCSTART-	O
+
 pitkän	O
 aikaa	O
 
@@ -68281,6 +68673,8 @@ ja	O
 siitä	O
 .	O
 
+-DOCSTART-	O
+
 Mikäli	O
 organisaationne	O
 kaipaa	O
@@ -68493,6 +68887,8 @@ ei	O
 ole	O
 autoa	O
 .	O
+
+-DOCSTART-	O
 
 Silti	O
 monesti	O
@@ -68780,6 +69176,8 @@ ottaa	O
 kotieläin	O
 .	O
 
+-DOCSTART-	O
+
 Pitkät	O
 pöydät	O
 notkuivat	O
@@ -69023,6 +69421,8 @@ olleita	O
 säännöksiä	O
 .	O
 
+-DOCSTART-	O
+
 Sellaista	O
 ei	O
 perustettu	O
@@ -69257,6 +69657,8 @@ silmät	O
 tottuivat	O
 hämärään	O
 .	O
+
+-DOCSTART-	O
 
 Helkkari	O
 ,	O
@@ -69501,6 +69903,8 @@ olla	O
 Natoon	B-ORG
 intoilemassa	O
 ?	O
+
+-DOCSTART-	O
 
 Älkäähän	O
 nyt	O
@@ -69750,6 +70154,8 @@ tuommoista	O
 lastia	O
 .	O
 
+-DOCSTART-	O
+
 saattaa	O
 olla	O
 hyväksi	O
@@ -69992,6 +70398,8 @@ perhetasolle	O
 
 hyvillä	O
 mielin	O
+
+-DOCSTART-	O
 
 Liikennevahinkoja	O
 tapahtuu	O
@@ -70252,6 +70660,8 @@ jäädään	O
 sisälle	O
 .	O
 
+-DOCSTART-	O
+
 soitan	O
 sulle	O
 tällasesta	O
@@ -70466,6 +70876,8 @@ akrylaattimaali	O
 puhua	O
 niitä	O
 näitä	O
+
+-DOCSTART-	O
 
 On	O
 minultakin	O
@@ -70702,6 +71114,8 @@ olet	O
 nainen	O
 .	O
 
+-DOCSTART-	O
+
 Ja	O
 sitten	O
 käyt	O
@@ -70909,6 +71323,8 @@ vanhukset	O
 ja	O
 vähäosaiset	O
 .	O
+
+-DOCSTART-	O
 
 Kun	O
 tuntuu	O
@@ -71170,6 +71586,8 @@ ja	O
 taitoa	O
 .	O
 
+-DOCSTART-	O
+
 Kummassakin	O
 puolueessa	O
 on	O
@@ -71412,6 +71830,8 @@ pysyäkseen	O
 hallituksessa	O
 .	O
 
+-DOCSTART-	O
+
 Täytyy	O
 oppia	O
 sietämään	O
@@ -71630,6 +72050,8 @@ hymyili	O
 äidin	O
 rinnalla	O
 .	O
+
+-DOCSTART-	O
 
 Minkälainen	O
 se	O
@@ -71859,6 +72281,8 @@ suhde	O
 
 Morjens	O
 .	O
+
+-DOCSTART-	O
 
 Länsi-Suomen	B-LOC
 muikkukanta	O
@@ -72100,6 +72524,8 @@ vuotta	O
 sitten	O
 esitetyssä	O
 Pohjalaisissa	B-PRO
+
+-DOCSTART-	O
 
 Helsingin	B-ORG
 käräjäoikeus	I-ORG
@@ -72355,6 +72781,8 @@ koko	O
 ajan	O
 keskeyttävät	O
 .	O
+
+-DOCSTART-	O
 
 Onhan	O
 se	O
@@ -72629,6 +73057,8 @@ muita	O
 naisia	O
 .	O
 
+-DOCSTART-	O
+
 En	O
 nyt	O
 oikein	O
@@ -72896,6 +73326,8 @@ vahvistettavana	O
 ympäristöministeriössä	B-ORG
 .	O
 
+-DOCSTART-	O
+
 Näytin	O
 iltapäivälehden	O
 valokuvasivua	O
@@ -73097,6 +73529,8 @@ ruumiissa	O
 
 Hei	O
 hei	O
+
+-DOCSTART-	O
 
 Eukko	O
 valittaa	O
@@ -73313,6 +73747,8 @@ käyttää	O
 myös	O
 etäännyttämiskeinona	O
 .	O
+
+-DOCSTART-	O
 
 Itsetehdyt	O
 croissantit	O
@@ -73575,6 +74011,8 @@ sen	O
 kirjan	O
 .	O
 
+-DOCSTART-	O
+
 Kiva	O
 asunto	O
 tilavalla	O
@@ -73740,6 +74178,8 @@ vasta	O
 tyhmä	O
 porukka	O
 .	O
+
+-DOCSTART-	O
 
 Lepsuilu	O
 presidentin	O
@@ -74013,6 +74453,8 @@ itsensä	O
 muodottomiksi	O
 .	O
 
+-DOCSTART-	O
+
 Nonon	B-PER
 kohtaamat	O
 vaikeudet	O
@@ -74243,6 +74685,8 @@ uskollisena	O
 taiteen	O
 pyhäinjäännöksille	O
 .	O
+
+-DOCSTART-	O
 
 Sataako	O
 siellä	O
@@ -74495,6 +74939,8 @@ hallinnollisesti	O
 kreivikuntiin	O
 .	O
 
+-DOCSTART-	O
+
 Mistä	O
 johtuu	O
 ,	O
@@ -74710,6 +75156,8 @@ käytettynä	O
 riippuvuuden	O
 .	O
 
+-DOCSTART-	O
+
 epäilet	O
 ,	O
 että	O
@@ -74919,6 +75367,8 @@ on	O
 puoli	O
 viisi	O
 .	O
+
+-DOCSTART-	O
 
 Ihmiset	O
 juovat	O
@@ -75144,6 +75594,8 @@ pani	O
 sen	O
 sinne	O
 .	O
+
+-DOCSTART-	O
 
 Jos	O
 yhtään	O
@@ -75398,6 +75850,8 @@ hevosen	O
 kyljestä	O
 läpi	O
 
+-DOCSTART-	O
+
 Kesä	O
 on	O
 yhä	O
@@ -75626,6 +76080,8 @@ ei	O
 saa	O
 häiritä	O
 .	O
+
+-DOCSTART-	O
 
 Ollaas	O
 hiljaa	O
@@ -75907,6 +76363,8 @@ hyödyllisiä	O
 melkein	O
 vahingossa	O
 
+-DOCSTART-	O
+
 Suomen	B-LOC
 ja	O
 Kiinan	B-LOC
@@ -76120,6 +76578,8 @@ jakelun	O
 synnyttämiin	O
 pullonkauloihin	O
 .	O
+
+-DOCSTART-	O
 
 Taideteollisen	B-ORG
 korkeakoulun	I-ORG
@@ -76391,6 +76851,8 @@ tuota	O
 tarvitsisin	O
 .	O
 
+-DOCSTART-	O
+
 Mieheltä	O
 katkesi	O
 viikset	O
@@ -76627,6 +77089,8 @@ mitä	O
 yritän	O
 selittää	O
 ?	O
+
+-DOCSTART-	O
 
 Nyt	O
 valittu	O
@@ -76873,6 +77337,8 @@ luottanut	O
 silmiini	O
 ...	O
 
+-DOCSTART-	O
+
 On	O
 se	O
 hankalaa	O
@@ -77115,6 +77581,8 @@ kymmentä	O
 euroa	O
 .	O
 
+-DOCSTART-	O
+
 Perustamishankkeena	O
 pidetään	O
 myös	O
@@ -77332,6 +77800,8 @@ tulisi	O
 metsässäkin	O
 vastaan	O
 .	O
+
+-DOCSTART-	O
 
 Elokuu	O
 on	O
@@ -77571,6 +78041,8 @@ kisoihin	O
 suurin	O
 toivein	O
 .	O
+
+-DOCSTART-	O
 
 Hiukan	O
 eilistä	O
@@ -77848,6 +78320,8 @@ törmäsi	O
 puuhun	O
 .	O
 
+-DOCSTART-	O
+
 Mainosalan	O
 laitkin	O
 sanovat	O
@@ -78072,6 +78546,8 @@ ja	O
 sukulaisia	O
 tapaamassa	O
 .	O
+
+-DOCSTART-	O
 
 Missä	O
 kaikkialla	O
@@ -78331,6 +78807,8 @@ Talonmies	O
 on	O
 nukuksissa	O
 .	O
+
+-DOCSTART-	O
 
 Kelaa	O
 lusikkaa	O
@@ -78612,6 +79090,8 @@ ollaan	O
 etsiskelemässä	O
 .	O
 
+-DOCSTART-	O
+
 Junassa	O
 matkustamisesta	O
 on	O
@@ -78853,6 +79333,8 @@ asioita	O
 kevyen	O
 liikenteen	O
 väylä	O
+
+-DOCSTART-	O
 
 Komission	O
 päätös	O
@@ -79458,6 +79940,8 @@ David	B-PER
 Byrne	I-PER
 Komission	O
 jäsen	O
+
+-DOCSTART-	O
 
 [	O
 pic	O
@@ -80856,6 +81340,8 @@ ja	O
 verkko-opiskelulla	O
 .	O
 
+-DOCSTART-	O
+
 P6_TA(2005)0016	O
 Digitaalisen	O
 sisällön	O
@@ -81027,6 +81513,8 @@ virallisessa	O
 lehdessä	O
 .	O
 
+-DOCSTART-	O
+
 Asian	O
 C-63/05	O
 poistaminen	O
@@ -81062,6 +81550,8 @@ vastaan	O
 Helleenien	B-LOC
 tasavalta	I-LOC
 .	O
+
+-DOCSTART-	O
 
 Euroopan	B-ORG
 parlamentin	I-ORG
@@ -82826,6 +83316,8 @@ valuuttana	O
 )	O
 .	O
 
+-DOCSTART-	O
+
 NEUVOSTON	O
 ASETUS	O
 (	O
@@ -84177,6 +84669,8 @@ huomattavista	O
 muutoksista	O
 .	O
 
+-DOCSTART-	O
+
 Ilmoitus	O
 jäsenvaltioiden	O
 päätöksistä	O
@@ -84237,6 +84731,8 @@ a	O
 alakohdassa	O
 säädettyjä	O
 rajoituksia	O
+
+-DOCSTART-	O
 
 [	O
 pic	O
@@ -85730,6 +86226,8 @@ ministeriön	O
 toimialaan	O
 .	O
 
+-DOCSTART-	O
+
 KOMISSION	O
 DIREKTIIVI	O
 ,	O
@@ -86305,6 +86803,8 @@ Frans	B-PER
 ANDRIESSEN	I-PER
 Varapuheenjohtaja	O
 
+-DOCSTART-	O
+
 KOMISSION	O
 PÄÄTÖS	O
 ,	O
@@ -86614,6 +87114,8 @@ puolesta	O
 Frans	B-PER
 ANDRIESSEN	I-PER
 Varapuheenjohtaja	O
+
+-DOCSTART-	O
 
 NEUVOSTON	O
 ASETUS	O
@@ -88271,6 +88773,8 @@ artiklan	O
 kohtaan	O
 .	O
 
+-DOCSTART-	O
+
 Neuvoston	O
 päätös	O
 ,	O
@@ -88680,6 +89184,8 @@ Piqué	I-PER
 i	I-PER
 Camps	I-PER
 Puheenjohtaja	O
+
+-DOCSTART-	O
 
 NEUVOSTON	O
 ASETUS	O
@@ -89645,6 +90151,8 @@ J.	B-PER
 FARNLEITNER	I-PER
 Puheenjohtaja	O
 
+-DOCSTART-	O
+
 Komission	O
 direktiivi	O
 2004/2/EY	O
@@ -90436,6 +90944,8 @@ Byrne	I-PER
 Komission	O
 jäsen	O
 
+-DOCSTART-	O
+
 Neuvoston	O
 päätös	O
 2005/784/YUTP	O
@@ -90729,6 +91239,8 @@ puolesta	O
 Puheenjohtaja	O
 J.	B-PER
 Straw	I-PER
+
+-DOCSTART-	O
 
 NEUVOSTON	O
 ASETUS	O
@@ -93660,6 +94172,8 @@ yhteisön	O
 rajalla	O
 .	O
 
+-DOCSTART-	O
+
 Komission	O
 asetus	O
 (	O
@@ -93945,6 +94459,8 @@ Fischer	I-PER
 Boel	I-PER
 Komission	O
 jäsen	O
+
+-DOCSTART-	O
 
 KOMISSION	O
 ASETUS	O
@@ -94397,6 +94913,8 @@ LIIKANEN	I-PER
 Komission	O
 jäsen	O
 
+-DOCSTART-	O
+
 Komission	O
 asetus	O
 (	O
@@ -94716,6 +95234,8 @@ Boel	I-PER
 Komission	O
 jäsen	O
 
+-DOCSTART-	O
+
 Komission	O
 asetus	O
 (	O
@@ -95005,6 +95525,8 @@ David	B-PER
 Byrne	I-PER
 Komission	O
 jäsen	O
+
+-DOCSTART-	O
 
 P6_TA(2004)0004	O
 Parlamenttien	O
@@ -95626,6 +96148,8 @@ Euro—Välimeri-edustajakokouksessa	B-EVENT
 45	O
 jäsentä	O
 |	O
+
+-DOCSTART-	O
 
 [	O
 pic	O
@@ -96876,6 +97400,8 @@ koolle	O
 puheenjohtajaa	O
 kuultuaan	O
 .	O
+
+-DOCSTART-	O
 
 Euroopan	B-ORG
 keskuspankin	I-ORG
@@ -98861,6 +99387,8 @@ säännösten	O
 sijasta	O
 .	O
 
+-DOCSTART-	O
+
 Teemana	O
 vaihtoehdot	O
 
@@ -99101,6 +99629,8 @@ kasvoihinsa	O
 Ei	O
 ”	O
 .	O
+
+-DOCSTART-	O
 
 Vauhdilla	O
 alas	O
@@ -99541,6 +100071,8 @@ vuonna	O
 
 Öhö-öhö	O
 .	O
+
+-DOCSTART-	O
 
 Yritysesittely	O
 :	O
@@ -100737,6 +101269,8 @@ tehtävä	O
 .	O
 ”	O
 
+-DOCSTART-	O
+
 HC	B-ORG
 Kirvesperseet	I-ORG
 pääsi	O
@@ -101318,6 +101852,8 @@ hiljeni	O
 kotimatkan	O
 ajaksi	O
 .	O
+
+-DOCSTART-	O
 
 Monistejäynän	O
 anatomia	O
@@ -102042,6 +102578,8 @@ Paluumatkalla	O
 näimme	O
 helikopterin	O
 .	O
+
+-DOCSTART-	O
 
 Mahtien	O
 mittelöt	O
@@ -102896,6 +103434,8 @@ jo	O
 kahdeksalta	O
 .	O
 
+-DOCSTART-	O
+
 Puolivuotiskatsaus	O
 Digitin	B-ORG
 urheilutoimintaan	O
@@ -103739,6 +104279,8 @@ myös	O
 joukkueemme	O
 .	O
 
+-DOCSTART-	O
+
 Avoimien	B-EVENT
 ohjelmien	I-EVENT
 päivä	I-EVENT
@@ -104261,6 +104803,8 @@ tapahtumaan	O
 ensi	O
 vuonnakin	O
 .	O
+
+-DOCSTART-	O
 
 Olemme	O
 yhtä	O
@@ -104909,6 +105453,8 @@ sillä	O
 olemme	O
 yhtä	O
 .	O
+
+-DOCSTART-	O
 
 Joutilaiden	O
 vallankumous	O
@@ -105628,6 +106174,8 @@ niin	O
 last	O
 season	O
 .	O
+
+-DOCSTART-	O
 
 Otsa	O
 hiessä	O
@@ -106476,6 +107024,8 @@ kilpailukyvyn	O
 nimissä	O
 .	O
 
+-DOCSTART-	O
+
 27	O
 tuntia	O
 työtä	O
@@ -107198,6 +107748,8 @@ eteen	O
 vaaditaan	O
 .	O
 
+-DOCSTART-	O
+
 Kesäyliopistoon	O
 maailmalle	O
 
@@ -107591,6 +108143,8 @@ ikimuistoista	O
 kesää	O
 !	O
 
+-DOCSTART-	O
+
 Kännitzer	B-PRO
 tuo	O
 kännin	O
@@ -107820,6 +108374,8 @@ hän	O
 vain	O
 kännitzeriä	B-PRO
 .	O
+
+-DOCSTART-	O
 
 Naistutkimuksen	O
 perusteet	O
@@ -108642,6 +109198,8 @@ ja	O
 Juhaa	B-PER
 hävettää	O
 .	O
+
+-DOCSTART-	O
 
 Delta	B-EVENT
 on	I-EVENT
@@ -109620,6 +110178,8 @@ ilmestyminen	O
 takapenkin	O
 porno-huuruihin	O
 .	O
+
+-DOCSTART-	O
 
 Kaaoksen	O
 alkeet	O
@@ -110846,6 +111406,8 @@ kuka	O
 olet	O
 .	O
 
+-DOCSTART-	O
+
 Amatööritiirailua	O
 
 Akateemisen	O
@@ -111565,6 +112127,8 @@ laittaa	O
 sellaisen	O
 toivomuslistalleen	O
 .	O
+
+-DOCSTART-	O
 
 Potenssi	B-ORG
 testaa	O
@@ -112436,6 +113000,8 @@ korkeanpaikankammoiselle	O
 testiryhmälle	O
 .	O
 
+-DOCSTART-	O
+
 Oma	O
 asunto	O
 häviää	O
@@ -113017,6 +113583,8 @@ käteen	O
 Rekonen	B-PER
 toteaa	O
 .	O
+
+-DOCSTART-	O
 
 Maailmantalous	O
 matkalla	O
@@ -113767,6 +114335,8 @@ suuremman	O
 velkataakan	O
 .	O
 
+-DOCSTART-	O
+
 Katainen	B-PER
 :	O
 Äärettömän	O
@@ -114014,6 +114584,8 @@ Huomenta	B-PRO
 Suomessa	I-PRO
 .	O
 
+-DOCSTART-	O
+
 Osakkeet	O
 putoavat	O
 
@@ -114208,6 +114780,8 @@ kuukaudessa	O
 yksitoista	O
 prosenttia	O
 .	O
+
+-DOCSTART-	O
 
 Rankka	O
 väite	O
@@ -114609,6 +115183,8 @@ riittävästi	O
 pureutumaan	O
 .	O
 
+-DOCSTART-	O
+
 OP-Pohjolan	B-ORG
 lainaama	O
 raha	O
@@ -114802,6 +115378,8 @@ viime	O
 vuotta	O
 parempi	O
 .	O
+
+-DOCSTART-	O
 
 Kiinasta	B-LOC
 paljastui	O
@@ -115054,6 +115632,8 @@ viranomaisten	O
 toimesta	O
 .	O
 
+-DOCSTART-	O
+
 SS	B-ORG
 :	O
 Kultakoruista	O
@@ -115161,6 +115741,8 @@ totesi	O
 Savon	B-ORG
 Sanomille	I-ORG
 .	O
+
+-DOCSTART-	O
 
 Näin	O
 tyhmäilet	O
@@ -116133,6 +116715,8 @@ Numminen	B-PER
 sanoo	O
 .	O
 
+-DOCSTART-	O
+
 Ylilääkäri	O
 :	O
 Varokaa	O
@@ -116502,6 +117086,8 @@ hän	O
 sanoo	O
 .	O
 
+-DOCSTART-	O
+
 Hollantilaiset	O
 keksivät	O
 :	O
@@ -116764,6 +117350,8 @@ todennäköisimmin	O
 toistuvia	O
 käyttäjiä	O
 .	O
+
+-DOCSTART-	O
 
 Harvat	O
 ja	O
@@ -117341,6 +117929,8 @@ luokitus	O
 laskisikin	O
 .	O
 
+-DOCSTART-	O
+
 Katainen	B-PER
 Verkkouutisille	B-ORG
 :	O
@@ -117502,6 +118092,8 @@ edellisessä	O
 EU-huippukokouksessa	B-EVENT
 .	O
 
+-DOCSTART-	O
+
 Yle	B-ORG
 :	O
 Seniori-sana	O
@@ -117643,6 +118235,8 @@ myös	O
 kunnon	O
 huononnuttua	O
 .	O
+
+-DOCSTART-	O
 
 Suomalaiset	O
 vaihtoivat	O
@@ -117789,6 +118383,8 @@ heinäkuussa	B-DATE
 tehtyyn	O
 haastatteluun	O
 .	O
+
+-DOCSTART-	O
 
 Kysely	O
 :	O
@@ -118043,6 +118639,8 @@ muualla	O
 Euroopassa	B-LOC
 .	O
 
+-DOCSTART-	O
+
 Videovalvonta	O
 rokotti	O
 Telesten	B-ORG
@@ -118217,6 +118815,8 @@ loppuvuoden	O
 aikana	O
 .	O
 
+-DOCSTART-	O
+
 Nokia	B-ORG
 irtisanoi	O
 –	O
@@ -118386,6 +118986,8 @@ lähes	O
 täystyöllisyys	O
 .	O
 
+-DOCSTART-	O
+
 Espanjan	B-LOC
 lainakorko	O
 lähellä	O
@@ -118548,6 +119150,8 @@ korkopistettä	O
 6,21	O
 prosenttiin	O
 .	O
+
+-DOCSTART-	O
 
 Gaddafi	B-PER
 etsii	O
@@ -118767,6 +119371,8 @@ vapaan	O
 median	O
 saalistajaksi	O
 .	O
+
+-DOCSTART-	O
 
 Yhdysvallat	B-LOC
 putoaa	O
@@ -119091,6 +119697,8 @@ oli	O
 prosentin	O
 laskussa	O
 .	O
+
+-DOCSTART-	O
 
 Yksi	O
 hullu	O
@@ -119633,6 +120241,8 @@ kehno	O
 aloite	O
 .	O
 
+-DOCSTART-	O
+
 Saastekaupunki	O
 yrittää	O
 huijata	O
@@ -119802,6 +120412,8 @@ pitää	O
 peukaloijat	O
 loitolla	O
 .	O
+
+-DOCSTART-	O
 
 Orion	B-ORG
 ratsasti	O
@@ -120004,6 +120616,8 @@ kertaeriä	O
 paranevan	O
 .	O
 
+-DOCSTART-	O
+
 Putin	B-PER
 :	O
 Yhdysvallat	B-LOC
@@ -120170,6 +120784,8 @@ viidennes	O
 maan	O
 bkt:sta	O
 .	O
+
+-DOCSTART-	O
 
 HS	B-ORG
 :	O
@@ -120386,6 +121002,8 @@ Pouttua	B-ORG
 käyttämästä	O
 Onni-nimeä	O
 .	O
+
+-DOCSTART-	O
 
 Android-jyrä	O
 valtasi	O
@@ -120890,6 +121508,8 @@ prosentin	O
 osuudellaan	O
 .	O
 
+-DOCSTART-	O
+
 AL	B-ORG
 :	O
 Kotitalousvähennys	O
@@ -121117,6 +121737,8 @@ on	O
 prosenttia	O
 .	O
 
+-DOCSTART-	O
+
 E-S	B-ORG
 :	O
 Suomi	B-LOC
@@ -121221,6 +121843,8 @@ ajamatta	O
 Etelä-Saimaa	B-ORG
 kirjoittaa	O
 .	O
+
+-DOCSTART-	O
 
 Lennonjohtokiistaan	O
 löytyi	O
@@ -121458,6 +122082,8 @@ neuvottelutulosta	O
 Ylelle	B-ORG
 .	O
 
+-DOCSTART-	O
+
 AL	B-ORG
 :	O
 Antibioottilihan	O
@@ -121615,6 +122241,8 @@ Westerholm	I-PER
 sanoo	O
 .	O
 
+-DOCSTART-	O
+
 Pakettiautomyynti	O
 kiihdytti	O
 edellisvuodesta	O
@@ -121725,6 +122353,8 @@ Tiedotuskeskuksen	I-ORG
 ylläpitämistä	O
 ensirekisteröintitilastoista	O
 .	O
+
+-DOCSTART-	O
 
 Suomalaisia	O
 ei	O
@@ -121927,6 +122557,8 @@ terveystietojaan	O
 80	O
 prosenttia	O
 .	O
+
+-DOCSTART-	O
 
 Yhdysvaltojen	B-LOC
 huono	O
@@ -122180,6 +122812,8 @@ heikkeni	O
 prosenttia	O
 .	O
 
+-DOCSTART-	O
+
 Kyberrikollisuuden	O
 hintalappu	O
 paisui	O
@@ -122312,6 +122946,8 @@ kuluu	O
 18	O
 päivää	O
 .	O
+
+-DOCSTART-	O
 
 Helsinki-Tallinna	O
 -ennätys	O
@@ -122566,6 +123202,8 @@ Euroopan	B-LOC
 kulttuuripääkaupunki	O
 .	O
 
+-DOCSTART-	O
+
 Espanjassa	B-LOC
 kriisikokous	O
 –	O
@@ -122802,6 +123440,8 @@ hedelmälliseksi	O
 "	O
 .	O
 
+-DOCSTART-	O
+
 Finavia	B-ORG
 :	O
 Lennonjohtajien	O
@@ -122892,6 +123532,8 @@ tauoista	O
 sekä	O
 palkankorotuksista	O
 .	O
+
+-DOCSTART-	O
 
 Kreikkalaisilla	O
 sairaaloilla	O
@@ -122990,6 +123632,8 @@ myös	O
 maan	O
 sairaaloita	O
 .	O
+
+-DOCSTART-	O
 
 Näinkö	O
 tässä	O
@@ -123811,6 +124455,8 @@ kolonialistinen	O
 näkökulma	O
 .	O
 
+-DOCSTART-	O
+
 Huoneentaulusta	O
 kohti	O
 kaikkien	O
@@ -124220,6 +124866,8 @@ Liisa	B-PER
 Lagerstam	I-PER
 .	O
 
+-DOCSTART-	O
+
 Kevät	O
 tuli	O
 kemiaan	O
@@ -124454,6 +125102,8 @@ ovat	O
 erittäin	O
 herkkiä	O
 .	O
+
+-DOCSTART-	O
 
 Agricola	B-PER
 ja	O
@@ -124830,6 +125480,8 @@ paloa	I-EVENT
 Soikkanen	B-PER
 pohtii	O
 .	O
+
+-DOCSTART-	O
 
 Lönnrot-mitali	B-PRO
 ksylitolin	O
@@ -125237,6 +125889,8 @@ totesi	O
 Teräs	B-PER
 .	O
 
+-DOCSTART-	O
+
 Kreikan	B-LOC
 apupaketti	O
 luo	O
@@ -125596,6 +126250,8 @@ laahaavat	O
 jäljessä	O
 .	O
 
+-DOCSTART-	O
+
 Menestystä	O
 turkulaiselle	O
 biodiversiteettitutkimukselle	O
@@ -125887,6 +126543,8 @@ aspektien	O
 tutkimusta	O
 .	O
 
+-DOCSTART-	O
+
 Turun	B-ORG
 yliopiston	I-ORG
 varainkeräyskampanja	O
@@ -126086,6 +126744,8 @@ myös	O
 tulevaisuudessa	O
 .	O
 
+-DOCSTART-	O
+
 Tutkimuksella	O
 tuetaan	O
 hoitotyön	O
@@ -126202,6 +126862,8 @@ sekä	O
 teho-osastohoitajien	O
 kompetenssista	O
 .	O
+
+-DOCSTART-	O
 
 Eurooppaa	B-LOC
 ,	O
@@ -126589,6 +127251,8 @@ nimikkopalkintoaan	O
 valittaessa	O
 .	O
 
+-DOCSTART-	O
+
 Humanistinen	O
 tiedekunta	O
 valitsi	O
@@ -126941,6 +127605,8 @@ tietokonepelien	O
 historian	O
 .	O
 
+-DOCSTART-	O
+
 Turun	B-ORG
 yliopistoon	I-ORG
 yhdeksän	O
@@ -127085,6 +127751,8 @@ menestyksekästä	O
 tieteellistä	O
 työskentelyä	O
 .	O
+
+-DOCSTART-	O
 
 Eero	B-PER
 Vuoriolle	I-PER
@@ -127309,6 +127977,8 @@ hallituksen	O
 jäsenet	O
 .	O
 
+-DOCSTART-	O
+
 Merkittävä	O
 lahjoitus	O
 Turun	B-ORG
@@ -127448,6 +128118,8 @@ euroa	O
 yliopiston	O
 pääomaan	O
 .	O
+
+-DOCSTART-	O
 
 Ylempi	O
 AMK-tutkinto	O
@@ -127802,6 +128474,8 @@ ja	O
 tutkinnosta	O
 valmistuville	O
 .	O
+
+-DOCSTART-	O
 
 Yrityskaupoissa	O
 ajoitus	O
@@ -128193,6 +128867,8 @@ Ulla-Maija	B-PER
 Lakka	I-PER
 .	O
 
+-DOCSTART-	O
+
 Lääketieteen	B-PRO
 opettajan	I-PRO
 Duodecim-palkinto	I-PRO
@@ -128380,6 +129056,8 @@ kehittäjänä	O
 toimineelle	O
 henkilölle	O
 .	O
+
+-DOCSTART-	O
 
 Yliopistojen	O
 on	O
@@ -128811,6 +129489,8 @@ Paasio	B-PER
 kertoi	O
 .	O
 
+-DOCSTART-	O
+
 Lukiolaiset	O
 tutustuivat	O
 yliopistoon	O
@@ -129048,6 +129728,8 @@ kalliita	O
 valmennuskursseja	O
 .	O
 
+-DOCSTART-	O
+
 Turun	B-ORG
 yliopisto	I-ORG
 kasvatti	O
@@ -129240,6 +129922,8 @@ jälkeen	O
 heinäkuun	B-DATE
 lopussa	O
 .	O
+
+-DOCSTART-	O
 
 Lapset	O
 pystyvät	O
@@ -129470,6 +130154,8 @@ Turkuensis	I-PRO
 kokoelmista	O
 Doria-tietokannasta	B-PRO
 .	O
+
+-DOCSTART-	O
 
 Keskinkertaisuus	O
 ei	O
@@ -129720,6 +130406,8 @@ saavuttaa	O
 keskimääräistä	O
 kummempaa	O
 .	O
+
+-DOCSTART-	O
 
 Siitepölypäiväkirja	O
 allergikkojen	O
@@ -130015,6 +130703,8 @@ löytyy	O
 osoitteesta	O
 www.pollendiary.com	O
 
+-DOCSTART-	O
+
 Palkinto	O
 terveydenhuollon	O
 kieliteknologiaa	O
@@ -130306,6 +130996,8 @@ uudessa	O
 T-sairaalassa	B-ORG
 .	O
 
+-DOCSTART-	O
+
 Aitojamakuja.fi-palvelussa	B-PRO
 mukana	O
 1000	O
@@ -130396,6 +131088,8 @@ suuren	O
 yleisön	O
 keskuudessa	O
 .	O
+
+-DOCSTART-	O
 
 Ritarit	O
 ja	O
@@ -130779,6 +131473,8 @@ suuriin	O
 kysymyksiin	O
 .	O
 
+-DOCSTART-	O
+
 Akatemian	B-ORG
 Viksu-palkinto	B-PRO
 Turkuun	B-LOC
@@ -130997,6 +131693,8 @@ kilpailutyötä	O
 27	O
 lukiosta	O
 .	O
+
+-DOCSTART-	O
 
 Tämän	O
 maailman	O
@@ -131404,6 +132102,8 @@ ja	O
 ostavat	O
 kiinteistöjä	O
 .	O
+
+-DOCSTART-	O
 
 Horisontaalisuus	O
 näkyy	O
@@ -131848,6 +132548,8 @@ Veli-Pekka	B-PER
 Viljanen	I-PER
 .	O
 
+-DOCSTART-	O
+
 Logistiikka-alan	O
 suhdanneodotukset	O
 myönteisiä	O
@@ -132015,6 +132717,8 @@ ja	I-ORG
 tutkimuskeskuksen	I-ORG
 sivuilla	O
 .	O
+
+-DOCSTART-	O
 
 Kansainvälisillä	O
 toimijoilla	O
@@ -132384,6 +133088,8 @@ sekä	O
 ympäristökysymyksiin	O
 .	O
 
+-DOCSTART-	O
+
 Normaalius	O
 osana	O
 yliluonnollisia	O
@@ -132663,6 +133369,8 @@ tai	O
 korjausta	O
 .	O
 
+-DOCSTART-	O
+
 Filosofit	O
 ja	O
 natsi-Saksa	B-LOC
@@ -132909,6 +133617,8 @@ Rosenbergiä	B-PER
 ja	O
 Nietzscheä	B-PER
 .	O
+
+-DOCSTART-	O
 
 Suvaitsevaisuus	O
 on	O
@@ -133193,6 +133903,8 @@ Binderup	B-PER
 sanoi	O
 .	O
 
+-DOCSTART-	O
+
 Nuoret	O
 tutkijat	O
 esittelevät	O
@@ -133418,6 +134130,8 @@ jälkeisistä	O
 vaihtoehdoista	O
 .	O
 
+-DOCSTART-	O
+
 Takalan	B-ORG
 rahaston	I-ORG
 apurahat	O
@@ -133562,6 +134276,8 @@ suorittaneille	O
 nuorille	O
 tutkijoille	O
 .	O
+
+-DOCSTART-	O
 
 Ohjauksella	O
 voimavaroja	O
@@ -133869,6 +134585,8 @@ onnistumisen	O
 edellytyksiä	O
 .	O
 
+-DOCSTART-	O
+
 Kasvitieteellinen	O
 puutarha	O
 sai	O
@@ -134068,6 +134786,8 @@ kenttäretkeilyille	O
 Yli-Rekola	B-PER
 sanoo	O
 .	O
+
+-DOCSTART-	O
 
 Opiskelijoiden	O
 innovatiivisuus	O
@@ -134404,6 +135124,8 @@ mukaansa	O
 hyvää	O
 perustietoa	O
 .	O
+
+-DOCSTART-	O
 
 Tutkijakollegiumit	O
 kokoontuivat	O
@@ -134783,6 +135505,8 @@ hakeutumisessa	O
 Hytti	B-PER
 sanoo	O
 .	O
+
+-DOCSTART-	O
 
 Naisten	O
 ihmisoikeuksien	O
@@ -135224,6 +135948,8 @@ Nousiainen	B-PER
 peräänkuuluttaa	O
 .	O
 
+-DOCSTART-	O
+
 Kari	B-PER
 Uusikylä	I-PER
 (	O
@@ -135304,6 +136030,8 @@ tieteenalaltaan	O
 julkisiksi	O
 intellektuelleiksi	O
 .	O
+
+-DOCSTART-	O
 
 Mikkelinsaaret	B-LOC
 (	O
@@ -135969,6 +136697,8 @@ ainoastaan	O
 pienveneillä	O
 .	O
 
+-DOCSTART-	O
+
 Litium	O
 (	O
 lat.	O
@@ -136108,6 +136838,8 @@ muutamaa	O
 vuotta	O
 myöhemmin	O
 .	O
+
+-DOCSTART-	O
 
 Thomas	B-PER
 (	I-PER
@@ -136629,6 +137361,8 @@ nimensä	O
 Radioheadiksi	B-ORG
 .	O
 
+-DOCSTART-	O
+
 Oikeisto	O
 tarkoittaa	O
 konservatismia	O
@@ -136914,6 +137648,8 @@ sotilaalliseen	O
 järjestäytymiseen	O
 .	O
 
+-DOCSTART-	O
+
 Lamborghini	B-PRO
 Diablo	I-PRO
 on	O
@@ -136975,6 +137711,8 @@ lukkiutumattomia	O
 jarruja	O
 .	O
 
+-DOCSTART-	O
+
 Pascoal	B-PER
 Manuel	I-PER
 Mocumbi	I-PER
@@ -137035,6 +137773,8 @@ oli	O
 Luísa	B-PER
 Diogo	I-PER
 .	O
+
+-DOCSTART-	O
 
 Senkakusaaret	B-LOC
 (	O
@@ -137269,6 +138009,8 @@ mahdollinen	O
 vaihteessa	O
 .	O
 
+-DOCSTART-	O
+
 Marian	B-PRO
 poikalapsi	I-PRO
 (	O
@@ -137380,6 +138122,8 @@ ja	O
 Arja	B-PER
 Koriseva	I-PER
 .	O
+
+-DOCSTART-	O
 
 Türki	O
 (	O
@@ -137662,6 +138406,8 @@ kielten	O
 äänteiden	O
 merkitsemiseen	O
 .	O
+
+-DOCSTART-	O
 
 Kronreif	B-ORG
 ,	I-ORG
@@ -138042,6 +138788,8 @@ Ivan	B-PER
 Cervantes	I-PER
 .	O
 
+-DOCSTART-	O
+
 San	B-EVENT
 Stefanon	I-EVENT
 rauha	I-EVENT
@@ -138135,6 +138883,8 @@ nykyisin	O
 maan	O
 itsenäisyyspäivänä	O
 .	O
+
+-DOCSTART-	O
 
 Paul	B-PER
 Gallagher	I-PER
@@ -138246,6 +138996,8 @@ palasi	O
 Blackburniin	B-ORG
 .	O
 
+-DOCSTART-	O
+
 Espoon	B-ORG
 Kaupunginteatteri	I-ORG
 on	O
@@ -138319,6 +139071,8 @@ ja	O
 Revontulihalli	B-LOC
 Revontulentiellä	B-LOC
 .	O
+
+-DOCSTART-	O
 
 Kuningasgambiitti	O
 1.e4	O
@@ -139324,6 +140078,8 @@ Ricen	B-PER
 gambiitti	O
 .	O
 
+-DOCSTART-	O
+
 A	B-PRO
 Day	I-PRO
 at	I-PRO
@@ -139436,6 +140192,8 @@ Brian	B-PER
 May	I-PER
 .	O
 
+-DOCSTART-	O
+
 Suostuntavaliokunta	O
 perustettiin	O
 Suomen	B-LOC
@@ -139455,6 +140213,8 @@ vuoden	B-DATE
 1869	I-DATE
 valtiopäiväjärjestyksessä	O
 .	O
+
+-DOCSTART-	O
 
 Simão	B-PER
 Rodrigues	I-PER
@@ -139640,6 +140400,8 @@ ennen	O
 kuolemaansa	O
 .	O
 
+-DOCSTART-	O
+
 Monkey	B-PRO
 Business	I-PRO
 on	O
@@ -139736,6 +140498,8 @@ Union	I-PRO
 "	I-PRO
 .	O
 
+-DOCSTART-	O
+
 Nälkää	B-PRO
 ja	I-PRO
 rakkautta	I-PRO
@@ -139753,6 +140517,8 @@ julkaistiin	O
 vuonna	B-DATE
 2006	I-DATE
 .	O
+
+-DOCSTART-	O
 
 Arvid	B-PER
 Järnefelt	I-PER
@@ -139972,6 +140738,8 @@ sorrettujen	O
 auttaja	O
 .	O
 
+-DOCSTART-	O
+
 Sisäänpäin	O
 lämpiävä	O
 sauna	O
@@ -140137,6 +140905,8 @@ myrkyllisiä	O
 savukaasuja	O
 .	O
 
+-DOCSTART-	O
+
 Julkinen	O
 valta	O
 on	O
@@ -140286,6 +141056,8 @@ kuin	O
 julkisyhteisöille	O
 .	O
 
+-DOCSTART-	O
+
 Punakaartilaisen	B-PRO
 päiväkirja	I-PRO
 on	O
@@ -140369,6 +141141,8 @@ Sohkasen	I-LOC
 Katu	I-LOC
 .	O
 
+-DOCSTART-	O
+
 Azeglio	B-PER
 Vicini	I-PER
 (	O
@@ -140406,6 +141180,8 @@ vuoden	B-DATE
 1990	I-DATE
 MM-kotikisoissa	O
 .	O
+
+-DOCSTART-	O
 
 Tilhi	O
 (	O
@@ -140712,6 +141488,8 @@ muitakin	O
 hedelmiä	O
 .	O
 
+-DOCSTART-	O
+
 Sabot	B-ORG
 on	O
 yhdysvaltalainen	O
@@ -140796,6 +141574,8 @@ samalla	O
 periaatteella	O
 .	O
 
+-DOCSTART-	O
+
 Sulkukotilot	O
 Clausiliidae	O
 on	O
@@ -140868,6 +141648,8 @@ löydettiin	O
 vuonna	B-DATE
 2006	I-DATE
 .	O
+
+-DOCSTART-	O
 
 Helsingin	B-EVENT
 valtiopäivät	I-EVENT
@@ -140987,6 +141769,8 @@ erottamisesta	O
 seurakunnasta	O
 .	O
 
+-DOCSTART-	O
+
 Buc	B-LOC
 on	O
 kunta	O
@@ -141011,6 +141795,8 @@ on	O
 8	O
 km²	O
 .	O
+
+-DOCSTART-	O
 
 Dodge	B-PRO
 Charger	I-PRO
@@ -141287,6 +142073,8 @@ kappaleen	O
 erä	O
 .	O
 
+-DOCSTART-	O
+
 Go	B-PRO
 Chuck	I-PRO
 Yourself	I-PRO
@@ -141460,6 +142248,8 @@ tyydyttiin	O
 julkaisemaan	O
 CD:nä	O
 .	O
+
+-DOCSTART-	O
 
 Kari	B-PER
 Ilmari	I-PER
@@ -141673,6 +142463,8 @@ sijalla	O
 seitsemän	O
 .	O
 
+-DOCSTART-	O
+
 Frans	B-PER
 Tuohimaa	I-PER
 (	O
@@ -141768,6 +142560,8 @@ on	O
 Fransin	B-PER
 setä	O
 .	O
+
+-DOCSTART-	O
 
 Paksujalka	O
 (	O
@@ -142042,6 +142836,8 @@ jo	O
 1-vuotiaana	O
 .	O
 
+-DOCSTART-	O
+
 KV23	B-LOC
 on	O
 Ayn	B-PER
@@ -142058,6 +142854,8 @@ osa	O
 tuhottu	O
 tarkoituksellisesti	O
 .	O
+
+-DOCSTART-	O
 
 Taivutus	O
 tarkoittaa	O
@@ -142180,6 +142978,8 @@ muidenkin	O
 kielten	O
 kielioppeihin	O
 .	O
+
+-DOCSTART-	O
 
 Petteri	B-PER
 Kaijasilta	I-PER
@@ -142654,6 +143454,8 @@ maalikuninkuuden	O
 maalilla	O
 .	O
 
+-DOCSTART-	O
+
 Neurosis	B-ORG
 on	O
 Yhdysvalloissa	B-LOC
@@ -142749,6 +143551,8 @@ levy-yhtiönsä	O
 Neurot	B-ORG
 Recordingsin	I-ORG
 .	O
+
+-DOCSTART-	O
 
 Kevin	B-PER
 Ratcliffe	I-PER
@@ -143000,6 +143804,8 @@ Walesin	I-ORG
 urheilutoimituksessa	O
 .	O
 
+-DOCSTART-	O
+
 Kausi	O
 1983–1984	B-DATE
 oli	O
@@ -143074,6 +143880,8 @@ laskettiin	O
 mukaan	O
 sarjataulukkoon	O
 .	O
+
+-DOCSTART-	O
 
 We	B-PRO
 Are	I-PRO
@@ -143151,6 +143959,8 @@ kyseisen	O
 sarjan	O
 levylle	O
 .	O
+
+-DOCSTART-	O
 
 Robert	B-PER
 I	I-PER
@@ -143302,6 +144112,8 @@ kreivikunnasta	I-LOC
 )	O
 .	O
 
+-DOCSTART-	O
+
 Samuli	B-PER
 Sirviö	I-PER
 (	O
@@ -143392,6 +144204,8 @@ Rumba-	I-PRO
 ja	I-PRO
 Suosikki-lehdissä	I-PRO
 .	O
+
+-DOCSTART-	O
 
 Head	B-PRO
 First	I-PRO
@@ -143497,6 +144311,8 @@ Nights	I-PRO
 julkaistiin	O
 singleinä	O
 .	O
+
+-DOCSTART-	O
 
 Hietanen	B-LOC
 on	O
@@ -143622,6 +144438,8 @@ enää	O
 ole	O
 .	O
 
+-DOCSTART-	O
+
 Genil	B-LOC
 on	O
 358	O
@@ -143683,6 +144501,8 @@ mukaelmasta	O
 joen	O
 roomalaisnimestä	O
 .	O
+
+-DOCSTART-	O
 
 Basic	O
 english	O
@@ -143771,6 +144591,8 @@ Franklin	B-PER
 Roosevelt	I-PER
 .	O
 
+-DOCSTART-	O
+
 À	O
 eli	O
 à	O
@@ -143854,6 +144676,8 @@ tai	O
 6:een	O
 ”	O
 .	O
+
+-DOCSTART-	O
 
 Vim	B-PRO
 (	I-PRO
@@ -144490,6 +145314,8 @@ vuosina	B-DATE
 2001-2005	I-DATE
 .	O
 
+-DOCSTART-	O
+
 Sören	B-PER
 "	I-PER
 Snuffe	I-PER
@@ -144781,6 +145607,8 @@ seuraa	O
 putoamiselta	O
 .	O
 
+-DOCSTART-	O
+
 Elliott	B-PER
 Smith	I-PER
 (	O
@@ -144895,6 +145723,8 @@ lahjakkaimmaksi	O
 lauluntekijäksi	O
 "	O
 .	O
+
+-DOCSTART-	O
 
 Gliese	B-LOC
 581	I-LOC
@@ -145211,6 +146041,8 @@ löydetyn	O
 eksoplaneetan	O
 .	O
 
+-DOCSTART-	O
+
 Kovddoskaisi	B-LOC
 tai	O
 Govddosgáisi	B-LOC
@@ -145280,6 +146112,8 @@ noin	O
 550	O
 metriä	O
 .	O
+
+-DOCSTART-	O
 
 Ihmiskauppa	O
 on	O
@@ -145639,6 +146473,8 @@ vaatteiden	O
 hallussapidosta	O
 .	O
 
+-DOCSTART-	O
+
 Vasilij	B-PER
 "	I-PER
 Gugi	I-PER
@@ -145892,6 +146728,8 @@ musiikin	O
 hyväksi	O
 .	O
 
+-DOCSTART-	O
+
 112	O
 on	O
 myös	O
@@ -145902,6 +146740,8 @@ Hadrianuksesta	B-PER
 tuli	O
 Ateenan	B-LOC
 arkontti	O
+
+-DOCSTART-	O
 
 Kirsti	B-PER
 Marjatta	I-PER
@@ -146065,6 +146905,8 @@ Rissalan	B-LOC
 lentoturmassa	O
 .	O
 
+-DOCSTART-	O
+
 Pähkähullujen	B-PRO
 paratiisi	I-PRO
 on	O
@@ -146192,6 +147034,8 @@ päättyvät	O
 tähän	O
 .	O
 
+-DOCSTART-	O
+
 Tämä	O
 artikkeli	O
 käsittelee	O
@@ -146307,6 +147151,8 @@ suosittu	O
 aihe	O
 kansantaiteessa	O
 .	O
+
+-DOCSTART-	O
 
 EastEnders	B-PRO
 on	O
@@ -146434,6 +147280,8 @@ alusta	O
 alkaen	O
 .	O
 
+-DOCSTART-	O
+
 Työssäkäyntialueen	O
 muodostavat	O
 keskuskunta	O
@@ -146496,6 +147344,8 @@ yli	O
 prosenttia	O
 työvoimasta	O
 .	O
+
+-DOCSTART-	O
 
 Kreviinit	O
 olivat	O
@@ -146629,6 +147479,8 @@ oli	O
 vatjalaiset	O
 juuret	O
 .	O
+
+-DOCSTART-	O
 
 Kuivajärvi	B-LOC
 on	O
@@ -146925,6 +147777,8 @@ muun	O
 muassa	O
 uimaranta	O
 .	O
+
+-DOCSTART-	O
 
 Kajaanin	B-LOC
 linna	I-LOC
@@ -147410,6 +148264,8 @@ kulkeva	O
 sähkökaapeli	O
 .	O
 
+-DOCSTART-	O
+
 Howard	B-PER
 Henry	I-PER
 Baker	I-PER
@@ -147542,6 +148398,8 @@ Nancy	B-PER
 Kassebaum	I-PER
 Baker	I-PER
 .	O
+
+-DOCSTART-	O
 
 Hartwig	B-PER
 von	I-PER
@@ -147698,6 +148556,8 @@ vuonna	B-DATE
 belgradilaisessa	O
 vankilassa	O
 .	O
+
+-DOCSTART-	O
 
 Origenes	B-PER
 Pakana	I-PER
@@ -147868,6 +148728,8 @@ Plotinoksen	B-PER
 uusplatonismia	O
 .	O
 
+-DOCSTART-	O
+
 Keskivero	B-PRO
 (	O
 ruots.	O
@@ -148016,6 +148878,8 @@ verotusta	O
 varten	O
 .	O
 
+-DOCSTART-	O
+
 Keski-Sulawesi	B-LOC
 (	O
 indonesiaksi	O
@@ -148069,6 +148933,8 @@ noin	O
 )	O
 .	O
 
+-DOCSTART-	O
+
 KV40	B-LOC
 on	O
 tunnistamattoman	O
@@ -148086,6 +148952,8 @@ ole	O
 julkaistu	O
 raporttia	O
 .	O
+
+-DOCSTART-	O
 
 Rantapohja	B-PRO
 on	O
@@ -148151,6 +149019,8 @@ sekä	O
 Oulun	B-LOC
 Pateniemessä	B-LOC
 .	O
+
+-DOCSTART-	O
 
 Veikkausliiga-kausi	O
 2008	B-DATE
@@ -148288,6 +149158,8 @@ Arístides	B-PER
 Pertot	I-PER
 .	O
 
+-DOCSTART-	O
+
 Joku	B-ORG
 Roti	I-ORG
 Records	I-ORG
@@ -148303,6 +149175,8 @@ hop	O
 keskittynyt	O
 levy-yhtiö	O
 .	O
+
+-DOCSTART-	O
 
 Jäinen	B-PRO
 lohikäärme	I-PRO
@@ -148323,6 +149197,8 @@ hänen	O
 kirjoittamiaan	O
 novelleja	O
 .	O
+
+-DOCSTART-	O
 
 Timo	B-PER
 Penttilä	I-PER
@@ -148467,6 +149343,8 @@ erakoituneena	O
 Lapissa	B-LOC
 .	O
 
+-DOCSTART-	O
+
 Mike	B-PER
 Judge	I-PER
 (	O
@@ -148564,6 +149442,8 @@ Austinissa	B-LOC
 Teksasissa	B-LOC
 .	O
 
+-DOCSTART-	O
+
 MIM-23	B-PRO
 Hawk	I-PRO
 on	O
@@ -148596,6 +149476,8 @@ ohjuksen	O
 palveluskäytöstä	O
 2002	B-DATE
 .	O
+
+-DOCSTART-	O
 
 Savugeneraattori	O
 on	O
@@ -148978,6 +149860,8 @@ savun	O
 läpi	O
 .	O
 
+-DOCSTART-	O
+
 Jaana	B-PER
 Savolainen	I-PER
 (	O
@@ -149123,6 +150007,8 @@ hiihtolähetysten	O
 kommentaattorina	O
 .	O
 
+-DOCSTART-	O
+
 Motorinen	O
 yksikkö	O
 on	O
@@ -149170,6 +150056,8 @@ on	O
 vähemmän	O
 lihassoluja	O
 .	O
+
+-DOCSTART-	O
 
 Fabio	B-PER
 Baldato	I-PER
@@ -149288,6 +150176,8 @@ hieman	O
 tyylikkäämmällä	O
 tavalla	O
 .	O
+
+-DOCSTART-	O
 
 Paljasnaamalepakko	O
 (	O
@@ -149443,6 +150333,8 @@ paljasnaamalepakon	O
 tulevaisuutta	O
 .	O
 
+-DOCSTART-	O
+
 Josef	B-PER
 "	I-PER
 Joe	I-PER
@@ -149511,6 +150403,8 @@ Syndicate	I-ORG
 -yhtyeensä	I-ORG
 kanssa	O
 .	O
+
+-DOCSTART-	O
 
 Maiasaura	O
 (	O
@@ -149609,6 +150503,8 @@ huolehtivat	O
 poikasistaan	O
 .	O
 
+-DOCSTART-	O
+
 Martti	B-PER
 Räsänen	I-PER
 (	O
@@ -149661,6 +150557,8 @@ kausina	O
 ja	O
 1976	B-DATE
 .	O
+
+-DOCSTART-	O
 
 Jenny	B-PER
 Wilson	I-PER
@@ -149901,6 +150799,8 @@ helmikuussa	B-DATE
 2009	I-DATE
 .	O
 
+-DOCSTART-	O
+
 OAO	B-ORG
 Sollers	I-ORG
 (	O
@@ -149951,6 +150851,8 @@ OAO	B-ORG
 Severstal.-avto	I-ORG
 )	O
 .	O
+
+-DOCSTART-	O
 
 Vuokkiniemen	B-EVENT
 kansalliskokous	I-EVENT
@@ -150010,6 +150912,8 @@ suomalaisena	O
 propagandatemppuna	O
 .	O
 
+-DOCSTART-	O
+
 Oakville	B-LOC
 on	O
 kaupunki	O
@@ -150055,6 +150959,8 @@ Oakville	B-LOC
 Wikimedia	B-PRO
 Commonsissa	I-PRO
 .	O
+
+-DOCSTART-	O
 
 Vav	O
 (	O
@@ -150265,6 +151171,8 @@ lukuarvo	O
 kuusi	O
 .	O
 
+-DOCSTART-	O
+
 Collection	B-PRO
 on	O
 ruotsalainen	O
@@ -150312,6 +151220,8 @@ på	I-PRO
 stan	I-PRO
 .	O
 
+-DOCSTART-	O
+
 Hu	B-PER
 Jun	I-PER
 (	O
@@ -150339,6 +151249,8 @@ hopeaa	O
 m	O
 ilmapistoolissa	O
 .	O
+
+-DOCSTART-	O
 
 Novo	B-LOC
 mesto	I-LOC
@@ -150471,6 +151383,8 @@ Cviček-viiniä	B-PRO
 Krkan	B-LOC
 laaksossa	O
 .	O
+
+-DOCSTART-	O
 
 15.	B-DATE
 marraskuuta	I-DATE
@@ -150820,6 +151734,8 @@ puolueen	I-ORG
 pääsihteeri	O
 .	O
 
+-DOCSTART-	O
+
 Makuuhaava	O
 eli	O
 painehaava	O
@@ -150907,6 +151823,8 @@ välillä	O
 vaihtamalla	O
 .	O
 
+-DOCSTART-	O
+
 Pekka	B-PER
 Kupiainen	I-PER
 (	O
@@ -150978,6 +151896,8 @@ Suomessa	B-LOC
 vuonna	B-DATE
 1954	I-DATE
 .	O
+
+-DOCSTART-	O
 
 Wei-kuningaskunta	B-LOC
 (	O
@@ -151158,6 +152078,8 @@ perusti	O
 Jin-dynastian	O
 .	O
 
+-DOCSTART-	O
+
 Smashes	B-PRO
 ,	I-PRO
 Thrashes	I-PRO
@@ -151315,6 +152237,8 @@ kannuttaja	O
 Eric	B-PER
 Carr	I-PER
 .	O
+
+-DOCSTART-	O
 
 Isännöitsijä	O
 on	O
@@ -152111,6 +153035,8 @@ yli	O
 euroa	O
 .	O
 
+-DOCSTART-	O
+
 Molvania	B-LOC
 on	O
 kuvitteellinen	O
@@ -152370,6 +153296,8 @@ Lutenblagin	B-LOC
 välittömässä	O
 läheisyydessä	O
 .	O
+
+-DOCSTART-	O
 
 Khosroidit	O
 eli	O
@@ -153406,6 +154334,8 @@ heidän	O
 sukulaisilleen	O
 Bagrationi-dynastiasta	O
 .	O
+
+-DOCSTART-	O
 
 Mithridates	B-PER
 VI	I-PER
@@ -154611,6 +155541,8 @@ kuninkaan	O
 Ariobarzaneksen	B-PER
 .	O
 
+-DOCSTART-	O
+
 Galaktinen	B-LOC
 Tasavalta	I-LOC
 (	O
@@ -154924,6 +155856,8 @@ ja	I-PRO
 peleistä	I-PRO
 .	O
 
+-DOCSTART-	O
+
 Kolava	B-LOC
 on	O
 Lahden	B-LOC
@@ -154983,6 +155917,8 @@ aluetta	O
 uudeksi	O
 pientaloalueeksi	O
 .	O
+
+-DOCSTART-	O
 
 Kaarle	B-PER
 Flanderin	B-LOC
@@ -155544,6 +156480,8 @@ Vlaanderen	I-PER
 "	I-PER
 .	O
 
+-DOCSTART-	O
+
 The	B-ORG
 Hoosiers	I-ORG
 (	O
@@ -155611,6 +156549,8 @@ heinäkuussa	B-DATE
 2007	I-DATE
 .	O
 
+-DOCSTART-	O
+
 Real	B-ORG
 Snacks	I-ORG
 on	O
@@ -155667,6 +156607,8 @@ miljoonaa	O
 kiloa	O
 vuodessa	O
 .	O
+
+-DOCSTART-	O
 
 Sulkeuma	O
 on	O
@@ -155782,6 +156724,8 @@ kohonneina	O
 Ti-pitoisuuksina	O
 .	O
 
+-DOCSTART-	O
+
 Daniel	B-PER
 Mark	I-PER
 Buechlein	I-PER
@@ -155832,6 +156776,8 @@ hiippakunnan	I-LOC
 arkkipiispa	O
 .	O
 
+-DOCSTART-	O
+
 Jamal	B-PER
 al-din	I-PER
 al-Afghani	I-PER
@@ -155860,6 +156806,8 @@ alennustilan	O
 johtuvan	O
 muslimeista	O
 .	O
+
+-DOCSTART-	O
 
 Kyrillisiä	O
 näppäimistöjä	O
@@ -155943,6 +156891,8 @@ B	O
 -näppäimestä	O
 .	O
 
+-DOCSTART-	O
+
 Bulk-satama	O
 on	O
 satama	O
@@ -155983,6 +156933,8 @@ kulkee	O
 kappaletavarasatamissa	O
 konteissa	O
 .	O
+
+-DOCSTART-	O
 
 Steve	B-PER
 Vickers	I-PER
@@ -156025,6 +156977,8 @@ Marlborosie	I-ORG
 OHL-liigassa	B-ORG
 .	O
 
+-DOCSTART-	O
+
 Anisviinat	O
 ovat	O
 aniksella	O
@@ -156061,6 +157015,8 @@ lisätään	O
 sokeria	O
 valmistusvaiheessa	O
 .	O
+
+-DOCSTART-	O
 
 14.	B-DATE
 tammikuuta	I-DATE
@@ -156283,6 +157239,8 @@ vuoden	O
 tauon	O
 jälkeen	O
 .	O
+
+-DOCSTART-	O
 
 Ehdollinen	O
 rangaistus	O
@@ -156652,6 +157610,8 @@ kuin	O
 Suomessa	B-LOC
 .	O
 
+-DOCSTART-	O
+
 Edmond	B-PRO
 on	O
 William	B-PER
@@ -156689,6 +157649,8 @@ mitä	O
 vastaan	O
 tulee	O
 .	O
+
+-DOCSTART-	O
 
 Honorius	B-PER
 I	I-PER
@@ -156728,6 +157690,8 @@ Birinuksen	I-PER
 evankelioimaan	O
 Isoa-Britanniaan	B-LOC
 .	O
+
+-DOCSTART-	O
 
 Brita	B-PER
 Åsbrink	I-PER
@@ -156850,6 +157814,8 @@ Nobel	I-PRO
 oil	I-PRO
 fields	I-PRO
 .	O
+
+-DOCSTART-	O
 
 Arabiantimali	O
 (	O
@@ -157406,6 +158372,8 @@ ja	O
 kovakuoriaisia	O
 .	O
 
+-DOCSTART-	O
+
 Thrill	B-EVENT
 The	I-EVENT
 World	I-EVENT
@@ -157631,6 +158599,8 @@ Lisää	O
 tietoa	O
 http://thrilltheworld09finland.blogspot.com/	O
 
+-DOCSTART-	O
+
 Vartiovuorenmäki	B-LOC
 (	O
 ruots.	O
@@ -157824,6 +158794,8 @@ maisemien	O
 katselemiselle	O
 .	O
 
+-DOCSTART-	O
+
 Leszek	B-PER
 Możdżer	I-PER
 (	O
@@ -157863,6 +158835,8 @@ tunnetuksi	O
 myös	O
 Chopin-improvisaatioillaan	O
 .	O
+
+-DOCSTART-	O
 
 Nelson	B-PER
 Richard	I-PER
@@ -157909,6 +158883,8 @@ kasvuseutuaan	O
 Long	B-LOC
 Islandia	I-LOC
 .	O
+
+-DOCSTART-	O
 
 Arto	B-PER
 Laatikainen	I-PER
@@ -157978,6 +158954,8 @@ siellä	O
 Ruotsin	B-LOC
 mestaruuden	O
 .	O
+
+-DOCSTART-	O
 
 Sampsa	B-PER
 Tuomala	I-PER
@@ -158054,6 +159032,8 @@ Jaana	B-PER
 Saarisen	I-PER
 poika	O
 .	O
+
+-DOCSTART-	O
 
 Risperidoni	B-PRO
 on	O
@@ -158273,6 +159253,8 @@ liikehäiriöitä	O
 yms	O
 .	O
 
+-DOCSTART-	O
+
 Viirupallokala	O
 (	O
 Arothron	O
@@ -158370,6 +159352,8 @@ elää	O
 myös	O
 mangrovemetsissä	O
 .	O
+
+-DOCSTART-	O
 
 Nerehta	B-LOC
 (	O
@@ -158499,6 +159483,8 @@ lukuisat	O
 koristeelliset	O
 puutalot	O
 .	O
+
+-DOCSTART-	O
 
 Robert	B-PER
 William	I-PER
@@ -158724,6 +159710,8 @@ the	I-PRO
 Dog	I-PRO
 .	O
 
+-DOCSTART-	O
+
 Hioke	O
 on	O
 paperin	O
@@ -158886,6 +159874,8 @@ pitkäkuitusellun	O
 kanssa	O
 .	O
 
+-DOCSTART-	O
+
 Ei	B-PRO
 oo	I-PRO
 valoo	I-PRO
@@ -158901,6 +159891,8 @@ julkaistiin	O
 vuonna	B-DATE
 1987	I-DATE
 .	O
+
+-DOCSTART-	O
 
 Playa	B-LOC
 del	I-LOC
@@ -158969,6 +159961,8 @@ vuonna	B-DATE
 1998	I-DATE
 .	O
 
+-DOCSTART-	O
+
 The	B-PRO
 High	I-PRO
 End	I-PRO
@@ -159033,6 +160027,8 @@ sijalle	O
 neljä	O
 julkaisuviikollaan	O
 .	O
+
+-DOCSTART-	O
 
 Otto	B-PER
 Vilhelm	I-PER
@@ -159248,6 +160244,8 @@ Matilda	B-PER
 Marianna	I-PER
 Kuusiston	I-PER
 kanssa	O
+
+-DOCSTART-	O
 
 Max	B-PER
 Carl	I-PER
@@ -159506,6 +160504,8 @@ solminut	O
 1997	B-DATE
 .	O
 
+-DOCSTART-	O
+
 Mary	B-PER
 Ellen	I-PER
 Mark	I-PER
@@ -159586,6 +160586,8 @@ Odyssey	I-PRO
 ja	O
 Twins	B-PRO
 .	O
+
+-DOCSTART-	O
 
 Kottila	B-LOC
 on	O
@@ -159745,6 +160747,8 @@ omaa	O
 asutusnimeä	O
 .	O
 
+-DOCSTART-	O
+
 Venera	B-PRO
 13	I-PRO
 ja	O
@@ -159894,6 +160898,8 @@ oli	O
 toinen	O
 .	O
 
+-DOCSTART-	O
+
 Larnakan	B-LOC
 lentoasema	I-LOC
 (	O
@@ -159931,6 +160937,8 @@ kansainvälinen	O
 lentoasema	O
 Pafosissa	B-LOC
 .	O
+
+-DOCSTART-	O
 
 Te	B-PER
 Rauparaha	I-PER
@@ -160211,6 +161219,8 @@ vuonna	B-DATE
 1849	I-DATE
 .	O
 
+-DOCSTART-	O
+
 Barry	B-PER
 Jackson	I-PER
 (	O
@@ -160275,6 +161285,8 @@ elokuvassa	O
 Wimbledon	B-PRO
 .	O
 
+-DOCSTART-	O
+
 Huuliveikot	B-PRO
 oli	O
 suomalainen	O
@@ -160335,6 +161347,8 @@ esitettiin	O
 vuosina	B-DATE
 1999-2000	I-DATE
 .	O
+
+-DOCSTART-	O
 
 Onyx	B-ORG
 oli	O
@@ -160424,6 +161438,8 @@ loppumiseen	O
 saakka	O
 .	O
 
+-DOCSTART-	O
+
 Lapinsirkka	O
 (	O
 Melanoplus	O
@@ -160444,6 +161460,8 @@ muistuttaa	O
 sukulaislajiaan	O
 kangassirkkaa	O
 .	O
+
+-DOCSTART-	O
 
 Opel	B-PRO
 Agila	I-PRO
@@ -160690,6 +161708,8 @@ rail	O
 -tekniikalla	O
 .	O
 
+-DOCSTART-	O
+
 Kaukaluoto	B-LOC
 (	O
 ruotsiksi	O
@@ -160797,6 +161817,8 @@ tulkitaan	O
 henkilönnimeksi	O
 .	O
 
+-DOCSTART-	O
+
 Wetherby	B-LOC
 on	O
 kauppala	O
@@ -160847,6 +161869,8 @@ monien	O
 vuosisatojen	O
 ajan	O
 .	O
+
+-DOCSTART-	O
 
 Sekvenssikaavio	O
 (	O
@@ -161053,6 +162077,8 @@ tuhottavalle	O
 oliolle	O
 .	O
 
+-DOCSTART-	O
+
 Ducs	B-ORG
 de	I-ORG
 Dijon	I-ORG
@@ -161076,6 +162102,8 @@ pääsarjassa	O
 Ligue	B-ORG
 Magnusissa	I-ORG
 .	O
+
+-DOCSTART-	O
 
 Tapahtuma	O
 järjestettiin	O
@@ -161399,6 +162427,8 @@ kielteistä	O
 palautetta	O
 .	O
 
+-DOCSTART-	O
+
 Libuše	B-PER
 (	O
 saks.	O
@@ -161510,6 +162540,8 @@ oopperan	O
 Libuše	B-PRO
 .	O
 
+-DOCSTART-	O
+
 Golden	B-PRO
 Void	I-PRO
 on	O
@@ -161552,6 +162584,8 @@ kansitekstit	O
 ja	O
 kappale-esittelyt	O
 .	O
+
+-DOCSTART-	O
 
 Daniel	B-PER
 "	I-PER
@@ -161692,6 +162726,8 @@ NHL:n	B-ORG
 kakkostähdistöön	O
 .	O
 
+-DOCSTART-	O
+
 Combat	B-PRO
 flight	I-PRO
 simulator	I-PRO
@@ -161716,6 +162752,8 @@ siinä	O
 lennetään	O
 sotilaskoneilla	O
 .	O
+
+-DOCSTART-	O
 
 Mantukimalainen	O
 (	O
@@ -161840,6 +162878,8 @@ sijaitsevat	O
 maakoloissa	O
 .	O
 
+-DOCSTART-	O
+
 Ypykkävaaran	B-LOC
 rautatieasema	I-LOC
 (	O
@@ -161923,6 +162963,8 @@ Oulun	B-LOC
 ohjauskeskuksesta	O
 käsin	O
 .	O
+
+-DOCSTART-	O
 
 Paavali	B-PER
 I	I-PER
@@ -162047,6 +163089,8 @@ Tanskan	B-LOC
 prinsessa	O
 Irene	B-PER
 
+-DOCSTART-	O
+
 Yhdysvaltain	B-EVENT
 Grand	I-EVENT
 Prix	I-EVENT
@@ -162101,6 +163145,8 @@ vetäytyivät	O
 kilpailusta	O
 .	O
 
+-DOCSTART-	O
+
 The	B-ORG
 Rasmus	I-ORG
 albumilistan	O
@@ -162140,6 +163186,8 @@ Täydelliset	B-PRO
 Miehet	I-PRO
 -levyllään	I-PRO
 .	O
+
+-DOCSTART-	O
 
 Suomen	B-LOC
 kunnallisvaalit	O
@@ -162360,6 +163408,8 @@ yhden	O
 valtuutetun	O
 edustus	O
 .	O
+
+-DOCSTART-	O
 
 Tuusulassa	B-LOC
 ampumavälikohtaus	O
@@ -162621,6 +163671,8 @@ sivuilla	O
 Internetissä	B-PRO
 .	O
 
+-DOCSTART-	O
+
 Tehy-neuvotteluissa	O
 loppurutistus	O
 
@@ -162753,6 +163805,8 @@ realisoimaan	O
 omaisuuttaan	O
 .	O
 
+-DOCSTART-	O
+
 Torontoon	B-LOC
 puuhataan	O
 Maple	B-ORG
@@ -162823,6 +163877,8 @@ lukumäärän	O
 nykyisessä	O
 30:ssä	O
 .	O
+
+-DOCSTART-	O
 
 EKP	B-ORG
 laski	O
@@ -162963,6 +164019,8 @@ oli	O
 prosenttia	O
 .	O
 
+-DOCSTART-	O
+
 Hanno	B-PER
 Möttölä	I-PER
 lopettaa	O
@@ -163085,6 +164143,8 @@ ikää	O
 32	O
 vuotta	O
 .	O
+
+-DOCSTART-	O
 
 Sisäpiirikauppaepäilyjä	O
 herännyt	O
@@ -163391,6 +164451,8 @@ Sopranon	B-ORG
 hallituksessa	O
 .	O
 
+-DOCSTART-	O
+
 Halosen	B-PER
 vaalikampanjalle	O
 satoja	O
@@ -163674,6 +164736,8 @@ näitä	O
 rahoja	O
 .	O
 
+-DOCSTART-	O
+
 Naši-järjestö	B-ORG
 suunnittelee	O
 mielenosoitusta	O
@@ -163910,6 +164974,8 @@ Euroopan	B-ORG
 parlamentin	I-ORG
 vaaleissa	O
 .	O
+
+-DOCSTART-	O
 
 Italian	B-LOC
 päämedia	O
@@ -164270,6 +165336,8 @@ ja	O
 kustannusaloja	O
 .	O
 
+-DOCSTART-	O
+
 Chávez	B-PER
 sai	O
 tahtonsa	O
@@ -164544,6 +165612,8 @@ marraskuussa	B-DATE
 2008	I-DATE
 .	O
 
+-DOCSTART-	O
+
 Pohjois-Korea	B-LOC
 vapautti	O
 amerikkalaistoimittajat	O
@@ -164708,6 +165778,8 @@ TV	I-ORG
 –asemalla	I-ORG
 .	O
 
+-DOCSTART-	O
+
 Kurdimyönteistä	O
 puoluetta	O
 uhkaa	O
@@ -164778,6 +165850,8 @@ suuremman	O
 itsehallinnon	O
 puolesta	O
 .	O
+
+-DOCSTART-	O
 
 Ville	B-PER
 Wahlbeckista	I-PER
@@ -164878,6 +165952,8 @@ yli	O
 dollarin	O
 .	O
 
+-DOCSTART-	O
+
 Rattijuoppo	O
 törmäili	O
 Turussa	B-LOC
@@ -164962,6 +166038,8 @@ jälkeen	O
 viiden	O
 aikoihin	O
 .	O
+
+-DOCSTART-	O
 
 Joukkoraiskauksen	O
 uhriksi	O
@@ -165050,6 +166128,8 @@ noin	O
 vuotta	O
 .	O
 
+-DOCSTART-	O
+
 Arevan	B-ORG
 laitoksesta	O
 radioaktiivinen	O
@@ -165116,6 +166196,8 @@ uimasta	O
 ja	O
 kalastamasta	O
 .	O
+
+-DOCSTART-	O
 
 MTV3:lle	B-ORG
 kolme	O
@@ -165201,6 +166283,8 @@ ilmoittaa	O
 MTV	B-ORG
 Oy	I-ORG
 .	O
+
+-DOCSTART-	O
 
 Marskin	B-PER
 ritari	O
@@ -165508,6 +166592,8 @@ numero	O
 )	O
 .	O
 
+-DOCSTART-	O
+
 Rahtilaiva	O
 tulessa	O
 Kroatian	B-LOC
@@ -165628,6 +166714,8 @@ tuntemattomasta	O
 syystä	O
 palamaan	O
 .	O
+
+-DOCSTART-	O
 
 Roolipeli-	O
 ja	O
@@ -165870,6 +166958,8 @@ kaupungin	I-ORG
 nuorisotoimelta	I-ORG
 .	O
 
+-DOCSTART-	O
+
 Espanjan	B-LOC
 kansallishymni	O
 sai	O
@@ -166016,6 +167106,8 @@ käytössä	O
 omat	O
 hymnit	O
 .	O
+
+-DOCSTART-	O
 
 Zagat	B-ORG
 tuo	O
@@ -166260,6 +167352,8 @@ avuksi	O
 yksityislääkärin	O
 valintaan	O
 .	O
+
+-DOCSTART-	O
 
 Mitro	B-PER
 Repo	I-PER
@@ -166560,6 +167654,8 @@ päätöksenteon	O
 kannalta	O
 .	O
 
+-DOCSTART-	O
+
 Egyptiläismies	O
 menehtyi	O
 lintuinfluenssaan	O
@@ -166642,6 +167738,8 @@ vaati	O
 naisen	O
 hengen	O
 .	O
+
+-DOCSTART-	O
 
 McCainilla	B-PER
 ja	O
@@ -166971,6 +168069,8 @@ hänen	O
 suruaan	O
 .	O
 
+-DOCSTART-	O
+
 Siimes	B-PER
 :	O
 Lääkevalvonta	O
@@ -167051,6 +168151,8 @@ tärkeästä	O
 asiasta	O
 .	O
 
+-DOCSTART-	O
+
 Tradeka	B-ORG
 tukenut	O
 Vasemmistoliittoa	B-ORG
@@ -167101,6 +168203,8 @@ osuuskunnalta	O
 vuosina	B-DATE
 2007–2008	I-DATE
 .	O
+
+-DOCSTART-	O
 
 Porvoon	B-LOC
 rikkipäästöjen	O
@@ -167230,6 +168334,8 @@ vuonna	B-DATE
 2009	I-DATE
 .	O
 
+-DOCSTART-	O
+
 Jacques	B-PER
 Chirac	I-PER
 rikostutkinnassa	O
@@ -167320,6 +168426,8 @@ tulleen	O
 liian	O
 myöhään	O
 .	O
+
+-DOCSTART-	O
 
 Islannin	B-LOC
 talous	O
@@ -167531,6 +168639,8 @@ rahansa	O
 takaisin	O
 .	O
 
+-DOCSTART-	O
+
 Mäkelä-Nummela	B-PER
 ampui	O
 olympiakultaa	O
@@ -167672,6 +168782,8 @@ Häkkinen	B-PER
 pistettä	O
 .	O
 
+-DOCSTART-	O
+
 Storsjön	B-LOC
 legendaarinen	O
 hirviö	O
@@ -167708,6 +168820,8 @@ aikana	O
 parisataa	O
 havaintoa	O
 .	O
+
+-DOCSTART-	O
 
 Venäjän	B-LOC
 presidentin	O
@@ -167807,6 +168921,8 @@ säädettiin	O
 vuonna	B-DATE
 1993	I-DATE
 .	O
+
+-DOCSTART-	O
 
 Joukkoraiskaajat	O
 polttivat	O
@@ -167915,6 +169031,8 @@ ulkomaalaistaustaista	O
 nuorukaista	O
 .	O
 
+-DOCSTART-	O
+
 Lentokone	O
 vahingoittui	O
 laskeutuessaan	O
@@ -167956,6 +169074,8 @@ saaneen	O
 lieviä	O
 vammoja	O
 .	O
+
+-DOCSTART-	O
 
 Työryhmä	O
 ehdottaa	O
@@ -168246,6 +169366,8 @@ valtion	O
 budjettirahoitusta	O
 .	O
 
+-DOCSTART-	O
+
 Valtionyhtiö	O
 Destia	B-ORG
 rahoittanut	O
@@ -168287,6 +169409,8 @@ SDP:lle	B-ORG
 seminaarilippujen	O
 kautta	O
 .	O
+
+-DOCSTART-	O
 
 Costazza	B-PER
 voitti	O
@@ -168483,6 +169607,8 @@ helpolta	O
 Poutiainen	B-PER
 kommentoi	O
 .	O
+
+-DOCSTART-	O
 
 The	O
 Pirate	O
@@ -168903,6 +170029,8 @@ eri	O
 maihin	O
 .	O
 
+-DOCSTART-	O
+
 82	O
 000	O
 Volvoa	B-PRO
@@ -168955,6 +170083,8 @@ ja	O
 viisisylinterisiä	O
 moottoreita	O
 .	O
+
+-DOCSTART-	O
 
 Ranskan	B-LOC
 presidentin	O
@@ -169182,6 +170312,8 @@ MoDem-puolueen	B-ORG
 kannattajat	O
 .	O
 
+-DOCSTART-	O
+
 Gorbatšov	B-PER
 tukee	O
 Putinia	B-PER
@@ -169326,6 +170458,8 @@ sodan	I-EVENT
 lopettamiseksi	O
 .	O
 
+-DOCSTART-	O
+
 Latvala	B-PER
 johtaa	O
 Ruotsin	B-LOC
@@ -169455,6 +170589,8 @@ noin	O
 120	O
 kilometriä	O
 .	O
+
+-DOCSTART-	O
 
 Vuoden	B-DATE
 2007	I-DATE
@@ -169734,6 +170870,8 @@ sai	O
 surmansa	O
 .	O
 
+-DOCSTART-	O
+
 Sopulit	O
 vaellukselle	O
 ensimmäistä	O
@@ -169941,6 +171079,8 @@ hieman	O
 myöhemmin	O
 .	O
 
+-DOCSTART-	O
+
 Lyhyesti	O
 –	O
 viikko	B-DATE
@@ -170079,6 +171219,8 @@ istumassa	O
 ateljeessa	O
 Pariisissa	B-LOC
 .	O
+
+-DOCSTART-	O
 
 Tieteilijät	O
 antoivat	O
@@ -170263,6 +171405,8 @@ luettavissa	O
 sivulla	O
 http://www.climate.unsw.edu.au/bali/	O
 
+-DOCSTART-	O
+
 Vakava	O
 lento-onnettomuus	O
 Espanjassa	B-LOC
@@ -170365,6 +171509,8 @@ onnettomuuden	O
 johdosta	O
 .	O
 
+-DOCSTART-	O
+
 Haitissa	B-LOC
 väkivaltaisia	O
 ruokamellakoita	O
@@ -170444,6 +171590,8 @@ ja	O
 poliiseja	O
 .	O
 
+-DOCSTART-	O
+
 Matkustajakone	O
 syöksyi	O
 maahan	O
@@ -170483,6 +171631,8 @@ ole	O
 vielä	O
 tiedossa	O
 .	O
+
+-DOCSTART-	O
 
 Viagran	B-PRO
 patentti	O
@@ -170600,6 +171750,8 @@ valmistama	O
 lääke	O
 .	O
 
+-DOCSTART-	O
+
 Levy-yhtiöt	O
 haastoivat	O
 ohjelmistojen	O
@@ -170715,6 +171867,8 @@ ei	O
 ole	O
 näköpiirissä	O
 .	O
+
+-DOCSTART-	O
 
 Finnjet	B-PRO
 romutetaan	O
@@ -170900,6 +172054,8 @@ suurin	O
 autolautta	O
 .	O
 
+-DOCSTART-	O
+
 Vakuutus-Tapiolalle	B-ORG
 hämäriä	O
 rakentajien	O
@@ -170981,6 +172137,8 @@ on	O
 Asmo	B-PER
 Kalpala	I-PER
 .	O
+
+-DOCSTART-	O
 
 Turkulainen	O
 yritysjuristi	O
@@ -171104,6 +172262,8 @@ kuvan	O
 tuomisesta	O
 julkisuuteen	O
 .	O
+
+-DOCSTART-	O
 
 Reserviläinen	O
 ilmestyi	O
@@ -171347,6 +172507,8 @@ aseelliseen	O
 puolustukseen	O
 .	O
 
+-DOCSTART-	O
+
 Virossa	B-LOC
 ennätysmäärä	O
 työttömiä	O
@@ -171423,6 +172585,8 @@ on	O
 laskenut	O
 voimakkaasti	O
 .	O
+
+-DOCSTART-	O
 
 Tragedia	O
 Venäjän	B-ORG
@@ -171545,6 +172709,8 @@ vuodelta	B-DATE
 2007	I-DATE
 .	O
 
+-DOCSTART-	O
+
 Korkein	B-ORG
 hallinto-oikeus	I-ORG
 hylkäsi	O
@@ -171622,6 +172788,8 @@ oteta	O
 EY-tuomioistuimen	B-ORG
 käsiteltäväksi	O
 .	O
+
+-DOCSTART-	O
 
 Maailmanloppu	O
 yhdeksän	O
@@ -171836,6 +173004,8 @@ aiheudu	O
 vaaraa	O
 .	O
 
+-DOCSTART-	O
+
 SUN	B-ORG
 osti	O
 MySQL	B-ORG
@@ -171870,6 +173040,8 @@ noin	O
 miljardi	O
 dollaria	O
 .	O
+
+-DOCSTART-	O
 
 Sastamala	B-LOC
 syntyy	O
@@ -172049,6 +173221,8 @@ mitä	O
 tahansa	O
 "	O
 
+-DOCSTART-	O
+
 Poliisi	O
 piiritti	O
 aseistautunutta	O
@@ -172116,6 +173290,8 @@ ihmisiä	O
 pysymään	O
 etäämmällä	O
 .	O
+
+-DOCSTART-	O
 
 Viidennes	O
 eurooppalaisista	O
@@ -172383,6 +173559,8 @@ oli	O
 2–5	O
 %	O
 .	O
+
+-DOCSTART-	O
 
 Teemasivu:Politiikka	O
 
@@ -173244,6 +174422,8 @@ Lyhyesti	O
 viikko	B-DATE
 14/2009	I-DATE
 
+-DOCSTART-	O
+
 Uusi	O
 ihminen	O
 tuli	O
@@ -173315,6 +174495,8 @@ lisääntyi	O
 kesken	O
 lennon	O
 .	O
+
+-DOCSTART-	O
 
 Koripalloilijan	O
 ruumis	O
@@ -173439,6 +174621,8 @@ hänelle	O
 myöhemmin	O
 .	O
 
+-DOCSTART-	O
+
 Obama	B-PER
 vahvistaa	O
 asemaansa	O
@@ -173540,6 +174724,8 @@ New	B-LOC
 Hampshiren	I-LOC
 osavaltiossa	O
 .	O
+
+-DOCSTART-	O
 
 Ruotsalaiskoululaisten	O
 videokurssi	O
@@ -173713,6 +174899,8 @@ tiistaina	O
 puhumaan	O
 tapahtuneesta	O
 .	O
+
+-DOCSTART-	O
 
 Japanilaisten	O
 autojen	O
@@ -173912,6 +175100,8 @@ General	B-ORG
 Motorsin	I-ORG
 .	O
 
+-DOCSTART-	O
+
 Lappeenrannan	B-LOC
 laulukilpailun	O
 finalistit	O
@@ -174047,6 +175237,8 @@ Raimo	B-PER
 Sirkiä	I-PER
 .	O
 
+-DOCSTART-	O
+
 Elämäntapaliitto	B-ORG
 kärähti	O
 RAY-avustusten	O
@@ -174156,6 +175348,8 @@ liiton	O
 päihdetavoitteet	O
 .	O
 
+-DOCSTART-	O
+
 Neuvotteluja	O
 ilmatilanloukkauksista	O
 loppukuusta	O
@@ -174245,6 +175439,8 @@ osapuolia	O
 tyydyttävä	O
 ratkaisu	O
 .	O
+
+-DOCSTART-	O
 
 Lähi-idän	B-LOC
 internetyhteyksiä	O
@@ -174456,6 +175652,8 @@ yhteyksien	O
 kautta	O
 .	O
 
+-DOCSTART-	O
+
 Poika	O
 menetti	O
 tajuntansa	O
@@ -174571,6 +175769,8 @@ oli	O
 pelannut	O
 pelikonsolilla	O
 .	O
+
+-DOCSTART-	O
 
 Wikimedian	B-ORG
 toimitusjohtajalla	O
@@ -174756,6 +175956,8 @@ taustan	O
 tarkistamisen	O
 .	O
 
+-DOCSTART-	O
+
 Suomen	B-LOC
 väkiluvun	O
 kasvu	O
@@ -174896,6 +176098,8 @@ Etelä-Savo	B-LOC
 ja	O
 Satakunta	B-LOC
 .	O
+
+-DOCSTART-	O
 
 Väkivaltaa	O
 puolueiden	O
