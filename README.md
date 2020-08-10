@@ -1,6 +1,6 @@
 # Turku NER corpus
 
-An open, broad-coverage corpus for Finnish named entity recognition.
+An open, broad-coverage corpus for Finnish named entity recognition presented in _[Luoma et al. (2020) A Broad-coverage Corpus for Finnish Named Entity Recognition](https://www.aclweb.org/anthology/2020.lrec-1.567.pdf)_ (PDF).
 
 ![Example of Turku NER corpus annotation](https://raw.githubusercontent.com/TurkuNLP/turku-ner-corpus/master/docs/example.png)
 
@@ -41,3 +41,18 @@ Most NER taggers can be straightforwardly trained and evaluated with this data. 
 ## Guidelines
 
 The [Turku NER corpus annotation guidelines](https://github.com/TurkuNLP/turku-ner-corpus/blob/master/docs/Turku-NER-guidelines-v1.pdf) are available in PDF format.
+
+## Reference
+
+https://www.aclweb.org/anthology/2020.lrec-1.567.pdf:
+
+```
+@inproceedings{luoma-etal-2020-broad,
+    title = "A Broad-coverage Corpus for {F}innish Named Entity Recognition",
+    author = {Luoma, Jouni and Oinonen, Miika and Pyyk{\"o}nen, Maria and Laippala, Veronika and Pyysalo, Sampo},
+    booktitle = "Proceedings of The 12th Language Resources and Evaluation Conference",
+    year = "2020",
+    url = "https://www.aclweb.org/anthology/2020.lrec-1.567",
+    pages = "4615--4624",
+}
+```
