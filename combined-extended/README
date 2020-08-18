@@ -2,9 +2,6 @@ This directory contains in-development data combining the FiNER and
 Turku NER corpus datasets and extending their annotations toward
 compatibility with OntoNotes corpus NE annotation.
 
-The most frequent systematic difference to OntoNotes annotation is the
-current lack of annotation for the numeric types `CARDINAL` and `ORDINAL`.
-
 This is not an official release of the corpus and is not at the moment
 documented anywhere. If you happen to find this and have questions
 about the data, try asking Sampo Pyysalo.
