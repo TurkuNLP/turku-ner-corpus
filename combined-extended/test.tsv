@@ -133,7 +133,7 @@ on	O
 mukanani	O
 .	O
 
-Kolme	O
+Kolme	B-CARDINAL
 vanhaa	O
 tuttavaani	O
 tuli	O
@@ -534,7 +534,7 @@ kuitenkin	O
 jokaisella	O
 on	O
 näistä	O
-kahdesta	O
+kahdesta	B-CARDINAL
 asiasta	O
 ihan	O
 oma	O
@@ -561,7 +561,7 @@ seksissä	O
 .	O
 
 Nimittäin	O
-yhtenä	O
+yhtenä	B-CARDINAL
 suurena	O
 ryhmänä	O
 näissä	O
@@ -611,7 +611,7 @@ tiskit	O
 .	O
 
 Ostin	O
-yhden	O
+yhden	B-CARDINAL
 oppaan	O
 ,	O
 Elisabeth	B-PERSON
@@ -1080,7 +1080,7 @@ vaikea	O
 sanoa	O
 .	O
 
-Yhtä	O
+Yhtä	B-CARDINAL
 oikeaa	O
 vastausta	O
 ei	O
@@ -1194,7 +1194,7 @@ suhteen	O
 elvyttämiseksi	O
 .	O
 
-Ensimmäinen	O
+Ensimmäinen	B-ORDINAL
 tärkeä	O
 asia	O
 on	O
@@ -1283,7 +1283,7 @@ helpotusta	O
 oloosi	O
 ?	O
 
-Toinen	O
+Toinen	B-ORDINAL
 tärkeä	O
 asia	O
 on	O
@@ -1316,7 +1316,7 @@ vaikeammiksi	O
 toteuttaa	O
 .	O
 
-Kolmas	O
+Kolmas	B-ORDINAL
 tärkeä	O
 asia	O
 on	O
@@ -1435,7 +1435,7 @@ ja	O
 hyväilyillä	O
 .	O
 
-Neljänneksi	O
+Neljänneksi	B-ORDINAL
 tärkein	O
 asia	O
 on	O
@@ -1527,7 +1527,7 @@ ja	O
 sukkia	O
 ja	O
 ainakin	O
-yhdet	O
+yhdet	B-CARDINAL
 ”	O
 iki	O
 -	O
@@ -1596,14 +1596,14 @@ kommenteissa	O
 Paluu	O
 nr	O
 .	O
-1	O
+1	B-CARDINAL
 
 Mirikan	B-PERSON
 läksiäisissä	O
 juhlakalun	O
 kanssa	O
 
-Ensimmäiset	O
+Ensimmäiset	B-ORDINAL
 läksiäiset	O
 on	O
 nyt	O
@@ -1792,7 +1792,7 @@ jatkuvat	O
 .	O
 
 Heti	O
-ensimmäisissä	O
+ensimmäisissä	B-ORDINAL
 bileissä	O
 helmikuussa	B-DATE
 hävitin	O
@@ -1875,7 +1875,7 @@ olla	O
 
 Kutistu	O
 ehkä	O
-10	O
+10	B-CARDINAL
 -	O
 kertaisesti	O
 ja	O
@@ -2713,7 +2713,7 @@ teitä	O
 tapauksesta	O
 ,	O
 jossa	O
-kolme	O
+kolme	B-CARDINAL
 ihmistä	O
 kuoli	O
 Kreikassa	B-GPE
@@ -3172,7 +3172,7 @@ vaan	O
 sen	O
 on	O
 saatava	O
-kolmannen	O
+kolmannen	B-ORDINAL
 osapuolen	O
 arvio	O
 ,	O
@@ -3192,7 +3192,7 @@ käyttäjälle	O
 
 Näissä	O
 tapauksissa	O
-kolmannen	O
+kolmannen	B-ORDINAL
 osapuolen	O
 arvioinnin	O
 käyttäminen	O
@@ -3248,7 +3248,7 @@ mennä	O
 siihen	O
 ,	O
 että	O
-kolmas	O
+kolmas	B-ORDINAL
 osapuoli	O
 arvioi	O
 joka	O
@@ -3305,7 +3305,7 @@ oikeutetusti	O
 -	O
 vai	O
 lähdetäänkö	O
-kolmannelle	O
+kolmannelle	B-ORDINAL
 tielle	O
 määrittelemällä	O
 uudessa	O
@@ -3316,7 +3316,7 @@ lelutyyppejä	O
 joille	O
 merkinnän	O
 myöntää	O
-kolmas	O
+kolmas	B-ORDINAL
 osapuoli	O
 ?	O
 
@@ -3334,7 +3334,7 @@ hyvänä	O
 
 Annan	O
 teille	O
-yhden	O
+yhden	B-CARDINAL
 esimerkin	O
 :	O
 mitä	O
@@ -3397,7 +3397,7 @@ se	O
 mahdollisuus	O
 ,	O
 että	O
-kolmannen	O
+kolmannen	B-ORDINAL
 osapuolen	O
 on	O
 hyväksyttävä	O
@@ -3816,7 +3816,7 @@ ohjelmassa	O
 mainittuja	O
 tavoitteita	O
 täydennetään	O
-yhdellä	O
+yhdellä	B-CARDINAL
 tavoitteella	O
 ,	O
 nimittäin	O
@@ -4074,7 +4074,7 @@ Arvoisa	O
 puhemies	O
 ,	O
 haluan	O
-ensimmäiseksi	O
+ensimmäiseksi	B-ORDINAL
 onnitella	O
 ryhmäni	O
 puolesta	O
@@ -4182,7 +4182,7 @@ monimutkainen	O
 .	O
 
 Päästäänkö	O
-kolmanteen	O
+kolmanteen	B-ORDINAL
 pilariin	O
 kuuluvaa	O
 tietosuojaa	O
@@ -4289,7 +4289,7 @@ puhemies	O
 ,	O
 Benuen	B-GPE
 yhteisön	O
-satojen	O
+satojen	B-CARDINAL
 jäsenten	O
 murha	O
 sekä	O
@@ -4342,7 +4342,7 @@ pohjana	O
 ovat	O
 ihmisoikeudet	O
 ja	O
-kaksi	O
+kaksi	B-CARDINAL
 vierailua	O
 ,	O
 joita	O
@@ -4359,13 +4359,13 @@ Nigerian	B-ORG
 hallitukseen	I-ORG
 .	O
 
-Ensimmäinen	O
+Ensimmäinen	B-ORDINAL
 vierailu	O
 koski	O
 taloudellista	O
 tilannetta	O
 ja	O
-toinen	O
+toinen	B-ORDINAL
 ihmisoikeuksia	O
 ,	O
 ja	O
@@ -4417,7 +4417,7 @@ asiaan	O
 
 Päätöslauselmissa	O
 viitataan	O
-kahteen	O
+kahteen	B-CARDINAL
 asiaan	O
 ,	O
 joista	O
@@ -4427,7 +4427,7 @@ hyvin	O
 lyhyesti	O
 .	O
 
-Ensimmäinen	O
+Ensimmäinen	B-ORDINAL
 on	O
 ihmisoikeuksia	O
 koskeva	O
@@ -4736,7 +4736,7 @@ liikkeen	O
 
 Jatkis	O
 Part	O
-1	O
+1	B-CARDINAL
 .	O
 
 Päätin	O
@@ -4894,7 +4894,7 @@ toimia	O
 Näytti	O
 kuin	O
 siitä	O
-ensimmäisessä	O
+ensimmäisessä	B-ORDINAL
 töyssyssä	O
 lähtisi	O
 kaikki	O
@@ -5133,7 +5133,7 @@ eri	O
 vaihtoehtoja	O
 .	O
 
-Ensimmäinen	O
+Ensimmäinen	B-ORDINAL
 veikkaus	O
 oli	O
 sota	O
@@ -5162,7 +5162,7 @@ pääsi	O
 pakoon	O
 .	O
 
-Toinen	O
+Toinen	B-ORDINAL
 vaihtoehto	O
 olisi	O
 kolari	O
@@ -5284,7 +5284,7 @@ katsomaan	O
 taakseen	O
 .	O
 
-Kaksi	O
+Kaksi	B-CARDINAL
 penkkiriviä	O
 taaksepäin	O
 istui	O
@@ -6335,7 +6335,7 @@ että	O
 aion	O
 pakata	O
 elämäni	O
-yhteen	O
+yhteen	B-CARDINAL
 laukkuun	O
 ja	O
 mennä	O
@@ -7310,7 +7310,7 @@ sekalaista	O
 peltiromua	O
 .	O
 
-Yks	O
+Yks	B-CARDINAL
 niistä	O
 on	O
 sellanen	O
@@ -7323,7 +7323,7 @@ jostain	O
 pikaruokalasta	O
 .	O
 
-Yks	O
+Yks	B-CARDINAL
 toinen	O
 on	O
 sitte	O
@@ -8687,7 +8687,7 @@ pyysi	O
 melkein	O
 normaalilla	O
 äänellä	O
-toisen	O
+toisen	B-ORDINAL
 kupillisen	O
 kahvia	O
 .	O
@@ -8855,14 +8855,14 @@ miljardia	I-MONEY
 markkaa	I-MONEY
 .	O
 
-Toinen	O
+Toinen	B-ORDINAL
 palkinto	O
 annettiin	O
 tamperelaiselle	B-NORP
 Eino	B-PERSON
 Kotolalle	I-PERSON
 ja	O
-kolmas	O
+kolmas	B-ORDINAL
 palkinto	O
 Juha	B-PERSON
 Sirolle	I-PERSON
@@ -8944,7 +8944,7 @@ ulos	O
 Kuule	O
 mul	O
 on	O
-yks	O
+yks	B-CARDINAL
 junailuasia	O
 mielessä	O
 
@@ -9043,7 +9043,7 @@ toripöydällä	O
 .	O
 
 Söin	O
-kaksi	O
+kaksi	B-CARDINAL
 
 älä	O
 ala	O
@@ -9190,7 +9190,7 @@ niitä	O
 .	O
 
 Varmaa	O
-yhdeltoist	O
+yhdeltoist	B-TIME
 myöhäsintää	O
 .	O
 
@@ -9251,7 +9251,7 @@ aikana	O
 Pääsen	O
 tulemaan	O
 siinä	O
-viideltä	O
+viideltä	B-TIME
 .	O
 
 Nyt	O
@@ -9417,7 +9417,7 @@ Lisäksi	O
 täytyy	O
 olla	O
 esiintynyt	O
-kahdessa	O
+kahdessa	B-CARDINAL
 valtakunnallisissa	O
 näyttelyssä	O
 .	O
@@ -9429,7 +9429,7 @@ synnytti	O
 uuden	O
 liiton	O
 
-Piru	O
+Piru	B-PERSON
 vie	O
 .	O
 
@@ -9526,7 +9526,7 @@ suurimmat	O
 voittajat	O
 ovat	O
 ne	O
-250	O
+250	B-CARDINAL
 miestä	O
 ja	O
 naista	O
@@ -9595,11 +9595,11 @@ Yhdessä	O
 ne	O
 voivat	O
 saada	O
-145	O
+145	B-CARDINAL
 ,	O
 ehkä	O
 jopa	O
-150	O
+150	B-CARDINAL
 kansanedustajapaikkaa	O
 ,	O
 yhtä	O
@@ -9729,7 +9729,7 @@ sellaisen	O
 vaikutelman	O
 ,	O
 että	O
-kahden	O
+kahden	B-CARDINAL
 ala	O
 -	O
 asteen	O
@@ -9905,7 +9905,7 @@ sanoi	O
 tapahtuiko	O
 niin	O
 
-Toinen	O
+Toinen	B-ORDINAL
 uusi	O
 ongelma	O
 Pietarissa	B-GPE
@@ -10009,7 +10009,7 @@ yhdistyksen	I-ORG
 säännöt	O
 olivat	O
 aiemmin	O
-kuuden	O
+kuuden	B-CARDINAL
 sivun	O
 pituiset	O
 ja	O
@@ -10059,11 +10059,11 @@ ja	O
 tämän	B-DATE
 kesän	I-DATE
 kärkituloksen	O
-29	O
-.	O
-03	O
-,	O
-81	O
+29	B-TIME
+.	I-TIME
+03	I-TIME
+,	I-TIME
+81	I-TIME
 .	O
 
 Hän	O
@@ -10096,7 +10096,7 @@ Se	O
 ukko	O
 oli	O
 kyllä	O
-yksi	O
+yksi	B-CARDINAL
 saatanan	O
 maanvaiva	O
 ,	O
@@ -10148,14 +10148,14 @@ päiväkään	B-DATE
 
 Maratonkokouksessa	O
 oli	O
-kolmisentuhatta	O
+kolmisentuhatta	B-CARDINAL
 osallistujaa	O
 ja	O
 heidän	O
 valittavanaan	O
 oli	O
-yli	O
-400	O
+yli	B-CARDINAL
+400	I-CARDINAL
 paneelikeskustelua	O
 .	O
 
@@ -10237,7 +10237,7 @@ elokuva	O
 ja	O
 arkkitehtuuri	O
 ,	O
-kolme	O
+kolme	B-CARDINAL
 ansioituneinta	O
 edustajaa	O
 saa	O
@@ -10263,12 +10263,12 @@ sano	O
 
 Joukkueessa	O
 on	O
-yhdeksän	O
+yhdeksän	B-CARDINAL
 pelaajaa	O
 .	O
 
 Kuvatekstinne	O
-Kaksi	O
+Kaksi	B-CARDINAL
 kiusausta	O
 ,	O
 parempi	O
@@ -10343,7 +10343,7 @@ samaan	O
 tota	O
 kokonaisuuteen	O
 liitettäis	O
-yks	O
+yks	B-CARDINAL
 tällanen	O
 kriittinen	O
 artikkeli	O
@@ -10650,7 +10650,7 @@ henkilöautoille	O
 On	O
 siitä	O
 nyt	O
-yks	O
+yks	B-CARDINAL
 kolme	B-DATE
 viikkoo	I-DATE
 aikaa	O
@@ -10754,7 +10754,7 @@ perustamissopimuksen	I-LAW
 ja	O
 erityisesti	O
 sen	O
-37	O
+37	B-CARDINAL
 artiklan	O
 ,	O
 ottaa	O
@@ -10788,7 +10788,7 @@ seuraavaa	O
 :	O
 
 (	O
-1	O
+1	B-CARDINAL
 )	O
 Euroopan	B-LAW
 yhteisön	I-LAW
@@ -10823,7 +10823,7 @@ liikennepolitiikkaa	O
 .	O
 
 (	O
-2	O
+2	B-CARDINAL
 )	O
 Eläinten	O
 suojelemisesta	O
@@ -10875,7 +10875,7 @@ taso	O
 .	O
 
 (	O
-3	O
+3	B-CARDINAL
 )	O
 Direktiivin	O
 91	B-LAW
@@ -10937,7 +10937,7 @@ lainsäädäntöön	O
 .	O
 
 (	O
-4	O
+4	B-CARDINAL
 )	O
 Useimmat	O
 jäsenvaltiot	O
@@ -10971,7 +10971,7 @@ aikana	O
 .	O
 
 (	O
-5	O
+5	B-CARDINAL
 )	O
 Eläinten	O
 hyvinvoinnin	O
@@ -10990,7 +10990,7 @@ mahdolliseen	O
 .	O
 
 (	O
-6	O
+6	B-CARDINAL
 )	O
 Neuvosto	O
 kehotti	O
@@ -11051,7 +11051,7 @@ kärsimys	O
 .	O
 
 (	O
-7	O
+7	B-CARDINAL
 )	O
 Euroopan	B-ORG
 parlamentti	I-ORG
@@ -11133,7 +11133,7 @@ kannalta	O
 .	O
 
 (	O
-8	O
+8	B-CARDINAL
 )	O
 Eläinten	B-ORG
 terveyttä	I-ORG
@@ -11180,7 +11180,7 @@ lähitulevaisuudessa	O
 .	O
 
 (	O
-9	O
+9	B-CARDINAL
 )	O
 Siipikarjaa	O
 ,	O
@@ -11207,7 +11207,7 @@ lausuntonsa	O
 .	O
 
 (	O
-10	O
+10	B-CARDINAL
 )	O
 Ottaen	O
 huomioon	O
@@ -11297,7 +11297,7 @@ osalta	O
 .	O
 
 (	O
-11	O
+11	B-CARDINAL
 )	O
 Jotta	O
 varmistetaan	O
@@ -11386,7 +11386,7 @@ osalta	O
 .	O
 
 (	O
-12	O
+12	B-CARDINAL
 )	O
 Kaupallisella	O
 kuljetuksella	O
@@ -11427,7 +11427,7 @@ voitto	O
 .	O
 
 (	O
-13	O
+13	B-CARDINAL
 )	O
 Myös	O
 eläinten	O
@@ -11523,7 +11523,7 @@ säännöksiä	O
 .	O
 
 (	O
-14	O
+14	B-CARDINAL
 )	O
 Puutteet	O
 eläinten	O
@@ -11562,7 +11562,7 @@ hyväksyneet	O
 .	O
 
 (	O
-15	O
+15	B-CARDINAL
 )	O
 Eläinten	O
 hyvinvoinnin	O
@@ -11629,7 +11629,7 @@ tuloksista	O
 .	O
 
 (	O
-16	O
+16	B-CARDINAL
 )	O
 Eläinkuljetuksiin	O
 liittyy	O
@@ -11668,7 +11668,7 @@ toimijoita	O
 .	O
 
 (	O
-17	O
+17	B-CARDINAL
 )	O
 Keräyskeskuksilla	O
 on	O
@@ -11702,7 +11702,7 @@ sitä	O
 .	O
 
 (	O
-18	O
+18	B-CARDINAL
 )	O
 Pitkillä	O
 kuljetuksilla	O
@@ -11736,7 +11736,7 @@ jäljitettävyyttä	O
 .	O
 
 (	O
-19	O
+19	B-CARDINAL
 )	O
 Tieliikenteen	O
 sosiaalilainsäädännön	O
@@ -11837,7 +11837,7 @@ noudattaminen	O
 .	O
 
 (	O
-20	O
+20	B-CARDINAL
 )	O
 Toimivaltaisten	O
 viranomaisten	O
@@ -11875,7 +11875,7 @@ yhteistyötä	O
 .	O
 
 (	O
-21	O
+21	B-CARDINAL
 )	O
 Rekisteröityjä	O
 hevoseläimiä	O
@@ -11891,7 +11891,7 @@ direktiivin	O
 426	I-LAW
 /	I-LAW
 ETY	I-LAW
-2	O
+2	B-CARDINAL
 artiklan	O
 c	O
 alakohdassa	O
@@ -11975,16 +11975,16 @@ direktiivin	O
 426	I-LAW
 /	I-LAW
 ETY	I-LAW
-2	O
+2	B-CARDINAL
 artiklan	O
 d	O
 alakohdan	O
 ja	O
-8	O
+8	B-CARDINAL
 artiklan	O
-1	O
+1	B-CARDINAL
 kohdan	O
-toisen	O
+toisen	B-ORDINAL
 luetelmakohdan	O
 mukaisesti	O
 on	O
@@ -11997,7 +11997,7 @@ hevoseläiminä	O
 .	O
 
 (	O
-22	O
+22	B-CARDINAL
 )	O
 Eläinten	O
 hyvinvointia	O
@@ -12070,7 +12070,7 @@ varoittavia	O
 .	O
 
 (	O
-23	O
+23	B-CARDINAL
 )	O
 Huomattava	O
 määrä	O
@@ -12112,7 +12112,7 @@ vaatimuksista	O
 .	O
 
 (	O
-24	O
+24	B-CARDINAL
 )	O
 Yhteisön	O
 lainsäädännön	O
@@ -12159,7 +12159,7 @@ osalta	O
 .	O
 
 (	O
-25	O
+25	B-CARDINAL
 )	O
 Eläinten	O
 suojelusta	O
@@ -12196,7 +12196,7 @@ osalta	O
 .	O
 
 (	O
-26	O
+26	B-CARDINAL
 )	O
 Jäsenvaltioiden	O
 hallintoviranomaisten	O
@@ -12246,7 +12246,7 @@ noudattaminen	O
 .	O
 
 (	O
-27	O
+27	B-CARDINAL
 )	O
 Komission	O
 päätöksessä	O
@@ -12281,7 +12281,7 @@ varmistamista	O
 .	O
 
 (	O
-28	O
+28	B-CARDINAL
 )	O
 Tässä	O
 asetuksessa	O
@@ -12333,7 +12333,7 @@ o	I-LAW
 .	O
 
 (	O
-29	O
+29	B-CARDINAL
 )	O
 On	O
 aiheellista	O
@@ -12388,7 +12388,7 @@ pohjalta	O
 .	O
 
 (	O
-30	O
+30	B-CARDINAL
 )	O
 On	O
 aiheellista	O
@@ -12408,7 +12408,7 @@ erityisesti	O
 Euroopan	B-LAW
 yhteisön	I-LAW
 perustamissopimuksen	I-LAW
-299	O
+299	B-CARDINAL
 artiklassa	O
 tarkoitettujen	O
 syrjäisempien	O
@@ -12420,7 +12420,7 @@ manneralueesta	O
 .	O
 
 (	O
-31	O
+31	B-CARDINAL
 )	O
 Tämän	O
 asetuksen	O
@@ -12455,7 +12455,7 @@ TÄMÄN	O
 ASETUKSEN	O
 :	O
 
-I	O
+I	B-ORDINAL
 LUKU	O
 
 SOVELTAMISALA	O
@@ -12467,13 +12467,13 @@ KOSKEVAT	O
 YLEISET	O
 EDELLYTYKSET	O
 
-1	O
+1	B-CARDINAL
 artikla	O
 
 Soveltamisala	O
 
-1	O
-.	O
+1	B-ORDINAL
+.	I-ORDINAL
 Tätä	O
 asetusta	O
 sovelletaan	O
@@ -12499,12 +12499,12 @@ lähteville	O
 kuljetuserille	O
 .	O
 
-2	O
-.	O
+2	B-ORDINAL
+.	I-ORDINAL
 Ainoastaan	O
-3	O
+3	B-CARDINAL
 ja	O
-27	O
+27	B-CARDINAL
 artiklaa	O
 sovelletaan	O
 :	O
@@ -12554,8 +12554,8 @@ alle	B-QUANTITY
 kilometriä	I-QUANTITY
 .	O
 
-3	O
-.	O
+3	B-ORDINAL
+.	I-ORDINAL
 Tämä	O
 asetus	O
 ei	O
@@ -12572,7 +12572,7 @@ eläinten	O
 hyvinvoinnin	O
 parantaminen	O
 pelkästään	O
-yhden	O
+yhden	B-CARDINAL
 jäsenvaltion	O
 alueella	O
 tapahtuvien	O
@@ -12585,8 +12585,8 @@ merikuljetusten	O
 aikana	O
 .	O
 
-4	O
-.	O
+4	B-ORDINAL
+.	I-ORDINAL
 Tätä	O
 asetusta	O
 sovelletaan	O
@@ -12599,8 +12599,8 @@ eläinlääkintälainsäädännön	O
 soveltamista	O
 .	O
 
-5	O
-.	O
+5	B-ORDINAL
+.	I-ORDINAL
 Tätä	O
 asetusta	O
 ei	O
@@ -12636,7 +12636,7 @@ sieltä	O
 pois	O
 .	O
 
-2	O
+2	B-CARDINAL
 artikla	O
 
 Määritelmät	O
@@ -12739,7 +12739,7 @@ direktiivin	O
 496	I-LAW
 /	I-LAW
 ETY	I-LAW
-6	O
+6	B-CARDINAL
 artiklan	O
 mukaisesti	O
 suorittamaan	O
@@ -12748,7 +12748,7 @@ alueen	O
 rajalla	O
 eläinlääkinnällisiä	O
 tarkastuksia	O
-kolmansista	O
+kolmansista	B-ORDINAL
 maista	O
 saapuville	O
 eläimille	O
@@ -12769,7 +12769,7 @@ ETY	I-LAW
 liitteessä	O
 A	O
 olevassa	O
-I	O
+I	B-ORDINAL
 luvussa	O
 lueteltua	O
 lainsäädäntöä	O
@@ -12884,7 +12884,7 @@ perusasetus	B-LAW
 ja	O
 erityisesti	O
 sen	O
-9	O
+9	B-CARDINAL
 artiklan	O
 ,	O
 on	O
@@ -12904,7 +12904,7 @@ A	O
 MENETTELY	O
 
 (	O
-1	O
+1	B-CARDINAL
 )	O
 Komissio	O
 vastaanotti	O
@@ -12927,7 +12927,7 @@ polkumyynnillä	O
 .	O
 
 (	O
-2	O
+2	B-CARDINAL
 )	O
 Valituksen	O
 teki	O
@@ -12939,14 +12939,14 @@ Council	I-ORG
 CEFIC	B-ORG
 )	O
 perusasetuksen	B-LAW
-4	O
+4	B-CARDINAL
 artiklan	O
-1	O
+1	B-CARDINAL
 kohdan	O
 ja	O
-5	O
+5	B-CARDINAL
 artiklan	O
-4	O
+4	B-CARDINAL
 kohdan	O
 mukaisesti	O
 sellaisten	O
@@ -12966,7 +12966,7 @@ yhteisössä	O
 .	O
 
 (	O
-3	O
+3	B-CARDINAL
 )	O
 Valitus	O
 sisälsi	O
@@ -12992,7 +12992,7 @@ aloittamiselle	O
 .	O
 
 (	O
-4	O
+4	B-CARDINAL
 )	O
 Tämän	O
 vuoksi	O
@@ -13015,7 +13015,7 @@ olevan	O
 CN	O
 -	O
 koodiin	O
-28492000	O
+28492000	B-CARDINAL
 kuuluvan	O
 piikarbidin	O
 tuontia	O
@@ -13027,7 +13027,7 @@ menettelyn	O
 .	O
 
 (	O
-5	O
+5	B-CARDINAL
 )	O
 Komissio	O
 ilmoitti	O
@@ -13102,7 +13102,7 @@ MENETTELYN	O
 PÄÄTTÄMINEN	O
 
 (	O
-6	O
+6	B-CARDINAL
 )	O
 CEFIC	B-ORG
 peruutti	O
@@ -13115,12 +13115,12 @@ maaliskuuta	I-DATE
 .	O
 
 (	O
-7	O
+7	B-CARDINAL
 )	O
 Perusasetuksen	B-LAW
-9	O
+9	B-CARDINAL
 artiklan	O
-1	O
+1	B-CARDINAL
 kohdan	O
 mukaisesti	O
 menettely	O
@@ -13142,7 +13142,7 @@ mukaista	O
 .	O
 
 (	O
-8	O
+8	B-CARDINAL
 )	O
 Komissio	O
 katsoi	O
@@ -13200,7 +13200,7 @@ esitetty	O
 .	O
 
 (	O
-9	O
+9	B-CARDINAL
 )	O
 Tämän	O
 vuoksi	O
@@ -13243,7 +13243,7 @@ olevan	O
 CN	O
 -	O
 koodiin	O
-28492000	O
+28492000	B-CARDINAL
 kuuluvan	O
 piikarbidin	O
 tuontia	O
@@ -13334,7 +13334,7 @@ o	I-LAW
 ja	O
 erityisesti	O
 sen	O
-6	O
+6	B-CARDINAL
 artiklan	O
 ,	O
 sekä	O
@@ -13343,7 +13343,7 @@ seuraavaa	O
 :	O
 
 (	O
-1	O
+1	B-CARDINAL
 )	O
 Interventioelinten	O
 hallussaan	O
@@ -13393,7 +13393,7 @@ välttämisen	O
 .	O
 
 (	O
-2	O
+2	B-CARDINAL
 )	O
 Slovakialla	B-GPE
 on	O
@@ -13406,7 +13406,7 @@ käytettävä	O
 .	O
 
 (	O
-3	O
+3	B-CARDINAL
 )	O
 Slovakian	B-ORG
 interventioelimen	I-ORG
@@ -13422,7 +13422,7 @@ viljamarkkinoille	O
 .	O
 
 (	O
-4	O
+4	B-CARDINAL
 )	O
 Yhteisön	O
 markkinoiden	O
@@ -13449,7 +13449,7 @@ tarjouksille	O
 .	O
 
 (	O
-5	O
+5	B-CARDINAL
 )	O
 Slovakian	B-ORG
 interventioelimen	I-ORG
@@ -13466,7 +13466,7 @@ nimettömyys	O
 .	O
 
 (	O
-6	O
+6	B-CARDINAL
 )	O
 Hallinnoinnin	O
 nykyaikaistamiseksi	O
@@ -13482,7 +13482,7 @@ muodossa	O
 .	O
 
 (	O
-7	O
+7	B-CARDINAL
 )	O
 Tässä	O
 asetuksessa	O
@@ -13501,7 +13501,7 @@ TÄMÄN	O
 ASETUKSEN	O
 :	O
 
-1	O
+1	B-CARDINAL
 artikla	O
 
 Slovakian	B-ORG
@@ -13517,11 +13517,11 @@ olevat	O
 maissitonnia	I-QUANTITY
 .	O
 
-2	O
+2	B-CARDINAL
 artikla	O
 
 Edellä	O
-1	O
+1	B-CARDINAL
 artiklassa	O
 säädettyyn	O
 myyntiin	O
@@ -13592,7 +13592,7 @@ luettuina	O
 alempi	O
 .	O
 
-3	O
+3	B-CARDINAL
 artikla	O
 
 Poiketen	O
@@ -13609,9 +13609,9 @@ o	I-LAW
 2131	I-LAW
 /	I-LAW
 93	I-LAW
-13	O
+13	B-CARDINAL
 artiklan	O
-4	O
+4	B-CARDINAL
 kohdassa	O
 säädetään	O
 ,	O
@@ -13622,12 +13622,12 @@ euroa	I-QUANTITY
 tonnilta	I-QUANTITY
 .	O
 
-4	O
+4	B-CARDINAL
 artikla	O
 
-1	O
-.	O
-Ensimmäiseen	O
+1	B-ORDINAL
+.	I-ORDINAL
+Ensimmäiseen	B-ORDINAL
 osittaiseen	O
 tarjouskilpailuun	O
 tarkoitettujen	O
@@ -13691,8 +13691,8 @@ aikaa	O
 )	O
 .	O
 
-2	O
-.	O
+2	B-ORDINAL
+.	I-ORDINAL
 Tarjoukset	O
 on	O
 jätettävä	O
@@ -13712,11 +13712,11 @@ obilnín	I-ORG
 a	I-ORG
 škrobu	I-ORG
 Dobrovičova	B-GPE
-12	O
+12	B-CARDINAL
 SK	O
 -	O
 815	O
-26	O
+26	B-CARDINAL
 Bratislava	B-GPE
 Puhelin	O
 (	O
@@ -13724,20 +13724,20 @@ Puhelin	O
 -	O
 2	O
 )	O
-58	O
-24	O
-32	O
-71	O
+58	B-CARDINAL
+24	I-CARDINAL
+32	I-CARDINAL
+71	I-CARDINAL
 Faksi	O
 (	O
 421	O
 -	O
 2	O
 )	O
-53	O
-41	O
-26	O
-65	O
+53	B-CARDINAL
+41	I-CARDINAL
+26	I-CARDINAL
+65	I-CARDINAL
 Sähköposti	O
 :	O
 jvargova	O
@@ -13746,7 +13746,7 @@ apa	O
 .	O
 sk	O
 
-5	O
+5	B-CARDINAL
 artikla	O
 
 Slovakian	B-ORG
@@ -13777,7 +13777,7 @@ lomakkeen	O
 mukaisesti	O
 .	O
 
-6	O
+6	B-CARDINAL
 artikla	O
 
 Asetuksen	O
@@ -13791,7 +13791,7 @@ o	I-LAW
 /	I-LAW
 200325	I-LAW
 artiklan	O
-2	O
+2	B-CARDINAL
 kohdassa	O
 tarkoitettua	O
 menettelyä	O
@@ -13843,7 +13843,7 @@ jakokertoimen	O
 vahvistaminen	O
 .	O
 
-7	O
+7	B-CARDINAL
 artikla	O
 
 Tämä	O
@@ -13904,9 +13904,9 @@ helmikuuta	I-DATE
 
 Laki	O
 arvonlisäverolain	B-LAW
-12	O
+12	B-CARDINAL
 ja	O
-85	O
+85	B-CARDINAL
 a	O
 §	O
 :	O
@@ -13924,35 +13924,35 @@ arvonlisäverolain	B-LAW
 /	I-LAW
 1993	I-LAW
 )	O
-12	O
+12	B-CARDINAL
 §	O
 :	O
 n	O
-1	O
+1	B-CARDINAL
 momentti	O
 ja	O
-85	O
+85	B-CARDINAL
 a	O
 §	O
 :	O
 n	O
-1	O
+1	B-CARDINAL
 momentin	O
-10	O
+10	B-CARDINAL
 kohta	O
 ,	O
 sellaisena	O
 kuin	O
 niistä	O
 on	O
-85	O
+85	B-CARDINAL
 a	O
 §	O
 :	O
 n	O
-1	O
+1	B-CARDINAL
 momentin	O
-10	O
+10	B-CARDINAL
 kohta	O
 laissa	O
 1202	B-LAW
@@ -13962,12 +13962,12 @@ laissa	O
 sekä	O
 
 lisätään	O
-85	O
+85	B-CARDINAL
 a	O
 §	O
 :	O
 n	O
-1	O
+1	B-CARDINAL
 momenttiin	O
 ,	O
 sellaisena	O
@@ -13988,12 +13988,12 @@ ja	O
 2012	I-LAW
 ,	O
 uusi	O
-11	O
+11	B-CARDINAL
 kohta	O
 seuraavasti	O
 :	O
 
-12	O
+12	B-CARDINAL
 §	O
 
 Liiketoiminnan	O
@@ -14003,25 +14003,25 @@ sen	O
 estämättä	O
 ,	O
 mitä	O
-3	O
-–	O
-5	O
+3	B-CARDINAL
+–	I-CARDINAL
+5	I-CARDINAL
 §	O
 :	O
 ssä	O
 ,	O
-45	O
+45	B-CARDINAL
 §	O
 :	O
 n	O
-1	O
+1	B-CARDINAL
 momentin	O
-1	O
+1	B-CARDINAL
 ja	O
-2	O
+2	B-CARDINAL
 kohdassa	O
 sekä	O
-60	O
+60	B-CARDINAL
 §	O
 :	O
 ssä	O
@@ -14032,7 +14032,7 @@ hakemuksesta	O
 verovelvolliseksi	O
 .	O
 
-85	O
+85	B-CARDINAL
 a	O
 §	O
 
@@ -14059,22 +14059,22 @@ veron	O
 perusteesta	O
 :	O
 
-10	O
+10	B-CARDINAL
 )	O
 tekijänoikeuden	O
 haltijoita	O
 edustavan	O
 järjestön	O
 saama	O
-45	O
+45	B-CARDINAL
 §	O
 :	O
 n	O
-1	O
+1	B-CARDINAL
 momentin	O
-3	O
-–	O
-5	O
+3	B-CARDINAL
+–	I-CARDINAL
+5	I-CARDINAL
 kohdassa	O
 tarkoitettu	O
 tekijänoikeuteen	O
@@ -14082,7 +14082,7 @@ liittyvä	O
 korvaus	O
 ;	O
 
-11	O
+11	B-CARDINAL
 )	O
 esiintyvän	O
 taiteilijan	O
@@ -14095,15 +14095,15 @@ urheilijan	O
 esityksen	O
 myynnistä	O
 saatava	O
-45	O
+45	B-CARDINAL
 §	O
 :	O
 n	O
-1	O
+1	B-CARDINAL
 momentin	O
-1	O
+1	B-CARDINAL
 ja	O
-2	O
+2	B-CARDINAL
 kohdassa	O
 tarkoitettu	O
 palkkio	O
@@ -14186,7 +14186,7 @@ käsittelystä	O
 rajavartiolaitoksessa	B-ORG
 annetun	O
 lain	O
-28	O
+28	B-CARDINAL
 §	O
 :	O
 n	O
@@ -14207,13 +14207,13 @@ lain	O
 /	I-LAW
 2005	I-LAW
 )	O
-28	O
+28	B-CARDINAL
 §	O
 :	O
 n	O
-1	O
+1	B-CARDINAL
 momentin	O
-1	O
+1	B-CARDINAL
 kohta	O
 ,	O
 sellaisena	O
@@ -14228,7 +14228,7 @@ laissa	O
 seuraavasti	O
 :	O
 
-28	O
+28	B-CARDINAL
 §	O
 
 Tietojen	O
@@ -14254,7 +14254,7 @@ ovat	O
 tarpeen	O
 :	O
 
-1	O
+1	B-CARDINAL
 )	O
 Liikenne	B-ORG
 -	I-ORG
@@ -14269,9 +14269,9 @@ lain	O
 /	I-LAW
 2017	I-LAW
 )	O
-197	O
+197	B-CARDINAL
 ja	O
-217	O
+217	B-CARDINAL
 §	O
 :	O
 n	O
@@ -14351,7 +14351,7 @@ mukaisesti	O
 säädetään	O
 :	O
 
-1	O
+1	B-CARDINAL
 §	O
 
 Neuvottelukunnan	O
@@ -14371,7 +14371,7 @@ tehtävänä	O
 on	O
 :	O
 
-1	O
+1	B-CARDINAL
 )	O
 edistää	O
 ja	O
@@ -14388,7 +14388,7 @@ hallinnonalojen	O
 yhteistyötä	O
 ;	O
 
-2	O
+2	B-CARDINAL
 )	O
 edistää	O
 avaruusalalla	O
@@ -14400,7 +14400,7 @@ kansainvälistä	O
 vaikuttavuutta	O
 ;	O
 
-3	O
+3	B-CARDINAL
 )	O
 seurata	O
 ja	O
@@ -14417,7 +14417,7 @@ ja	O
 kehitystä	O
 ;	O
 
-4	O
+4	B-CARDINAL
 )	O
 tehdä	O
 esityksiä	O
@@ -14441,7 +14441,7 @@ ja	O
 kehittämiseksi	O
 ;	O
 
-5	O
+5	B-CARDINAL
 )	O
 edistää	O
 avaruusalan	O
@@ -14450,7 +14450,7 @@ ja	O
 viestintää	O
 ;	O
 
-6	O
+6	B-CARDINAL
 )	O
 suorittaa	O
 muut	O
@@ -14463,7 +14463,7 @@ antamat	O
 tehtävät	O
 .	O
 
-2	O
+2	B-CARDINAL
 §	O
 
 Toimikausi	O
@@ -14567,7 +14567,7 @@ tarvitsemassaan	O
 laajuudessa	O
 .	O
 
-3	O
+3	B-CARDINAL
 §	O
 
 Sihteeristö	O
@@ -14627,7 +14627,7 @@ käsittelystä	O
 jaostoissa	O
 .	O
 
-4	O
+4	B-CARDINAL
 §	O
 
 Asioiden	O
@@ -14668,7 +14668,7 @@ varten	O
 työjärjestyksen	O
 .	O
 
-5	O
+5	B-CARDINAL
 §	O
 
 Voimaantulo	O
@@ -14767,30 +14767,30 @@ asetuksen	O
 2019	I-LAW
 )	O
 liite	O
-1	O
-:	O
-n	O
-1	O
+1	B-CARDINAL
+:	I-CARDINAL
+n	I-CARDINAL
+1	B-CARDINAL
 ,	O
-5	O
-.	O
-2	O
+5	B-CARDINAL
+.	I-CARDINAL
+2	I-CARDINAL
 ja	O
-7	O
+7	B-CARDINAL
 kohta	O
 sekä	O
 liite	O
-2	O
+2	B-CARDINAL
 ,	O
 sellaisena	O
 kuin	O
 niistä	O
 on	O
 liite	O
-1	O
-:	O
-n	O
-1	O
+1	B-CARDINAL
+:	I-CARDINAL
+n	I-CARDINAL
+1	B-CARDINAL
 kohta	O
 asetuksessa	O
 985	B-LAW
@@ -14811,7 +14811,7 @@ tammikuuta	I-DATE
 ja	O
 sitä	O
 sovelletaan	O
-ensimmäisen	O
+ensimmäisen	B-ORDINAL
 kerran	O
 eläkekassan	O
 vuodelta	B-DATE
@@ -14821,12 +14821,12 @@ vakuutusteknisissä	O
 laskelmissa	O
 .	O
 Liitteen	O
-2	O
+2	B-CARDINAL
 kohtaa	O
-6	O
+6	B-CARDINAL
 sovelletaan	O
 kuitenkin	O
-ensimmäisen	O
+ensimmäisen	B-ORDINAL
 kerran	O
 eläkekassan	O
 vuodelta	B-DATE
@@ -14836,11 +14836,11 @@ vakuutusteknisissä	O
 laskelmissa	O
 ja	O
 liitteen	O
-2	O
+2	B-CARDINAL
 kohtaa	O
-3	O
+3	B-CARDINAL
 sovelletaan	O
-ensimmäisen	O
+ensimmäisen	B-ORDINAL
 kerran	O
 eläkekassan	O
 vuodelta	B-DATE
@@ -14873,9 +14873,9 @@ Pirjo	B-PERSON
 Moilanen	I-PERSON
 
 Liitteet	O
-1	O
+1	B-CARDINAL
 ja	O
-2	O
+2	B-CARDINAL
 :	O
 STMa	O
 eläkekassan	O
@@ -14925,22 +14925,22 @@ lain	O
 /	I-LAW
 1978	I-LAW
 )	O
-3	O
+3	B-CARDINAL
 a	O
 §	O
 :	O
 n	O
-2	O
+2	B-CARDINAL
 ja	O
-4	O
+4	B-CARDINAL
 momentin	O
 ja	O
-3	O
+3	B-CARDINAL
 b	O
 §	O
 :	O
 n	O
-3	O
+3	B-CARDINAL
 momentin	O
 nojalla	O
 ,	O
@@ -14956,7 +14956,7 @@ laissa	O
 )	O
 :	O
 
-1	O
+1	B-CARDINAL
 §	O
 
 Avustus	O
@@ -14979,12 +14979,12 @@ lain	O
 jäljempänä	O
 rahoituslaki	B-LAW
 ,	O
-3	O
+3	B-CARDINAL
 a	O
 §	O
 :	O
 n	O
-2	O
+2	B-CARDINAL
 momentissa	O
 tarkoitetun	O
 korvauksen	O
@@ -15000,7 +15000,7 @@ on	O
 euroa	I-MONEY
 .	O
 
-2	O
+2	B-CARDINAL
 §	O
 
 Avustuksen	O
@@ -15011,19 +15011,19 @@ Työterveyslaitos	B-ORG
 voi	O
 maksaa	O
 rahoituslain	B-LAW
-3	O
+3	B-CARDINAL
 a	O
 §	O
 :	O
 n	O
-1	O
+1	B-CARDINAL
 momentin	O
 nojalla	O
 saamastaan	O
 avustuksesta	O
 mainitun	O
 pykälän	O
-3	O
+3	B-CARDINAL
 momentin	O
 mukaista	O
 korvausta	O
@@ -15095,7 +15095,7 @@ Työterveyslaitos	B-ORG
 voi	O
 lisäksi	O
 maksaa	O
-1	O
+1	B-CARDINAL
 momentissa	O
 tarkoitetusta	O
 avustuksesta	O
@@ -15152,9 +15152,9 @@ kustannuksista	O
 .	O
 
 Jos	O
-2	O
+2	B-CARDINAL
 ja	O
-3	O
+3	B-CARDINAL
 momentissa	O
 tarkoitetuissa	O
 selvityksissä	O
@@ -15170,7 +15170,7 @@ asiasta	O
 Työterveyslaitokselle	B-ORG
 .	O
 
-3	O
+3	B-CARDINAL
 §	O
 
 Avustuksen	O
@@ -15181,19 +15181,19 @@ Työterveyslaitos	B-ORG
 voi	O
 käyttää	O
 rahoituslain	B-LAW
-3	O
+3	B-CARDINAL
 a	O
 §	O
 :	O
 n	O
-1	O
+1	B-CARDINAL
 momentin	O
 nojalla	O
 saamastaan	O
 avustuksesta	O
 mainitun	O
 pykälän	O
-3	O
+3	B-CARDINAL
 momentin	O
 mukaisesti	O
 1	B-MONEY
@@ -15212,10 +15212,10 @@ jotka	O
 aiheutuvat	O
 :	O
 
-1	O
+1	B-CARDINAL
 )	O
-enintään	O
-kolmen	O
+enintään	B-CARDINAL
+kolmen	I-CARDINAL
 työterveyshuollon	O
 erikoislääkärikoulutusta	O
 antavan	O
@@ -15227,10 +15227,10 @@ muista	O
 kustannuksista	O
 ;	O
 
-2	O
+2	B-CARDINAL
 )	O
-enintään	O
-yhdentoista	O
+enintään	B-CARDINAL
+yhdentoista	I-CARDINAL
 työterveyshuollon	O
 erikoislääkärin	O
 erikoistumistoimen	O
@@ -15240,7 +15240,7 @@ muista	O
 kustannuksista	O
 ;	O
 
-3	O
+3	B-CARDINAL
 )	O
 työterveyshuollon	O
 erikoislääkärikoulutuksen	O
@@ -15264,7 +15264,7 @@ Työterveyslaitos	B-ORG
 ei	O
 saa	O
 käyttää	O
-1	O
+1	B-CARDINAL
 momentissa	O
 tarkoitettua	O
 avustusta	O
@@ -15275,17 +15275,17 @@ joihin	O
 se	O
 saa	O
 rahoituslain	B-LAW
-3	O
+3	B-CARDINAL
 §	O
 :	O
 n	O
-1	O
+1	B-CARDINAL
 momentin	O
 mukaista	O
 valtionosuutta	O
 .	O
 
-4	O
+4	B-CARDINAL
 §	O
 
 Avustuksen	O
@@ -15303,19 +15303,19 @@ voi	O
 hakemuksesta	O
 maksaa	O
 rahoituslain	B-LAW
-3	O
+3	B-CARDINAL
 a	O
 §	O
 :	O
 n	O
-1	O
+1	B-CARDINAL
 momentin	O
 nojalla	O
 saamastaan	O
 avustuksesta	O
 mainitun	O
 pykälän	O
-3	O
+3	B-CARDINAL
 momentin	O
 mukaista	O
 korvausta	O
@@ -15326,8 +15326,8 @@ ja	O
 työnantajan	O
 ylläpitämille	O
 terveysasemille	O
-enintään	O
-750	B-MONEY
+enintään	B-MONEY
+750	I-MONEY
 euroa	I-MONEY
 yliopiston	O
 hyväksymän	O
@@ -15351,7 +15351,7 @@ rajoissa	O
 .	O
 
 Edellä	O
-1	O
+1	B-CARDINAL
 momentissa	O
 tarkoitetusta	O
 korvauksesta	O
@@ -15366,7 +15366,7 @@ koulutuskuukautta	O
 kohti	O
 :	O
 
-1	O
+1	B-CARDINAL
 )	O
 työterveyshuoltoon	O
 erikoistuvan	O
@@ -15377,9 +15377,9 @@ enintään	B-MONEY
 euroa	I-MONEY
 ;	O
 
-2	O
+2	B-CARDINAL
 )	O
-1	O
+1	B-CARDINAL
 kohdassa	O
 tarkoitetusta	O
 ohjauksesta	O
@@ -15393,7 +15393,7 @@ enintään	B-MONEY
 euroa	I-MONEY
 .	O
 
-5	O
+5	B-CARDINAL
 §	O
 
 Yksityisille	O
@@ -15420,7 +15420,7 @@ terveysasemien	O
 on	O
 haettava	O
 Työterveyslaitokselta	B-ORG
-4	O
+4	B-CARDINAL
 §	O
 :	O
 ssä	O
@@ -15460,31 +15460,31 @@ Hakemukseen	O
 on	O
 liitettävä	O
 jäljennös	O
-2	O
+2	B-CARDINAL
 momentissa	O
 tarkoitetusta	O
 koulutuspaikkasopimuksesta	O
 .	O
 
-6	O
+6	B-CARDINAL
 §	O
 
 Koulutuspaikkasopimuksen	O
 sisältö	O
 
 Edellä	O
-5	O
+5	B-CARDINAL
 §	O
 :	O
 n	O
-2	O
+2	B-CARDINAL
 momentissa	O
 tarkoitetussa	O
 koulutuspaikkasopimuksessa	O
 on	O
 :	O
 
-1	O
+1	B-CARDINAL
 )	O
 mainittava	O
 koulutettavien	O
@@ -15492,10 +15492,10 @@ lääkäreiden	O
 määrä	O
 ;	O
 
-2	O
+2	B-CARDINAL
 )	O
 nimettävä	O
-yksi	O
+yksi	B-CARDINAL
 tai	O
 useampi	O
 yliopiston	O
@@ -15523,19 +15523,19 @@ alan	O
 erikoislääkäri	O
 ja	O
 että	O
-yhden	O
+yhden	B-CARDINAL
 kouluttajan	O
 ohjattavana	O
 on	O
-enintään	O
-kolme	O
+enintään	B-CARDINAL
+kolme	I-CARDINAL
 lääkäriä	O
 kerrallaan	O
 kalenterikuukautta	O
 kohti	O
 ;	O
 
-3	O
+3	B-CARDINAL
 )	O
 oltava	O
 kouluttajan	O
@@ -15554,14 +15554,14 @@ koulutusohjelman	O
 mukaisesti	O
 .	O
 
-7	O
+7	B-CARDINAL
 §	O
 
 Tietojen	O
 muuttuminen	O
 
 Jos	O
-5	O
+5	B-CARDINAL
 §	O
 :	O
 ssä	O
@@ -15585,7 +15585,7 @@ välittömästi	O
 Työterveyslaitokselle	B-ORG
 .	O
 
-8	O
+8	B-CARDINAL
 §	O
 
 Avustuksen	O
@@ -15601,12 +15601,12 @@ vuotta	B-DATE
 2020	I-DATE
 koskeva	O
 rahoituslain	B-LAW
-3	O
+3	B-CARDINAL
 b	O
 §	O
 :	O
 n	O
-3	O
+3	B-CARDINAL
 momentissa	O
 tarkoitettu	O
 selvitys	O
@@ -15629,12 +15629,12 @@ on	O
 annettava	O
 Työterveyslaitokselle	B-ORG
 rahoituslain	B-LAW
-3	O
+3	B-CARDINAL
 b	O
 §	O
 :	O
 n	O
-3	O
+3	B-CARDINAL
 momentissa	O
 tarkoitettu	O
 selvitys	O
@@ -15653,12 +15653,12 @@ vuotta	B-DATE
 2020	I-DATE
 koskevat	O
 rahoituslain	B-LAW
-3	O
+3	B-CARDINAL
 b	O
 §	O
 :	O
 n	O
-3	O
+3	B-CARDINAL
 momentissa	O
 tarkoitetut	O
 selvitykset	O
@@ -15672,7 +15672,7 @@ loppuun	I-DATE
 mennessä	O
 .	O
 
-9	O
+9	B-CARDINAL
 §	O
 
 Voimaantulo	O
@@ -15752,151 +15752,151 @@ asetuksen	O
 /	I-LAW
 2019	I-LAW
 )	O
-9	O
+9	B-CARDINAL
 §	O
 :	O
 n	O
-12	O
+12	B-CARDINAL
 kohta	O
 ,	O
-31	O
+31	B-CARDINAL
 §	O
 :	O
 n	O
-1	O
+1	B-CARDINAL
 kohta	O
 ja	O
-40	O
+40	B-CARDINAL
 §	O
 :	O
 n	O
-1	O
+1	B-CARDINAL
 momentin	O
-3	O
+3	B-CARDINAL
 kohta	O
 ,	O
 
 muutetaan	O
-6	O
+6	B-CARDINAL
 §	O
 :	O
 n	O
-4	O
+4	B-CARDINAL
 momentti	O
 ,	O
-7	O
+7	B-CARDINAL
 §	O
 :	O
 n	O
-2	O
+2	B-CARDINAL
 momentti	O
 ,	O
-10	O
+10	B-CARDINAL
 §	O
 :	O
 n	O
-1	O
+1	B-CARDINAL
 momentin	O
-7	O
+7	B-CARDINAL
 ,	O
-8	O
+8	B-CARDINAL
 ja	O
-10	O
+10	B-CARDINAL
 kohta	O
 ,	O
-13	O
+13	B-CARDINAL
 §	O
 :	O
 n	O
-1	O
+1	B-CARDINAL
 kohta	O
 ,	O
-18	O
+18	B-CARDINAL
 §	O
 :	O
 n	O
 johdantokappale	O
 ,	O
-21	O
+21	B-CARDINAL
 §	O
 ,	O
-23	O
+23	B-CARDINAL
 §	O
 :	O
 n	O
 otsikko	O
 ,	O
-29	O
+29	B-CARDINAL
 §	O
 :	O
 n	O
-3	O
+3	B-CARDINAL
 kohta	O
 ,	O
-31	O
+31	B-CARDINAL
 §	O
 :	O
 n	O
-3	O
+3	B-CARDINAL
 kohta	O
 ,	O
-32	O
+32	B-CARDINAL
 §	O
 ja	O
-40	O
+40	B-CARDINAL
 §	O
 :	O
 n	O
-2	O
+2	B-CARDINAL
 momentti	O
 ja	O
-3	O
+3	B-CARDINAL
 momentin	O
-1	O
+1	B-CARDINAL
 kohta	O
 sekä	O
 
 lisätään	O
-5	O
+5	B-CARDINAL
 §	O
 :	O
 ään	O
 uusi	O
-2	O
+2	B-CARDINAL
 momentti	O
 ,	O
 jolloin	O
 nykyinen	O
-2	O
+2	B-CARDINAL
 momentti	O
 siirtyy	O
-3	O
+3	B-CARDINAL
 momentiksi	O
 ,	O
-12	O
+12	B-CARDINAL
 §	O
 :	O
 ään	O
 uusi	O
-13	O
+13	B-CARDINAL
 a	O
 ja	O
-25	O
+25	B-CARDINAL
 a	O
 kohta	O
 sekä	O
 asetukseen	O
 uusi	O
-16	O
+16	B-CARDINAL
 a	O
 ja	O
-25	O
+25	B-CARDINAL
 a	O
 §	O
 seuraavasti	O
 :	O
 
-5	O
+5	B-CARDINAL
 §	O
 
 Osastopäällikkökokous	O
@@ -15924,7 +15924,7 @@ määräämät	O
 virkamiehet	O
 .	O
 
-6	O
+6	B-CARDINAL
 §	O
 
 Ministeriön	O
@@ -15947,7 +15947,7 @@ johdon	O
 alaisuudessa	O
 .	O
 
-7	O
+7	B-CARDINAL
 §	O
 
 Osastoihin	O
@@ -15981,7 +15981,7 @@ maksukyvyttömyys	O
 yksikkö	O
 .	O
 
-10	O
+10	B-CARDINAL
 §	O
 
 Yksityisoikeus	O
@@ -16002,7 +16002,7 @@ tehtävänä	O
 on	O
 :	O
 
-7	O
+7	B-CARDINAL
 )	O
 huolehtia	O
 oikeusapu	O
@@ -16020,7 +16020,7 @@ henkilöstön	O
 kehittämisestä	O
 ;	O
 
-8	O
+8	B-CARDINAL
 )	O
 huolehtia	O
 oikeudenkäyntiavustajalautakuntaa	O
@@ -16028,7 +16028,7 @@ koskevista	O
 asioista	O
 ;	O
 
-10	O
+10	B-CARDINAL
 )	O
 huolehtia	O
 Tuomioistuinviraston	B-ORG
@@ -16047,7 +16047,7 @@ kuluttajariitalautakunnan	O
 tulosohjaustehtävistä	O
 ;	O
 
-12	O
+12	B-CARDINAL
 §	O
 
 Hallinto	O
@@ -16064,7 +16064,7 @@ tehtävänä	O
 on	O
 :	O
 
-13	O
+13	B-CARDINAL
 a	O
 )	O
 valvoa	O
@@ -16073,7 +16073,7 @@ myöntämiä	O
 valtionavustuksia	O
 ;	O
 
-25	O
+25	B-CARDINAL
 a	O
 )	O
 valmistella	O
@@ -16085,7 +16085,7 @@ turvallisuustutkintaa	O
 varten	O
 ;	O
 
-13	O
+13	B-CARDINAL
 §	O
 
 Esikunnan	O
@@ -16096,7 +16096,7 @@ tehtävänä	O
 on	O
 :	O
 
-1	O
+1	B-CARDINAL
 )	O
 tukea	O
 ministeriön	O
@@ -16110,7 +16110,7 @@ johtamisjärjestelmien	O
 kehittämisessä	O
 ;	O
 
-16	O
+16	B-CARDINAL
 a	O
 §	O
 
@@ -16120,7 +16120,7 @@ tehtävät	O
 Alivaltiosihteeri	O
 toimii	O
 kansliapäällikön	O
-ensimmäisenä	O
+ensimmäisenä	B-ORDINAL
 sijaisena	O
 ja	O
 johtaa	O
@@ -16133,7 +16133,7 @@ ja	O
 hallinnonalan	O
 :	O
 
-1	O
+1	B-CARDINAL
 )	O
 oikeuspoliittisten	O
 erillishankkeiden	O
@@ -16145,7 +16145,7 @@ ja	O
 toimeenpanoa	O
 ;	O
 
-2	O
+2	B-CARDINAL
 )	O
 ohjauksen	O
 ja	O
@@ -16158,7 +16158,7 @@ ja	O
 toimeenpanoa	O
 ;	O
 
-3	O
+3	B-CARDINAL
 )	O
 kansainvälisen	O
 toimintaverkoston	O
@@ -16167,13 +16167,13 @@ yhteistyösuhteiden	O
 kehittämistä	O
 ;	O
 
-4	O
+4	B-CARDINAL
 )	O
 muita	O
 kuin	O
-1	O
-–	O
-3	O
+1	B-CARDINAL
+–	I-CARDINAL
+3	I-CARDINAL
 kohdassa	O
 tarkoitettuja	O
 ministerin	O
@@ -16183,7 +16183,7 @@ osoittamia	O
 tehtäväkokonaisuuksia	O
 .	O
 
-18	O
+18	B-CARDINAL
 §	O
 
 Lainsäädäntöjohtajan	O
@@ -16196,7 +16196,7 @@ tehtävänä	O
 on	O
 :	O
 
-21	O
+21	B-CARDINAL
 §	O
 
 Esittely	O
@@ -16235,7 +16235,7 @@ esittelijöistä	O
 säädetään	O
 valtioneuvoston	B-LAW
 ohjesäännön	I-LAW
-35	O
+35	B-CARDINAL
 §	O
 :	O
 ssä	O
@@ -16340,13 +16340,13 @@ tehtävään	O
 määrätyt	O
 .	O
 
-23	O
+23	B-CARDINAL
 §	O
 
 Esittelystä	O
 tiedottaminen	O
 
-25	O
+25	B-CARDINAL
 a	O
 §	O
 
@@ -16369,7 +16369,7 @@ hallinnolliset	O
 asiat	O
 .	O
 
-29	O
+29	B-CARDINAL
 §	O
 
 Yksityisoikeus	O
@@ -16391,7 +16391,7 @@ osastopäällikkö	O
 ratkaisee	O
 :	O
 
-3	O
+3	B-CARDINAL
 )	O
 Oikeusapu	O
 -	O
@@ -16417,7 +16417,7 @@ enintään	B-MONEY
 euroa	I-MONEY
 ;	O
 
-31	O
+31	B-CARDINAL
 §	O
 
 Hallinto	O
@@ -16435,7 +16435,7 @@ osastopäällikkö	O
 ratkaisee	O
 :	O
 
-3	O
+3	B-CARDINAL
 )	O
 Hallinnonalan	O
 virastojen	O
@@ -16472,7 +16472,7 @@ vuoksi	O
 ministerille	O
 ;	O
 
-32	O
+32	B-CARDINAL
 §	O
 
 Hallinto	O
@@ -16492,7 +16492,7 @@ esimies	O
 ratkaisee	O
 :	O
 
-1	O
+1	B-CARDINAL
 )	O
 ministeriön	O
 toimialaan	O
@@ -16512,7 +16512,7 @@ tai	O
 määrätään	O
 ;	O
 
-2	O
+2	B-CARDINAL
 )	O
 ministeriön	O
 toimialaan	O
@@ -16522,7 +16522,7 @@ virkaehtosopimusten	O
 hyväksymisen	O
 ;	O
 
-3	O
+3	B-CARDINAL
 )	O
 ministeriön	O
 erityistä	O
@@ -16534,7 +16534,7 @@ koskevat	O
 asiat	O
 .	O
 
-40	O
+40	B-CARDINAL
 §	O
 
 Eräät	O
@@ -16562,13 +16562,13 @@ esimies	O
 ratkaisee	O
 :	O
 
-1	O
+1	B-CARDINAL
 )	O
 muut	O
 kuin	O
-1	O
+1	B-CARDINAL
 momentin	O
-2	O
+2	B-CARDINAL
 kohdassa	O
 tarkoitetut	O
 henkilökohtaiset	O
@@ -16656,7 +16656,7 @@ Indonesian	B-GPE
 väliltä	O
 .	O
 
-Yksi	O
+Yksi	B-CARDINAL
 asia	O
 on	O
 kuitenkin	O
@@ -16665,7 +16665,7 @@ varmaa	O
 tulet	O
 kokemaan	O
 luultavasti	O
-yhden	O
+yhden	B-CARDINAL
 elämäsi	O
 parhaimmista	O
 hetkistäsi	O
@@ -16681,7 +16681,7 @@ yliopiston	I-ORG
 valtio	O
 -	O
 opin	O
-viidennen	O
+viidennen	B-ORDINAL
 vuoden	O
 pääaineopiskelija	O
 .	O
@@ -17301,7 +17301,7 @@ aikanaan	O
 ,	O
 mutta	O
 onneksi	O
-tuhannet	O
+tuhannet	B-CARDINAL
 valokuvat	O
 ,	O
 ihanat	O
@@ -17387,7 +17387,7 @@ asuttamastamme	O
 maailmankaikkeudesta	O
 on	O
 lähtenyt	O
-yhdestä	O
+yhdestä	B-CARDINAL
 kysymyksestä	O
 :	O
 miten	O
@@ -17729,9 +17729,9 @@ rasvaa	O
 ja	O
 "	O
 rasvasta	O
-1	O
-/	O
-3	O
+1	B-CARDINAL
+/	I-CARDINAL
+3	I-CARDINAL
 kovaa	O
 rasvaa	O
 "	O
@@ -17836,13 +17836,13 @@ jättimurtojen	O
 sarjan	O
 kohteeksi	O
 joutui	O
-yli	O
-70	O
+yli	B-CARDINAL
+70	I-CARDINAL
 yhtiötä	O
 ja	O
 organisaatio	O
-yli	O
-kymmenestä	O
+yli	B-CARDINAL
+kymmenestä	I-CARDINAL
 eri	O
 maasta	O
 .	O
@@ -17869,7 +17869,7 @@ että	O
 hyökkäysten	O
 takana	O
 on	O
-yksi	O
+yksi	B-CARDINAL
 valtiollinen	O
 taho	O
 .	O
@@ -17916,7 +17916,7 @@ Lisäksi	O
 tietomurtautujat	O
 tunkeutuivat	O
 Euroopassa	B-LOC
-kahteen	O
+kahteen	B-CARDINAL
 kohteeseen	O
 sekä	O
 Britanniassa	B-GPE
@@ -17929,7 +17929,7 @@ valtiollisen	O
 toimijan	O
 uhreja	O
 oli	O
-14	O
+14	B-CARDINAL
 maasta	O
 ,	O
 joista	O
@@ -18014,7 +18014,7 @@ Valko	B-GPE
 -	I-GPE
 Venäjä	I-GPE
 yhdistyisivät	O
-yhdeksi	O
+yhdeksi	B-CARDINAL
 valtioksi	O
 .	O
 
@@ -18631,7 +18631,7 @@ Today	I-ORG
 lehti	O
 on	O
 listannut	O
-viisi	O
+viisi	B-CARDINAL
 keinoa	O
 ,	O
 joilla	O
@@ -18641,8 +18641,8 @@ puhdistettua	O
 maineensa	O
 .	O
 
-1	O
-.	O
+1	B-ORDINAL
+.	I-ORDINAL
 Puhu	O
 vähemmän	O
 ,	O
@@ -18702,8 +18702,8 @@ myös	O
 sinuun	O
 .	O
 
-2	O
-.	O
+2	B-ORDINAL
+.	I-ORDINAL
 Osoita	O
 kunnioitusta	O
 
@@ -18747,8 +18747,8 @@ kehumisen	O
 paikka	O
 .	O
 
-3	O
-.	O
+3	B-ORDINAL
+.	I-ORDINAL
 Käytä	O
 järkeäsi	O
 
@@ -18763,7 +18763,7 @@ tehopakkauksia	O
 Bourg	B-PERSON
 Carterin	I-PERSON
 mukaan	O
-yksi	O
+yksi	B-CARDINAL
 suurimmista	O
 stressin	O
 aiheuttajista	O
@@ -18787,8 +18787,8 @@ Carter	I-PERSON
 muistuttaa	O
 .	O
 
-4	O
-.	O
+4	B-ORDINAL
+.	I-ORDINAL
 Käyttäydy	O
 tahdikkaasti	O
 
@@ -18812,8 +18812,8 @@ osallistu	O
 juoruiluun	O
 .	O
 
-5	O
-.	O
+5	B-ORDINAL
+.	I-ORDINAL
 Ole	O
 myönteinen	O
 
@@ -18870,7 +18870,7 @@ Carterin	I-PERSON
 mukaan	O
 ellä	O
 olevat	O
-viisi	O
+viisi	B-CARDINAL
 ohjetta	O
 voivat	O
 näyttää	O
@@ -18953,7 +18953,7 @@ yhteisöllisyyden	O
 lisäämiseen	O
 .	O
 
-Ensimmäiseksi	O
+Ensimmäiseksi	B-ORDINAL
 käytännön	O
 keinoksi	O
 kävi	O
@@ -19022,7 +19022,7 @@ julkinen	O
 esiintyminen	O
 ,	O
 ja	O
-ensimmäiset	O
+ensimmäiset	B-ORDINAL
 esiintymiset	O
 voivat	O
 olla	O
@@ -19112,7 +19112,7 @@ näkyviä	O
 tutkimusaloja	O
 ovat	O
 suomi	B-LANGUAGE
-toisena	O
+toisena	B-ORDINAL
 kielenä	O
 -	O
 tutkimus	O
@@ -19159,7 +19159,7 @@ Jalkanen	I-PERSON
 on	O
 Tiedeakatemian	B-ORG
 historian	O
-toinen	O
+toinen	B-ORDINAL
 esimiehenä	O
 toimiva	O
 naisprofessori	O
@@ -19199,13 +19199,13 @@ huippuyksikköä	O
 .	O
 
 Tiedeakatemian	B-ORG
-102	O
--	O
-vuotisen	O
+102	B-DATE
+-	I-DATE
+vuotisen	I-DATE
 historian	O
 aikana	O
 vain	O
-yksi	O
+yksi	B-CARDINAL
 naisprofessori	O
 on	O
 toiminut	O
@@ -19279,10 +19279,10 @@ tutkimusta	O
 
 Tiedeakatemialla	B-ORG
 on	O
-646	O
+646	B-CARDINAL
 kotimaista	O
 ja	O
-198	O
+198	B-CARDINAL
 ulkomaista	O
 jäsentä	O
 .	O
@@ -19737,7 +19737,7 @@ kertoo	O
 Lisäksi	O
 tutkimuksessa	O
 havaittiin	O
-yhdessä	O
+yhdessä	B-CARDINAL
 kantasolulinjassa	O
 nk	O
 .	O
@@ -19754,7 +19754,7 @@ joka	O
 on	O
 yleinen	O
 muutos	O
-kolmannen	O
+kolmannen	B-ORDINAL
 asteen	O
 rintasyövässä	O
 .	O
@@ -20460,7 +20460,7 @@ viikkoa	I-DATE
 Synnytys	O
 voidaan	O
 jakaa	O
-kolmeen	O
+kolmeen	B-CARDINAL
 vaiheeseen	O
 ,	O
 joita	O
@@ -20530,7 +20530,7 @@ supistuksia	O
 tulee	O
 säännöllisesti	O
 noin	O
-10	O
+10	B-CARDINAL
 minuutin	O
 välein	O
 .	O
@@ -20849,7 +20849,7 @@ Akateeminen	B-ORG
 Kirjakauppa	I-ORG
 myi	O
 sille	O
-kuusi	O
+kuusi	B-CARDINAL
 myymälää	O
 Jyväskylästä	B-GPE
 ,	O
@@ -20879,8 +20879,8 @@ Kevyesti	O
 päällystetty	O
 paperi	O
 (	O
-engl	O
-.	O
+engl	B-LANGUAGE
+.	I-LANGUAGE
 light	O
 weight	O
 coated	O
@@ -20957,7 +20957,7 @@ Turussa	B-GPE
 Yhtye	O
 on	O
 julkaissut	O
-kolme	O
+kolme	B-CARDINAL
 täyspitkää	O
 albumia	O
 .	O
@@ -21259,8 +21259,8 @@ Madrid	I-ORG
 joka	O
 keräsi	O
 parhaimmillaan	O
-135	O
-000	O
+135	B-CARDINAL
+000	I-CARDINAL
 katsojaa	O
 .	O
 
@@ -21280,7 +21280,7 @@ pelatun	O
 SM	O
 -	O
 liigakarsinnan	O
-seitsemännen	O
+seitsemännen	B-ORDINAL
 ja	O
 ratkaisevan	O
 ottelun	O
@@ -21289,12 +21289,12 @@ ottelun	O
 Ottelua	O
 seurasi	O
 keskimäärin	O
-224	O
-000	O
+224	B-CARDINAL
+000	I-CARDINAL
 ja	O
 parhaimmillaan	O
-266	O
-000	O
+266	B-CARDINAL
+000	I-CARDINAL
 katsojaa	O
 ,	O
 mikä	O
@@ -21454,7 +21454,7 @@ kammin	O
 lisäksi	O
 niliaitan	O
 ja	O
-yhdestä	O
+yhdestä	B-CARDINAL
 puusta	O
 veistetyn	O
 ruuhen	O
@@ -21587,7 +21587,7 @@ Bédardista	B-PERSON
 tuli	O
 vuonna	B-DATE
 1991	I-DATE
-ensimmäinen	O
+ensimmäinen	B-ORDINAL
 kanadalainen	B-NORP
 ampumahiihtäjä	O
 ,	O
@@ -21657,7 +21657,7 @@ taukoa	O
 urheilusta	O
 lyhyesti	O
 synnyttääkseen	O
-ensimmäisen	O
+ensimmäisen	B-ORDINAL
 lapsensa	O
 (	O
 isä	O
@@ -21716,8 +21716,8 @@ vuonna	B-DATE
 Tatjana	B-PERSON
 Levina	I-PERSON
 (	O
-ven	O
-.	O
+ven	B-LANGUAGE
+.	I-LANGUAGE
 Татьяна	B-PERSON
 Левина	I-PERSON
 ,	O
@@ -21786,7 +21786,7 @@ olympialaisissa	I-EVENT
 200	B-QUANTITY
 metrin	I-QUANTITY
 juoksun	O
-toisissa	O
+toisissa	B-ORDINAL
 alkuerissä	O
 ajalla	O
 23	B-TIME
@@ -21915,7 +21915,7 @@ King	B-ORG
 Diamond	I-ORG
 -	O
 yhtyeen	O
-yhdestoista	O
+yhdestoista	B-ORDINAL
 studioalbumi	O
 .	O
 
@@ -22102,8 +22102,8 @@ tutkimuksia	O
 joihin	O
 on	O
 osallistunut	O
-satoja	O
-tuhansia	O
+satoja	B-CARDINAL
+tuhansia	I-CARDINAL
 naisia	O
 ,	O
 ja	O
@@ -22158,9 +22158,9 @@ verrattuna	O
 seulomattomiin	O
 naisiin	O
 on	O
-0	O
-,	O
-84	O
+0	B-CARDINAL
+,	I-CARDINAL
+84	I-CARDINAL
 .	O
 
 Nuoremmassa	O
@@ -22183,21 +22183,21 @@ ja	O
 suhteellinen	O
 riski	O
 on	O
-0	O
-,	O
-85	O
+0	B-CARDINAL
+,	I-CARDINAL
+85	I-CARDINAL
 .	O
 
 Luvut	O
 tarkoittavat	O
 ,	O
 että	O
-yhden	O
+yhden	B-CARDINAL
 rintasyöpäkuoleman	O
 välttämiseksi	O
 täytyy	O
 seuloa	O
-1224	O
+1224	B-CARDINAL
 naista	O
 ikäluokassa	O
 50	B-DATE
@@ -22205,7 +22205,7 @@ ikäluokassa	O
 69	I-DATE
 vuotta	I-DATE
 tai	O
-1792	O
+1792	B-CARDINAL
 naista	O
 ikäluokassa	O
 40	B-DATE
@@ -22316,7 +22316,7 @@ on	O
 parempi	O
 kuin	O
 joka	O
-toinen	O
+toinen	B-ORDINAL
 vuosi	O
 tai	O
 harvemmin	O
@@ -22408,7 +22408,7 @@ Rintasyöpäseulonnassa	O
 havaitaan	O
 laskennallisesti	O
 noin	O
-105	O
+105	B-CARDINAL
 syöpää	O
 jokaista	O
 mammografiasäteilyn	O
@@ -22427,7 +22427,7 @@ vuotiaita	I-DATE
 ja	O
 kuvaus	O
 tehdään	O
-kolmen	O
+kolmen	B-CARDINAL
 vuoden	O
 välein	O
 .	O
@@ -22440,7 +22440,7 @@ vuotta	I-DATE
 vastaava	O
 luku	O
 on	O
-241	O
+241	B-CARDINAL
 .	O
 
 Nuoremmilla	O
@@ -22455,7 +22455,7 @@ pienempiä	O
 -	I-DATE
 vuotiailla	I-DATE
 havaitaan	O
-48	O
+48	B-CARDINAL
 syöpää	O
 jokaista	O
 aiheutettua	O
@@ -22466,13 +22466,13 @@ ja	O
 39	I-DATE
 -	I-DATE
 vuotiailla	I-DATE
-13	O
+13	B-CARDINAL
 syöpää	O
 ,	O
 kun	O
 seulonta	O
 tapahtuu	O
-kolmen	O
+kolmen	B-CARDINAL
 vuoden	O
 välein	O
 eikä	O
@@ -22484,7 +22484,7 @@ rintasyöpää	O
 .	O
 
 Jos	O
-ensimmäisen	O
+ensimmäisen	B-ORDINAL
 asteen	O
 sukulaisnaisilla	O
 (	O
@@ -22527,7 +22527,7 @@ täytyi	O
 järjestää	O
 maksuton	O
 seulonta	O
-kahden	O
+kahden	B-CARDINAL
 vuoden	O
 välein	O
 50	B-DATE
@@ -22571,9 +22571,9 @@ vuoteen	B-DATE
 asti	O
 seulontatutkimuksiin	O
 vuosittain	O
-noin	O
-200	O
-000	O
+noin	B-CARDINAL
+200	I-CARDINAL
+000	I-CARDINAL
 naista	O
 ;	O
 seulontojen	O
@@ -22610,8 +22610,8 @@ keskitasoon	O
 
 Kutsutuista	O
 naisista	O
-yhdeksän	O
-kymmenestä	O
+yhdeksän	B-CARDINAL
+kymmenestä	B-CARDINAL
 osallistuu	O
 .	O
 
@@ -22643,10 +22643,10 @@ Seulonnoissa	O
 löydetään	O
 Suomessa	B-GPE
 vuosittain	O
-noin	O
-600	O
-–	O
-800	O
+noin	B-CARDINAL
+600	I-CARDINAL
+–	I-CARDINAL
+800	I-CARDINAL
 syöpätapausta	O
 ,	O
 joista	O
@@ -22722,7 +22722,7 @@ naiset	O
 ja	O
 seulonta	O
 tapahtuu	O
-kolmen	O
+kolmen	B-CARDINAL
 vuoden	O
 välein	O
 .	O
@@ -22845,8 +22845,8 @@ käsittää	O
 paljon	O
 laulumusiikkia	O
 ja	O
-yli	O
-70	O
+yli	B-CARDINAL
+70	I-CARDINAL
 teosta	O
 kosketinsoittimelle	O
 .	O
@@ -22960,8 +22960,8 @@ Clubia	I-ORG
 
 Pervomaisk	B-GPE
 (	O
-ven	O
-.	O
+ven	B-LANGUAGE
+.	I-LANGUAGE
 Первома	B-GPE
 ́	I-GPE
 йск	I-GPE
@@ -23009,8 +23009,8 @@ pääteasema	O
 
 Asukkaita	O
 on	O
-14	O
-900	O
+14	B-CARDINAL
+900	I-CARDINAL
 henkeä	O
 (	O
 vuonna	B-DATE
@@ -23172,14 +23172,14 @@ peliä	O
 myytiin	O
 ensimmäisellä	B-DATE
 viikolla	I-DATE
-1	O
-,	O
-4	O
-miljoonaa	O
+1	B-CARDINAL
+,	I-CARDINAL
+4	I-CARDINAL
+miljoonaa	I-CARDINAL
 kappaletta	O
 .	O
 
-Seitsemännessä	O
+Seitsemännessä	B-ORDINAL
 The	B-PRODUCT
 Sims	I-PRODUCT
 2	I-PRODUCT
@@ -23273,8 +23273,8 @@ torrent	O
 -	O
 sivustolta	O
 lähes	O
-180	O
-000	O
+180	B-CARDINAL
+000	I-CARDINAL
 kertaa	O
 neljän	B-DATE
 päivän	I-DATE
@@ -23390,7 +23390,7 @@ Pelistä	O
 on	O
 myös	O
 poistettu	O
-kaksi	O
+kaksi	B-CARDINAL
 tarvetta	O
 ,	O
 ympäristö	O
@@ -23413,8 +23413,8 @@ kaunis	O
 sisustus	O
 ,	O
 mieliala	O
-+	O
-10	O
++	B-CARDINAL
+10	I-CARDINAL
 )	O
 .	O
 
@@ -23455,7 +23455,7 @@ Siminluonnissa	O
 voi	O
 valita	O
 simille	O
-viisi	O
+viisi	B-CARDINAL
 luonteenpiirrettä	O
 ,	O
 jotka	O
@@ -23552,7 +23552,7 @@ vartalotyyppejä	O
 voi	O
 nyt	O
 vanhan	O
-kolmen	O
+kolmen	B-CARDINAL
 sijaan	O
 muuttaa	O
 kaksiosaisella	O
@@ -23579,7 +23579,7 @@ miehelle	O
 ja	O
 naiselle	O
 molemmille	O
-kolme	O
+kolme	B-CARDINAL
 erilaista	O
 ääntä	O
 ,	O
@@ -23637,8 +23637,8 @@ perheen	O
 Perheessä	O
 täytyy	O
 olla	O
-vähintään	O
-yksi	O
+vähintään	B-CARDINAL
+yksi	I-CARDINAL
 aikuinen	O
 .	O
 
@@ -23669,7 +23669,7 @@ vanhus	O
 Simeille	O
 voi	O
 valita	O
-yhden	O
+yhden	B-CARDINAL
 luonteenpiirteen	O
 joka	O
 kerta	O
@@ -23679,29 +23679,29 @@ vanhenevat	O
 (	O
 vauva	O
 =	O
-1	O
+1	B-CARDINAL
 piirre	O
 ,	O
 taapero	O
 =	O
-2	O
+2	B-CARDINAL
 piirrettä	O
 ,	O
 lapsi	O
 =	O
-3	O
+3	B-CARDINAL
 piirrettä	O
 ,	O
 teini	O
 =	O
-4	O
+4	B-CARDINAL
 piirrettä	O
 ,	O
 nuori	O
 aikuinen	O
 =	O
 täydet	O
-5	O
+5	B-CARDINAL
 piirrettä	O
 )	O
 .	O
@@ -23819,7 +23819,7 @@ taloon	O
 voi	O
 tehdä	O
 täydet	O
-viisi	O
+viisi	B-CARDINAL
 kerrosta	O
 korkean	O
 katon	O
@@ -23841,7 +23841,7 @@ huhti	B-DATE
 toukokuun	I-DATE
 painoksessa	O
 on	O
-12	O
+12	B-CARDINAL
 -	O
 sivuinen	O
 esikatselu	O
@@ -23908,7 +23908,7 @@ se	O
 että	O
 kun	O
 pelaat	O
-yhtä	O
+yhtä	B-CARDINAL
 taloutta	O
 ,	O
 muissa	O
@@ -24152,14 +24152,14 @@ lisää	O
 uudistuksia	O
 peliin	O
 ,	O
-yhden	O
+yhden	B-CARDINAL
 niistä	O
 olleen	O
 naapuruston	O
 tutkiminen	O
 .	O
 
-Ensimmäistä	O
+Ensimmäistä	B-ORDINAL
 kertaa	O
 ikinä	O
 tässä	O
@@ -24201,7 +24201,7 @@ Peliin	O
 voi	O
 ostaa	O
 tavaraa	O
-Sims	O
+Sims	B-PRODUCT
 -	O
 pisteillä	O
 pelin	O
@@ -24249,7 +24249,7 @@ yhdistyksiä	O
 ,	O
 uimarantoja	O
 ,	O
-kaksi	O
+kaksi	B-CARDINAL
 uimalaa	O
 ,	O
 kylpylä	O
@@ -24462,8 +24462,8 @@ Taitojen	O
 kehittyminen	O
 näytetään	O
 selkeästi	O
-yhdestä	O
-kymmeneen	O
+yhdestä	B-CARDINAL
+kymmeneen	B-CARDINAL
 ,	O
 ja	O
 esim	O
@@ -24492,8 +24492,8 @@ mielellään	O
 Alexanderin	B-LOC
 saaristo	I-LOC
 (	O
-engl	O
-.	O
+engl	B-LANGUAGE
+.	I-LANGUAGE
 Alexander	B-LOC
 Archipelago	I-LOC
 )	O
@@ -24991,7 +24991,7 @@ rajoittamisessa	O
 
 Obama	B-PERSON
 on	O
-kolmas	O
+kolmas	B-ORDINAL
 istuva	O
 Yhdysvaltain	B-GPE
 presidentti	O
@@ -25034,14 +25034,14 @@ vuonna	B-DATE
 2002	I-DATE
 .	O
 
-Kymmeniä	O
+Kymmeniä	B-CARDINAL
 kuollut	O
 pommi	O
 -	O
 iskussa	O
 Algeriassa	B-GPE
 
-Kymmeniä	O
+Kymmeniä	B-CARDINAL
 ihmisiä	O
 on	O
 kuollut	O
@@ -25054,14 +25054,14 @@ Algeriassa	B-GPE
 Pääkaupungissa	O
 Algerissa	B-GPE
 räjähti	O
-kaksi	O
+kaksi	B-CARDINAL
 autopommia	O
 .	O
 
 Yhteensä	O
-180	O
-:	O
-n	O
+180	B-CARDINAL
+:	I-CARDINAL
+n	I-CARDINAL
 kerrotaan	O
 haavoittuneen	O
 ,	O
@@ -25076,7 +25076,7 @@ mukaan	O
 kuolleita	O
 olisi	O
 ainakin	O
-67	O
+67	B-CARDINAL
 .	O
 
 Sisäministeri	O
@@ -25089,7 +25089,7 @@ olisi	O
 kuitenkin	O
 varmistunut	O
 vasta	O
-22	O
+22	B-CARDINAL
 .	O
 
 Heidän	O
@@ -25141,7 +25141,7 @@ rakennukseen	O
 ,	O
 jonka	O
 luona	O
-kymmenet	O
+kymmenet	B-CARDINAL
 yliopisto	O
 -	O
 opiskelijat	O
@@ -25334,7 +25334,7 @@ johdosta	O
 Indonesia	B-GPE
 on	O
 maailman	O
-kolmanneksi	O
+kolmanneksi	B-ORDINAL
 suurin	O
 kasvihuonekaasujen	O
 tuottaja	O
@@ -25462,10 +25462,10 @@ tilalla	I-FAC
 
 Tilalla	O
 on	O
-parikymmentä	O
+parikymmentä	B-CARDINAL
 kyyttöä	O
 ja	O
-viisi	O
+viisi	B-CARDINAL
 hevosta	O
 .	O
 
@@ -25655,7 +25655,7 @@ Yhdysvaltojen	B-EVENT
 presidentinvaalien	I-EVENT
 esivaaleissa	I-EVENT
 äänestettiin	O
-24	O
+24	B-CARDINAL
 osavaltioissa	O
 .	O
 
@@ -25717,7 +25717,7 @@ osavaltiossa	O
 Republikaanien	B-NORP
 kisaa	O
 käydään	O
-kolmen	O
+kolmen	B-CARDINAL
 kilpailijan	O
 kesken	O
 ,	O
@@ -25828,8 +25828,8 @@ kimppuun	O
 käymisestä	O
 .	O
 
-Useat	O
-sadat	O
+Useat	B-CARDINAL
+sadat	I-CARDINAL
 ihmiset	O
 ovatkin	O
 eilen	B-DATE
@@ -25968,9 +25968,9 @@ mestareiden	O
 liigassa	O
 englantilaisella	B-NORP
 Arsenalille	B-ORG
-6	O
-–	O
-7	O
+6	B-CARDINAL
+–	I-CARDINAL
+7	I-CARDINAL
 rangaistuspotkukilpailussa	O
 .	O
 
@@ -25978,18 +25978,18 @@ AS	B-ORG
 Roma	I-ORG
 hävisi	O
 joukkueiden	O
-ensimmäisen	O
+ensimmäisen	B-ORDINAL
 kohtaamisen	O
-1	O
-–	O
-0	O
+1	B-CARDINAL
+–	I-CARDINAL
+0	I-CARDINAL
 ,	O
 joten	O
 italialaiset	B-NORP
 olisivat	O
 tarvinneet	O
 vähintää	O
-kahden	O
+kahden	B-CARDINAL
 maalin	O
 voiton	O
 pudoktaakseen	O
@@ -26000,13 +26000,13 @@ AS	B-ORG
 Roma	I-ORG
 siirtyi	O
 jo	O
-yhdeksännellä	O
-minuutilla	O
+yhdeksännellä	B-TIME
+minuutilla	I-TIME
 Juanin	B-PERSON
 maalilla	O
-1	O
-–	O
-0	O
+1	B-CARDINAL
+–	I-CARDINAL
+0	I-CARDINAL
 johtoon	O
 .	O
 
@@ -26017,17 +26017,17 @@ Diaby	I-PERSON
 sai	O
 keltaisen	O
 kortin	O
-49	O
-.	O
+49	B-ORDINAL
+.	I-ORDINAL
 minuutilla	O
 .	O
 
 Saman	O
 kohtalon	O
 koki	O
-89	O
-.	O
-minuutilla	O
+89	B-TIME
+.	I-TIME
+minuutilla	I-TIME
 AS	B-ORG
 Roman	I-ORG
 Marco	B-PERSON
@@ -26046,7 +26046,7 @@ rangaistuspotkuihin	O
 .	O
 
 Arsenalin	B-ORG
-ensimmäinen	O
+ensimmäinen	B-ORDINAL
 laukoja	O
 ,	O
 Eduardo	B-PERSON
@@ -26057,9 +26057,9 @@ ja	O
 AS	B-ORG
 Roma	I-ORG
 siirtyi	O
-1	O
-–	O
-0	O
+1	B-CARDINAL
+–	I-CARDINAL
+0	I-CARDINAL
 johtoon	O
 ,	O
 kun	O
@@ -26068,7 +26068,7 @@ Pizarro	I-PERSON
 onnistui	O
 .	O
 
-Toisissa	O
+Toisissa	B-ORDINAL
 laukojissa	O
 Arsenalin	B-ORG
 Robin	B-PERSON
@@ -26093,7 +26093,7 @@ tasan	O
 ,	O
 kunnes	O
 tulivat	O
-kahdeksannet	O
+kahdeksannet	B-ORDINAL
 laukojat	O
 .	O
 
@@ -26441,8 +26441,8 @@ Euroopassa	B-LOC
 
 Palveluoperaattorit	O
 lisääntyivät	O
-yli	O
-tuhanteen	O
+yli	B-CARDINAL
+tuhanteen	I-CARDINAL
 ,	O
 vaikka	O
 ajavat	O
@@ -26453,8 +26453,8 @@ palveluoperaattorien	O
 lukumäärä	O
 nousi	O
 kesällä	B-DATE
-yli	O
-tuhanteen	O
+yli	B-CARDINAL
+tuhanteen	I-CARDINAL
 .	O
 
 Kasvua	O
@@ -26480,10 +26480,10 @@ mukaan	O
 kesäkuussa	B-DATE
 maailmassa	O
 oli	O
-1	O
-\	O
-_	O
-017	O
+1	B-CARDINAL
+\	I-CARDINAL
+_	I-CARDINAL
+017	I-CARDINAL
 mvno	O
 -	O
 operaattoria	O
@@ -26499,7 +26499,7 @@ operator	O
 vuoden	I-DATE
 seurantajakson	O
 aikana	O
-210	O
+210	B-CARDINAL
 palveluoperaattoria	O
 on	O
 joko	O
@@ -26518,9 +26518,9 @@ pahamaineisen	O
 mataliksi	O
 .	O
 
-20	O
-:	O
-n	O
+20	B-CARDINAL
+:	I-CARDINAL
+n	I-CARDINAL
 vuosineljännestuloksista	O
 raportoivan	O
 palveluoperaattorin	O
@@ -26536,7 +26536,7 @@ Palveluoperaattorit	O
 ,	O
 joita	O
 on	O
-30	O
+30	B-CARDINAL
 maassa	O
 ,	O
 ovat	O
@@ -26549,34 +26549,34 @@ ilmiö	O
 Saksassa	B-GPE
 palveluoperaattoreita	O
 on	O
-129	O
+129	B-CARDINAL
 ,	O
 Yhdysvalloissa	B-GPE
-108	O
+108	B-CARDINAL
 ,	O
 Britanniassa	B-GPE
-76	O
+76	B-CARDINAL
 ,	O
 Hollannissa	B-GPE
-56	O
+56	B-CARDINAL
 ,	O
 Ranskassa	B-GPE
-49	O
+49	B-CARDINAL
 ,	O
 Australiassa	B-GPE
-43	O
+43	B-CARDINAL
 ,	O
 Tanskassa	B-GPE
-43	O
+43	B-CARDINAL
 ,	O
 Espanjassa	B-GPE
-35	O
+35	B-CARDINAL
 ,	O
 Belgiassa	B-GPE
-26	O
+26	B-CARDINAL
 ja	O
 Japanissa	B-GPE
-23	O
+23	B-CARDINAL
 .	O
 
 Kehittyvissä	O
@@ -26586,22 +26586,22 @@ palveluoperaattoreita	O
 on	O
 Puolassa	B-GPE
 ,	O
-27	O
+27	B-CARDINAL
 .	O
 
 Venäjällä	B-GPE
 niitä	O
 on	O
-16	O
+16	B-CARDINAL
 ,	O
 Malesiassa	B-GPE
-13	O
+13	B-CARDINAL
 ,	O
 Kiinassa	B-GPE
-11	O
+11	B-CARDINAL
 ja	O
 Chilessä	B-GPE
-8	O
+8	B-CARDINAL
 .	O
 
 GSMA	B-ORG
@@ -26663,7 +26663,7 @@ otettaan	O
 kuluttajien	O
 elämästä	O
 jo	O
-toisen	O
+toisen	B-ORDINAL
 kerran	O
 tällä	B-DATE
 viikolla	I-DATE
@@ -26832,7 +26832,7 @@ Yelp	B-ORG
 Tämä	O
 on	O
 jo	O
-toinen	O
+toinen	B-ORDINAL
 kerta	O
 tällä	B-DATE
 viikolla	I-DATE
@@ -27025,7 +27025,7 @@ Model	B-PRODUCT
 S	I-PRODUCT
 .	O
 
-Ensimmäiset	O
+Ensimmäiset	B-ORDINAL
 Model	B-PRODUCT
 X	I-PRODUCT
 -	O
@@ -27117,8 +27117,8 @@ vuodesta	B-DATE
 Niitä	O
 on	O
 jo	O
-yli	O
-tuhat	O
+yli	B-CARDINAL
+tuhat	I-CARDINAL
 ,	O
 mutta	O
 valitettavasti	O
@@ -27137,7 +27137,7 @@ Coat	I-ORG
 julkaisi	O
 tiistaina	B-DATE
 raporttinsa	O
-kymmenestä	O
+kymmenestä	B-CARDINAL
 pahimmasta	O
 ja	O
 uudesta	O
@@ -27159,17 +27159,17 @@ epäilyttäviä	O
 Yritys	O
 perustaa	O
 raporttinsa	O
-15	O
-\	O
-_	O
-000	O
+15	B-CARDINAL
+\	I-CARDINAL
+_	I-CARDINAL
+000	I-CARDINAL
 yrityksen	O
 ja	O
-75	O
-miljoonan	O
+75	B-CARDINAL
+miljoonan	I-CARDINAL
 kuluttajan	O
-satoihin	O
-miljooniin	O
+satoihin	B-CARDINAL
+miljooniin	I-CARDINAL
 linkkauksiin	O
 .	O
 
@@ -27366,7 +27366,7 @@ prosenttia	I-PERCENT
 ,	O
 kasvatti	O
 Yhdysvaltain	B-GPE
-kolmanneksi	O
+kolmanneksi	B-ORDINAL
 suurimman	O
 matkapuhelinoperaattorin	O
 markkina	O
@@ -27451,7 +27451,7 @@ fuusioida	O
 Sprintiä	B-ORG
 ja	O
 maan	O
-neljänneksi	O
+neljänneksi	B-ORDINAL
 suurinta	O
 matkapuhelinoperaattoria	O
 ,	O
@@ -27662,7 +27662,7 @@ Television	O
 nettitallennus	O
 muuttumassa	O
 :	O
-Yksi	O
+Yksi	B-CARDINAL
 tallennuspalvelu	O
 lopetti	O
 jo	O
@@ -27785,8 +27785,8 @@ Olemme	O
 nyt	O
 maksaneet	O
 lisenssimaksuja	O
-pari	O
-kuukautta	O
+pari	B-DATE
+kuukautta	I-DATE
 ,	O
 ja	O
 pohdimme	O
@@ -27825,7 +27825,7 @@ nostettu	O
 .	O
 
 Ainakin	O
-yksi	O
+yksi	B-CARDINAL
 toimija	O
 on	O
 jo	O
@@ -28705,8 +28705,8 @@ rahoituksen	O
 sijoittajilta	O
 .	O
 
-Ensimmäiset	O
-puoli	B-MONEY
+Ensimmäiset	B-MONEY
+puoli	I-MONEY
 miljoonaa	I-MONEY
 saatiin	O
 Lifelinelta	B-ORG
@@ -28760,7 +28760,7 @@ ja	O
 Om	B-PERSON
 Malik	I-PERSON
 on	O
-yksi	O
+yksi	B-CARDINAL
 teknologia	O
 -	O
 alan	O
@@ -28790,7 +28790,7 @@ avainbrändin	O
 joista	O
 Runeblade	B-PRODUCT
 on	O
-yksi	O
+yksi	B-CARDINAL
 .	O
 
 Nyt	O
@@ -28826,7 +28826,7 @@ pelaajamäärää	O
 mutta	O
 nostaa	O
 esiin	O
-yhden	O
+yhden	B-CARDINAL
 kiinnostavan	O
 luvun	O
 .	O
@@ -28862,8 +28862,8 @@ pelaajista	O
 "	O
 kellottavat	O
 "	O
-yli	O
-sata	O
+yli	B-CARDINAL
+sata	I-CARDINAL
 sessiota	O
 päivässä	O
 .	O
@@ -28959,7 +28959,7 @@ kolmessa	B-DATE
 kuukaudessa	I-DATE
 noussut	O
 maailman	O
-toiseksi	O
+toiseksi	B-ORDINAL
 suurimmaksi	O
 älykellojen	O
 valmistajaksi	O
@@ -28969,7 +28969,7 @@ kelloja	O
 enemmän	O
 kuin	O
 aikanaan	O
-ensimmäisiä	O
+ensimmäisiä	B-ORDINAL
 iPhoneja	B-PRODUCT
 samassa	O
 ajassa	O
@@ -29226,7 +29226,7 @@ voivat	O
 ostaa	O
 itselleen	O
 näkyvyyttä	O
-ensimmäisten	O
+ensimmäisten	B-ORDINAL
 hakutulosten	O
 joukossa	O
 .	O
@@ -29272,7 +29272,7 @@ Googlella	B-ORG
 on	O
 vastassaan	O
 myös	O
-yksi	O
+yksi	B-CARDINAL
 suuri	O
 kilpailija	O
 :	O
@@ -29390,8 +29390,8 @@ monia	O
 tilanteen	O
 ,	O
 jossa	O
-yksi	O
-kymmenistä	O
+yksi	B-CARDINAL
+kymmenistä	B-CARDINAL
 välilehdistä	O
 alkaa	O
 pyörittää	O
@@ -29618,8 +29618,8 @@ lukujen	O
 mukaan	O
 Androidilla	B-PRODUCT
 on	O
-kolmen	O
-neljäsosan	O
+kolmen	B-CARDINAL
+neljäsosan	I-CARDINAL
 markkinaosuus	O
 Euroopassa	B-LOC
 .	O
@@ -29662,9 +29662,9 @@ kilpailua	O
 Google	B-ORG
 on	O
 tehnyt	O
-noin	O
-20	O
-miljardia	O
+noin	B-CARDINAL
+20	I-CARDINAL
+miljardia	I-CARDINAL
 ohjausta	O
 eurooppalaisiin	B-NORP
 internet	O
@@ -29768,10 +29768,10 @@ vuoden	B-DATE
 toisella	I-DATE
 neljänneksellä	I-DATE
 kaikkiaan	O
-3	O
-,	O
-6	O
-miljoonaa	O
+3	B-CARDINAL
+,	I-CARDINAL
+6	I-CARDINAL
+miljoonaa	I-CARDINAL
 .	O
 
 IDC	B-ORG
@@ -29803,14 +29803,14 @@ mukaan	O
 Apple	B-PRODUCT
 Watch	I-PRODUCT
 nousi	O
-toiseksi	O
+toiseksi	B-ORDINAL
 suurimmaksi	O
 ranneketoimittajaksi	O
 Fitbitin	B-ORG
 jälkeen	O
 .	O
 
-Kolmanneksi	O
+Kolmanneksi	B-ORDINAL
 eniten	O
 niitä	O
 toimitti	O
@@ -29836,8 +29836,8 @@ kallein	O
 Niissä	O
 se	O
 vastasi	O
-kahdesta	O
-kolmasosasta	O
+kahdesta	B-CARDINAL
+kolmasosasta	I-CARDINAL
 kaikista	O
 toimituksista	O
 .	O
@@ -29885,7 +29885,7 @@ Engadget	B-ORG
 Huima	O
 ennätys	O
 :	O
-Miljardi	O
+Miljardi	B-CARDINAL
 käyttäjää	O
 vieraili	O
 Facebookissa	B-PRODUCT
@@ -29913,7 +29913,7 @@ mukaan	O
 Facebookissa	B-PRODUCT
 kävi	O
 maanantaina	B-DATE
-miljardi	O
+miljardi	B-CARDINAL
 vierailijaa	O
 .	O
 
@@ -29922,11 +29922,11 @@ käyttää	O
 ainakin	O
 kerran	O
 kuukaudessa	O
-noin	O
-1	O
-,	O
-5	O
-miljardia	O
+noin	B-CARDINAL
+1	I-CARDINAL
+,	I-CARDINAL
+5	I-CARDINAL
+miljardia	I-CARDINAL
 jäsentä	O
 .	O
 
@@ -29938,9 +29938,9 @@ sitä	O
 että	O
 maailman	O
 ihmisistä	O
-noin	O
-joka	O
-seitsemäs	O
+noin	B-ORDINAL
+joka	I-ORDINAL
+seitsemäs	I-ORDINAL
 kirjautui	O
 Facebookiin	B-PRODUCT
 ,	O
@@ -30086,7 +30086,7 @@ euroa	I-MONEY
 yhdistelmällä	O
 .	O
 
-Yksi	O
+Yksi	B-CARDINAL
 tavoista	O
 ,	O
 joilla	O
@@ -30489,7 +30489,7 @@ väärin	O
 Irtisanomiset	O
 ovat	O
 tiettävästi	O
-ensimmäiset	O
+ensimmäiset	B-ORDINAL
 Lab126	B-ORG
 :	I-ORG
 n	I-ORG
@@ -30852,7 +30852,7 @@ Applen	B-ORG
 entinen	O
 toimitusjohtaja	O
 julkisti	O
-kaksi	O
+kaksi	B-CARDINAL
 Android	B-PRODUCT
 -	O
 puhelinta	O
@@ -30866,7 +30866,7 @@ markkinointimies	O
 John	B-PERSON
 Sculley	I-PERSON
 julkisti	O
-kaksi	O
+kaksi	B-CARDINAL
 tyylikästä	O
 ,	O
 kehittyville	O
@@ -30888,7 +30888,7 @@ markkinaosuuden	O
 nousuun	O
 ,	O
 on	O
-yksi	O
+yksi	B-CARDINAL
 Obi	B-ORG
 Worldphone	I-ORG
 -	O
@@ -30896,7 +30896,7 @@ yrityksen	O
 perustajista	O
 .	O
 
-Toinen	O
+Toinen	B-ORDINAL
 on	O
 designstudio	O
 Ammunitionin	B-ORG
@@ -31033,10 +31033,10 @@ muovirunkoinen	O
 viiden	B-QUANTITY
 tuuman	I-QUANTITY
 ja	O
-kahden	O
+kahden	B-CARDINAL
 kameran	O
 ja	O
-kahden	O
+kahden	B-CARDINAL
 salaman	O
 4G	O
 -	O
@@ -31096,7 +31096,7 @@ täältä	O
 Molemmissa	O
 puhelimissa	O
 on	O
-kaksi	O
+kaksi	B-CARDINAL
 sim	O
 -	O
 korttipaikkaa	O
@@ -31297,7 +31297,7 @@ jälkihäiriöt	O
 mahdollisia	O
 .	O
 
-260	O
+260	B-CARDINAL
 joutumassa	O
 Rovion	B-ORG
 leikkuriin	O
@@ -31306,7 +31306,7 @@ Peliyhtiö	O
 voi	O
 vähentää	O
 jopa	O
-260	O
+260	B-CARDINAL
 työntekijää	O
 .	O
 
@@ -31321,7 +31321,7 @@ jotka	O
 voivat	O
 johtaa	O
 jopa	O
-260	O
+260	B-CARDINAL
 työntekijän	O
 irtisanomiseen	O
 maailmanlaajuisesti	O
@@ -31333,7 +31333,7 @@ on	O
 yhtiön	O
 mukaan	O
 korkeintaan	O
-230	O
+230	B-CARDINAL
 työpaikkaa	O
 .	O
 
@@ -31355,7 +31355,7 @@ Rovio	B-ORG
 kertoo	O
 keskittyvänsä	O
 tulevaisuudessa	O
-kolmeen	O
+kolmeen	B-CARDINAL
 liiketoiminta	O
 -	O
 alueeseen	O
@@ -31454,7 +31454,7 @@ tiedotteessa	O
 
 Rovio	B-ORG
 työllistää	O
-670	O
+670	B-CARDINAL
 työntekijää	O
 maailmanlaajuisesti	O
 .	O
@@ -31769,13 +31769,13 @@ vuosina	B-DATE
 2008	I-DATE
 ja	O
 2009	B-DATE
-kolmessa	O
+kolmessa	B-CARDINAL
 eri	O
 tietomurrossa	O
-619	O
-\	O
-_	O
-000	O
+619	B-CARDINAL
+\	I-CARDINAL
+_	I-CARDINAL
+000	I-CARDINAL
 kuluttajan	O
 tiedot	O
 .	O
@@ -31887,10 +31887,10 @@ lojumaan	O
 lattioille	O
 ,	O
 että	O
-619	O
-\	O
-_	O
-000	O
+619	B-CARDINAL
+\	I-CARDINAL
+_	I-CARDINAL
+000	I-CARDINAL
 asiakasta	O
 liukastuu	O
 niihin	O
@@ -31927,9 +31927,9 @@ Niiden	O
 myynnin	O
 ennustetaan	O
 nousevan	O
-yli	O
-80	O
-miljoonaan	O
+yli	B-CARDINAL
+80	I-CARDINAL
+miljoonaan	I-CARDINAL
 kolmen	B-DATE
 vuoden	I-DATE
 päästä	I-DATE
@@ -31950,10 +31950,10 @@ vuosimyynti	O
 kasvaa	O
 viime	B-DATE
 vuoden	I-DATE
-23	O
-miljoonasta	O
-82	O
-miljoonaan	O
+23	B-CARDINAL
+miljoonasta	I-CARDINAL
+82	B-CARDINAL
+miljoonaan	I-CARDINAL
 vuonna	B-DATE
 2019	I-DATE
 .	O
@@ -31991,8 +31991,8 @@ niiden	O
 Yhdysvaltain	B-GPE
 myynnin	O
 kasvavan	O
-17	O
-miljoonaan	O
+17	B-CARDINAL
+miljoonaan	I-CARDINAL
 laitteeseen	O
 vuonna	B-DATE
 2019	I-DATE
@@ -32002,10 +32002,10 @@ Viime	B-DATE
 vuonna	I-DATE
 niitä	O
 myytiin	O
-5	O
-,	O
-5	O
-miljoonaa	O
+5	B-CARDINAL
+,	I-CARDINAL
+5	I-CARDINAL
+miljoonaa	I-CARDINAL
 kappaletta	O
 .	O
 
@@ -32225,7 +32225,7 @@ Carnegie	B-ORG
 Mellonissa	I-ORG
 ,	O
 josta	O
-40	O
+40	B-CARDINAL
 yliopiston	O
 tutkijaa	O
 ja	O
@@ -32241,9 +32241,9 @@ Tekes	B-ORG
 Sijoitukset	O
 pelialaan	O
 tulivat	O
-6	O
-—	O
-24	O
+6	B-CARDINAL
+—	I-CARDINAL
+24	I-CARDINAL
 -	O
 kertaisina	O
 takaisin	O
@@ -32322,10 +32322,10 @@ työllistää	O
 Suomessa	B-GPE
 tällä	O
 hetkellä	O
-noin	O
-2500	O
+noin	B-CARDINAL
+2500	I-CARDINAL
 ihmistä	O
-260	O
+260	B-CARDINAL
 yrityksessä	O
 .	O
 
@@ -32348,8 +32348,8 @@ rahoittaneensa	O
 kymmenen	B-DATE
 vuoden	I-DATE
 aikana	O
-yli	O
-100	O
+yli	B-CARDINAL
+100	I-CARDINAL
 peliyritystä	O
 yhteensä	O
 70	B-MONEY
@@ -32406,9 +32406,9 @@ maksaneen	O
 itsensä	O
 takaisin	O
 veronmaksajille	O
-6	O
-—	O
-24	O
+6	B-CARDINAL
+—	I-CARDINAL
+24	I-CARDINAL
 -	O
 kertaisina	O
 .	O
@@ -32536,10 +32536,10 @@ kehittävänsä	O
 oman	O
 videopelien	O
 suoratoistopalvelun	O
-25	O
-\	O
-_	O
-000	O
+25	B-CARDINAL
+\	I-CARDINAL
+_	I-CARDINAL
+000	I-CARDINAL
 pelin	O
 ohjelmatietokannalla	O
 .	O
@@ -32593,8 +32593,8 @@ sillä	O
 on	O
 jo	O
 kirjoissaan	O
-sata	O
-miljoonaa	O
+sata	B-CARDINAL
+miljoonaa	I-CARDINAL
 pelifania	O
 ,	O
 jotka	O
@@ -32619,7 +32619,7 @@ mukaan	O
 puolet	O
 sen	O
 katsotuimmasta	O
-sadasta	O
+sadasta	B-CARDINAL
 kanavasta	O
 keskittyy	O
 pelaamiseen	O
@@ -33103,12 +33103,12 @@ vuoden	B-DATE
 tiedoilla	O
 ennusti	O
 oikein	O
-kuusi	O
+kuusi	B-CARDINAL
 talvi	B-DATE
 /	I-DATE
 syyskauden	I-DATE
 muotiesitysten	O
-kahdeksasta	O
+kahdeksasta	B-CARDINAL
 suosituimmasta	O
 uudesta	O
 mallista	O
@@ -33170,21 +33170,21 @@ viime	B-DATE
 keväänä	I-DATE
 lavalle	O
 edes	O
-ensimmäisen	O
+ensimmäisen	B-ORDINAL
 kerran	O
 .	O
 
 Seurantaan	O
 otettiin	O
-noin	O
-400	O
+noin	B-CARDINAL
+400	I-CARDINAL
 naismallia	O
 ,	O
 joista	O
 valinta	O
 myöhemmin	O
 rajattiin	O
-15	O
+15	B-CARDINAL
 “	O
 uuteen	O
 kasvoon	O
@@ -33214,7 +33214,7 @@ ennusti	O
 oikein	O
 80	B-PERCENT
 prosenttia	I-PERCENT
-kahdeksan	O
+kahdeksan	B-CARDINAL
 kärkeen	O
 sijoittuneista	O
 .	O
@@ -33316,7 +33316,7 @@ ulkopuolella	O
 .	O
 
 Onko	O
-kolmannelle	O
+kolmannelle	B-ORDINAL
 pyörälle	O
 tilaa	O
 :	O
@@ -33346,7 +33346,7 @@ iOS	B-PRODUCT
 -	O
 version	O
 käyttäjäkokemuksia	O
-yhdessä	O
+yhdessä	B-CARDINAL
 maassa	O
 ,	O
 Uudessa	B-GPE
@@ -33431,7 +33431,7 @@ riippuen	O
 se	O
 asettuu	O
 yleensä	O
-kolmanneksi	O
+kolmanneksi	B-ORDINAL
 suosituimmaksi	O
 selaimeksi	O
 Internet	B-PRODUCT
@@ -33467,7 +33467,7 @@ kuvauksia	O
 
 Google	B-ORG
 lisää	O
-500	O
+500	B-CARDINAL
 uutta	O
 tautia	O
 terveyspalveluunsa	O
@@ -33496,7 +33496,7 @@ löytämään	O
 oireisiinsa	O
 sopivan	O
 taudin	O
-400	O
+400	B-CARDINAL
 joukosta	O
 .	O
 
@@ -33510,9 +33510,9 @@ tautikanta	O
 on	O
 kohta	O
 kasvatettu	O
-900	O
-:	O
-aan	O
+900	B-CARDINAL
+:	I-CARDINAL
+aan	I-CARDINAL
 .	O
 
 Mukana	O
@@ -33702,8 +33702,8 @@ dollarin	I-MONEY
 pottia	O
 ja	O
 muutamia	O
-satoja	O
-miljoonia	O
+satoja	B-CARDINAL
+miljoonia	I-CARDINAL
 päälle	O
 .	O
 
@@ -34169,14 +34169,14 @@ joka	O
 poimi	O
 tietokannasta	O
 murrettavaksi	O
-miljoona	O
+miljoona	B-CARDINAL
 yksisuuntaisesti	O
 salakirjoitettua	O
 salasanaa	O
 verraten	O
 niitä	O
 "	O
-500	O
+500	B-CARDINAL
 worst	O
 passwords	O
 of	O
@@ -34203,13 +34203,13 @@ aikana	O
 yhtiö	O
 sai	O
 murrettua	O
-25	O
-393	O
+25	B-CARDINAL
+393	I-CARDINAL
 salasanaa	O
 ,	O
 joista	O
 vain	O
-1064	O
+1064	B-CARDINAL
 oli	O
 ainutkertaisia	O
 .	O
@@ -34221,7 +34221,7 @@ laskelman	O
 perusteella	O
 Ashley	B-PRODUCT
 Madisonin	I-PRODUCT
-20	O
+20	B-CARDINAL
 suosituimman	O
 salasanan	O
 lista	O
@@ -34235,153 +34235,153 @@ on	O
 salasanan	O
 esiintymiskertojen	O
 määrä	O
-25	O
-393	O
-:	O
-n	O
+25	B-CARDINAL
+393	I-CARDINAL
+:	I-CARDINAL
+n	I-CARDINAL
 salasanan	O
 joukossa	O
 )	O
 :	O
 
-1	O
+1	B-CARDINAL
 :	O
-123456	O
+123456	B-CARDINAL
 (	O
-6495	O
+6495	B-CARDINAL
 )	O
 
-2	O
+2	B-CARDINAL
 :	O
 password	O
 (	O
-3268	O
+3268	B-CARDINAL
 )	O
 
-3	O
+3	B-CARDINAL
 :	O
-12345	O
+12345	B-CARDINAL
 (	O
-2024	O
+2024	B-CARDINAL
 )	O
 
-4	O
+4	B-CARDINAL
 :	O
-12345678	O
+12345678	B-CARDINAL
 (	O
-880	O
+880	B-CARDINAL
 )	O
 
-5	O
+5	B-CARDINAL
 :	O
 qwerty	O
 (	O
-768	O
+768	B-CARDINAL
 )	O
 
-6	O
+6	B-CARDINAL
 :	O
 pussy	O
 (	O
-453	O
+453	B-CARDINAL
 )	O
 
-7	O
+7	B-CARDINAL
 :	O
 secret	O
 (	O
-248	O
+248	B-CARDINAL
 )	O
 
-8	O
+8	B-CARDINAL
 :	O
 dragon	O
 (	O
-209	O
+209	B-CARDINAL
 )	O
 
-9	O
+9	B-CARDINAL
 :	O
 welcome	O
 (	O
-201	O
+201	B-CARDINAL
 )	O
 
-10	O
+10	B-CARDINAL
 :	O
 ginger	O
 (	O
-198	O
+198	B-CARDINAL
 )	O
 
-11	O
+11	B-CARDINAL
 :	O
 sparky	O
 (	O
-173	O
+173	B-CARDINAL
 )	O
 
-12	O
+12	B-CARDINAL
 :	O
 helpme	O
 (	O
-168	O
+168	B-CARDINAL
 )	O
 
-13	O
+13	B-CARDINAL
 :	O
 blowjob	O
 (	O
-164	O
+164	B-CARDINAL
 )	O
 
-14	O
+14	B-CARDINAL
 :	O
 nicole	O
 (	O
-152	O
+152	B-CARDINAL
 )	O
 
-15	O
+15	B-CARDINAL
 :	O
 justin	O
 (	O
-134	O
+134	B-CARDINAL
 )	O
 
-16	O
+16	B-CARDINAL
 :	O
 camaro	O
 (	O
-129	O
+129	B-CARDINAL
 )	O
 
-17	O
+17	B-CARDINAL
 :	O
 johnson	O
 (	O
-120	O
+120	B-CARDINAL
 )	O
 
-18	O
+18	B-CARDINAL
 :	O
 yamaha	O
 (	O
-117	O
+117	B-CARDINAL
 )	O
 
-19	O
+19	B-CARDINAL
 :	O
 midnight	O
 (	O
-113	O
+113	B-CARDINAL
 )	O
 
-20	O
+20	B-CARDINAL
 :	O
 chris	O
 (	O
-103	O
+103	B-CARDINAL
 )	O
 
 Avastin	B-ORG
@@ -34689,11 +34689,11 @@ fyysisesti	O
 .	O
 
 Tietomurrolla	O
-21	O
-miljoonaa	O
+21	B-CARDINAL
+miljoonaa	I-CARDINAL
 uhria	O
 —	O
-yhdellekään	O
+yhdellekään	B-CARDINAL
 ei	O
 ole	O
 kerrottu	O
@@ -34720,12 +34720,12 @@ OPM	B-ORG
 viraston	O
 massiivisesta	O
 tietomurrosta	O
-yhdellekään	O
+yhdellekään	B-CARDINAL
 niistä	O
-21	O
-,	O
-5	O
-miljoonasta	O
+21	B-CARDINAL
+,	I-CARDINAL
+5	I-CARDINAL
+miljoonasta	I-CARDINAL
 liittovaltion	O
 työntekijästä	O
 ja	O
@@ -34916,7 +34916,7 @@ kiristävä	O
 ohjelma	O
 on	O
 vain	O
-parin	O
+parin	B-CARDINAL
 helpon	O
 askeleen	O
 päässä	O
@@ -35141,7 +35141,7 @@ Affairs	I-ORG
 blogi	O
 .	O
 
-Toinen	O
+Toinen	B-ORDINAL
 esimerkki	O
 kiristysohjelmien	O
 leviämisestä	O
@@ -35260,7 +35260,7 @@ TechCrunch	B-ORG
 nostaa	O
 sen	O
 esille	O
-yhtenä	O
+yhtenä	B-CARDINAL
 syynä	O
 hankkeelle	O
 .	O
@@ -35434,10 +35434,10 @@ tai	O
 signaalia	O
 .	O
 
-225	O
-\	O
-_	O
-000	O
+225	B-CARDINAL
+\	I-CARDINAL
+_	I-CARDINAL
+000	I-CARDINAL
 Apple	B-ORG
 -	O
 tiliä	O
@@ -35479,10 +35479,10 @@ lainaa	O
 .	O
 
 Jopa	O
-225	O
-\	O
-_	O
-000	O
+225	B-CARDINAL
+\	I-CARDINAL
+_	I-CARDINAL
+000	I-CARDINAL
 Apple	B-ORG
 -	O
 tiliä	O
@@ -35600,11 +35600,11 @@ laskuun	O
 Sovellusta	O
 oli	O
 ladattu	O
-noin	O
-20	O
-\	O
-_	O
-000	O
+noin	B-CARDINAL
+20	I-CARDINAL
+\	I-CARDINAL
+_	I-CARDINAL
+000	I-CARDINAL
 kappaletta	O
 tiistaina	B-DATE
 ,	O
@@ -35644,7 +35644,7 @@ verkkosivuilla	O
 ,	O
 mutta	O
 kaikkiaan	O
-18	O
+18	B-CARDINAL
 maassa	O
 kuten	O
 Yhdysvalloissa	B-GPE
@@ -35919,12 +35919,12 @@ S	B-ORG
 ryhmällä	I-ORG
 on	O
 Venäjällä	B-GPE
-17	O
+17	B-CARDINAL
 Prisma	B-ORG
 -	O
 kauppaa	O
 ja	O
-kolme	O
+kolme	B-CARDINAL
 hotellia	O
 .	O
 
@@ -36165,7 +36165,7 @@ muiden	O
 nähtäväksi	O
 .	O
 
-Ensimmäinen	O
+Ensimmäinen	B-ORDINAL
 vakava	O
 puute	O
 on	O
@@ -36221,7 +36221,7 @@ sijainti	O
 löytyy	O
 .	O
 
-Toinen	O
+Toinen	B-ORDINAL
 haavoittuvuus	O
 mahdollistaa	O
 pin	O
@@ -36253,7 +36253,7 @@ siihen	O
 omansa	O
 .	O
 
-Kolmas	O
+Kolmas	B-ORDINAL
 haavoittuvuus	O
 on	O
 se	O
@@ -36308,9 +36308,9 @@ Valmistajan	O
 mukaan	O
 AppLockilla	B-PRODUCT
 on	O
-yli	O
-100	O
-miljoonaa	O
+yli	B-CARDINAL
+100	I-CARDINAL
+miljoonaa	I-CARDINAL
 käyttäjää	O
 .	O
 
@@ -36399,15 +36399,15 @@ Flash	B-PRODUCT
 -	O
 versiossa	O
 eli	O
-18	O
-.	O
-0	O
-.	O
-0	O
-.	O
-232	O
-:	O
-ssa	O
+18	B-CARDINAL
+.	I-CARDINAL
+0	I-CARDINAL
+.	I-CARDINAL
+0	I-CARDINAL
+.	I-CARDINAL
+232	I-CARDINAL
+:	I-CARDINAL
+ssa	I-CARDINAL
 ,	O
 vaara	O
 ei	O
@@ -36485,13 +36485,13 @@ joka	O
 iskee	O
 ohjelmiston	O
 versiossa	O
-18	O
-.	O
-0	O
-.	O
-0	O
-.	O
-209	O
+18	B-CARDINAL
+.	I-CARDINAL
+0	I-CARDINAL
+.	I-CARDINAL
+0	I-CARDINAL
+.	I-CARDINAL
+209	I-CARDINAL
 olevaan	O
 haavoittuvuuteen	O
 .	O
@@ -36597,7 +36597,7 @@ kannettavista	O
 tietokoneista	O
 on	O
 löytynyt	O
-kaksi	O
+kaksi	B-CARDINAL
 haavoittuvuutta	O
 ,	O
 joista	O
@@ -36612,8 +36612,8 @@ kaukaa	O
 
 Tiedotteessa	O
 listataan	O
-lähemmäs	O
-40	O
+lähemmäs	B-CARDINAL
+40	I-CARDINAL
 tietokonemallia	O
 ,	O
 jotka	O
@@ -36639,15 +36639,15 @@ Gobi	I-PRODUCT
 moduuli	O
 ja	O
 versiota	O
-12	O
-.	O
-500	O
-.	O
-00	O
-.	O
-15	O
-.	O
-1803	O
+12	B-CARDINAL
+.	I-CARDINAL
+500	I-CARDINAL
+.	I-CARDINAL
+00	I-CARDINAL
+.	I-CARDINAL
+15	I-CARDINAL
+.	I-CARDINAL
+1803	I-CARDINAL
 vanhempi	O
 firmware	O
 .	O
@@ -37032,7 +37032,7 @@ Vanhaa	O
 Windowsia	B-PRODUCT
 kymppiin	O
 päivittäessä	O
-ensimmäinen	O
+ensimmäinen	B-ORDINAL
 yllätys	O
 on	O
 se	O
@@ -37124,7 +37124,7 @@ aloittamiseksi	O
 .	O
 
 Aivan	O
-ensimmäisenä	O
+ensimmäisenä	B-ORDINAL
 varmista	O
 ,	O
 että	O
@@ -37577,9 +37577,9 @@ napilla	O
 
 Luo	O
 uusi	O
-32	O
--	O
-bittinen	O
+32	B-QUANTITY
+-	I-QUANTITY
+bittinen	I-QUANTITY
 DWORD	O
 ,	O
 anna	O
@@ -37588,7 +37588,7 @@ nimeksi	O
 AllowOSUpgrade	O
 ja	O
 arvoksi	O
-1	O
+1	B-CARDINAL
 ,	O
 ja	O
 klikkaa	O
@@ -37884,7 +37884,7 @@ uusia	O
 tietoja	O
 .	O
 
-Ensimmäiset	O
+Ensimmäiset	B-ORDINAL
 paljastukset	O
 koskivat	O
 palveluun	O
@@ -37911,15 +37911,15 @@ Ashley	B-PRODUCT
 Madisonissa	I-PRODUCT
 oli	O
 noin	O
-37	O
-miljoonaa	O
+37	B-CARDINAL
+miljoonaa	I-CARDINAL
 käyttäjää	O
 ,	O
 joista	O
-5	O
-,	O
-5	O
-miljoonaa	O
+5	B-CARDINAL
+,	I-CARDINAL
+5	I-CARDINAL
+miljoonaa	I-CARDINAL
 ilmoitti	O
 olevansa	O
 naisia	O
@@ -37966,8 +37966,8 @@ käyttäjien	O
 viestittelystä	O
 .	O
 
-Kaksi	O
-kolmasosaa	O
+Kaksi	B-CARDINAL
+kolmasosaa	I-CARDINAL
 palveluun	O
 rekisteröityneistä	O
 miehistä	O
@@ -37982,7 +37982,7 @@ kaikista	O
 naiseksi	O
 rekisteröityneistä	O
 vain	O
-1492	O
+1492	B-CARDINAL
 oli	O
 näin	O
 tehnyt	O
@@ -37994,15 +37994,15 @@ taas	O
 vastannut	O
 ainakin	O
 kerran	O
-5	O
-,	O
-9	O
-miljoonaa	O
+5	B-CARDINAL
+,	I-CARDINAL
+9	I-CARDINAL
+miljoonaa	I-CARDINAL
 miestä	O
 ,	O
 mutta	O
 vain	O
-9700	O
+9700	B-CARDINAL
 naista	O
 .	O
 
@@ -38034,8 +38034,8 @@ palvelun	O
 sisäisessä	O
 chatissa	O
 :	O
-11	O
-miljoonaa	O
+11	B-CARDINAL
+miljoonaa	I-CARDINAL
 miestä	O
 oli	O
 sitä	O
@@ -38044,7 +38044,7 @@ käyttänyt	O
 mutta	O
 naisprofiileista	O
 vain	O
-2409	O
+2409	B-CARDINAL
 .	O
 
 Vuodetuista	O
@@ -38074,10 +38074,10 @@ väitti	O
 toista	O
 .	O
 
-173	O
-\	O
-_	O
-838	O
+173	B-CARDINAL
+\	I-CARDINAL
+_	I-CARDINAL
+838	I-CARDINAL
 miesten	O
 tiliä	O
 oli	O
@@ -38089,10 +38089,10 @@ naisten	O
 vastaavia	O
 tilejä	O
 oli	O
-12	O
-\	O
-_	O
-108	O
+12	B-CARDINAL
+\	I-CARDINAL
+_	I-CARDINAL
+108	I-CARDINAL
 .	O
 
 Nämä	O
@@ -38138,7 +38138,7 @@ tekivät	O
 hyvää	O
 työtä	O
 saadessaan	O
-miljoonat	O
+miljoonat	B-CARDINAL
 naiskäyttäjien	O
 tilit	O
 näyttämään	O
@@ -38216,7 +38216,7 @@ itse	O
 ,	O
 saattaa	O
 syyllistyä	O
-kolmeen	O
+kolmeen	B-CARDINAL
 eri	O
 rikokseen	O
 .	O
@@ -38278,11 +38278,11 @@ iOS	B-PRODUCT
 :	I-PRODUCT
 n	I-PRODUCT
 versiossa	O
-8	O
-.	O
-4	O
-.	O
-1	O
+8	B-CARDINAL
+.	I-CARDINAL
+4	I-CARDINAL
+.	I-CARDINAL
+1	I-CARDINAL
 .	O
 
 Haavoittuvuus	O
@@ -38445,8 +38445,8 @@ aikana	O
 sitä	O
 on	O
 ladattu	O
-75	O
-miljoonaa	O
+75	B-CARDINAL
+miljoonaa	I-CARDINAL
 kertaa	O
 .	O
 
@@ -38455,8 +38455,8 @@ Windows	B-PRODUCT
 :	I-PRODUCT
 n	I-PRODUCT
 asentamisesta	O
-75	O
-miljoonaan	O
+75	B-CARDINAL
+miljoonaan	I-CARDINAL
 tietokoneeseen	O
 kertoi	O
 Microsoftin	B-ORG
@@ -38529,8 +38529,8 @@ ilmainen	O
 tuote	O
 ,	O
 sillä	O
-kolme	O
-miljoonaa	O
+kolme	B-CARDINAL
+miljoonaa	I-CARDINAL
 käyttöjärjestelmän	O
 Vista	B-PRODUCT
 -	O
@@ -38579,7 +38579,7 @@ käyttöjärjestelmän	O
 hankkineiden	O
 ladanneen	O
 sovelluksia	O
-kuusi	O
+kuusi	B-CARDINAL
 kertaa	O
 enemmän	O
 kuin	O
@@ -38628,7 +38628,7 @@ edellä	O
 
 Kyseessä	O
 on	O
-kolmesta	O
+kolmesta	B-CARDINAL
 pudotuksesta	O
 viimeinen	O
 ,	O
@@ -38679,10 +38679,10 @@ peruutetaan	O
 Koneeseen	O
 on	O
 asennettu	O
-viisi	O
+viisi	B-CARDINAL
 paikanninta	O
 ,	O
-kaksi	O
+kaksi	B-CARDINAL
 törmäystestinukkea	O
 ,	O
 kameroita	O
@@ -38733,7 +38733,7 @@ mellakointiin	O
 :	O
 Katkaistaan	O
 mobiilinetti	O
-miljoonilta	O
+miljoonilta	B-CARDINAL
 
 Intia	B-GPE
 osoitti	O
@@ -38788,8 +38788,8 @@ versio	O
 
 Osavaltiossa	O
 asuu	O
-63	O
-miljoonaa	O
+63	B-CARDINAL
+miljoonaa	I-CARDINAL
 ihmistä	O
 ,	O
 mutta	O
@@ -39219,7 +39219,7 @@ pysäköintijärjestelmät	O
 .	O
 
 On	O
-14	O
+14	B-CARDINAL
 teknologiaa	O
 ,	O
 joita	O
@@ -39350,9 +39350,9 @@ ohjelmisto	O
 on	O
 päivittynyt	O
 versioon	O
-7	O
-.	O
-1	O
+7	B-CARDINAL
+.	I-CARDINAL
+1	I-CARDINAL
 .	O
 
 Uusi	O
@@ -39378,9 +39378,9 @@ Viestintävirasto	B-ORG
 .	O
 
 Versiossa	O
-7	O
-.	O
-0	O
+7	B-CARDINAL
+.	I-CARDINAL
+0	I-CARDINAL
 on	O
 voinut	O
 kirjautua	O
@@ -39448,14 +39448,14 @@ palvelimien	O
 etähallintaan	O
 .	O
 
-Kahdessa	O
+Kahdessa	B-CARDINAL
 antivirussoftassa	O
 nollapäiväaukot	O
 :	O
 Löytäjille	O
 risuja	O
 
-Kaksi	O
+Kaksi	B-CARDINAL
 tietoturvatutkijaa	O
 julkisti	O
 viikonloppuna	B-DATE
@@ -39465,7 +39465,7 @@ olevan	O
 nollapäiväaukon	O
 .	O
 
-Toiseen	O
+Toiseen	B-ORDINAL
 julkaistiin	O
 myös	O
 hyökkäyskoodia	O
@@ -39498,7 +39498,7 @@ Graham	B-PERSON
 Cluley	I-PERSON
 .	O
 
-Toisen	O
+Toisen	B-ORDINAL
 aukoista	O
 julkisti	O
 Googlella	B-ORG
@@ -39650,7 +39650,7 @@ F	B-ORG
 -	I-ORG
 Secure	I-ORG
 paikkasi	O
-13	O
+13	B-CARDINAL
 ohjelmistoaan	O
 .	O
 
@@ -39718,12 +39718,12 @@ voi	O
 olla	O
 mikä	O
 tahansa	O
-389	O
-\	O
-_	O
-112	O
-:	O
-sta	O
+389	B-CARDINAL
+\	I-CARDINAL
+_	I-CARDINAL
+112	I-CARDINAL
+:	I-CARDINAL
+sta	I-CARDINAL
 yhdistelmästä	O
 ,	O
 mutta	O
@@ -39749,7 +39749,7 @@ alas	O
 
 Tunnistuksessa	O
 käytetään	O
-yhdeksää	O
+yhdeksää	B-CARDINAL
 pistettä	O
 ruudulla	O
 ,	O
@@ -39759,7 +39759,7 @@ ihmiset	O
 käyttivät	O
 niistä	O
 vain	O
-viittä	O
+viittä	B-CARDINAL
 .	O
 
 Løgen	B-PERSON
@@ -39775,7 +39775,7 @@ jopa	O
 77	B-PERCENT
 prosenttia	I-PERCENT
 jostakin	O
-neljästä	O
+neljästä	B-CARDINAL
 kulmasta	O
 .	O
 
@@ -40008,7 +40008,7 @@ jossa	O
 oli	O
 paljon	O
 tietoa	O
-yhdestä	O
+yhdestä	B-CARDINAL
 Nerven	B-PRODUCT
 käyttäjästä	O
 .	O
@@ -40368,8 +40368,8 @@ Sonera	B-ORG
 sanoi	O
 ,	O
 että	O
-noin	O
-viidennes	O
+noin	B-CARDINAL
+viidennes	I-CARDINAL
 lähtevistä	O
 puheluista	O
 epäonnistuu	O
@@ -40499,7 +40499,7 @@ maanantai	B-DATE
 
 Yhtiö	O
 tiedotti	O
-kolmesta	O
+kolmesta	B-CARDINAL
 eri	O
 ongelmasta	O
 palveluissaan	O
@@ -40593,7 +40593,7 @@ puolestaan	O
 hetkellisesti	O
 kateissa	O
 jopa	O
-400	O
+400	B-CARDINAL
 tukiasemaa	O
 haitaten	O
 2G	O
@@ -40737,7 +40737,7 @@ on	O
 määrä	O
 kasvaa	O
 versiosta	O
-42	O
+42	B-CARDINAL
 alkaen	O
 ,	O
 sillä	O
@@ -40802,7 +40802,7 @@ Firefox	B-PRODUCT
 :	I-PRODUCT
 n	I-PRODUCT
 betaversiossa	O
-yhden	O
+yhden	B-CARDINAL
 välilehden	O
 jumittaminen	O
 ei	O
@@ -40867,13 +40867,13 @@ päivittynyt	O
 .	O
 
 Uudesta	O
-2	O
-.	O
-12	O
-.	O
-112	O
-.	O
-0	O
+2	B-CARDINAL
+.	I-CARDINAL
+12	I-CARDINAL
+.	I-CARDINAL
+112	I-CARDINAL
+.	I-CARDINAL
+0	I-CARDINAL
 -	O
 versiosta	O
 kertoo	O
@@ -41636,10 +41636,10 @@ Kesällä	B-DATE
 Microsoft	B-ORG
 ilmoitti	O
 vähentävänsä	O
-12	O
-\	O
-_	O
-500	O
+12	B-CARDINAL
+\	I-CARDINAL
+_	I-CARDINAL
+500	I-CARDINAL
 entistä	O
 Nokian	B-ORG
 työntekijää	O
@@ -41648,7 +41648,7 @@ ja	O
 tänä	B-DATE
 kesänä	I-DATE
 vielä	O
-7800	O
+7800	B-CARDINAL
 työpaikkaa	O
 matkapuhelinliiketoiminnasta	O
 .	O
@@ -41658,13 +41658,13 @@ yhtiö	O
 ilmoitti	O
 heinäkuussa	B-DATE
 vähentävänsä	O
-2300	O
+2300	B-CARDINAL
 työpaikkaa	O
 ,	O
 eli	O
-noin	O
-kaksi	O
-kolmasosaa	O
+noin	B-CARDINAL
+kaksi	I-CARDINAL
+kolmasosaa	I-CARDINAL
 puhelinliiketoiminnan	O
 työntekijöistä	O
 .	O
@@ -41787,11 +41787,11 @@ Digitodaylle	B-ORG
 
 Tietokannassa	O
 on	O
-yli	O
-16	O
-\	O
-_	O
-900	O
+yli	B-CARDINAL
+16	I-CARDINAL
+\	I-CARDINAL
+_	I-CARDINAL
+900	I-CARDINAL
 .	O
 fi	O
 -	O
@@ -41822,7 +41822,7 @@ Lisäksi	O
 vuodossa	O
 on	O
 mukana	O
-tuhansittain	O
+tuhansittain	B-CARDINAL
 suomalaisia	B-NORP
 tilejä	O
 joiden	O
@@ -41847,11 +41847,11 @@ suomalaisia	B-NORP
 löytyvän	O
 palvelusta	O
 kaikkiaan	O
-yli	O
-20	O
-\	O
-_	O
-000	O
+yli	B-CARDINAL
+20	I-CARDINAL
+\	I-CARDINAL
+_	I-CARDINAL
+000	I-CARDINAL
 .	O
 
 Sähköpostiosoitteiden	O
@@ -41944,7 +41944,7 @@ wlan	O
 kiintolevyistä	O
 on	O
 löytynyt	O
-kolme	O
+kolme	B-CARDINAL
 pahaa	O
 tietoturva	O
 -	O
@@ -41971,7 +41971,7 @@ Cert	B-ORG
 org	I-ORG
 .	O
 
-Ensimmäinen	O
+Ensimmäinen	B-ORDINAL
 aukko	O
 on	O
 levylle	O
@@ -41998,7 +41998,7 @@ pääkäyttäjän	O
 oikeuksin	O
 .	O
 
-Toinen	O
+Toinen	B-ORDINAL
 haavoittuvuus	O
 on	O
 levyn	O
@@ -42026,7 +42026,7 @@ kokonaisuudessaan	O
 itselleen	O
 .	O
 
-Kolmas	O
+Kolmas	B-ORDINAL
 haavoittuvuus	O
 antaa	O
 hyökkääjälle	O
@@ -42094,13 +42094,13 @@ Haavoittuvuudet	O
 on	O
 korjattu	O
 levyjen	O
-3	O
-.	O
-4	O
-.	O
-1	O
-.	O
-105	O
+3	B-CARDINAL
+.	I-CARDINAL
+4	I-CARDINAL
+.	I-CARDINAL
+1	I-CARDINAL
+.	I-CARDINAL
+105	I-CARDINAL
 -	O
 firmware	O
 -	O
@@ -42581,15 +42581,15 @@ on	O
 gigapikseliä	I-QUANTITY
 .	O
 
-Yhden	O
+Yhden	B-CARDINAL
 kuvan	O
 näyttämiseen	O
 kerralla	O
 tarvittaisiin	O
-1	O
-\	O
-_	O
-500	O
+1	B-CARDINAL
+\	I-CARDINAL
+_	I-CARDINAL
+500	I-CARDINAL
 televisionäyttöä	O
 .	O
 
@@ -42617,10 +42617,10 @@ megapikselin	I-QUANTITY
 digipokkarilla	O
 pitäisi	O
 ottaa	O
-800	O
-\	O
-_	O
-000	O
+800	B-CARDINAL
+\	I-CARDINAL
+_	I-CARDINAL
+000	I-CARDINAL
 kuvaa	O
 vuoden	O
 jokaisena	O
@@ -42807,7 +42807,7 @@ murto	O
 :	O
 Firma	O
 teki	O
-yhden	O
+yhden	B-CARDINAL
 asian	O
 oikein	O
 
@@ -42854,7 +42854,7 @@ keskellä	O
 pettämispalvelu	O
 teki	O
 kuitenkin	O
-yhden	O
+yhden	B-CARDINAL
 asian	O
 oikein	O
 ,	O
@@ -42873,7 +42873,7 @@ selkokielisten	O
 salasanojen	O
 vuotamista	O
 verkkoon	O
-miljoonittain	O
+miljoonittain	B-CARDINAL
 .	O
 
 Salasanojen	O
@@ -42973,11 +42973,11 @@ heikoin	O
 käytetty	O
 salasana	O
 oli	O
-123456	O
+123456	B-CARDINAL
 perässään	O
 password	O
 ja	O
-12345	O
+12345	B-CARDINAL
 .	O
 
 Kuvavuoto	O
@@ -43011,7 +43011,7 @@ kuvia	O
 joiden	O
 väitetään	O
 olevan	O
-ensimmäiset	O
+ensimmäiset	B-ORDINAL
 valokuvat	O
 vielä	O
 julkaisemattomasta	O
@@ -43051,7 +43051,7 @@ ensi	B-DATE
 vuoden	I-DATE
 alussa	I-DATE
 julkaista	O
-ensimmäisen	O
+ensimmäisen	B-ORDINAL
 uuden	O
 puhelimensa	O
 sen	O
@@ -43222,7 +43222,7 @@ selviytymisopas	O
 Viestintäviraston	B-ORG
 Kyberturvallisuuskeskus	B-ORG
 erittelee	O
-kuusi	O
+kuusi	B-CARDINAL
 uusinta	O
 Android	B-PRODUCT
 -	O
@@ -43230,7 +43230,7 @@ uhkaa	O
 ja	O
 antaa	O
 myös	O
-kuusi	O
+kuusi	B-CARDINAL
 keinoa	O
 suojautumiseen	O
 .	O
@@ -43249,9 +43249,9 @@ haavoittuvuuksia	O
 ,	O
 jotka	O
 uhkaavat	O
-vähintään	O
-satoja	O
-miljoonia	O
+vähintään	B-CARDINAL
+satoja	I-CARDINAL
+miljoonia	I-CARDINAL
 käyttäjiä	O
 .	O
 
@@ -43259,9 +43259,9 @@ Uutisissa	O
 ovat	O
 näkyneet	O
 Stagefright	O
-1	O
+1	B-CARDINAL
 ja	O
-2	O
+2	B-CARDINAL
 ,	O
 Silent	O
 Attack	O
@@ -43276,7 +43276,7 @@ haavoittuvuus	O
 .	O
 
 Lisäksi	O
-yksi	O
+yksi	B-CARDINAL
 aukko	O
 voi	O
 syöstä	O
@@ -43341,7 +43341,7 @@ tehdä	O
 Kyberturvallisuuskeskus	B-ORG
 neuvoo	O
 paitsi	O
-1	O
+1	B-CARDINAL
 )	O
 asentamaan	O
 päivitykset	O
@@ -43354,7 +43354,7 @@ ovat	O
 saatavilla	O
 ,	O
 myös	O
-2	O
+2	B-CARDINAL
 )	O
 miettimään	O
 ,	O
@@ -43397,14 +43397,14 @@ kanssa	O
 auttaa	O
 suojautumaan	O
 kaikilta	O
-kuudelta	O
+kuudelta	B-CARDINAL
 haavoittuvuudelta	O
 .	O
 
 Sama	O
 pätee	O
 ohjeeseen	O
-3	O
+3	B-CARDINAL
 )	O
 poistaa	O
 laitteesta	O
@@ -43421,7 +43421,7 @@ Stagefrightilta	O
 varjelee	O
 ,	O
 jos	O
-4	O
+4	B-CARDINAL
 )	O
 varoo	O
 avaamasta	O
@@ -43434,7 +43434,7 @@ linkkejä	O
 Käyttäjän	O
 kannattaa	O
 myös	O
-5	O
+5	B-CARDINAL
 )	O
 poistaa	O
 multimediaviestien	O
@@ -43461,7 +43461,7 @@ laitteille	O
 Yleisohjeena	O
 Kyberturvallisuuskeskus	B-ORG
 neuvoo	O
-6	O
+6	B-CARDINAL
 )	O
 käyttämään	O
 Android	B-PRODUCT
@@ -43653,7 +43653,7 @@ tuttua	O
 Sony	B-ORG
 ehti	O
 kuitenkin	O
-ensimmäisenä	O
+ensimmäisenä	B-ORDINAL
 valmistajana	O
 tuoda	O
 puhelimeensa	O
@@ -43667,7 +43667,7 @@ Sony	B-ORG
 julkaisi	O
 eilen	B-DATE
 odotetusti	O
-kolme	O
+kolme	B-CARDINAL
 uutta	O
 Xperia	B-PRODUCT
 Z5	I-PRODUCT
@@ -43696,7 +43696,7 @@ Premium	I-PRODUCT
 joka	O
 on	O
 markkinoiden	O
-ensimmäinen	O
+ensimmäinen	B-ORDINAL
 4K	O
 UHD	O
 -	O
@@ -43757,7 +43757,7 @@ on	O
 ,	I-QUANTITY
 6	I-QUANTITY
 tuumaa	I-QUANTITY
-720	O
+720	B-CARDINAL
 -	O
 tarkkuudella	O
 ,	O
@@ -43786,9 +43786,9 @@ Z5	I-PRODUCT
 -	O
 malleissa	O
 on	O
-64	O
--	O
-bittinen	O
+64	B-QUANTITY
+-	I-QUANTITY
+bittinen	I-QUANTITY
 Qualcomm	B-PRODUCT
 Snapdragon	I-PRODUCT
 810	I-PRODUCT
@@ -44068,7 +44068,7 @@ esillä	O
 sillä	O
 onhan	O
 se	O
-yksi	O
+yksi	B-CARDINAL
 Sonyn	B-ORG
 uusimmista	O
 puhelinmalleista	O
@@ -44077,7 +44077,7 @@ puhelinmalleista	O
 Mutta	O
 toimittaja	O
 kysyi	O
-yhdeltä	O
+yhdeltä	B-CARDINAL
 Sonyn	B-ORG
 edustajalta	O
 ,	O
@@ -44104,7 +44104,7 @@ kun	O
 edustaja	O
 kysyi	O
 asiaa	O
-toiselta	O
+toiselta	B-ORDINAL
 Sonyn	B-ORG
 edustajalta	O
 ,	O
@@ -44202,7 +44202,7 @@ Android	B-PRODUCT
 ja	O
 sen	O
 maailman	O
-ensimmäinen	O
+ensimmäinen	B-ORDINAL
 4K	O
 -	O
 näyttö	O
@@ -44286,8 +44286,8 @@ ohjausjärjestelmän	O
 ,	O
 jonka	O
 avulla	O
-noin	O
-500	O
+noin	B-CARDINAL
+500	I-CARDINAL
 ihmistä	O
 ajeli	O
 automaattigolfautolla	O
@@ -44313,8 +44313,8 @@ avulla	O
 matkustajat	O
 voivat	O
 siirtyä	O
-yhdeltä	O
-kymmenestä	O
+yhdeltä	B-CARDINAL
+kymmenestä	I-CARDINAL
 "	O
 pysäkiltä	O
 "	O
@@ -44549,7 +44549,7 @@ hänet	O
 
 Miehellä	O
 oli	O
-kaksi	O
+kaksi	B-CARDINAL
 lasta	O
 ja	O
 hän	O
@@ -44750,7 +44750,7 @@ ja	O
 leikkaa	O
 ,	O
 kommentoi	O
-yksi	O
+yksi	B-CARDINAL
 Twitter	B-PRODUCT
 -	O
 käyttäjä	O
@@ -44951,7 +44951,7 @@ Cnet	B-ORG
 Nähdäänkö	O
 tänään	B-DATE
 puhelimen	O
-ensimmäinen	O
+ensimmäinen	B-ORDINAL
 4K	O
 -	O
 näyttö	O
@@ -45056,7 +45056,7 @@ tilaisuudessa	O
 yhtiön	O
 odotetaan	O
 julkaisevan	O
-kolme	O
+kolme	B-CARDINAL
 puhelinmallia	O
 ,	O
 joiden	O
@@ -45150,7 +45150,7 @@ Premium	I-PRODUCT
 puhelimessa	O
 olisi	O
 puhelinmarkkinoiden	O
-ensimmäinen	O
+ensimmäinen	B-ORDINAL
 4K	O
 -	O
 näyttö	O
@@ -45204,7 +45204,7 @@ Uudet	O
 iPhonet	B-PRODUCT
 tulevat	O
 :	O
-Kolme	O
+Kolme	B-CARDINAL
 syytä	O
 olla	O
 huolissaan	O
@@ -45434,7 +45434,7 @@ entistä	O
 heikomman	O
 .	O
 
-Kolmas	O
+Kolmas	B-ORDINAL
 huoli	O
 liittyy	O
 uusien	O
@@ -45648,7 +45648,7 @@ tiedotteessa	O
 DNA	B-ORG
 :	I-ORG
 n	I-ORG
-neljän	O
+neljän	B-CARDINAL
 kärki	O
 oli	O
 muuttumaton	O
@@ -45664,71 +45664,71 @@ heinäkuussa	B-DATE
 olivat	O
 :	O
 
-1	O
-.	O
+1	B-ORDINAL
+.	I-ORDINAL
 
 Huawei	B-ORG
 Y330	B-PRODUCT
 
-2	O
-.	O
+2	B-ORDINAL
+.	I-ORDINAL
 
 Samsung	B-ORG
 Galaxy	B-PRODUCT
 J1	I-PRODUCT
 
-3	O
-.	O
+3	B-ORDINAL
+.	I-ORDINAL
 
 Apple	B-ORG
 iPhone	B-PRODUCT
 6	I-PRODUCT
 
-4	O
-.	O
+4	B-ORDINAL
+.	I-ORDINAL
 
 Samsung	B-ORG
 Galaxy	B-PRODUCT
 A3	I-PRODUCT
 
-5	O
-.	O
+5	B-ORDINAL
+.	I-ORDINAL
 
 Sony	B-ORG
 Xperia	B-PRODUCT
 M4	I-PRODUCT
 Aqua	I-PRODUCT
 
-6	O
-.	O
+6	B-ORDINAL
+.	I-ORDINAL
 
 Samsung	B-ORG
 Galaxy	B-PRODUCT
 S6	I-PRODUCT
 
-7	O
-.	O
+7	B-ORDINAL
+.	I-ORDINAL
 
 Samsung	B-ORG
 Galaxy	B-PRODUCT
 A5	I-PRODUCT
 
-8	O
-.	O
+8	B-ORDINAL
+.	I-ORDINAL
 
 Sony	B-ORG
 Z3	B-PRODUCT
 Compact	I-PRODUCT
 
-9	O
-.	O
+9	B-ORDINAL
+.	I-ORDINAL
 
 Microsoft	B-ORG
 Lumia	B-PRODUCT
 435	I-PRODUCT
 
-10	O
-.	O
+10	B-ORDINAL
+.	I-ORDINAL
 
 Samsung	B-ORG
 Galaxy	B-PRODUCT
@@ -45773,7 +45773,7 @@ alapuolella	O
 
 Listalla	O
 on	O
-kolme	O
+kolme	B-CARDINAL
 sellaista	O
 puhelinta	O
 ,	O
@@ -45828,72 +45828,72 @@ elokuussa	B-DATE
 oli	O
 :	O
 
-1	O
-.	O
+1	B-ORDINAL
+.	I-ORDINAL
 
 Apple	B-ORG
 iPhone	B-PRODUCT
 6	I-PRODUCT
 
-2	O
-.	O
+2	B-ORDINAL
+.	I-ORDINAL
 
 Samsung	B-ORG
 Galaxy	B-PRODUCT
 Ace	I-PRODUCT
 4	I-PRODUCT
 
-3	O
-.	O
+3	B-ORDINAL
+.	I-ORDINAL
 
 Apple	B-ORG
 iPhone	B-PRODUCT
 5s	I-PRODUCT
 
-4	O
-.	O
+4	B-ORDINAL
+.	I-ORDINAL
 
 Sony	B-ORG
 Xperia	B-PRODUCT
 M4	I-PRODUCT
 Aqua	I-PRODUCT
 
-5	O
-.	O
+5	B-ORDINAL
+.	I-ORDINAL
 
 Samsung	B-ORG
 Galaxy	B-PRODUCT
 A3	I-PRODUCT
 
-6	O
-.	O
+6	B-ORDINAL
+.	I-ORDINAL
 
 Samsung	B-ORG
 Galaxy	B-PRODUCT
 S6	I-PRODUCT
 
-7	O
-.	O
+7	B-ORDINAL
+.	I-ORDINAL
 
 Nokia	B-ORG
 Lumia	B-PRODUCT
 635	I-PRODUCT
 
-8	O
-.	O
+8	B-ORDINAL
+.	I-ORDINAL
 
 Samsung	B-ORG
 Galaxy	B-PRODUCT
 J5	I-PRODUCT
 
-9	O
-.	O
+9	B-ORDINAL
+.	I-ORDINAL
 
 Microsoft	B-ORG
 Lumia	B-PRODUCT
 640	I-PRODUCT
 
-10	O
+10	B-CARDINAL
 
 Samsung	B-ORG
 Galaxy	B-PRODUCT
@@ -45954,73 +45954,73 @@ elokuussa	B-DATE
 olivat	O
 :	O
 
-1	O
-.	O
+1	B-ORDINAL
+.	I-ORDINAL
 
 Apple	B-ORG
 iPhone	B-PRODUCT
 6	I-PRODUCT
 
-2	O
-.	O
+2	B-ORDINAL
+.	I-ORDINAL
 
 Samsung	B-ORG
 Galaxy	B-PRODUCT
 S4	I-PRODUCT
 Mini	I-PRODUCT
 
-3	O
-.	O
+3	B-ORDINAL
+.	I-ORDINAL
 
 Samsung	B-ORG
 Galaxy	B-PRODUCT
 J1	I-PRODUCT
 
-4	O
-.	O
+4	B-ORDINAL
+.	I-ORDINAL
 
 Samsung	B-ORG
 Galaxy	B-PRODUCT
 A3	I-PRODUCT
 
-5	O
-.	O
+5	B-ORDINAL
+.	I-ORDINAL
 
 Nokia	B-ORG
 Lumia	B-PRODUCT
 635	I-PRODUCT
 
-6	O
-.	O
+6	B-ORDINAL
+.	I-ORDINAL
 
 Samsung	B-ORG
 Galaxy	B-PRODUCT
 Trend	I-PRODUCT
 Plus	I-PRODUCT
 
-7	O
-.	O
+7	B-ORDINAL
+.	I-ORDINAL
 
 Nokia	B-ORG
 215	B-PRODUCT
 
-8	O
-.	O
+8	B-ORDINAL
+.	I-ORDINAL
 
 Huawei	B-ORG
 P8	B-PRODUCT
 Lite	I-PRODUCT
 
-9	O
-.	O
+9	B-ORDINAL
+.	I-ORDINAL
 
 Sony	B-ORG
 Xperia	B-PRODUCT
 Z3	I-PRODUCT
 Compact	I-PRODUCT
 
-10	O
-.	O
+10	B-ORDINAL
+.	I-ORDINAL
 
 Samsung	B-ORG
 Galaxy	B-PRODUCT
@@ -46278,7 +46278,7 @@ markkinoilla	O
 on	O
 kuitenkin	O
 vain	O
-yksi	O
+yksi	B-CARDINAL
 Android	B-PRODUCT
 Wear	I-PRODUCT
 -	O
@@ -46418,7 +46418,7 @@ kääntämällä	O
 
 Samsung	B-ORG
 esittelee	O
-kaksi	O
+kaksi	B-CARDINAL
 uutta	O
 älykelloa	O
 torstaina	B-DATE
@@ -46509,7 +46509,7 @@ kestää	O
 –	I-DATE
 3	I-DATE
 päivää	I-DATE
-yhdellä	O
+yhdellä	B-CARDINAL
 latauksella	O
 ,	O
 joka	O
@@ -46798,7 +46798,7 @@ mukaan	O
 vastaajat	O
 rikkoivat	O
 InterDigitalin	B-ORG
-kahta	O
+kahta	B-CARDINAL
 patenttia	O
 ,	O
 eikä	O
@@ -46950,13 +46950,13 @@ kirjoittaessa	O
 Tablet	B-PRODUCT
 on	O
 versiossa	O
-1	O
-.	O
-1	O
-.	O
-9	O
-.	O
-26	O
+1	B-CARDINAL
+.	I-CARDINAL
+1	I-CARDINAL
+.	I-CARDINAL
+9	I-CARDINAL
+.	I-CARDINAL
+26	I-CARDINAL
 "	O
 Eineheminlampi	B-PRODUCT
 "	O
@@ -46964,7 +46964,7 @@ ja	O
 testin	O
 aikana	O
 tuli	O
-pari	O
+pari	B-CARDINAL
 päivitystä	O
 .	O
 
@@ -47194,9 +47194,9 @@ on	O
 kuvasuhteeltaan	O
 iPadista	B-PRODUCT
 tuttu	O
-4	O
-:	O
-3	O
+4	B-CARDINAL
+:	I-CARDINAL
+3	I-CARDINAL
 .	O
 
 Testaajan	O
@@ -47281,7 +47281,7 @@ kevyttä	O
 satunnaiskäyttöä	O
 nelisen	B-DATE
 päivää	I-DATE
-yhdellä	O
+yhdellä	B-CARDINAL
 latauksella	O
 .	O
 
@@ -47423,7 +47423,7 @@ käyttöön	O
 Tablet	B-PRODUCT
 tarjoaa	O
 virallisesti	O
-kaksi	O
+kaksi	B-CARDINAL
 Android	B-PRODUCT
 -	O
 sovellusten	O
@@ -47588,11 +47588,11 @@ saadaan	O
 myöhemmin	O
 päivitettyä	O
 myös	O
-5	O
-.	O
-0	O
-:	O
-aa	O
+5	B-CARDINAL
+.	I-CARDINAL
+0	I-CARDINAL
+:	I-CARDINAL
+aa	I-CARDINAL
 vaativiin	O
 sovelluksiin	O
 .	O
@@ -47867,7 +47867,7 @@ Group	I-ORG
 kertoo	O
 ottaneensa	O
 käyttöön	O
-1300	O
+1300	B-CARDINAL
 tablettitietokonetta	O
 .	O
 
@@ -48595,7 +48595,7 @@ WhatsApp	B-ORG
 rikkoi	O
 rajoja	O
 :	O
-Miljardi	O
+Miljardi	B-CARDINAL
 häämöttää	O
 
 WhatsAppin	B-ORG
@@ -48619,8 +48619,8 @@ kuukausittaisten	O
 käyttäjien	O
 määrän	O
 nousseen	O
-900	O
-miljoonaan	O
+900	B-CARDINAL
+miljoonaan	I-CARDINAL
 .	O
 
 Koum	B-PERSON
@@ -48652,9 +48652,9 @@ lokakuussa	B-DATE
 2014	I-DATE
 WhatsAppilla	B-PRODUCT
 oli	O
-noin	O
-600	O
-miljoonaa	O
+noin	B-CARDINAL
+600	I-CARDINAL
+miljoonaa	I-CARDINAL
 käyttäjää	O
 ,	O
 joten	O
@@ -48692,8 +48692,8 @@ kävijäennätyksen	O
 kun	O
 siellä	O
 vieraili	O
-yli	O
-miljardi	O
+yli	B-CARDINAL
+miljardi	I-CARDINAL
 käyttäjää	O
 24	B-DATE
 .	I-DATE
@@ -48967,8 +48967,8 @@ kuvatun	O
 videon	O
 tarkkuus	O
 on	O
-noin	O
-30	O
+noin	B-CARDINAL
+30	I-CARDINAL
 -	O
 kertainen	O
 4k	O
@@ -48979,7 +48979,7 @@ verrattuna	O
 mutta	O
 sitä	O
 kuvataan	O
-viiden	O
+viiden	B-CARDINAL
 ruudun	O
 sekuntinopeudella	O
 .	O
@@ -49030,7 +49030,7 @@ kertonut	O
 ,	O
 paljonko	O
 levytilaa	O
-yksi	O
+yksi	B-CARDINAL
 täyskokoinen	O
 kuva	O
 vie	O
@@ -49293,8 +49293,8 @@ koosta	O
 ,	O
 mutta	O
 silti	O
-yli	O
-kymmenen	O
+yli	B-CARDINAL
+kymmenen	I-CARDINAL
 kertaa	O
 isompi	O
 ,	O
@@ -49362,9 +49362,9 @@ arvostetun	O
 testijärjestelmän	O
 :	O
 Sai	O
-103	O
+103	B-CARDINAL
 /	O
-100	O
+100	B-CARDINAL
 pistettä	O
 
 Teslan	B-ORG
@@ -49380,7 +49380,7 @@ testijärjestelmän	O
 joka	O
 antoi	O
 autolle	O
-kolme	O
+kolme	B-CARDINAL
 pistettä	O
 yli	O
 maksimin	O
@@ -49423,11 +49423,11 @@ n	I-PRODUCT
 ,	O
 joka	O
 sai	O
-99	O
+99	B-CARDINAL
 pistettä	O
 .	O
 
-Toiseksi	O
+Toiseksi	B-ORDINAL
 paras	O
 testattu	O
 auto	O
@@ -49438,7 +49438,7 @@ vuoden	B-DATE
 2014	I-DATE
 BMW	B-ORG
 M235i	B-PRODUCT
-98	O
+98	B-CARDINAL
 pisteellä	O
 .	O
 
@@ -50093,8 +50093,8 @@ Raketin	O
 työntövoima	O
 laukaistaessa	O
 vastaa	O
-lähes	O
-18	O
+lähes	B-CARDINAL
+18	I-CARDINAL
 jumbojettiä	O
 täydellä	O
 teholla	O
@@ -50189,7 +50189,7 @@ kuuteen	B-PERCENT
 prosenttiin	I-PERCENT
 .	O
 
-Ensimmäisenä	O
+Ensimmäisenä	B-ORDINAL
 80	B-PERCENT
 prosentin	I-PERCENT
 latausasteen	O
@@ -50276,7 +50276,7 @@ S6	I-PRODUCT
 ovat	O
 nopeimmat	O
 
-Toiseksi	O
+Toiseksi	B-ORDINAL
 nopeimman	O
 latautujan	O
 titteli	O
@@ -50601,9 +50601,9 @@ osa	O
 jokaiseen	O
 älypuhelimeen	O
 liittyvistä	O
-sadoista	O
+sadoista	B-CARDINAL
 tai	O
-tuhansista	O
+tuhansista	B-CARDINAL
 patenteista	O
 .	O
 
@@ -50703,7 +50703,7 @@ yritykset	O
 ovat	O
 luvannet	O
 avata	O
-30	O
+30	B-CARDINAL
 latauspistettä	O
 Kaliforniassa	B-GPE
 .	O
@@ -50751,7 +50751,7 @@ ajaa	O
 –	I-QUANTITY
 435	I-QUANTITY
 kilometriä	I-QUANTITY
-yhdellä	O
+yhdellä	B-CARDINAL
 latauksella	O
 .	O
 
@@ -50904,7 +50904,7 @@ heitä	O
 siirtyi	O
 Applelle	B-ORG
 nyt	O
-kuusi	O
+kuusi	B-CARDINAL
 muutakin	O
 .	O
 
@@ -50970,7 +50970,7 @@ alle	O
 .	O
 
 Googlen	B-ORG
-toinen	O
+toinen	B-ORDINAL
 perustaja	O
 Sergei	B-PERSON
 Brin	I-PERSON
@@ -51075,7 +51075,7 @@ alle	O
 Brinin	B-PERSON
 ilmoitus	O
 on	O
-ensimmäinen	O
+ensimmäinen	B-ORDINAL
 virallinen	O
 viesti	O
 asiasta	O
@@ -51199,7 +51199,7 @@ Tiedossa	O
 ei	O
 ylipäätään	O
 ole	O
-yhtäkään	O
+yhtäkään	B-CARDINAL
 asteroidia	O
 tai	O
 komeettaa	O
@@ -51340,7 +51340,7 @@ odottivat	O
 maailmanloppua	O
 mayojen	O
 kalenterin	O
-yhden	O
+yhden	B-CARDINAL
 kierroksen	O
 tullessa	O
 päätökseensä	O
@@ -51413,7 +51413,7 @@ Google	B-ORG
 kertoi	O
 Twitterissä	B-PRODUCT
 ainakin	O
-yhden	O
+yhden	B-CARDINAL
 syyn	O
 ,	O
 miksi	O
@@ -51584,7 +51584,7 @@ lle	I-PRODUCT
 
 ISS	B-PRODUCT
 on	O
-kuuden	O
+kuuden	B-CARDINAL
 hengen	O
 koti	O
 ,	O
@@ -51738,7 +51738,7 @@ Kansainvälisellä	B-PRODUCT
 avaruusasemalla	I-PRODUCT
 kypsytellään	O
 parhaillaan	O
-viittä	O
+viittä	B-CARDINAL
 eri	O
 alkoholia	O
 .	O
@@ -51757,7 +51757,7 @@ tieteellisiä	O
 kokeita	O
 .	O
 
-Yksi	O
+Yksi	B-CARDINAL
 erityisen	O
 kiinnostava	O
 alkoi	O
@@ -51922,7 +51922,7 @@ kuin	O
 että	O
 kyseessä	O
 on	O
-viittä	O
+viittä	B-CARDINAL
 eri	O
 tislettä	O
 .	O
@@ -52081,7 +52081,7 @@ puhelimiin	O
 Samsung	B-PRODUCT
 Payllä	I-PRODUCT
 on	O
-yksi	O
+yksi	B-CARDINAL
 suuri	O
 etu	O
 kilpailijoihin	O
@@ -52130,7 +52130,7 @@ Payn	I-PRODUCT
 käytön	O
 myös	O
 niissä	O
-miljoonissa	O
+miljoonissa	B-CARDINAL
 pienissä	O
 liikkeissä	O
 ,	O
@@ -52656,9 +52656,9 @@ antoi	O
 _	I-MONEY
 000	I-MONEY
 dollarin	I-MONEY
-ensimmäisen	O
+ensimmäisen	B-ORDINAL
 palkinnon	O
-kahden	O
+kahden	B-CARDINAL
 kehittäjän	O
 Robokiller	B-PRODUCT
 -	O
@@ -52748,7 +52748,7 @@ ja	O
 kasassa	O
 on	O
 vasta	O
-136	O
+136	B-CARDINAL
 tukijaa	O
 ja	O
 2582	B-MONEY
@@ -52927,7 +52927,7 @@ Maven	B-PRODUCT
 Onpa	O
 joukossa	O
 myös	O
-yksi	O
+yksi	B-CARDINAL
 eurooppalainen	B-NORP
 avaruusluotain	O
 Mars	B-PRODUCT
@@ -52956,7 +52956,7 @@ Puerto	B-GPE
 Ricossa	I-GPE
 —	O
 ainakaan	O
-ensimmäisenä	O
+ensimmäisenä	B-ORDINAL
 .	O
 
 Googlen	B-ORG
@@ -53007,7 +53007,7 @@ suunnataan	O
 uusiksi	O
 .	O
 
-Toisessa	O
+Toisessa	B-ORDINAL
 viestissä	O
 puertoricolaisia	B-NORP
 lohdutetaan	O
@@ -53134,7 +53134,7 @@ taisteli	O
 kaksi	B-DATE
 vuotta	I-DATE
 salatakseen	O
-kolmen	O
+kolmen	B-CARDINAL
 tietoturvatutkijan	O
 löytämän	O
 ongelman	O
@@ -53226,13 +53226,13 @@ rajaamaan	O
 potentiaalisten	O
 avainten	O
 määrää	O
-noin	O
-200	O
-\	O
-_	O
-000	O
-:	O
-een	O
+noin	B-CARDINAL
+200	I-CARDINAL
+\	I-CARDINAL
+_	I-CARDINAL
+000	I-CARDINAL
+:	I-CARDINAL
+een	I-CARDINAL
 ,	O
 jolloin	O
 oikean	O
@@ -53347,7 +53347,7 @@ tutkimuksesta	O
 on	O
 poistettu	O
 vain	O
-yksi	O
+yksi	B-CARDINAL
 lause	O
 ,	O
 mikä	O
@@ -53387,7 +53387,7 @@ järjestelmien	O
 murtaminen	O
 on	O
 ollut	O
-yksi	O
+yksi	B-CARDINAL
 tämän	B-DATE
 vuoden	I-DATE
 puhuttuja	O
@@ -53434,10 +53434,10 @@ on	O
 tapellut	O
 oman	O
 jopa	O
-1	O
-,	O
-4	O
-miljoonaa	O
+1	B-CARDINAL
+,	I-CARDINAL
+4	I-CARDINAL
+miljoonaa	I-CARDINAL
 autoa	O
 käsittävän	O
 kyberongelman	O
@@ -53965,7 +53965,7 @@ pääsevät	O
 Emorobotti	O
 tekee	O
 vauvarobotteja	O
-kymmenen	O
+kymmenen	B-CARDINAL
 robotin	O
 kokoisissa	O
 sukupolvissa	O
@@ -53981,7 +53981,7 @@ siemenenä	O
 .	O
 
 Uudet	O
-kymmenen	O
+kymmenen	B-CARDINAL
 robottia	O
 perustuvat	O
 edellisen	O
@@ -54015,20 +54015,20 @@ kehittyvät	O
 pikkuhiljaa	O
 .	O
 
-Kymmenennen	O
+Kymmenennen	B-ORDINAL
 sukupolven	O
 paras	O
 robotti	O
 pääsi	O
 testeissä	O
 liikkumaan	O
-kaksi	O
+kaksi	B-CARDINAL
 kertaa	O
 niin	O
 pitkälle	O
 ,	O
 kuin	O
-ensimmäisen	O
+ensimmäisen	B-ORDINAL
 sukupolven	O
 paras	O
 robotti	O
@@ -54078,7 +54078,7 @@ ne	O
 pääsevät	O
 .	O
 
-20	O
+20	B-CARDINAL
 auton	O
 sukupolvesta	O
 paras	O
@@ -54165,10 +54165,10 @@ kun	O
 älypuhelimissa	O
 on	O
 hyödynnetty	O
-satoja	O
+satoja	B-CARDINAL
 tai	O
 jopa	O
-tuhansia	O
+tuhansia	B-CARDINAL
 patentteja	O
 .	O
 
@@ -54366,7 +54366,7 @@ paikannusjärjestelmä	O
 on	O
 pian	O
 täydentymässä	O
-kahdella	O
+kahdella	B-CARDINAL
 uudella	O
 satelliitilla	O
 .	O
@@ -54398,7 +54398,7 @@ Sojuz	B-PRODUCT
 raketti	O
 .	O
 
-Kymmenenkään	O
+Kymmenenkään	B-CARDINAL
 paikannussatelliittia	O
 ei	O
 vielä	O
@@ -54415,11 +54415,11 @@ järjestelmän	O
 on	O
 määrä	O
 koostua	O
-24	O
+24	B-CARDINAL
 operationaalisesta	O
 satelliitista	O
 ja	O
-kuudesta	O
+kuudesta	B-CARDINAL
 varasatelliitista	O
 vuonna	B-DATE
 2020	I-DATE
@@ -54437,7 +54437,7 @@ sujunut	O
 ongelmitta	O
 .	O
 
-Kaksi	O
+Kaksi	B-CARDINAL
 niistä	O
 joutui	O
 viime	B-DATE
@@ -54719,7 +54719,7 @@ G	B-ORG
 Data	I-ORG
 julkaisee	O
 raporttinsa	O
-kaksi	O
+kaksi	B-CARDINAL
 kertaa	O
 vuodessa	O
 .	O
@@ -54762,8 +54762,8 @@ WhatsApp	B-PRODUCT
 Webin	I-PRODUCT
 aukko	O
 vaaransi	O
-200	O
-miljoonaa	O
+200	B-CARDINAL
+miljoonaa	I-CARDINAL
 käyttäjää	O
 
 VCard	B-PRODUCT
@@ -54900,14 +54900,14 @@ ilmoittanut	O
 että	O
 sillä	O
 on	O
-900	O
-miljoonaa	O
+900	B-CARDINAL
+miljoonaa	I-CARDINAL
 käyttäjää	O
 .	O
 
-Noin	O
-200	O
-miljoonan	O
+Noin	B-CARDINAL
+200	I-CARDINAL
+miljoonan	I-CARDINAL
 näistä	O
 arvioidaan	O
 käyttävän	O
@@ -54937,11 +54937,11 @@ web	O
 -	O
 palvelunsa	O
 versionumeroon	O
-0	O
-.	O
-1	O
-.	O
-4481	O
+0	B-CARDINAL
+.	I-CARDINAL
+1	I-CARDINAL
+.	I-CARDINAL
+4481	I-CARDINAL
 ,	O
 jossa	O
 aukko	O
@@ -54974,8 +54974,8 @@ palvelu	O
 väittää	O
 ,	O
 että	O
-sadat	O
-tuhannet	O
+sadat	B-CARDINAL
+tuhannet	I-CARDINAL
 käyttäjät	O
 ovat	O
 rekisteröityneet	O
@@ -54988,8 +54988,8 @@ Madison	I-PRODUCT
 väittää	O
 saaneensa	O
 "	O
-satoja	O
-tuhansia	O
+satoja	B-CARDINAL
+tuhansia	I-CARDINAL
 "	O
 uusia	O
 käyttäjiä	O
@@ -55011,10 +55011,10 @@ että	O
 palvelun	O
 uusista	O
 käyttäjistä	O
-87	O
-\	O
-_	O
-896	O
+87	B-CARDINAL
+\	I-CARDINAL
+_	I-CARDINAL
+896	I-CARDINAL
 on	O
 naisia	O
 .	O
@@ -55151,10 +55151,10 @@ viime	B-DATE
 viikolla	I-DATE
 naiset	O
 lähettivät	O
-2	O
-,	O
-8	O
-miljoonaa	O
+2	B-CARDINAL
+,	I-CARDINAL
+8	I-CARDINAL
+miljoonaa	I-CARDINAL
 viestiä	O
 palvelussa	O
 ,	O
@@ -55186,11 +55186,11 @@ suhdeluku	O
 aktiivisiin	O
 naisiin	O
 oli	O
-1	O
-,	O
-2	O
-:	O
-1	O
+1	B-CARDINAL
+,	I-CARDINAL
+2	I-CARDINAL
+:	I-CARDINAL
+1	I-CARDINAL
 kuluvan	B-DATE
 vuoden	I-DATE
 tammi	I-DATE
@@ -55204,7 +55204,7 @@ Securelta	I-ORG
 jättipäivitys	O
 :	O
 Aukko	O
-13	O
+13	B-CARDINAL
 tuotteessa	O
 
 F	B-ORG
@@ -55277,13 +55277,13 @@ kautta	O
 Ajuri	O
 päivittyy	O
 versioon	O
-10	O
-.	O
-80	O
-.	O
-110	O
-.	O
-65	O
+10	B-CARDINAL
+.	I-CARDINAL
+80	I-CARDINAL
+.	I-CARDINAL
+110	I-CARDINAL
+.	I-CARDINAL
+65	I-CARDINAL
 .	O
 
 F	B-ORG
@@ -55423,7 +55423,7 @@ osaltaan	O
 puhdistamaan	O
 .	O
 
-Kaksi	O
+Kaksi	B-CARDINAL
 tunnettua	O
 hakkeria	O
 pääsi	O
@@ -55530,11 +55530,11 @@ että	O
 siltä	O
 oli	O
 murrettu	O
-noin	O
-50	O
-\	O
-_	O
-000	O
+noin	B-CARDINAL
+50	I-CARDINAL
+\	I-CARDINAL
+_	I-CARDINAL
+000	I-CARDINAL
 kuljettajan	O
 henkilökohtaiset	O
 tiedot	O
@@ -55566,7 +55566,7 @@ kiisti	O
 vakoiluhalut	O
 ,	O
 mutta	O
-yksi	O
+yksi	B-CARDINAL
 toimittaja	O
 oli	O
 tästä	O
@@ -55903,9 +55903,9 @@ paketin	O
 sai	O
 tämän	O
 lähettämään	O
-50	O
-–	O
-120	O
+50	B-CARDINAL
+–	I-CARDINAL
+120	I-CARDINAL
 kertaa	O
 isomman	O
 datamäärän	O
@@ -56026,8 +56026,8 @@ verkossa	O
 
 Roskapostikuningas	O
 tunnusti	O
-27	O
-miljoonan	O
+27	B-CARDINAL
+miljoonan	I-CARDINAL
 viestin	O
 lähetyksen	O
 —	O
@@ -56079,17 +56079,17 @@ Spamford	B-PERSON
 Wallace	B-PERSON
 ehti	O
 lähettää	O
-27	O
-miljoonaa	O
+27	B-CARDINAL
+miljoonaa	I-CARDINAL
 roskaviestiä	O
 ja	O
 ottaa	O
 haltuunsa	O
 peräti	O
-500	O
-\	O
-_	O
-000	O
+500	B-CARDINAL
+\	I-CARDINAL
+_	I-CARDINAL
+000	I-CARDINAL
 Facebook	B-PRODUCT
 -	O
 tiliä	O
@@ -56243,7 +56243,7 @@ nimitetty	O
 YK	B-ORG
 :	I-ORG
 n	I-ORG
-ensimmäinen	O
+ensimmäinen	B-ORDINAL
 yksityisyysasioihin	O
 keskittynyt	O
 erityisraportoija	O
@@ -56391,7 +56391,7 @@ Cannataci	B-PERSON
 on	O
 asettanut	O
 itselleen	O
-neljä	O
+neljä	B-CARDINAL
 isoa	O
 tavoitetta	O
 .	O
@@ -56524,7 +56524,7 @@ tietoihin	O
 
 Saatoit	O
 rikkoa	O
-kolmea	O
+kolmea	B-CARDINAL
 lakia	O
 
 Lakitoimisto	O
@@ -56554,7 +56554,7 @@ viikolla	I-DATE
 verkkoon	O
 .	O
 
-Miljoonien	O
+Miljoonien	B-CARDINAL
 käyttäjien	O
 yksityistietoja	O
 sisältävät	O
@@ -56613,17 +56613,17 @@ toimiessa	O
 kyseeseen	O
 tulee	O
 mahdollisesti	O
-kolme	O
+kolme	B-CARDINAL
 rikosta	O
 :	O
 henkilörekisteririkos	O
 (	O
 rikoslain	B-LAW
-38	O
-.	O
+38	B-ORDINAL
+.	I-ORDINAL
 luvun	O
-9	O
-.	O
+9	B-ORDINAL
+.	I-ORDINAL
 pykälä	O
 )	O
 ,	O
@@ -56633,11 +56633,11 @@ tiedon	O
 levittäminen	O
 (	O
 rikoslain	B-LAW
-24	O
-.	O
+24	B-ORDINAL
+.	I-ORDINAL
 luvun	O
-8	O
-.	O
+8	B-ORDINAL
+.	I-ORDINAL
 pykälä	O
 )	O
 ,	O
@@ -56645,11 +56645,11 @@ sekä	O
 tekijänoikeusrikos	O
 (	O
 rikoslain	B-LAW
-49	O
-.	O
+49	B-ORDINAL
+.	I-ORDINAL
 luvun	O
-1	O
-.	O
+1	B-ORDINAL
+.	I-ORDINAL
 pykälä	O
 )	O
 .	O
@@ -57076,7 +57076,7 @@ totaalikielto	O
 .	O
 
 "	O
-Kaksi	O
+Kaksi	B-CARDINAL
 sanaa	O
 paljastaa	O
 pettäjäpalvelun	O
@@ -57290,7 +57290,7 @@ McAfee	B-PERSON
 ei	O
 ole	O
 suinkaan	O
-ensimmäinen	O
+ensimmäinen	B-ORDINAL
 ,	O
 joka	O
 epäilee	O
@@ -57362,7 +57362,7 @@ pystyvänsä	O
 päättelemään	O
 tekijästä	O
 vielä	O
-yhden	O
+yhden	B-CARDINAL
 yksityiskohdan	O
 ,	O
 jota	O
@@ -57391,7 +57391,7 @@ seksistinen	O
 näkemys	O
 perustuu	O
 erityisesti	O
-kahteen	O
+kahteen	B-CARDINAL
 ilmaisuun	O
 .	O
 
@@ -57429,7 +57429,7 @@ vain	O
 naiset	O
 .	O
 
-Toinen	O
+Toinen	B-ORDINAL
 vihje	O
 on	O
 McAfeen	B-PERSON
@@ -57595,7 +57595,7 @@ kertoi	O
 myös	O
 ,	O
 että	O
-kahden	O
+kahden	B-CARDINAL
 itsemurhan	O
 epäillään	O
 olevan	O
@@ -57647,7 +57647,7 @@ State	I-ORG
 Foundationin	I-ORG
 Britanniassa	B-GPE
 ja	O
-29	O
+29	B-CARDINAL
 muussa	O
 maassa	O
 toimiviin	O
@@ -57796,7 +57796,7 @@ Venäjällä	B-GPE
 
 Presidentti	O
 Putinin	B-PERSON
-toinen	O
+toinen	B-ORDINAL
 presidenttikausi	O
 toi	O
 mukanaan	O
@@ -57836,7 +57836,7 @@ ylläpitäjä	O
 ei	O
 suostunut	O
 poistamaan	O
-yhtä	O
+yhtä	B-CARDINAL
 artikkelia	O
 .	O
 
@@ -57964,7 +57964,7 @@ run	I-PRODUCT
 estäminen	O
 tulee	O
 viikkoa	B-DATE
-ennen	I-DATE
+ennen	O
 kuin	O
 uusi	O
 laki	O
@@ -58282,7 +58282,7 @@ oikeuden	O
 käyttäjän	O
 tietojen	O
 jakamiseen	O
-kolmansille	O
+kolmansille	B-ORDINAL
 osapuolille	O
 osittain	O
 pakon	O
@@ -58460,7 +58460,7 @@ ja	O
 KB3080149	B-PRODUCT
 .	O
 
-Ensimmäinen	O
+Ensimmäinen	B-ORDINAL
 näistä	O
 päivittää	O
 Windowsin	B-PRODUCT
@@ -58851,7 +58851,7 @@ ne	O
 eivät	O
 todennäköisesti	O
 koske	O
-kolmannen	O
+kolmannen	B-ORDINAL
 osapuolen	O
 valmistamia	O
 sovelluksia	O
@@ -59046,7 +59046,7 @@ Madison	I-PRODUCT
 deittipalvelun	O
 hakkerit	O
 jysäyttivät	O
-toisen	O
+toisen	B-ORDINAL
 annoksen	O
 kaapattuja	O
 tietoja	O
@@ -59065,11 +59065,11 @@ nettiin	O
 gigatavun	I-QUANTITY
 verran	O
 ,	O
-kaksi	O
+kaksi	B-CARDINAL
 kertaa	O
 enemmän	O
 kuin	O
-ensimmäisessä	O
+ensimmäisessä	B-ORDINAL
 vuodossa	O
 .	O
 
@@ -59129,11 +59129,11 @@ pgp	O
 -	O
 salausavaimen	O
 kuin	O
-ensimmäisessä	O
+ensimmäisessä	B-ORDINAL
 vuodossa	O
 .	O
 
-Toinen	O
+Toinen	B-ORDINAL
 vuoto	O
 näyttää	O
 keskittyvän	O
@@ -59281,7 +59281,7 @@ koko	O
 nimen	O
 ,	O
 viimeiset	O
-neljä	O
+neljä	B-CARDINAL
 lukua	O
 kortin	O
 numerosta	O
@@ -59368,10 +59368,10 @@ että	O
 maksutietoja	O
 on	O
 yhteensä	O
-9	O
-,	O
-7	O
-miljoonaa	O
+9	B-CARDINAL
+,	I-CARDINAL
+7	I-CARDINAL
+miljoonaa	I-CARDINAL
 erillistä	O
 vuosien	B-DATE
 2008	I-DATE
@@ -59388,8 +59388,8 @@ tilien	O
 maksuja	O
 on	O
 listalla	O
-noin	O
-1500	O
+noin	B-CARDINAL
+1500	I-CARDINAL
 erillistä	O
 suoritusta	O
 .	O
@@ -59439,7 +59439,7 @@ käyttäjät	O
 eivät	O
 kuulu	O
 mainittuun	O
-1500	O
+1500	B-CARDINAL
 suoritukseen	O
 .	O
 
@@ -59452,11 +59452,11 @@ verkossa	O
 liikkuu	O
 tällä	O
 hetkellä	O
-noin	O
-370	O
-\	O
-_	O
-000	O
+noin	B-CARDINAL
+370	I-CARDINAL
+\	I-CARDINAL
+_	I-CARDINAL
+000	I-CARDINAL
 salasanaa	O
 sisältävä	O
 lista	O
@@ -59630,7 +59630,7 @@ iskemäksi	O
 
 Salama	O
 iski	O
-neljä	O
+neljä	B-CARDINAL
 kertaa	O
 Googlen	B-ORG
 Belgian	B-GPE
@@ -59848,8 +59848,8 @@ aitoja	O
 
 Tietomassassa	O
 on	O
-36	O
-miljoonaa	O
+36	B-CARDINAL
+miljoonaa	I-CARDINAL
 syntymäpäivää	O
 ,	O
 mutta	O
@@ -59873,7 +59873,7 @@ Washington	B-ORG
 Postin	I-ORG
 mukaan	O
 joka	O
-kahdestoista	O
+kahdestoista	B-ORDINAL
 ilmoitti	O
 syntymäpäiväkseen	O
 1	B-DATE
@@ -59909,8 +59909,8 @@ ovatkaan	O
 ,	O
 mutta	O
 kuitenkin	O
-vähintään	O
-18	B-DATE
+vähintään	B-DATE
+18	I-DATE
 -	I-DATE
 vuotiana	I-DATE
 .	O
@@ -59920,7 +59920,7 @@ Madisonissa	I-PRODUCT
 useampi	O
 kuin	O
 joka	O
-12	O
+12	B-CARDINAL
 ilmoitti	O
 syntymävuodekseen	O
 1978	B-DATE
@@ -59948,8 +59948,8 @@ vuodetussa	O
 tietomassassa	O
 on	O
 myös	O
-kymmeniä	O
-miljoonia	O
+kymmeniä	B-CARDINAL
+miljoonia	I-CARDINAL
 sähköposteja	O
 ,	O
 iskemisfraaseja	O
@@ -59994,8 +59994,8 @@ valinnan	O
 helppous	O
 .	O
 
-Kymmenet	O
-tuhannet	O
+Kymmenet	B-CARDINAL
+tuhannet	I-CARDINAL
 suomalaisdeittaajat	O
 sen	O
 sijaan	O
@@ -60017,8 +60017,8 @@ sosiaaliturvatunnuksessa	O
 .	O
 
 Pettäjämurrossa	O
-kymmeniä	O
-tuhansia	O
+kymmeniä	B-CARDINAL
+tuhansia	I-CARDINAL
 suomalaisia	B-NORP
 —	O
 älä	O
@@ -60048,8 +60048,8 @@ että	O
 murto	O
 voi	O
 koskea	O
-kymmeniä	O
-tuhansia	O
+kymmeniä	B-CARDINAL
+tuhansia	I-CARDINAL
 suomalaisia	B-NORP
 .	O
 
@@ -60063,8 +60063,8 @@ verkkoon	O
 päätyneestä	O
 tietokannasta	O
 löytyy	O
-kymmeniä	O
-tuhansia	O
+kymmeniä	B-CARDINAL
+tuhansia	I-CARDINAL
 suomalaisnimiä	O
 ,	O
 kertoo	O
@@ -60286,9 +60286,9 @@ Technica	I-ORG
 Pakatusta	O
 tietokannasta	O
 löytyvät	O
-yli	O
-33	O
-miljoonan	O
+yli	B-CARDINAL
+33	I-CARDINAL
+miljoonan	I-CARDINAL
 käyttäjän	O
 tiedot	O
 .	O
@@ -60342,10 +60342,10 @@ Tietokannasta	O
 löytyy	O
 muun	O
 muassa	O
-15	O
-\	O
-_	O
-000	O
+15	B-CARDINAL
+\	I-CARDINAL
+_	I-CARDINAL
+000	I-CARDINAL
 .	O
 gov	O
 -	O
@@ -60580,7 +60580,7 @@ automaattisia	O
 päivityksiä	O
 .	O
 
-Miljoonien	O
+Miljoonien	B-CARDINAL
 ihmisten	O
 internetin	O
 –	O
@@ -60725,7 +60725,7 @@ OnHub	B-PRODUCT
 -	O
 reitittimessä	O
 on	O
-13	O
+13	B-CARDINAL
 antennia	O
 ja	O
 Google	B-ORG
@@ -60805,11 +60805,11 @@ Kumpaakin	O
 varten	O
 on	O
 varattu	O
-kuusi	O
+kuusi	B-CARDINAL
 antennia	O
 .	O
 
-13	O
+13	B-CARDINAL
 .	O
 antennia	O
 tutkailee	O
@@ -60886,7 +60886,7 @@ hienostuneita	O
 haittaohjelmia	O
 .	O
 
-Yksi	O
+Yksi	B-CARDINAL
 näistä	O
 ,	O
 Gozi	B-PRODUCT
@@ -60897,8 +60897,8 @@ vuonna	B-DATE
 2007	I-DATE
 ja	O
 tarttui	O
-yli	O
-miljoonaan	O
+yli	B-CARDINAL
+miljoonaan	I-CARDINAL
 tietokoneeseen	O
 .	O
 
@@ -60935,8 +60935,8 @@ Mies	O
 on	O
 jo	O
 viettänyt	O
-kymmenen	O
-kuukautta	O
+kymmenen	B-DATE
+kuukautta	I-DATE
 vankilassa	O
 Latviassa	B-GPE
 .	O
@@ -60985,7 +60985,7 @@ aikaisemmin	O
 kun	O
 taas	O
 ryhmän	O
-kolmas	O
+kolmas	B-ORDINAL
 epäilty	O
 jäsen	O
 ,	O
@@ -61113,7 +61113,7 @@ käytössä	O
 
 Muussa	O
 tapauksessa	O
-3088903	O
+3088903	B-CARDINAL
 -	O
 korjaustiedoston	O
 voi	O
@@ -61149,13 +61149,13 @@ The	B-PRODUCT
 Pirate	I-PRODUCT
 Bayn	I-PRODUCT
 lisäksi	O
-kuutta	O
+kuutta	B-CARDINAL
 muuta	O
 sivustoa	O
 .	O
 
 Norjan	B-GPE
-kahdeksan	O
+kahdeksan	B-CARDINAL
 suurimman	O
 teleoperaattorin	O
 täytyy	O
@@ -61184,7 +61184,7 @@ TTVK	B-ORG
 Käräjäoikeuden	O
 päätös	O
 on	O
-ensimmäinen	O
+ensimmäinen	B-ORDINAL
 lajissaan	O
 Norjassa	B-GPE
 ,	O
@@ -61251,7 +61251,7 @@ huijaus	O
 kloonattiin	O
 :	O
 Heti	O
-tuhansia	O
+tuhansia	B-CARDINAL
 tykkäyksiä	O
 
 Useat	O
@@ -61287,7 +61287,7 @@ Tekniikkakeskus	B-PRODUCT
 nimisen	O
 sivun	O
 järjestämään	O
-viiden	O
+viiden	B-CARDINAL
 iPhone	B-PRODUCT
 6	I-PRODUCT
 :	I-PRODUCT
@@ -61300,8 +61300,8 @@ kuvaa	O
 oli	O
 jaettu	O
 julkisesti	O
-yli	O
-7000	O
+yli	B-CARDINAL
+7000	I-CARDINAL
 kertaa	O
 ,	O
 yksityisiä	O
@@ -61314,11 +61314,11 @@ enemmän	O
 Sivutykkäyksiä	O
 oli	O
 kertynyt	O
-yli	O
-12	O
-\	O
-_	O
-000	O
+yli	B-CARDINAL
+12	I-CARDINAL
+\	I-CARDINAL
+_	I-CARDINAL
+000	I-CARDINAL
 .	O
 
 ”	O
@@ -61356,11 +61356,11 @@ Tämä	O
 kampanja	O
 keräsi	O
 sivulle	O
-yli	O
-24	O
-\	O
-_	O
-000	O
+yli	B-CARDINAL
+24	I-CARDINAL
+\	I-CARDINAL
+_	I-CARDINAL
+000	I-CARDINAL
 tykkääjää	O
 .	O
 
@@ -61450,8 +61450,8 @@ Nämä	O
 ovat	O
 keränneet	O
 yhteensä	O
-muutaman	O
-tuhatta	O
+muutaman	B-CARDINAL
+tuhatta	I-CARDINAL
 tykkäystä	O
 .	O
 
@@ -61643,11 +61643,11 @@ sen	O
 laiteohjelmiston	O
 versio	O
 on	O
-2	O
-.	O
-10	O
-.	O
-17	O
+2	B-CARDINAL
+.	I-CARDINAL
+10	I-CARDINAL
+.	I-CARDINAL
+17	I-CARDINAL
 tai	O
 mahdollisesti	O
 aikaisempi	O
@@ -61665,7 +61665,7 @@ siihen	O
 sovelluksia	O
 .	O
 
-Yksi	O
+Yksi	B-CARDINAL
 laitteen	O
 riskitekijöistä	O
 on	O
@@ -61806,7 +61806,7 @@ ja	I-PRODUCT
 1	I-PRODUCT
 -	O
 käyttöjärjestelmiin	O
-neljällä	O
+neljällä	B-CARDINAL
 päivityksellä	O
 ,	O
 jotka	O
@@ -62039,7 +62039,7 @@ on	O
 havaittu	O
 hyökkäävän	O
 aktiivisesti	O
-14	O
+14	B-CARDINAL
 japanilaiseen	B-NORP
 pankkiin	O
 ,	O
@@ -62380,11 +62380,11 @@ miksi	O
 
 Microsoftilta	B-ORG
 katoaa	O
-enintään	O
-2	O
-\	O
-_	O
-300	O
+enintään	B-CARDINAL
+2	I-CARDINAL
+\	I-CARDINAL
+_	I-CARDINAL
+300	I-CARDINAL
 työpaikkaa	O
 ja	O
 Salon	B-GPE
@@ -62498,11 +62498,11 @@ neuvottelut	O
 joiden	O
 tuloksena	O
 vähennetään	O
-enintään	O
-2	O
-\	O
-_	O
-300	O
+enintään	B-CARDINAL
+2	I-CARDINAL
+\	I-CARDINAL
+_	I-CARDINAL
+300	I-CARDINAL
 työpaikkaa	O
 Suomesta	B-GPE
 ja	O
@@ -62673,7 +62673,7 @@ viime	B-DATE
 viikolla	I-DATE
 irtisanoa	O
 jopa	O
-2300	O
+2300	B-CARDINAL
 työntekijää	O
 Suomessa	B-GPE
 ,	O
@@ -63101,7 +63101,7 @@ tuli	O
 puheeksi	O
 ,	O
 kun	O
-yksi	O
+yksi	B-CARDINAL
 hänen	O
 uhreistaan	O
 kirjoitti	O
@@ -63301,7 +63301,7 @@ helsinginpoliisivaroittaayrityksiameneillaanolevastahuijauksesta38792	O
 
 Microsoft	B-ORG
 vähentää	O
-2300	O
+2300	B-CARDINAL
 Suomessa	B-GPE
 
 Ohjelmistoyhtiö	O
@@ -63330,10 +63330,10 @@ Suomessa	B-GPE
 
 Yhtiö	O
 vähentää	O
-2	O
-\	O
-_	O
-300	O
+2	B-CARDINAL
+\	I-CARDINAL
+_	I-CARDINAL
+300	I-CARDINAL
 työpaikkaa	O
 ,	O
 kuten	O
@@ -63405,11 +63405,11 @@ Maailmanlaajuisesti	O
 amerikkalaisyhtiö	O
 aikoo	O
 vähentää	O
-enintään	O
-7	O
-\	O
-_	O
-800	O
+enintään	B-CARDINAL
+7	I-CARDINAL
+\	I-CARDINAL
+_	I-CARDINAL
+800	I-CARDINAL
 henkilöä	O
 pääasiassa	O
 puhelinliiketoiminnasta	O
@@ -63487,7 +63487,7 @@ Tällöin	O
 yleensä	O
 käytettiin	O
 vain	O
-yhtä	O
+yhtä	B-CARDINAL
 sovellusta	O
 kerrallaan	O
 ,	O
@@ -63573,8 +63573,8 @@ sopimatonta	O
 kuvamateriaalia	O
 .	O
 
-Yksi	O
-ensimmäisistä	O
+Yksi	B-ORDINAL
+ensimmäisistä	I-ORDINAL
 tunnetuista	O
 pomonapeista	O
 oli	O
@@ -63755,7 +63755,7 @@ w	O
 joka	O
 tyypillisesti	O
 sulkee	O
-yhden	O
+yhden	B-CARDINAL
 välilehden	O
 selaimesta	O
 ,	O
@@ -63768,7 +63768,7 @@ joka	O
 tyypillisesti	O
 sulkee	O
 kokonaan	O
-yhden	O
+yhden	B-CARDINAL
 sovelluksen	O
 ikkunoivasta	O
 käyttöjärjestelmästä	O
@@ -63892,7 +63892,7 @@ ettei	O
 Telenor	B-ORG
 halua	O
 tulla	O
-toiseksi	O
+toiseksi	B-ORDINAL
 Nokiaksi	B-ORG
 .	O
 
@@ -64082,11 +64082,11 @@ kuluneen	I-DATE
 12	I-DATE
 kuukauden	I-DATE
 aikana	O
-yli	O
-11	O
-\	O
-_	O
-000	O
+yli	B-CARDINAL
+11	I-CARDINAL
+\	I-CARDINAL
+_	I-CARDINAL
+000	I-CARDINAL
 naista	O
 kautta	O
 maailman	O
@@ -64103,8 +64103,8 @@ enemmän	O
 Yhdysvalloissa	B-GPE
 Apple	B-ORG
 palkkasi	O
-yli	O
-2200	O
+yli	B-CARDINAL
+2200	I-CARDINAL
 tummaihoista	O
 työntekijää	O
 –	O
@@ -64119,8 +64119,8 @@ Taustaltaan	O
 latinalaisamerikkalaisia	B-NORP
 Apple	B-ORG
 palkkasi	O
-noin	O
-2700	O
+noin	B-CARDINAL
+2700	I-CARDINAL
 ,	O
 mikä	O
 on	O
@@ -64382,8 +64382,8 @@ sanoo	O
 että	O
 palvelimen	O
 kaikki	O
-kymmenet	O
-tuhannet	O
+kymmenet	B-CARDINAL
+tuhannet	I-CARDINAL
 työsähköpostit	O
 on	O
 jo	O
@@ -64442,8 +64442,8 @@ Niistä	O
 toimitettiin	O
 julkisuuteen	O
 jo	O
-300	O
-ensimmäistä	O
+300	B-ORDINAL
+ensimmäistä	I-ORDINAL
 eikä	O
 niissä	O
 median	O
@@ -64501,10 +64501,10 @@ vetoamalla	O
 siihen	O
 ,	O
 että	O
-yhden	O
+yhden	B-CARDINAL
 sähköpostijärjestelmän	O
 ja	O
-yhden	O
+yhden	B-CARDINAL
 puhelimen	O
 käyttäminen	O
 tuntui	O
@@ -64536,7 +64536,7 @@ jo	O
 !	O
 
 Maailman	O
-toiseksi	O
+toiseksi	B-ORDINAL
 suurimman	O
 ohjelmistotalon	O
 Oraclen	B-ORG
@@ -64958,7 +64958,7 @@ reseptin	O
 
 Brittiläisen	B-NORP
 Marshallin	B-ORG
-ensimmäinen	O
+ensimmäinen	B-ORDINAL
 älypuhelin	O
 on	O
 pitkälti	O
@@ -65071,7 +65071,7 @@ oululaisyhtiölle	O
 jossa	O
 on	O
 vain	O
-15	O
+15	B-CARDINAL
 työntekijää	O
 .	O
 
@@ -65088,7 +65088,7 @@ tausta	O
 .	O
 
 –	O
-Kaksi	O
+Kaksi	B-CARDINAL
 ei	O
 ole	O
 entisiä	O
@@ -65351,7 +65351,7 @@ Androidista	B-PRODUCT
 Puhelimessa	O
 on	O
 myös	O
-kaksi	O
+kaksi	B-CARDINAL
 kuulokeliitäntää	O
 ,	O
 joiden	O
@@ -65635,10 +65635,10 @@ Microsoft	B-ORG
 vahvisti	O
 elokuussa	B-DATE
 vähentävänsä	O
-2	O
-\	O
-_	O
-300	O
+2	B-CARDINAL
+\	I-CARDINAL
+_	I-CARDINAL
+300	I-CARDINAL
 työpaikkaa	O
 yt	O
 -	O
@@ -65654,7 +65654,7 @@ Valtiovarainministeriö	B-ORG
 esittää	O
 vuoden	B-DATE
 2015	I-DATE
-kolmannessa	O
+kolmannessa	B-ORDINAL
 lisätalousarviossa	O
 lisämäärärahaa	O
 muun	O
@@ -65773,7 +65773,7 @@ esitetään	O
 _	I-MONEY
 000	I-MONEY
 euroa	I-MONEY
-seitsemän	O
+seitsemän	B-CARDINAL
 työntekijän	O
 ja	O
 ely	O
@@ -65784,7 +65784,7 @@ keskuksille	O
 _	I-MONEY
 000	I-MONEY
 euroa	I-MONEY
-kahden	O
+kahden	B-CARDINAL
 työntekijän	O
 palkkaamiseksi	O
 .	O
@@ -66054,7 +66054,7 @@ tai	O
 sykemittareita	O
 .	O
 
-Toisessa	O
+Toisessa	B-ORDINAL
 ilmoituksessa	O
 taas	O
 mainitaan	O
@@ -66428,11 +66428,11 @@ siihen	O
 liittyvistä	O
 toiminnoista	O
 maailmanlaajuisesti	O
-7800	O
+7800	B-CARDINAL
 työntekijää	O
 ,	O
 joista	O
-2300	O
+2300	B-CARDINAL
 Suomesta	B-GPE
 .	O
 
@@ -66591,8 +66591,8 @@ vuosien	B-DATE
 -	I-DATE
 2008	I-DATE
 tienoilla	O
-useita	O
-miljoonia	B-MONEY
+useita	B-MONEY
+miljoonia	I-MONEY
 euroja	I-MONEY
 kiristäjälle	O
 ,	O
@@ -67026,7 +67026,7 @@ nostetussa	O
 kanteessa	O
 vaaditaan	O
 korvauksia	O
-tuhansille	O
+tuhansille	B-CARDINAL
 Apple	B-ORG
 Store	I-ORG
 -	O
@@ -67071,11 +67071,11 @@ helpompaa	O
 Joukkokanteen	O
 piirissä	O
 on	O
-yli	O
-12	O
-\	O
-_	O
-000	O
+yli	B-CARDINAL
+12	I-CARDINAL
+\	I-CARDINAL
+_	I-CARDINAL
+000	I-CARDINAL
 nykyistä	O
 ja	O
 entistä	O
@@ -67089,7 +67089,7 @@ ilmi	O
 ,	O
 että	O
 ainakin	O
-kaksi	O
+kaksi	B-CARDINAL
 työntekijää	O
 oli	O
 valittanut	O
@@ -67299,8 +67299,8 @@ raportoinnista	O
 United	B-ORG
 Airlines	I-ORG
 on	O
-yksi	O
-ensimmäisistä	O
+yksi	B-ORDINAL
+ensimmäisistä	I-ORDINAL
 yrityksistä	O
 teknologia	O
 -	O
@@ -67324,9 +67324,9 @@ vahvisti	O
 uutistoimisto	O
 Reutersille	B-ORG
 myöntäneensä	O
-kahdelle	O
+kahdelle	B-CARDINAL
 hakkerille	O
-miljoonia	O
+miljoonia	B-CARDINAL
 lentomaileja	O
 vastineeksi	O
 aukkojen	O
@@ -67346,7 +67346,7 @@ ei	O
 vahvistanut	O
 .	O
 
-Yksi	O
+Yksi	B-CARDINAL
 parhaiten	O
 palkituista	O
 aukoista	O
@@ -67410,7 +67410,7 @@ draamaa	O
 Redditissä	B-ORG
 :	O
 Jo	O
-kolmas	O
+kolmas	B-ORDINAL
 johtaja	O
 lähti	O
 
@@ -67459,8 +67459,8 @@ ehti	O
 työskennellä	O
 yhtiössä	O
 vain	O
-kaksi	O
-kuukautta	O
+kaksi	B-DATE
+kuukautta	I-DATE
 .	O
 
 Blountin	B-PERSON
@@ -67611,7 +67611,7 @@ kuviteltiin	O
 Kyseessä	O
 on	O
 jo	O
-kolmas	O
+kolmas	B-ORDINAL
 korkean	O
 johtajan	O
 lähtö	O
@@ -67806,8 +67806,8 @@ jälkeen	O
 .	O
 
 Mutta	O
-ainakin	O
-yksi	O
+ainakin	B-CARDINAL
+yksi	I-CARDINAL
 höynäytetty	O
 erehtyi	O
 antamaan	O
@@ -68077,7 +68077,7 @@ vakavasta	O
 tietomurrosta	O
 .	O
 
-Yhdeksän	O
+Yhdeksän	B-CARDINAL
 Sony	B-ORG
 Pictures	I-ORG
 -	O
@@ -68320,8 +68320,8 @@ hänen	O
 tappamisekseen	O
 .	O
 
-Kaksi	O
-kuukautta	O
+Kaksi	B-DATE
+kuukautta	I-DATE
 sitten	O
 toinen	O
 agentti	O
@@ -68366,7 +68366,7 @@ on	O
 valittanut	O
 tuomiostaan	O
 ja	O
-kahden	O
+kahden	B-CARDINAL
 agentin	O
 tunnustukset	O
 ovat	O
@@ -68637,7 +68637,7 @@ matkustajakoneita	O
 ,	O
 mutta	O
 nyt	O
-yksi	O
+yksi	B-CARDINAL
 eksyi	O
 oikean	O
 helikopterin	O
@@ -68798,7 +68798,7 @@ kelloja	O
 mutta	O
 se	O
 on	O
-yksi	O
+yksi	B-CARDINAL
 isoimmista	O
 verkko	O
 -	O
@@ -68921,7 +68921,7 @@ Yhä	O
 näitä	O
 tulee	O
 :	O
-Kaksi	O
+Kaksi	B-CARDINAL
 Nokia	B-ORG
 -	O
 peruspuhelinta	O
@@ -68944,7 +68944,7 @@ amerikkalainen	B-NORP
 Microsoft	B-ORG
 on	O
 julkistanut	O
-kaksi	O
+kaksi	B-CARDINAL
 edullista	O
 Nokia	B-ORG
 -	O
@@ -69314,8 +69314,8 @@ pikkulaitteiden	O
 verkossa	O
 .	O
 
-115	O
-miljoonaa	O
+115	B-CARDINAL
+miljoonaa	I-CARDINAL
 kännykkää	O
 on	O
 unohdettu	O
@@ -69342,9 +69342,9 @@ myytiin	O
 huhti	B-DATE
 —	I-DATE
 kesäkuussa	I-DATE
-yli	O
-115	O
-miljoonaa	O
+yli	B-CARDINAL
+115	I-CARDINAL
+miljoonaa	I-CARDINAL
 .	O
 
 Analytiikkatalo	O
@@ -69407,7 +69407,7 @@ Microsoft	B-ORG
 säilytti	O
 asemansa	O
 maailman	O
-kolmanneksi	O
+kolmanneksi	B-ORDINAL
 suurimpana	O
 toimittajana	O
 .	O
@@ -69504,8 +69504,8 @@ Huhti	B-DATE
 —	I-DATE
 kesäkuussa	I-DATE
 myytiin	O
-330	O
-miljoonaa	O
+330	B-CARDINAL
+miljoonaa	I-CARDINAL
 älypuhelinta	O
 ,	O
 joka	O
@@ -69525,7 +69525,7 @@ vanhat	O
 kännykät	O
 pitävät	O
 Microsoftin	B-ORG
-kolmantena	O
+kolmantena	B-ORDINAL
 Kaikkien	O
 matkapuhelinten	O
 markkinaosuudet	O
@@ -69773,7 +69773,7 @@ jäämässä	O
 Sonyn	B-ORG
 ja	O
 Microsoftin	B-ORG
-kahden	O
+kahden	B-CARDINAL
 kaupaksi	O
 .	O
 
@@ -69849,7 +69849,7 @@ aikana	O
 .	O
 
 Kameran	O
-yksi	O
+yksi	B-CARDINAL
 komponentti	O
 saattaa	O
 kyseisissä	O
@@ -70337,9 +70337,9 @@ elokuvien	O
 katseluun	O
 .	O
 
-1280	O
+1280	B-CARDINAL
 x	O
-800	O
+800	B-CARDINAL
 -	O
 tarkkuus	O
 ei	O
@@ -70378,7 +70378,7 @@ sillä	O
 kaiuttimia	O
 on	O
 vain	O
-yksi	O
+yksi	B-CARDINAL
 ja	O
 sekin	O
 laitteen	O
@@ -70664,15 +70664,15 @@ toimittaen	O
 huhti	B-DATE
 –	I-DATE
 kesäkuussa	I-DATE
-89	O
-miljoonaa	O
+89	B-CARDINAL
+miljoonaa	I-CARDINAL
 puhelinta	O
 .	O
 
 Se	O
 on	O
 kuitenkin	O
-miljoonia	O
+miljoonia	B-CARDINAL
 vähemmän	O
 kuin	O
 vuotta	B-DATE
@@ -70722,7 +70722,7 @@ yhteen	O
 Nyt	O
 Microsoft	B-ORG
 romahti	O
-neljänneksi	O
+neljänneksi	B-ORDINAL
 päästäen	O
 ohitseen	O
 paitsi	O
@@ -70752,12 +70752,12 @@ prosenttiin	I-PERCENT
 
 Toimitukset	O
 putosivat	O
-noin	O
-50	O
-miljoonasta	O
-noin	O
-28	O
-miljoonaan	O
+noin	B-CARDINAL
+50	I-CARDINAL
+miljoonasta	I-CARDINAL
+noin	B-CARDINAL
+28	I-CARDINAL
+miljoonaan	I-CARDINAL
 kappaleeseen	O
 .	O
 
@@ -70881,7 +70881,7 @@ iPhone	B-PRODUCT
 -	O
 omistajien	O
 kokeilla	O
-yhtä	O
+yhtä	B-CARDINAL
 useammasta	O
 Galaxy	B-PRODUCT
 -	O
@@ -71107,7 +71107,7 @@ Sen	O
 mukaan	O
 yhtiö	O
 esittelee	O
-kaksi	O
+kaksi	B-CARDINAL
 Lumia	B-PRODUCT
 -	O
 puhelinta	O
@@ -71245,7 +71245,7 @@ kellotauluja	O
 on	O
 nyt	O
 saatavilla	O
-kolmelta	O
+kolmelta	B-CARDINAL
 kehittäjältä	O
 .	O
 
@@ -71365,9 +71365,9 @@ kaupan	O
 hyllylle	O
 .	O
 
-Neljä	O
-kuukautta	O
-sitten	O
+Neljä	B-DATE
+kuukautta	I-DATE
+sitten	I-DATE
 Apple	B-ORG
 alkoi	O
 esitellä	O
@@ -71484,7 +71484,7 @@ Apple	B-PRODUCT
 Watchista	I-PRODUCT
 on	O
 myynnissä	O
-kolme	O
+kolme	B-CARDINAL
 eri	O
 vaihtoehtoa	O
 :	O
@@ -71814,7 +71814,7 @@ päivässä	I-DATE
 akku	O
 ladattiin	O
 täyteen	O
-kaksi	O
+kaksi	B-CARDINAL
 kertaa	O
 .	O
 
@@ -71828,7 +71828,7 @@ kone	O
 aukesi	O
 joka	O
 kerta	O
-ensimmäisellä	O
+ensimmäisellä	B-ORDINAL
 pyyhkäisyllä	O
 .	O
 
@@ -71906,7 +71906,7 @@ lte	O
 -	O
 liittymät	O
 ylittävät	O
-miljardin	O
+miljardin	B-CARDINAL
 rajan	O
 tänä	B-DATE
 vuonna	I-DATE
@@ -71924,7 +71924,7 @@ mennessä	O
 niiden	O
 määrä	O
 ylittää	O
-miljardin	O
+miljardin	B-CARDINAL
 rajapyykin	O
 .	O
 
@@ -71948,17 +71948,17 @@ lte	O
 liittymien	O
 lukumäärä	O
 ylsi	O
-noin	O
-755	O
-miljoonaan	O
+noin	B-CARDINAL
+755	I-CARDINAL
+miljoonaan	I-CARDINAL
 kesäkuun	B-DATE
 lopussa	I-DATE
 .	O
 
 Se	O
 on	O
-441	O
-miljoonaa	O
+441	B-CARDINAL
+miljoonaa	I-CARDINAL
 enemmän	O
 kuin	O
 vuoden	B-DATE
@@ -72006,13 +72006,13 @@ Huhti	B-DATE
 –	I-DATE
 kesäkuussa	I-DATE
 maailman	O
-422	O
+422	B-CARDINAL
 operaattoria	O
 sai	O
-113	O
-,	O
-5	O
-miljoonaa	O
+113	B-CARDINAL
+,	I-CARDINAL
+5	I-CARDINAL
+miljoonaa	I-CARDINAL
 lte	O
 -	O
 käyttäjää	O
@@ -72031,8 +72031,8 @@ oman	O
 lte	O
 -	O
 liittymämääränsä	O
-225	O
-miljoonaan	O
+225	B-CARDINAL
+miljoonaan	I-CARDINAL
 .	O
 
 Maailman	O
@@ -72052,8 +72052,8 @@ Amerikassa	I-LOC
 .	O
 
 Juuri	O
-sadan	O
-miljoonan	O
+sadan	B-CARDINAL
+miljoonan	I-CARDINAL
 liittymän	O
 rajan	O
 ylittäneen	O
@@ -72094,10 +72094,10 @@ kasvoi	O
 edelleen	O
 ,	O
 mutta	O
-74	O
-,	O
-4	O
-miljoonalla	O
+74	B-CARDINAL
+,	I-CARDINAL
+4	I-CARDINAL
+miljoonalla	I-CARDINAL
 kasvu	O
 jäi	O
 jälkeen	O
@@ -72113,8 +72113,8 @@ gsm	O
 liittymien	O
 määrä	O
 kutistui	O
-98	O
-miljoonalla	O
+98	B-CARDINAL
+miljoonalla	I-CARDINAL
 .	O
 
 Ericssonin	B-ORG
@@ -72131,8 +72131,8 @@ määrä	O
 oli	O
 kesäkuun	B-DATE
 lopussa	I-DATE
-740	O
-miljoonaa	O
+740	B-CARDINAL
+miljoonaa	I-CARDINAL
 .	O
 
 Total	B-ORG
@@ -72147,28 +72147,28 @@ kasvaneen	O
 kesäkuun	B-DATE
 loppuun	I-DATE
 mennessä	O
-7	O
-,	O
-2	O
-miljardiin	O
+7	B-CARDINAL
+,	I-CARDINAL
+2	I-CARDINAL
+miljardiin	I-CARDINAL
 vuoden	B-DATE
 takaisesta	I-DATE
-6	O
-,	O
-8	O
-miljardista	O
+6	B-CARDINAL
+,	I-CARDINAL
+8	I-CARDINAL
+miljardista	I-CARDINAL
 .	O
 
 Suomalaispiraateille	O
 jo	O
-sata	O
+sata	B-CARDINAL
 kirjettä	O
 viikossa	O
 —	O
 seuraavaksioikeudenkäyntien	O
 aalto	O
 
-Tuhannet	O
+Tuhannet	B-CARDINAL
 piratismista	O
 epäillyt	O
 suomalaiset	B-NORP
@@ -72423,7 +72423,7 @@ mennessä	O
 tehneet	O
 markkinaoikeudelle	O
 jo	O
-105	O
+105	B-CARDINAL
 tällaista	O
 tietopyyntöhakemusta	O
 ,	O
@@ -72434,7 +72434,7 @@ vuonna	I-DATE
 hakemuksia	O
 oli	O
 yhteensä	O
-73	O
+73	B-CARDINAL
 .	O
 
 Vaadittujen	O
@@ -72447,13 +72447,13 @@ verrattuna	O
 moninkertainen	O
 ,	O
 sillä	O
-yhdessä	O
+yhdessä	B-CARDINAL
 tietopyynnössä	O
 listataan	O
 yleensä	O
-kymmeniä	O
+kymmeniä	B-CARDINAL
 ellei	O
-satoja	O
+satoja	B-CARDINAL
 eri	O
 valvojien	O
 haaviin	O
@@ -72464,9 +72464,9 @@ osoitteita	O
 ,	O
 eli	O
 myös	O
-kymmeniä	O
+kymmeniä	B-CARDINAL
 tai	O
-satoja	O
+satoja	B-CARDINAL
 laittomien	O
 tiedostojen	O
 jakajia	O
@@ -72516,8 +72516,8 @@ mukaan	O
 Hedman	B-ORG
 Partners	I-ORG
 lähettää	O
-noin	O
-sata	O
+noin	B-CARDINAL
+sata	I-CARDINAL
 huomautuskirjettä	O
 joka	O
 viikko	O
@@ -72569,7 +72569,7 @@ epäilty	O
 on	O
 jakanut	O
 vain	O
-yhtä	O
+yhtä	B-CARDINAL
 elokuvaa	O
 .	O
 
@@ -72609,7 +72609,7 @@ asiat	O
 .	O
 
 —	O
-Ensimmäiset	O
+Ensimmäiset	B-ORDINAL
 vaiheet	O
 oli	O
 saada	O
@@ -72625,7 +72625,7 @@ huomautuskirjeitä	O
 ulos	O
 .	O
 
-Kolmas	O
+Kolmas	B-ORDINAL
 vaihe	O
 on	O
 viedä	O
@@ -72673,7 +72673,7 @@ ja	O
 sitten	O
 nostaa	O
 määrää	O
-kymmeniin	O
+kymmeniin	B-CARDINAL
 ,	O
 Hatanmaa	B-PERSON
 sanoo	O
@@ -72687,7 +72687,7 @@ tiedä	O
 nouseeko	O
 oikeudenkäyntien	O
 määrä	O
-satoihin	O
+satoihin	B-CARDINAL
 vuodessa	O
 ,	O
 mutta	O
@@ -73311,7 +73311,7 @@ kantaa	O
 
 Siitä	O
 saatiin	O
-ensimmäinen	O
+ensimmäinen	B-ORDINAL
 vihje	O
 viime	B-DATE
 viikon	I-DATE
@@ -73442,7 +73442,7 @@ esimerkiksi	O
 Apple	B-ORG
 on	O
 määrätty	O
-satoja	O
+satoja	B-CARDINAL
 kertoja	O
 vuodessa	O
 luovuttamaan	O
@@ -73634,9 +73634,9 @@ kuuluvalla	O
 kansalaisella	O
 olisi	O
 pistearvo	O
-360	O
+360	B-CARDINAL
 ja	O
-950	O
+950	B-CARDINAL
 välillä	O
 .	O
 
@@ -73757,8 +73757,8 @@ asiassa	O
 .	O
 
 Esimerkiksi	O
-yli	O
-600	O
+yli	B-CARDINAL
+600	I-CARDINAL
 pisteen	O
 saldolla	O
 voi	O
@@ -73770,8 +73770,8 @@ dollarin	I-MONEY
 lainan	O
 .	O
 
-Yli	O
-650	O
+Yli	B-CARDINAL
+650	I-CARDINAL
 pisteellä	O
 auton	O
 vuokraamiseen	O
@@ -73787,7 +73787,7 @@ luotetaan	O
 ilmankin	O
 .	O
 
-700	O
+700	B-CARDINAL
 pisteen	O
 kansalainen	O
 taas	O
@@ -74049,11 +74049,11 @@ Suomi	I-PRODUCT
 sovellusta	O
 on	O
 ladattu	O
-noin	O
-250	O
-\	O
-_	O
-00	O
+noin	B-CARDINAL
+250	I-CARDINAL
+\	I-CARDINAL
+_	I-CARDINAL
+00	I-CARDINAL
 kertaa	O
 ensimmäisen	B-DATE
 kolmen	I-DATE
@@ -74068,11 +74068,11 @@ sovellusta	O
 käytetyn	O
 hätäilmoituksen	O
 tekoon	O
-3500	O
+3500	B-CARDINAL
 kertaa	O
 .	O
 
-Yksi	O
+Yksi	B-CARDINAL
 apua	O
 saanut	O
 oli	O
@@ -74229,7 +74229,7 @@ naiset	O
 vaaraan	O
 "	O
 
-Kaksi	O
+Kaksi	B-CARDINAL
 naista	O
 sanoo	O
 joutuneensa	O
@@ -74263,15 +74263,15 @@ Asiasta	O
 uutisoivan	O
 Cnetin	B-ORG
 mukaan	O
-kaksi	O
+kaksi	B-CARDINAL
 naista	O
 sanoo	O
 joutuneensa	O
-yhdessä	O
+yhdessä	B-CARDINAL
 tapauksessa	O
 raiskauksen	O
 ja	O
-toisessa	O
+toisessa	B-ORDINAL
 tapauksessa	O
 muun	O
 seksuaalisen	O
@@ -74426,7 +74426,7 @@ tarkemmin	O
 Äskettäin	O
 Uber	B-ORG
 selvisi	O
-yhdestä	O
+yhdestä	B-CARDINAL
 intialaisesta	B-NORP
 raiskauskanteesta	O
 ,	O
@@ -74979,7 +74979,7 @@ verottamisesta	O
 "	O
 Kilpailu	O
 tarvitsee	O
-neljä	O
+neljä	B-CARDINAL
 operaattoria	O
 "	O
 
@@ -75052,7 +75052,7 @@ Uskomme	O
 edelleen	O
 ,	O
 että	O
-neljä	O
+neljä	B-CARDINAL
 operaattoria	O
 on	O
 kilpaileva	O
@@ -75111,7 +75111,7 @@ konsolidaatio	O
 jätti	O
 maahan	O
 vain	O
-kolme	O
+kolme	B-CARDINAL
 operaattoria	O
 ja	O
 jonka	O
@@ -75152,7 +75152,7 @@ Otamme	O
 vastuun	O
 "	O
 
-Yksi	O
+Yksi	B-CARDINAL
 robottiautojen	O
 isoimmista	O
 avonaisista	O
@@ -75214,7 +75214,7 @@ itsenäisessä	O
 moodissa	O
 .	O
 
-Yksi	O
+Yksi	B-CARDINAL
 robottiautojen	O
 keskeisimpiä	O
 kysymyksiä	O
@@ -75293,8 +75293,8 @@ krakkeriksi	O
 Volvon	B-ORG
 avaus	O
 on	O
-yksi	O
-ensimmäisistä	O
+yksi	B-ORDINAL
+ensimmäisistä	I-ORDINAL
 lajissaan	O
 ja	O
 tärkeä	O
@@ -75335,7 +75335,7 @@ ottamisesta	O
 robottiauton	O
 kolaroidessa	O
 olisi	O
-yksi	O
+yksi	B-CARDINAL
 tapa	O
 nostaa	O
 omaa	O
@@ -75619,7 +75619,7 @@ tiedetty	O
 käyttävän	O
 liikaa	O
 rahaa	O
-yhteen	O
+yhteen	B-CARDINAL
 alueeseen	O
 ja	O
 myöhemmin	O
@@ -75700,8 +75700,8 @@ hyvin	O
 vähän	O
 ihmisiä	O
 ,	O
-noin	O
-50	O
+noin	B-CARDINAL
+50	I-CARDINAL
 .	O
 
 Heistä	O
@@ -75905,8 +75905,8 @@ yhteistyönä	O
 Se	O
 avautuu	O
 yleisölle	O
-loppiaisena	O
-2017	B-DATE
+loppiaisena	B-DATE
+2017	I-DATE
 .	O
 
 Nyt	O
@@ -76111,7 +76111,7 @@ Intiaan	B-GPE
 joka	O
 on	O
 sen	O
-toiseksi	O
+toiseksi	B-ORDINAL
 suurin	O
 markkina	O
 -	O
@@ -76309,7 +76309,7 @@ huolimatta	O
 
 Ryhmän	O
 olemassaolosta	O
-ensimmäisenä	O
+ensimmäisenä	B-ORDINAL
 kertonut	O
 Keskisuomalainen	B-ORG
 -	O
@@ -76322,7 +76322,7 @@ ilmiannon	O
 ja	O
 tietävänsä	O
 myös	O
-toisesta	O
+toisesta	B-ORDINAL
 tapauksesta	O
 .	O
 
@@ -76597,7 +76597,7 @@ Murrosta	O
 sivustol	O
 le	O
 kerrottiin	O
-ensimmäisen	O
+ensimmäisen	B-ORDINAL
 kerran	O
 noin	B-DATE
 kuukausi	I-DATE
@@ -76609,15 +76609,15 @@ mukaan	O
 murto	O
 voi	O
 koskea	O
-kymmeniä	O
-tuhansia	O
+kymmeniä	B-CARDINAL
+tuhansia	I-CARDINAL
 suomalaisia	B-NORP
 .	O
 
-Yksi	O
+Yksi	B-CARDINAL
 hylkäsi	O
 ,	O
-toinen	O
+toinen	B-ORDINAL
 tilalle	O
 :	O
 LG	B-ORG
@@ -76819,8 +76819,8 @@ ihmisiä	O
 Volkswagenin	B-ORG
 päästöhuijaus	O
 :	O
-11	O
-miljoonaa	O
+11	B-CARDINAL
+miljoonaa	I-CARDINAL
 autoa	O
 odottaa	O
 kutsua	O
@@ -76908,9 +76908,9 @@ petoksesta	O
 Autoyhtiö	O
 on	O
 valmistautunut	O
-noin	O
-11	O
-miljoonan	O
+noin	B-CARDINAL
+11	I-CARDINAL
+miljoonan	I-CARDINAL
 dieselautonsa	O
 korjauksiin	O
 ,	O
@@ -76943,7 +76943,7 @@ televisiopalvelua	O
 internetiin	O
 .	O
 
-Kaksi	O
+Kaksi	B-CARDINAL
 ranskalaista	B-NORP
 media	O
 -	O
@@ -77326,10 +77326,10 @@ netin	O
 puhdistusta	O
 ?	O
 
-15	O
-\	O
-_	O
-000	O
+15	B-CARDINAL
+\	I-CARDINAL
+_	I-CARDINAL
+000	I-CARDINAL
 pidätettiin	O
 Kiinassa	B-GPE
 
@@ -77371,11 +77371,11 @@ poliisi	O
 sanoo	O
 pidättäneensä	O
 jopa	O
-noin	O
-15	O
-\	O
-_	O
-000	O
+noin	B-CARDINAL
+15	I-CARDINAL
+\	I-CARDINAL
+_	I-CARDINAL
+000	I-CARDINAL
 ihmistä	O
 rikoksista	O
 ,	O
@@ -77394,7 +77394,7 @@ mukaan	O
 poliisi	O
 on	O
 tutkinut	O
-7400	O
+7400	B-CARDINAL
 kyberrikollisuustapausta	O
 .	O
 
@@ -77411,7 +77411,7 @@ tehty	O
 mutta	O
 se	O
 viittasi	O
-yhteen	O
+yhteen	B-CARDINAL
 tapaukseen	O
 viime	B-DATE
 joulukuulta	I-DATE
@@ -77497,11 +77497,11 @@ organisaatioiksi	O
 Tämä	O
 johti	O
 tuoreeltaan	O
-yli	O
-60	O
-\	O
-_	O
-000	O
+yli	B-CARDINAL
+60	I-CARDINAL
+\	I-CARDINAL
+_	I-CARDINAL
+000	I-CARDINAL
 käyttäjätilin	O
 poistamiseen	O
 suosituista	O
@@ -77813,7 +77813,7 @@ varsin	O
 pieni	O
 ,	O
 vain	O
-44	O
+44	B-CARDINAL
 riviä	O
 ja	O
 12	B-QUANTITY
@@ -77860,9 +77860,9 @@ Distribute	I-ORG
 -	O
 skannaussivustolla	O
 olevan	O
-0	O
-/	O
-35	O
+0	B-CARDINAL
+/	I-CARDINAL
+35	I-CARDINAL
 -	O
 tuloksen	O
 .	O
@@ -77938,7 +77938,7 @@ Register	I-ORG
 arvelee	O
 kyseessä	O
 olevan	O
-ensimmäinen	O
+ensimmäinen	B-ORDINAL
 avoimen	O
 koodin	O
 kiristysohjelma	O
@@ -77955,8 +77955,8 @@ verkossa	O
 on	O
 tarjolla	O
 myös	O
-ainakin	O
-yksi	O
+ainakin	B-CARDINAL
+yksi	I-CARDINAL
 toinen	O
 ilmainen	O
 kiristäjä	O
@@ -78104,7 +78104,7 @@ mukaan	O
 Heitä	O
 kertyi	O
 yhteensä	O
-1121	O
+1121	B-CARDINAL
 .	O
 
 Huimaan	O
@@ -78565,7 +78565,7 @@ Windows	B-PRODUCT
 10	I-PRODUCT
 :	I-PRODUCT
 n	I-PRODUCT
-kolmas	O
+kolmas	B-ORDINAL
 ja	O
 tuorein	O
 päivitys	O
@@ -78573,15 +78573,15 @@ oli	O
 kooltaan	O
 180	B-QUANTITY
 megatavua	I-QUANTITY
-32	O
--	O
-bittisenä	O
+32	B-QUANTITY
+-	I-QUANTITY
+bittisenä	I-QUANTITY
 ja	O
 360	B-QUANTITY
 megatavua	I-QUANTITY
-64	O
--	O
-bittisenä	O
+64	B-QUANTITY
+-	I-QUANTITY
+bittisenä	I-QUANTITY
 ,	O
 NDTV	B-ORG
 raportoi	O
@@ -78981,7 +78981,7 @@ dollaria	I-MONEY
 jolla	O
 voidaan	O
 toimittaa	O
-tuhansilla	O
+tuhansilla	B-CARDINAL
 pakolaisperheille	O
 vettä	O
 ,	O
@@ -79067,7 +79067,7 @@ näytä	O
 uutta	O
 uutissovellustaan	O
 ollenkaan	O
-toiseksi	O
+toiseksi	B-ORDINAL
 suurimmalla	O
 markkina	O
 -	O
