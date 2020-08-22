@@ -26481,8 +26481,6 @@ kesäkuussa	B-DATE
 maailmassa	O
 oli	O
 1	B-CARDINAL
-\	I-CARDINAL
-_	I-CARDINAL
 017	I-CARDINAL
 mvno	O
 -	O
@@ -26981,8 +26979,6 @@ S	I-PRODUCT
 maksaa	O
 noin	B-MONEY
 71	I-MONEY
-\	I-MONEY
-_	I-MONEY
 000	I-MONEY
 dollaria	I-MONEY
 .	O
@@ -27003,8 +26999,6 @@ alkamassa	O
 ,	O
 maksaa	O
 132	B-MONEY
-\	I-MONEY
-_	I-MONEY
 000	I-MONEY
 dollaria	I-MONEY
 .	O
@@ -27015,8 +27009,6 @@ on	O
 samalla	O
 varustelulla	O
 5	B-MONEY
-\	I-MONEY
-_	I-MONEY
 000	I-MONEY
 dollaria	I-MONEY
 kalliimpi	O
@@ -27160,8 +27152,6 @@ Yritys	O
 perustaa	O
 raporttinsa	O
 15	B-CARDINAL
-\	I-CARDINAL
-_	I-CARDINAL
 000	I-CARDINAL
 yrityksen	O
 ja	O
@@ -31773,8 +31763,6 @@ kolmessa	B-CARDINAL
 eri	O
 tietomurrossa	O
 619	B-CARDINAL
-\	I-CARDINAL
-_	I-CARDINAL
 000	I-CARDINAL
 kuluttajan	O
 tiedot	O
@@ -31888,8 +31876,6 @@ lattioille	O
 ,	O
 että	O
 619	B-CARDINAL
-\	I-CARDINAL
-_	I-CARDINAL
 000	I-CARDINAL
 asiakasta	O
 liukastuu	O
@@ -32537,8 +32523,6 @@ oman	O
 videopelien	O
 suoratoistopalvelun	O
 25	B-CARDINAL
-\	I-CARDINAL
-_	I-CARDINAL
 000	I-CARDINAL
 pelin	O
 ohjelmatietokannalla	O
@@ -35435,8 +35419,6 @@ signaalia	O
 .	O
 
 225	B-CARDINAL
-\	I-CARDINAL
-_	I-CARDINAL
 000	I-CARDINAL
 Apple	B-ORG
 -	O
@@ -35480,8 +35462,6 @@ lainaa	O
 
 Jopa	O
 225	B-CARDINAL
-\	I-CARDINAL
-_	I-CARDINAL
 000	I-CARDINAL
 Apple	B-ORG
 -	O
@@ -35602,8 +35582,6 @@ oli	O
 ladattu	O
 noin	B-CARDINAL
 20	I-CARDINAL
-\	I-CARDINAL
-_	I-CARDINAL
 000	I-CARDINAL
 kappaletta	O
 tiistaina	B-DATE
@@ -38075,8 +38053,6 @@ toista	O
 .	O
 
 173	B-CARDINAL
-\	I-CARDINAL
-_	I-CARDINAL
 838	I-CARDINAL
 miesten	O
 tiliä	O
@@ -38090,8 +38066,6 @@ vastaavia	O
 tilejä	O
 oli	O
 12	B-CARDINAL
-\	I-CARDINAL
-_	I-CARDINAL
 108	I-CARDINAL
 .	O
 
@@ -39719,8 +39693,6 @@ olla	O
 mikä	O
 tahansa	O
 389	B-CARDINAL
-\	I-CARDINAL
-_	I-CARDINAL
 112	I-CARDINAL
 :	I-CARDINAL
 sta	I-CARDINAL
@@ -41637,8 +41609,6 @@ Microsoft	B-ORG
 ilmoitti	O
 vähentävänsä	O
 12	B-CARDINAL
-\	I-CARDINAL
-_	I-CARDINAL
 500	I-CARDINAL
 entistä	O
 Nokian	B-ORG
@@ -41789,8 +41759,6 @@ Tietokannassa	O
 on	O
 yli	B-CARDINAL
 16	I-CARDINAL
-\	I-CARDINAL
-_	I-CARDINAL
 900	I-CARDINAL
 .	O
 fi	O
@@ -41849,8 +41817,6 @@ palvelusta	O
 kaikkiaan	O
 yli	B-CARDINAL
 20	I-CARDINAL
-\	I-CARDINAL
-_	I-CARDINAL
 000	I-CARDINAL
 .	O
 
@@ -42587,8 +42553,6 @@ näyttämiseen	O
 kerralla	O
 tarvittaisiin	O
 1	B-CARDINAL
-\	I-CARDINAL
-_	I-CARDINAL
 500	I-CARDINAL
 televisionäyttöä	O
 .	O
@@ -42618,8 +42582,6 @@ digipokkarilla	O
 pitäisi	O
 ottaa	O
 800	B-CARDINAL
-\	I-CARDINAL
-_	I-CARDINAL
 000	I-CARDINAL
 kuvaa	O
 vuoden	O
@@ -42676,11 +42638,7 @@ Charles	B-PERSON
 Simonyin	I-PERSON
 yhteensä	O
 23	B-MONEY
-\	I-MONEY
-_	I-MONEY
 000	I-MONEY
-\	I-MONEY
-_	I-MONEY
 000	I-MONEY
 euron	I-MONEY
 arvoiset	O
@@ -48569,8 +48527,6 @@ varten	O
 laitteessa	O
 on	O
 5	B-QUANTITY
-\	I-QUANTITY
-_	I-QUANTITY
 700	I-QUANTITY
 milliampeeritunnin	I-QUANTITY
 akku	O
@@ -50226,8 +50182,6 @@ testatut	O
 älypuhelimet	O
 käyttävät	O
 3	B-QUANTITY
-\	I-QUANTITY
-_	I-QUANTITY
 000	I-QUANTITY
 mAh	I-QUANTITY
 :	I-QUANTITY
@@ -52652,8 +52606,6 @@ estosta	O
 ,	O
 antoi	O
 25	B-MONEY
-\	I-MONEY
-_	I-MONEY
 000	I-MONEY
 dollarin	I-MONEY
 ensimmäisen	B-ORDINAL
@@ -52758,8 +52710,6 @@ dollaria	I-MONEY
 Kokonaistavoite	O
 on	O
 75	B-MONEY
-\	I-MONEY
-_	I-MONEY
 000	I-MONEY
 dollaria	I-MONEY
 .	O
@@ -53228,8 +53178,6 @@ avainten	O
 määrää	O
 noin	B-CARDINAL
 200	I-CARDINAL
-\	I-CARDINAL
-_	I-CARDINAL
 000	I-CARDINAL
 :	I-CARDINAL
 een	I-CARDINAL
@@ -55012,8 +54960,6 @@ palvelun	O
 uusista	O
 käyttäjistä	O
 87	B-CARDINAL
-\	I-CARDINAL
-_	I-CARDINAL
 896	I-CARDINAL
 on	O
 naisia	O
@@ -55532,8 +55478,6 @@ oli	O
 murrettu	O
 noin	B-CARDINAL
 50	I-CARDINAL
-\	I-CARDINAL
-_	I-CARDINAL
 000	I-CARDINAL
 kuljettajan	O
 henkilökohtaiset	O
@@ -56087,8 +56031,6 @@ ottaa	O
 haltuunsa	O
 peräti	O
 500	B-CARDINAL
-\	I-CARDINAL
-_	I-CARDINAL
 000	I-CARDINAL
 Facebook	B-PRODUCT
 -	O
@@ -56111,15 +56053,11 @@ ja	O
 joutua	O
 maksamaan	O
 250	B-MONEY
-\	I-MONEY
-_	I-MONEY
 000	I-MONEY
 dollaria	I-MONEY
 (	O
 noin	B-MONEY
 220	I-MONEY
-\	I-MONEY
-_	I-MONEY
 000	I-MONEY
 euroa	I-MONEY
 )	O
@@ -57540,16 +57478,12 @@ Media	I-ORG
 aikoo	O
 maksaa	O
 500	B-MONEY
-\	I-MONEY
-_	I-MONEY
 000	I-MONEY
 Kanadan	I-MONEY
 dollaria	I-MONEY
 (	O
 noin	B-MONEY
 327	I-MONEY
-\	I-MONEY
-_	I-MONEY
 000	I-MONEY
 euroa	I-MONEY
 )	O
@@ -59454,8 +59388,6 @@ tällä	O
 hetkellä	O
 noin	B-CARDINAL
 370	I-CARDINAL
-\	I-CARDINAL
-_	I-CARDINAL
 000	I-CARDINAL
 salasanaa	O
 sisältävä	O
@@ -60343,8 +60275,6 @@ löytyy	O
 muun	O
 muassa	O
 15	B-CARDINAL
-\	I-CARDINAL
-_	I-CARDINAL
 000	I-CARDINAL
 .	O
 gov	O
@@ -61316,8 +61246,6 @@ oli	O
 kertynyt	O
 yli	B-CARDINAL
 12	I-CARDINAL
-\	I-CARDINAL
-_	I-CARDINAL
 000	I-CARDINAL
 .	O
 
@@ -61358,8 +61286,6 @@ keräsi	O
 sivulle	O
 yli	B-CARDINAL
 24	I-CARDINAL
-\	I-CARDINAL
-_	I-CARDINAL
 000	I-CARDINAL
 tykkääjää	O
 .	O
@@ -62382,8 +62308,6 @@ Microsoftilta	B-ORG
 katoaa	O
 enintään	B-CARDINAL
 2	I-CARDINAL
-\	I-CARDINAL
-_	I-CARDINAL
 300	I-CARDINAL
 työpaikkaa	O
 ja	O
@@ -62500,8 +62424,6 @@ tuloksena	O
 vähennetään	O
 enintään	B-CARDINAL
 2	I-CARDINAL
-\	I-CARDINAL
-_	I-CARDINAL
 300	I-CARDINAL
 työpaikkaa	O
 Suomesta	B-GPE
@@ -63331,8 +63253,6 @@ Suomessa	B-GPE
 Yhtiö	O
 vähentää	O
 2	B-CARDINAL
-\	I-CARDINAL
-_	I-CARDINAL
 300	I-CARDINAL
 työpaikkaa	O
 ,	O
@@ -63407,8 +63327,6 @@ aikoo	O
 vähentää	O
 enintään	B-CARDINAL
 7	I-CARDINAL
-\	I-CARDINAL
-_	I-CARDINAL
 800	I-CARDINAL
 henkilöä	O
 pääasiassa	O
@@ -64084,8 +64002,6 @@ kuukauden	I-DATE
 aikana	O
 yli	B-CARDINAL
 11	I-CARDINAL
-\	I-CARDINAL
-_	I-CARDINAL
 000	I-CARDINAL
 naista	O
 kautta	O
@@ -65636,8 +65552,6 @@ vahvisti	O
 elokuussa	B-DATE
 vähentävänsä	O
 2	B-CARDINAL
-\	I-CARDINAL
-_	I-CARDINAL
 300	I-CARDINAL
 työpaikkaa	O
 yt	O
@@ -65769,8 +65683,6 @@ TE	O
 toimistoille	O
 esitetään	O
 400	B-MONEY
-\	I-MONEY
-_	I-MONEY
 000	I-MONEY
 euroa	I-MONEY
 seitsemän	B-CARDINAL
@@ -65780,8 +65692,6 @@ ely	O
 -	O
 keskuksille	O
 130	B-MONEY
-\	I-MONEY
-_	I-MONEY
 000	I-MONEY
 euroa	I-MONEY
 kahden	B-CARDINAL
@@ -67073,8 +66983,6 @@ piirissä	O
 on	O
 yli	B-CARDINAL
 12	I-CARDINAL
-\	I-CARDINAL
-_	I-CARDINAL
 000	I-CARDINAL
 nykyistä	O
 ja	O
@@ -67875,8 +67783,6 @@ hinta	O
 on	O
 enimmillään	O
 20	B-MONEY
-\	I-MONEY
-_	I-MONEY
 000	I-MONEY
 dollaria	I-MONEY
 84	B-QUANTITY
@@ -68268,8 +68174,6 @@ yhteydessä	O
 Agentti	O
 siirsi	O
 800	B-MONEY
-\	I-MONEY
-_	I-MONEY
 000	I-MONEY
 dollarin	I-MONEY
 edestä	O
@@ -71499,8 +71403,6 @@ Watch	I-PRODUCT
 ja	O
 yli	B-MONEY
 10	I-MONEY
-\	I-MONEY
-_	I-MONEY
 000	I-MONEY
 dollaria	I-MONEY
 maksava	O
@@ -74051,8 +73953,6 @@ on	O
 ladattu	O
 noin	B-CARDINAL
 250	I-CARDINAL
-\	I-CARDINAL
-_	I-CARDINAL
 00	I-CARDINAL
 kertaa	O
 ensimmäisen	B-DATE
@@ -75754,8 +75654,6 @@ Pong	B-PRODUCT
 ?	O
 
 50	B-MONEY
-\	I-MONEY
-_	I-MONEY
 000	I-MONEY
 euroa	I-MONEY
 on	O
@@ -75803,8 +75701,6 @@ on	O
 saavuttanut	O
 minimitavoitteensa	O
 50	B-MONEY
-\	I-MONEY
-_	I-MONEY
 000	I-MONEY
 euroa	I-MONEY
 joukkorahoituspalvelu	O
@@ -75912,8 +75808,6 @@ loppiaisena	B-DATE
 Nyt	O
 tavoitellaan	O
 100	B-MONEY
-\	I-MONEY
-_	I-MONEY
 000	I-MONEY
 euroa	I-MONEY
 ,	O
@@ -75930,8 +75824,6 @@ Jos	O
 kasaan	O
 saadaan	O
 60	B-MONEY
-\	I-MONEY
-_	I-MONEY
 000	I-MONEY
 euroa	I-MONEY
 ,	O
@@ -75968,8 +75860,6 @@ ruotsinlaivalla	O
 
 Täysi	O
 100	B-MONEY
-\	I-MONEY
-_	I-MONEY
 000	I-MONEY
 euroa	I-MONEY
 takaa	O
@@ -77187,8 +77077,6 @@ Holdings	I-ORG
 -	O
 yritystä	O
 750	B-MONEY
-\	I-MONEY
-_	I-MONEY
 000	I-MONEY
 dollaria	I-MONEY
 julkisten	O
@@ -77327,8 +77215,6 @@ puhdistusta	O
 ?	O
 
 15	B-CARDINAL
-\	I-CARDINAL
-_	I-CARDINAL
 000	I-CARDINAL
 pidätettiin	O
 Kiinassa	B-GPE
@@ -77373,8 +77259,6 @@ pidättäneensä	O
 jopa	O
 noin	B-CARDINAL
 15	I-CARDINAL
-\	I-CARDINAL
-_	I-CARDINAL
 000	I-CARDINAL
 ihmistä	O
 rikoksista	O
@@ -77499,8 +77383,6 @@ johti	O
 tuoreeltaan	O
 yli	B-CARDINAL
 60	I-CARDINAL
-\	I-CARDINAL
-_	I-CARDINAL
 000	I-CARDINAL
 käyttäjätilin	O
 poistamiseen	O
@@ -78036,8 +77918,6 @@ Rahaa	O
 kertyi	O
 lähes	B-MONEY
 86	I-MONEY
-\	I-MONEY
-_	I-MONEY
 000	I-MONEY
 euroa	I-MONEY
 .	O
@@ -78046,8 +77926,6 @@ Jo	O
 aiemmin	O
 varmistunut	O
 50	B-MONEY
-\	I-MONEY
-_	I-MONEY
 000	I-MONEY
 euron	I-MONEY
 minimitavoite	O
@@ -78109,8 +77987,6 @@ yhteensä	O
 
 Huimaan	O
 100	B-MONEY
-\	I-MONEY
-_	I-MONEY
 000	I-MONEY
 euroon	I-MONEY
 ei	O

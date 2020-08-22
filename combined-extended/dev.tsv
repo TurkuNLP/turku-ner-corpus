@@ -23575,8 +23575,6 @@ Amerikassa	I-LOC
 kyse	O
 on	O
 37	B-CARDINAL
-\	I-CARDINAL
-_	I-CARDINAL
 400	I-CARDINAL
 akusta	O
 .	O
@@ -24672,16 +24670,12 @@ puoliskolla	I-DATE
 17	B-CARDINAL
 maasta	O
 21	B-CARDINAL
-\	I-CARDINAL
-_	I-CARDINAL
 400	I-CARDINAL
 tiedonluovutuspyyntöä	O
 ,	O
 jotka	O
 koskivat	O
 32	B-CARDINAL
-\	I-CARDINAL
-_	I-CARDINAL
 500	I-CARDINAL
 tiliä	O
 .	O
@@ -24731,13 +24725,9 @@ kappaletta	O
 jotka	O
 koskivat	O
 30	B-CARDINAL
-\	I-CARDINAL
-_	I-CARDINAL
 000	I-CARDINAL
 –	I-CARDINAL
 33	I-CARDINAL
-\	I-CARDINAL
-_	I-CARDINAL
 000	I-CARDINAL
 tiliä	O
 .	O
@@ -24752,16 +24742,12 @@ Yahoo	B-ORG
 sai	O
 viranomaisilta	O
 29	B-CARDINAL
-\	I-CARDINAL
-_	I-CARDINAL
 700	I-CARDINAL
 tietopyyntöä	O
 ,	O
 jotka	O
 koskivat	O
 62	B-CARDINAL
-\	I-CARDINAL
-_	I-CARDINAL
 800	I-CARDINAL
 tiliä	O
 .	O
@@ -24795,13 +24781,9 @@ viranomaiset	O
 esittivät	O
 sille	O
 25	B-CARDINAL
-\	I-CARDINAL
-_	I-CARDINAL
 900	I-CARDINAL
 tietopyyntöä	O
 42	B-CARDINAL
-\	I-CARDINAL
-_	I-CARDINAL
 500	I-CARDINAL
 tilistä	O
 .	O
@@ -24810,13 +24792,9 @@ Loppuvuonna	B-DATE
 pyyntöjä	O
 tuli	O
 27	B-CARDINAL
-\	I-CARDINAL
-_	I-CARDINAL
 500	I-CARDINAL
 yhteensä	O
 42	B-CARDINAL
-\	I-CARDINAL
-_	I-CARDINAL
 600	I-CARDINAL
 tilistä	O
 .	O
@@ -26977,8 +26955,6 @@ vaatii	O
 vaatii	O
 korvauksia	O
 79	B-MONEY
-\	I-MONEY
-_	I-MONEY
 000	I-MONEY
 euroa	I-MONEY
 tallenteelta	O
@@ -28505,8 +28481,6 @@ suomeksi	B-LANGUAGE
 tviittaa	O
 noin	B-CARDINAL
 40	I-CARDINAL
-\	I-CARDINAL
-_	I-CARDINAL
 000	I-CARDINAL
 Twitter	B-PRODUCT
 -	O
@@ -28547,8 +28521,6 @@ lukujen	O
 mukaan	O
 kaikkiaan	O
 200	B-CARDINAL
-\	I-CARDINAL
-_	I-CARDINAL
 146	I-CARDINAL
 eri	O
 Twitter	B-PRODUCT
@@ -28576,8 +28548,6 @@ noin	O
 tällä	O
 hetkellä	O
 40	B-CARDINAL
-\	I-CARDINAL
-_	I-CARDINAL
 000	I-CARDINAL
 .	O
 
@@ -28601,8 +28571,6 @@ toukokuussa	I-DATE
 Twitterissä	B-PRODUCT
 oli	O
 64	B-CARDINAL
-\	I-CARDINAL
-_	I-CARDINAL
 000	I-CARDINAL
 rekisteröitynyttä	O
 suomalaiskäyttäjää	O
@@ -29156,8 +29124,6 @@ oli	O
 saanut	O
 yli	B-CARDINAL
 50	I-CARDINAL
-\	I-CARDINAL
-_	I-CARDINAL
 000	I-CARDINAL
 tukijaa	O
 .	O
@@ -29811,8 +29777,6 @@ Brownin	B-PERSON
 vaalikampanjoita	O
 yli	B-MONEY
 10	I-MONEY
-\	I-MONEY
-_	I-MONEY
 000	I-MONEY
 dollarilla	I-MONEY
 .	O
@@ -30546,8 +30510,6 @@ löytäneensä	O
 hänen	O
 kotoaan	O
 35	B-MONEY
-\	I-MONEY
-_	I-MONEY
 000	I-MONEY
 dollaria	I-MONEY
 käteistä	O
@@ -31184,8 +31146,6 @@ mukaan	O
 .	O
 
 200	B-CARDINAL
-\	I-CARDINAL
-_	I-CARDINAL
 000	I-CARDINAL
 pyyntöä	O
 
@@ -31194,8 +31154,6 @@ on	O
 saanut	O
 yli	B-CARDINAL
 200	I-CARDINAL
-\	I-CARDINAL
-_	I-CARDINAL
 000	I-CARDINAL
 pyyntöä	O
 hakutulosten	O
@@ -31216,8 +31174,6 @@ Pyynnöt	O
 koskevat	O
 yli	B-CARDINAL
 700	I-CARDINAL
-\	I-CARDINAL
-_	I-CARDINAL
 000	I-CARDINAL
 verkko	O
 -	O
@@ -34336,8 +34292,6 @@ on	O
 saanut	O
 yli	B-CARDINAL
 200	I-CARDINAL
-\	I-CARDINAL
-_	I-CARDINAL
 000	I-CARDINAL
 tykkäystä	O
 ,	O
@@ -35272,8 +35226,6 @@ vuodelle	B-DATE
 
 Jopa	O
 50	B-CARDINAL
-\	I-CARDINAL
-_	I-CARDINAL
 000	I-CARDINAL
 Facebookin	B-PRODUCT
 jäsentä	O
@@ -35676,8 +35628,6 @@ Storeen	I-PRODUCT
 
 Yli	B-CARDINAL
 10	I-CARDINAL
-\	I-CARDINAL
-_	I-CARDINAL
 000	I-CARDINAL
 MassRootsin	B-ORG
 käyttäjää	O
@@ -35937,8 +35887,6 @@ puolelle	O
 
 Jopa	O
 100	B-CARDINAL
-\	I-CARDINAL
-_	I-CARDINAL
 000	I-CARDINAL
 dvd	O
 -	O
